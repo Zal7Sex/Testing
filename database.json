@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14642 pesan dari 10 chat",
+        "time": "01/04 21:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775050352355
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB OPTES EXO X XEMET (25 pesan): ~ Kasilas",
         "content": "💟 Stiker",
         "time": "01/04 21:32",
@@ -4011,14 +4019,6 @@
         "time": "01/04 21:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1775049503512
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (14057 pesan): ~ agil opet🖕",
-        "content": "Gw baru comeback lagi",
-        "time": "01/04 21:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775049503323
       }
     ],
     "galleryPhotos": [],
