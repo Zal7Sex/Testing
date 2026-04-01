@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12837 pesan): ~ Fegg",
+        "content": "bau susu",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043428421
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎15068 pesan dari 9 chat",
         "time": "01/04 19:37",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042857673
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12655 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 19:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042857540
       }
     ],
     "galleryPhotos": [],
