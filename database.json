@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043446631,
+    "lastSeen": 1775043449633,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15074 pesan dari 9 chat",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043450227
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12843 pesan): ~ s",
+        "content": ".bratvid",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043450048
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042886204
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12665 pesan): ~ Fegg",
-        "content": "ORANG ORANG KO CEPET BANGET😭✌🏻",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042886077
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14918 pesan dari 9 chat",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042885091
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775043447823,
+    "lastSeen": 1775043451551,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12844 pesan): ~ Bot",
+        "content": "❌ Contoh: .bratvid Hello World",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043451624
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15074 pesan dari 9 chat",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043450269
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12843 pesan): ~ s",
+        "content": ".bratvid",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043450019
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8040,30 +8064,6 @@
         "time": "01/04 19:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042887524
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14919 pesan dari 9 chat",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042886216
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12665 pesan): ~ Fegg",
-        "content": "ORANG ORANG KO CEPET BANGET😭✌🏻",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042886190
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14918 pesan dari 9 chat",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042885074
       }
     ],
     "galleryPhotos": [],
