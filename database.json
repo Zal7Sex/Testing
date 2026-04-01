@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775047047140,
+    "lastSeen": 1775047050163,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13795 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 20:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775047050664
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎15963 pesan dari 11 chat",
         "time": "01/04 20:37",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046468376
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13655 pesan): ~ Fegg",
-        "content": "Jenis pesan tidak diketahui",
-        "time": "01/04 20:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046468193
       }
     ],
     "galleryPhotos": [],
