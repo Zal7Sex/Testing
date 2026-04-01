@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (129 pesan): ~ Dapa",
+        "content": "💟 Stiker",
+        "time": "01/04 22:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775052204238
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎472 pesan dari 9 chat",
         "time": "01/04 22:03",
@@ -8056,14 +8064,6 @@
         "time": "01/04 21:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775051609988
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Downloading 1 videos",
-        "content": "from Fladooi",
-        "time": "01/04 21:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775051609898
       }
     ],
     "galleryPhotos": [],
