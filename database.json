@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044779791,
+    "lastSeen": 1775044782879,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15518 pesan dari 10 chat",
+        "time": "01/04 19:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044783738
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:51",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044266725
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 19:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044266056
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13257 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: bisikan lembut\n\nSelamat kepada @⁨~🕷️⁩! 🎉\n🎁 Kamu mendapatkan hadiah +4 Limit Bot!",
+        "time": "01/04 19:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044783719
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:51",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044266018
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (246 pesan): ~ FIYY",
-        "content": "@⁨+62 815-4550-1483⁩  kapan bg selesai nya?",
-        "time": "01/04 19:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044265859
       }
     ],
     "galleryPhotos": [],
