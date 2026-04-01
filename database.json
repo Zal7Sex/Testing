@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046344512,
+    "lastSeen": 1775046347501,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (94 pesan): ~ Dark Chocolate 🍫👅",
+        "content": "📊 Tes 22 500p pp 1,5k",
+        "time": "01/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046349311
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15806 pesan dari 10 chat",
+        "time": "01/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046346657
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13631 pesan): ~ Bot",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045579630
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13485 pesan): ~ Bot",
-        "content": "𐔈⃘ ֹ ׅ 🍓 ֹ Cek Limit ֹ ׅ ୫\n۫ ╰╼ ׅ ֹ𔖰᷼𔖮 INFO LIMIT\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Total Harian : 39\n┆✿᪲ ׄ𖹭₊ Terpakai : 2\n┆✿᪲ ׄ𖹭₊ Sisa : 37\n┆✿᪲ ׄ𖹭₊ Claim : Sudah\n╰─╼𔕬─┈───┈───┈\n\n Catatan:\n┆✿᪲ ׄ𖹭₊ • Limit reset jam 00:00 WIB\n┆✿᪲ ׄ𖹭₊ • Gunakan .claim untuk bonus 5 limit\n┆✿᪲ ׄ𖹭₊ • Upgrade ke premium dengan .prem\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 20:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045578531
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15691 pesan dari 10 chat",
-        "time": "01/04 20:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045576380
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775046346281,
+    "lastSeen": 1775046349287,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15806 pesan dari 10 chat",
+        "time": "01/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046346687
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13631 pesan): ~ Bot",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045578449
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13484 pesan): ~ celynn?",
-        "content": ".ceklimit",
-        "time": "01/04 20:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045576503
       }
     ],
     "galleryPhotos": [],
