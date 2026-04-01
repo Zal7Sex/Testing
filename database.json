@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042068794,
+    "lastSeen": 1775042071704,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12421 pesan): ~ 🕷️",
+        "content": ".brathd cinta epep selamanya",
+        "time": "01/04 19:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042073097
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12420 pesan): ~ ⋆ ˚｡⋆୨୧˚ airis ˚୨୧⋆｡˚ ⋆",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041310674
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 19:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041310626
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775042066775,
+    "lastSeen": 1775042072713,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
