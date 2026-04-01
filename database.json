@@ -19,7 +19,24 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14388 pesan dari 11 chat",
+        "time": "01/04 18:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039566807
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12039 pesan): ~ syafa karamoy",
+        "content": "hlo",
+        "time": "01/04 18:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039566650
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
