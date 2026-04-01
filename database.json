@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13849 pesan): ~ syafa karamoy",
+        "content": "sabar guiccc",
+        "time": "01/04 20:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048011303
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎14377 pesan dari 10 chat",
         "time": "01/04 20:53",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046683469
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13714 pesan): ~ Bot",
-        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
-        "time": "01/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046683408
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775048007435,
+    "lastSeen": 1775048010431,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
