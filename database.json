@@ -4,7 +4,7 @@
     "deviceName": "HP-FRBUNZZX-99AB",
     "ownerUsername": "FRBUNZZX",
     "token": "028c6e9db5fab9deedea6acb4daf7b7c",
-    "lastSeen": 1775027260250,
+    "lastSeen": 1775027275076,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T06:49:28.816Z",
@@ -28,7 +28,191 @@
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "timeMin": 354,
+          "lastUsed": 1774977493337
+        },
+        {
+          "packageName": "com.zhiliaoapp.musically.go",
+          "appName": "TikTok Lite",
+          "timeMin": 308,
+          "lastUsed": 1774987909290
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 132,
+          "lastUsed": 1774975052732
+        },
+        {
+          "packageName": "com.zhiliaoapp.musically.go",
+          "appName": "TikTok Lite",
+          "timeMin": 124,
+          "lastUsed": 1775022241075
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "timeMin": 91,
+          "lastUsed": 1774977261268
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "timeMin": 89,
+          "lastUsed": 1774977504179
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "timeMin": 73,
+          "lastUsed": 1775026340065
+        },
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "timeMin": 55,
+          "lastUsed": 1775026996094
+        },
+        {
+          "packageName": "com.transsion.XOSLauncher",
+          "appName": "Peluncur XOS",
+          "timeMin": 33,
+          "lastUsed": 1774977514425
+        },
+        {
+          "packageName": "ru.zdevs.zarchiver",
+          "appName": "ZArchiver",
+          "timeMin": 25,
+          "lastUsed": 1774972861526
+        },
+        {
+          "packageName": "com.pegasusx.revenge",
+          "appName": "Pegasus-X",
+          "timeMin": 20,
+          "lastUsed": 1774977118451
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 18,
+          "lastUsed": 1775017769962
+        },
+        {
+          "packageName": "com.transsion.XOSLauncher",
+          "appName": "Peluncur XOS",
+          "timeMin": 15,
+          "lastUsed": 1775027214078
+        },
+        {
+          "packageName": "com.dark.darkverse",
+          "appName": "Trapenden V3.1",
+          "timeMin": 13,
+          "lastUsed": 1774976597082
+        },
+        {
+          "packageName": "bin.mt.plus",
+          "appName": "Manajer MT",
+          "timeMin": 10,
+          "lastUsed": 1774965612255
+        },
+        {
+          "packageName": "id.dana",
+          "appName": "DANA",
+          "timeMin": 7,
+          "lastUsed": 1774977414403
+        },
+        {
+          "packageName": "ru.zdevs.zarchiver",
+          "appName": "ZArchiver",
+          "timeMin": 7,
+          "lastUsed": 1775026009570
+        },
+        {
+          "packageName": "com.google.android.documentsui",
+          "appName": "File",
+          "timeMin": 7,
+          "lastUsed": 1774972848394
+        },
+        {
+          "packageName": "com.pegasusx.revenge",
+          "appName": "Pegasus-X",
+          "timeMin": 6,
+          "lastUsed": 1775027238801
+        },
+        {
+          "packageName": "com.dark.darkverse",
+          "appName": "Trapenden V3.1",
+          "timeMin": 6,
+          "lastUsed": 1775022172526
+        },
+        {
+          "packageName": "pro.sketchware",
+          "appName": "Sketchware Pro",
+          "timeMin": 5,
+          "lastUsed": 1774965833882
+        },
+        {
+          "packageName": "com.gallery20",
+          "appName": "Galeri AI",
+          "timeMin": 5,
+          "lastUsed": 1774971760833
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "timeMin": 4,
+          "lastUsed": 1774977510568
+        },
+        {
+          "packageName": "bin.mt.plus",
+          "appName": "Manajer MT",
+          "timeMin": 4,
+          "lastUsed": 1775003856105
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "timeMin": 4,
+          "lastUsed": 1774974081238
+        },
+        {
+          "packageName": "id.dana",
+          "appName": "DANA",
+          "timeMin": 3,
+          "lastUsed": 1775026386394
+        },
+        {
+          "packageName": "com.dubox.drive",
+          "appName": "TeraBox",
+          "timeMin": 3,
+          "lastUsed": 1774928319905
+        },
+        {
+          "packageName": "com.xui.xhide",
+          "appName": "XHide",
+          "timeMin": 3,
+          "lastUsed": 1775027135611
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "timeMin": 3,
+          "lastUsed": 1775012202035
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Installer paket",
+          "timeMin": 2,
+          "lastUsed": 1774975056445
+        }
+      ],
+      "receivedAt": 1775027260643
+    },
     "appList": {
       "apps": [
         {
@@ -1910,7 +2094,7 @@
           "isLaunchable": false
         }
       ],
-      "receivedAt": 1775027260324
+      "receivedAt": 1775027260350
     }
   }
 ]
