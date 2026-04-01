@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043392678,
+    "lastSeen": 1775043395162,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775043391581,
+    "lastSeen": 1775043393855,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12823 pesan): ~ r",
+        "content": "gejala muntaber",
+        "time": "01/04 19:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043395396
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042828962
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14898 pesan dari 9 chat",
-        "time": "01/04 19:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042828560
       }
     ],
     "galleryPhotos": [],
