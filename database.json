@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042801282,
+    "lastSeen": 1775042804298,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14896 pesan dari 9 chat",
+        "time": "01/04 19:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042804375
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12634 pesan): ~ Dapa",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "01/04 19:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042804350
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042273909
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12466 pesan): ~ 🕷️",
-        "content": "💟 Stiker",
-        "time": "01/04 19:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042272770
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [6] (96 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042272732
       }
     ],
     "galleryPhotos": [],
