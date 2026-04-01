@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎16059 pesan dari 12 chat",
+        "time": "01/04 21:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775049115269
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (103 pesan): ~ Dark Chocolate 🍫👅",
         "content": "G main",
         "time": "01/04 21:11",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775048018280
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14380 pesan dari 10 chat",
-        "time": "01/04 20:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775048014191
       }
     ],
     "galleryPhotos": [],
