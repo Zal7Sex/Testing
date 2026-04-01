@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1334 pesan dari 14 chat",
+        "time": "01/04 23:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056986504
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (955 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
         "content": ".brat good morning meow 😘😻",
         "time": "01/04 23:23",
@@ -4011,14 +4019,6 @@
         "time": "01/04 23:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1775056207297
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (50 pesan): ~ ?",
-        "content": "optes pm",
-        "time": "01/04 23:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056207046
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (956 pesan): ~ joo",
+        "content": "makannya aku bantu",
+        "time": "01/04 23:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056989330
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (955 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1775056207572
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB OPTES EXO X XEMET (27 pesan): ~ hi cadangan",
-        "content": "📷 Next pur tips tips",
-        "time": "01/04 23:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056207139
       }
     ],
     "galleryPhotos": [],
