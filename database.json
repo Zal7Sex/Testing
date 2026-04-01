@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775041138283,
+    "lastSeen": 1775041141171,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14606 pesan dari 11 chat",
+        "time": "01/04 18:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041139318
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12269 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 18:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041139255
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 18:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040571575
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14484 pesan dari 11 chat",
-        "time": "01/04 18:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040571053
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [6] (92 pesan): ~ Langz own GB 7",
-        "content": "cariin 22 9.5-15 no evmetps fpt android only no makro",
-        "time": "01/04 18:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040571002
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775041135963,
+    "lastSeen": 1775041141935,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12270 pesan): ~ iyanz empty",
+        "content": "Lopyutu🗿",
+        "time": "01/04 18:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041142588
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14606 pesan dari 11 chat",
+        "time": "01/04 18:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041139368
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12269 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 18:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041139275
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8040,30 +8064,6 @@
         "time": "01/04 18:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040571561
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14485 pesan dari 11 chat",
-        "time": "01/04 18:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040571552
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14484 pesan dari 11 chat",
-        "time": "01/04 18:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040571089
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [6] (92 pesan): ~ Langz own GB 7",
-        "content": "cariin 22 9.5-15 no evmetps fpt android only no makro",
-        "time": "01/04 18:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040571040
       }
     ],
     "galleryPhotos": [],
