@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1592 pesan dari 14 chat",
+        "time": "02/04 00:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775062306587
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (259 pesan): ~ Kyy X Nasgor",
         "content": "pake otax jir😹",
         "time": "02/04 00:50",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:52",
         "pkg": "com.whatsapp",
         "receivedAt": 1775058721888
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1542 pesan dari 14 chat",
-        "time": "01/04 23:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775058721766
       }
     ],
     "galleryPhotos": [],
