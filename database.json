@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044891000,
+    "lastSeen": 1775044897054,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "01/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044898500
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (91 pesan): ~ WINZX [3648]",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044391055
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15390 pesan dari 10 chat",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044387689
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775044889374,
+    "lastSeen": 1775044898376,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "01/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044898488
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (91 pesan): ~ WINZX [3648]",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044391075
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13124 pesan): ~ Bot",
-        "content": "✅ Jawaban Benar! \nJawabannya adalah: kadang kita perlu belajar dari kesalahan\n\nSelamat kepada @⁨~Fegg⁩! 🎉\n🎁 Kamu mendapatkan hadiah +1 Limit Bot!",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044387719
       }
     ],
     "galleryPhotos": [],
