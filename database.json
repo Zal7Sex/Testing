@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (754 pesan): ~ joo",
+        "content": "prem 3 hari",
+        "time": "01/04 23:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055935404
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1130 pesan dari 13 chat",
         "time": "01/04 23:05",
@@ -8056,14 +8064,6 @@
         "time": "01/04 22:50",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055034890
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎989 pesan dari 13 chat",
-        "time": "01/04 22:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055034808
       }
     ],
     "galleryPhotos": [],
