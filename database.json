@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045215264,
+    "lastSeen": 1775045218343,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15604 pesan dari 10 chat",
+        "time": "01/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045219781
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (248 pesan): ~ DEWANGGA",
+        "content": "Cuy",
+        "time": "01/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045219577
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (247 pesan): ~ DEWANGGA",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044649176
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15484 pesan dari 10 chat",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044647612
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13221 pesan): ~ r",
-        "content": "menarik tunai",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044647580
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (248 pesan): ~ DEWANGGA",
+        "content": "Cuy",
+        "time": "01/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045219767
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (247 pesan): ~ DEWANGGA",
+        "content": "Dah nemu cut",
+        "time": "01/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045217194
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 19:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044647599
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13221 pesan): ~ r",
-        "content": "menarik tunai",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044647484
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044646583
       }
     ],
     "galleryPhotos": [],
