@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775047912292,
+    "lastSeen": 1775047918232,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775047911223,
+    "lastSeen": 1775047917272,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14366 pesan dari 10 chat",
+        "time": "01/04 20:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775047913233
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13837 pesan): ~ cwekbenji",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046647837
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13702 pesan): ~ Bot",
-        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : ailopyu\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 20:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046646614
       }
     ],
     "galleryPhotos": [],
