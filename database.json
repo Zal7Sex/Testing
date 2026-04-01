@@ -4,16 +4,8 @@
     "deviceName": "HP-FRBUNZZX-99AB",
     "ownerUsername": "FRBUNZZX",
     "token": "028c6e9db5fab9deedea6acb4daf7b7c",
-    "lastSeen": 1775027215217,
-    "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "off"
-        },
-        "sentAt": 1775027215435
-      }
-    ],
+    "lastSeen": 1775027245045,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T06:49:28.816Z",
     "deviceInfo": {
