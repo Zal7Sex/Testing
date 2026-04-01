@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (848 pesan): ~ joo",
+        "content": ".addbadword jembud",
+        "time": "01/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056409271
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1225 pesan dari 14 chat",
         "time": "01/04 23:13",
@@ -8056,14 +8064,6 @@
         "time": "01/04 22:58",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055493565
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1082 pesan dari 13 chat",
-        "time": "01/04 22:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055488247
       }
     ],
     "galleryPhotos": [],
