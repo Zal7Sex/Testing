@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (897 pesan): ~ nok ngmbce ank ask",
+        "content": ". brat kamu belum bobo?",
+        "time": "01/04 23:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056556204
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1274 pesan dari 14 chat",
         "time": "01/04 23:15",
@@ -4011,14 +4019,6 @@
         "time": "01/04 23:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055751441
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (739 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 23:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055661603
       }
     ],
     "galleryPhotos": [],
