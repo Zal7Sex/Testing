@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1162 pesan): ~ Bot",
+        "content": "⏰ Waktu habis! Jawaban yang benar adalah petualang sejati",
+        "time": "02/04 05:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080617588
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1633 pesan dari 14 chat",
+        "time": "02/04 05:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080617540
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1161 pesan): ~ Bot",
         "content": "📷 🎮 TEBAKGAMBAR\n\nGambar peta, wayang, senja, dan tai.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
         "time": "02/04 05:56",
@@ -4003,22 +4019,6 @@
         "time": "02/04 00:51",
         "pkg": "com.whatsapp",
         "receivedAt": 1775062321081
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (22 pesan): ~ Zal7Sex",
-        "content": "lah awokawokawok ampas 😂",
-        "time": "02/04 00:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062320803
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (1148 pesan): ~ Bot",
-        "content": "📷 Wednesday, 01 April 2026 23:22:11 WIB👋 Selamat Datang di Grup main botwiee bersama!\n217\n\nKetik .menu atau .list Untuk menampilkan menu dan jualan zy bot🤞\n\nHalo @⁨+62 882-2110-6887⁩! 🎉\nGrup ini adalah wadah resmi untuk pengguna [bot]. Di sini kamu bisa menggunakan fitur bot 🤖, melaporkan kendala ⚙️, atau sekadar diskusi santai seputar layanan digital kami 💬.\n\n---\n\n📜 Peraturan Grup (Wajib Baca):\n\n🚫 No Spam\nDilarang melakukan spam perintah bot beruntun yang bisa menyebabkan bot delay atau crash.\n\n🤝 Sopan Santun\nGunakan bahasa yang baik dan sopan. Dilarang menghina sesama member atau admin.\n\n📢 No Iklan Luar\nDilarang promosi grup, channel, atau store lain tanpa izin admin.\n\n⚠️ Konten Positif\nDilarang mengirim konten berbau SARA, politik radikal, atau pornografi.\n\n🔒 Privasi\nDilarang menyebarkan data pribadi orang lain (doxxing).\n\n---\n\n🛠️ Informasi Bot\n\n📌 Ketik .menu untuk melihat semua fitur yang tersedia.\n👑 Ketik .owner jika ingin menanyakan seputar sewa bot atau produk digital lainnya di admin.\n\n-",
-        "time": "02/04 00:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062320168
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1162 pesan): ~ Bot",
+        "content": "⏰ Waktu habis! Jawaban yang benar adalah petualang sejati",
+        "time": "02/04 05:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080617564
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "02/04 00:51",
         "pkg": "com.whatsapp",
         "receivedAt": 1775062321131
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (22 pesan): ~ Zal7Sex",
-        "content": "lah awokawokawok ampas 😂",
-        "time": "02/04 00:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062320631
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775080615646,
+    "lastSeen": 1775080621652,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
