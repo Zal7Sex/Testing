@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1037 pesan dari 13 chat",
+        "time": "01/04 22:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055181555
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (660 pesan): ~ syafa karamoy",
         "content": "makasi loh ia uda kgen",
         "time": "01/04 22:52",
@@ -4011,14 +4019,6 @@
         "time": "01/04 22:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1775054295922
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Ramdhan resing: ??",
-        "content": "iyo",
-        "time": "01/04 22:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775054295878
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1037 pesan dari 13 chat",
+        "time": "01/04 22:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055181565
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (661 pesan): ~ syafa karamoy",
+        "content": "💟 Stiker",
+        "time": "01/04 22:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055181543
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1036 pesan dari 13 chat",
+        "time": "01/04 22:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055179050
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (660 pesan): ~ syafa karamoy",
@@ -8040,30 +8064,6 @@
         "time": "01/04 22:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1775054295904
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Ramdhan resing: ??",
-        "content": "iyo",
-        "time": "01/04 22:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775054295892
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 815-4550-1483",
-        "content": "bisa di jual lagi",
-        "time": "01/04 22:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775054295824
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎879 pesan dari 12 chat",
-        "time": "01/04 22:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775054293920
       }
     ],
     "galleryPhotos": [],
