@@ -8315,7 +8315,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775065919518,
+    "lastSeen": 1775065937602,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
@@ -16624,6 +16624,2735 @@
       "apps": [],
       "receivedAt": 1775065898621
     },
-    "appList": null
+    "appList": {
+      "apps": [
+        {
+          "packageName": "com.coloros.backuprestore",
+          "appName": "Clone Phone",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.networkstack.tethering",
+          "appName": "Tethering",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.healthservice",
+          "appName": "healthservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.subscriptions.red",
+          "appName": "Google One",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.cts.priv.ctsshim",
+          "appName": "com.android.cts.priv.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.youtube",
+          "appName": "YouTube",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.qcolor",
+          "appName": "QColor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.corner",
+          "appName": "Potongan sudut",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.smartengine",
+          "appName": "SmartEngine",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.services",
+          "appName": "Android Services Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.onekeylockscreen",
+          "appName": "Kunci Layar",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.improvetouch.service",
+          "appName": "com.qualcomm.qti.improvetouch.service.ImproveTouchApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.double",
+          "appName": "Potongan ganda",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.agoda.mobile.consumer",
+          "appName": "Agoda",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.telephony",
+          "appName": "Penyimpanan panggilan tlp/SMS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.securitykeyboard",
+          "appName": "Papan Ketik Aman",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.dynsystem",
+          "appName": "Dynamic System Updates",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.duasuryadinamika.trippertravel",
+          "appName": "Tripper",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.crashbox",
+          "appName": "CrashBox",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.camerasideas.instashot",
+          "appName": "InShot",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "sinet.startup.inDriver",
+          "appName": "inDriver",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.googlequicksearchbox",
+          "appName": "Google",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.heytap.pictorial",
+          "appName": "Majalah Layar Kunci",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice",
+          "appName": "Cell Broadcast Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.smartsidebar",
+          "appName": "Baris Samping Cerdas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.calendar",
+          "appName": "Penyimpanan kalender",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.googleassistant",
+          "appName": "Asisten",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.media",
+          "appName": "com.android.providers.media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.karaoke",
+          "appName": "Pemantauan dalam telinga",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.service.colorservice",
+          "appName": "com.qti.service.colorservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.onetimeinitializer",
+          "appName": "Google One Time Init",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.shared",
+          "appName": "Android Shared Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.cloud",
+          "appName": "HeyTap Cloud",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_wide_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.music",
+          "appName": "Musik",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.simcontacts",
+          "appName": "SimContacts",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.modemtestmode",
+          "appName": "MBN Test",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay.oplus",
+          "appName": "com.android.wifi.resources.overlay.oplus",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.location",
+          "appName": "OplusLocationService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "iflix.play",
+          "appName": "iflix",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.launcher",
+          "appName": "Peluncur Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppoex.afterservice",
+          "appName": "Pelayanan purnajual",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.onetrace",
+          "appName": "OneTrace",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.operationManual",
+          "appName": "Panduan pengguna",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.screenrecorder",
+          "appName": "Perekaman layar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.podcasts",
+          "appName": "Google Podcasts",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.cars.jbrticket",
+          "appName": "Whoosh",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.externalstorage",
+          "appName": "Penyimpanan Eksternal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.uimremoteclient",
+          "appName": "com.qualcomm.uimremoteclient",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.htmlviewer",
+          "appName": "Penampil HTML",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.healthcheck",
+          "appName": "Diagnostik",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.picsart.studio",
+          "appName": "Picsart",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.uceShimService",
+          "appName": "uceShimService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.companiondevicemanager",
+          "appName": "Pengelola Perangkat Pendamping",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.weather.service",
+          "appName": "Pelayanan cuaca",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mms.service",
+          "appName": "Layanan informasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.downloads",
+          "appName": "Pengelola pengunduhan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.powermonitor",
+          "appName": "Power monitor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.fingerprint.anim.ccyh",
+          "appName": "com.android.systemui.overlay.fingerprint.anim.ccyh",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.fingerprint.anim.jhsy",
+          "appName": "com.android.systemui.overlay.fingerprint.anim.jhsy",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.fingerprint.anim.jslz",
+          "appName": "com.android.systemui.overlay.fingerprint.anim.jslz",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.fingerprint.anim.lgsy",
+          "appName": "com.android.systemui.overlay.fingerprint.anim.lgsy",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.fingerprint.anim.nlgs",
+          "appName": "com.android.systemui.overlay.fingerprint.anim.nlgs",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.fingerprint.anim.tyjw",
+          "appName": "com.android.systemui.overlay.fingerprint.anim.tyjw",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.fingerprint.anim.xklc",
+          "appName": "com.android.systemui.overlay.fingerprint.anim.xklc",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.dawateislami.alquranulkareem",
+          "appName": "Al-Quran-ul-Kareem",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "oplus.frameworkres.overlay.display.product",
+          "appName": "oplus.frameworkres.overlay.display.product",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.framework.rro.oppo",
+          "appName": "com.oplus.framework.rro.oppo",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.gamma.scan",
+          "appName": "QR & Barcode Scanner",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.systemui.onehanded.gestural",
+          "appName": "One Handed Mode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "vendor.qti.hardware.cacert.server",
+          "appName": "CACertApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nbz.phonekeeper",
+          "appName": "PhoneKeeper",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.interconnectcollectkit",
+          "appName": "InterconnectCollectKit",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.deepthinker",
+          "appName": "Layanan Pintar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.qualityprotect",
+          "appName": "sdk",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.apprecover",
+          "appName": "Pulihkan Aplikasi Sistem yang Tidak Diinstal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.netflix.partner.activation",
+          "appName": "PartnerNetflixActivation",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.omacp",
+          "appName": "Omacp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.telephonyservice",
+          "appName": "com.qualcomm.qti.telephonyservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetooth.oplus.overlay",
+          "appName": "com.android.bluetooth.oplus.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.duolingo",
+          "appName": "Duolingo",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.performancemode",
+          "appName": "Performance Mode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.frameworkres.overlay.display.product",
+          "appName": "android.frameworkres.overlay.display.product",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.ridemodeaudio",
+          "appName": "RideMode Recording list",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.aod",
+          "appName": "Aod",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.nhs",
+          "appName": "NetworkHealthService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.ota",
+          "appName": "Pembaruan perangkat lunak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.pay",
+          "appName": "Pembayaran Aman",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.sau",
+          "appName": "Layn pngktn sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.sos",
+          "appName": "SOS Darurat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.vip",
+          "appName": "OPPO Saya",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.heytap.market",
+          "appName": "App Market",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "vendor.qti.iwlan",
+          "appName": "vendor.qti.iwlan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.configupdater",
+          "appName": "ConfigUpdater",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.lemon.lvoverseas",
+          "appName": "CapCut",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.exserviceui",
+          "appName": "Layn Gesture_Motion",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.providers.media.module",
+          "appName": "Pemilih media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller",
+          "appName": "com.google.android.overlay.modules.permissioncontroller",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.telkom.tracencare",
+          "appName": "SATUSEHAT",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.romupdate",
+          "appName": "Perbarui layanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.uimremoteserver",
+          "appName": "com.qualcomm.uimremoteserver",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.confuridialer",
+          "appName": "Conference URI Dialer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "net.workout.lose.weight.fitness.fit.coach",
+          "appName": "FitCoach",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.focusmode",
+          "appName": "Mode fokus",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.plugin.globalactions.wallet",
+          "appName": "com.android.systemui.plugin.globalactions.wallet",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.ar.core",
+          "appName": "Google Play Services for AR",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.ar.lens",
+          "appName": "Lens",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.downloads.ui",
+          "appName": "Download",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "evermos.evermos.com.evermos",
+          "appName": "Evermos",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.pacprocessor",
+          "appName": "PacProcessor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.simappdialog",
+          "appName": "Dialog Aplikasi SIM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.oshare",
+          "appName": "OPPO Share",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.overlay.common",
+          "appName": "android.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "gov.disdukcapilkotabdg.salaman",
+          "appName": "Salaman+",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.scenemode",
+          "appName": "Mode sederhana",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.hole",
+          "appName": "Potongan Lubang Kertas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.tall",
+          "appName": "Potongan tinggi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "videoeditor.videomaker.slideshow.fotoplay",
+          "appName": "FotoPlay",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.certinstaller",
+          "appName": "Pemasang Sertifikat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.framework_bluetooth.overlay",
+          "appName": "com.oplus.framework_bluetooth.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig",
+          "appName": "com.android.carrierconfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.marvin.talkback",
+          "appName": "Android Accessibility Suite",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.wapi.wapicertmanage",
+          "appName": "WAPI certificate",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.threebutton",
+          "appName": "3 Button Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "us.zoom.videomeetings",
+          "appName": "Zoom",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.alfamart.alfagift",
+          "appName": "Alfagift",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qti.qualcomm.datastatusnotification",
+          "appName": "com.qti.qualcomm.datastatusnotification",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.bootreg",
+          "appName": "Daftarkan saat penyalaan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android",
+          "appName": "Sistem Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.momentic.videocollage",
+          "appName": "Video Collage",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.contacts",
+          "appName": "Kontak",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.aimlock.app",
+          "appName": "Aim Lock",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.callfeaturessetting",
+          "appName": "CallFeatureSetting",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.wfd.service",
+          "appName": "Wfd Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.notificationmanager",
+          "appName": "Kelola notifikasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.qualcomm.deviceinfo",
+          "appName": "Device Info",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ted.number",
+          "appName": "Identifikasi Nmr Tak Dikenal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.upgradeguide",
+          "appName": "Startup Wizard",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.wifitest",
+          "appName": "wifitest",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.gridplus.collagemaker",
+          "appName": "PhotoGrid",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.ryzenrise.intromaker",
+          "appName": "Intro Maker",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.egg",
+          "appName": "Android S Easter Egg",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mms",
+          "appName": "Pesan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.mtp",
+          "appName": "Host MTP",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.nfc",
+          "appName": "Layanan NFC",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.ons",
+          "appName": "com.android.ons",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.stk",
+          "appName": "Toolkit SIM",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.locationproxy",
+          "appName": "Layanan Lokasi Operator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.backupconfirm",
+          "appName": "com.android.backupconfirm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver.overlay",
+          "appName": "CellBroadcastReceiverModuleOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.instagram.android",
+          "appName": "Instagram",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.waze",
+          "appName": "Waze",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.pinterest",
+          "appName": "Pinterest",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.activation",
+          "appName": "Kartu garansi elektronik",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.vivago.ai",
+          "appName": "vivago.ai",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "org.codeaurora.ims",
+          "appName": "org.codeaurora.ims.ImsApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.statementservice",
+          "appName": "Intent Filter Verification Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.duffqiblafinder.muslim.compassapp21",
+          "appName": "Duff Qibla Finder",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.gm",
+          "appName": "Gmail",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "instagramstory.instastory.storymaker",
+          "appName": "UniStory",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android.overlay.target",
+          "appName": "android.overlay.target",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.autoinstalls.config.oppo",
+          "appName": "Device configuration",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.tachyon",
+          "appName": "Meet",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.common",
+          "appName": "com.google.android.overlay.gmsconfig.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.audio.effectcenter",
+          "appName": "AudioEffectCenter",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.intelligence",
+          "appName": "Settings Suggestions",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.pure.indosat.care",
+          "appName": "myIM3",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice.overlay",
+          "appName": "CellBroadcastServiceModuleOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller",
+          "appName": "Pengontrol izin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.rezwan.duplicatecontacts",
+          "appName": "Duplicate Contacts Finder",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.dynamicddsservice",
+          "appName": "com.qualcomm.qti.dynamicddsservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig.oplus.overlay",
+          "appName": "com.android.carrierconfig.oplus.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.setupwizard",
+          "appName": "Penyiapan Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "org.scratchjr.android",
+          "appName": "ScratchJr",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qcrilmsgtunnel",
+          "appName": "com.qualcomm.qcrilmsgtunnel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.settings",
+          "appName": "Setelan Penyimpanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.sharedstoragebackup",
+          "appName": "com.android.sharedstoragebackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.services",
+          "appName": "Meta Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.aftersalesservice",
+          "appName": "OPPO Service",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "imagetopdf.pdfconverter.jpgtopdf.pdfeditor",
+          "appName": "Pengubah Gambar menjadi PDF",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.eyeprotect",
+          "appName": "Kenyamanan mata",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.printspooler",
+          "appName": "Layanan pemrosesan cetak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.grabtaxi.driver2",
+          "appName": "Grab Driver",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay.common",
+          "appName": "com.android.wifi.resources.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.dreams.basic",
+          "appName": "Lamunan Dasar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "vidma.screenrecorder.videorecorder.videoeditor.pro",
+          "appName": "Vidma Recorder",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.ext.services",
+          "appName": "com.google.android.overlay.modules.ext.services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.synergy",
+          "appName": "HeySynergy",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.incallui",
+          "appName": "Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.ocs.opencapabilityservice",
+          "appName": "OpenCapabilityService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.se",
+          "appName": "SecureElementApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.inputdevices",
+          "appName": "Perangkat Masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.wellbeing",
+          "appName": "Kesehatan Digital",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fido.asm",
+          "appName": "FIDO UAF1.0 ASM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.android.overlay.gmsconfig.common",
+          "appName": "com.oplus.android.overlay.gmsconfig.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.smartdrive",
+          "appName": "Mengemudi Cerdas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.instagram.barcelona",
+          "appName": "Threads",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.redteamobile.roaming",
+          "appName": "ORoaming",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.bips",
+          "appName": "Layanan Cetak Bawaan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.dpmserviceapp",
+          "appName": "com.qti.dpmserviceapp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.nbu.files",
+          "appName": "Files by Google",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.lenovo.anyshare.gps",
+          "appName": "SHAREit",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.daemon.shelper",
+          "appName": "Shelper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.captiveportallogin",
+          "appName": "Login Captive Portal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.muhammadaa.santosa.mobile.sanpasien",
+          "appName": "Santosa Pasien",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.lazada.android",
+          "appName": "Lazada",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.comms",
+          "appName": "com.google.android.overlay.gmsconfig.comms",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.bttestmode",
+          "appName": "BTtestmode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.xdivert",
+          "appName": "Smart-Divert",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.classroom",
+          "appName": "Classroom",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.adobe.scan.android",
+          "appName": "Adobe Scan",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.settings.overlay.common",
+          "appName": "com.android.settings.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.phone.overlay.oplus",
+          "appName": "com.android.phone.overlay.oplus",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.dts.freefiremax",
+          "appName": "Free Fire MAX",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.customize.coreapp",
+          "appName": "CustCoreApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.traveloka.android",
+          "appName": "Traveloka",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.docs",
+          "appName": "Drive",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.maps",
+          "appName": "Maps",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.uiengine",
+          "appName": "Mesin yang beragam",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.grabtaxi.passenger",
+          "appName": "Grab",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.modulemetadata",
+          "appName": "Main components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.statistics.rom",
+          "appName": "Layanan Data Dasar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.tokopedia.tkpd",
+          "appName": "Tokopedia",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "oplus",
+          "appName": "Sistem Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cellbroadcastreceiver",
+          "appName": "com.android.cellbroadcastreceiver",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.marc.files",
+          "appName": "File",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.webview",
+          "appName": "Android System WebView",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.frameworkres.overlay.Network",
+          "appName": "android.frameworkres.overlay.Network",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.weather2",
+          "appName": "Cuaca",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.documentsui",
+          "appName": "com.google.android.overlay.modules.documentsui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack",
+          "appName": "Pengelola jaringan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.contactkeys",
+          "appName": "Android System Key Verifier",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom",
+          "appName": "Manajemen Panggilan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.syncadapters.contacts",
+          "appName": "Sinkronisasi Google Kontak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.keychain",
+          "appName": "Gantungan kunci",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.snapdragon.qdcm_ff",
+          "appName": "QDCM-FF",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay.target",
+          "appName": "com.android.wifi.resources.overlay.target",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "jp.konami.pesam",
+          "appName": "eFootball™",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.compass2",
+          "appName": "Kompas",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.wirelesssettings",
+          "appName": "Pengaturan nirkabel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Installer paket",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nearme.gamecenter",
+          "appName": "Game Center",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android.frameworkres.overlay.defaultmms",
+          "appName": "android.frameworkres.overlay.defaultmms",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms",
+          "appName": "Layanan Google Play",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gsf",
+          "appName": "Kerangka Kerja Layanan Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.tts",
+          "appName": "Pengenalan dan Sintesis Ucapan dari Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.tencent.qqlivei18n",
+          "appName": "WeTV",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.resources",
+          "appName": "Resource Wi-Fi Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.phone.overlay.common",
+          "appName": "com.android.phone.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig.overlay.common",
+          "appName": "com.android.carrierconfig.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.walletnfcrel",
+          "appName": "Google Wallet",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.calllogbackup",
+          "appName": "Call Log Backup/Restore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.partnersetup",
+          "appName": "Google Partner Setup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.common",
+          "appName": "com.android.systemui.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cameraextensions",
+          "appName": "CameraExtensionsProxy",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom.overlay.common",
+          "appName": "com.android.server.telecom.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.localtransport",
+          "appName": "com.android.localtransport",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.videos",
+          "appName": "Google TV",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.gsa",
+          "appName": "com.google.android.overlay.gmsconfig.gsa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qpon.platform",
+          "appName": "Qpon",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.carrierdefaultapp",
+          "appName": "AplikasiDefaultOperator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.uxdesign",
+          "appName": "Personalisasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.remoteSimlockAuth",
+          "appName": "com.qualcomm.qti.remoteSimlockAuth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.lockassistant",
+          "appName": "Assistant",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.devicestatisticsservice",
+          "appName": "com.qualcomm.qti.devicestatisticsservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.font.notoserifsource",
+          "appName": "Noto Serif / Source Sans Pro",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.proxyhandler",
+          "appName": "ProxyHandler",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.safetycenter.resources",
+          "appName": "Resource Pusat Keamanan Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.waterfall",
+          "appName": "Potongan waterfall",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.workloadclassifier",
+          "appName": "com.qualcomm.qti.workloadclassifier",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.appplatform",
+          "appName": "Layanan Aplikasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.netflix.mediaclient",
+          "appName": "Netflix",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
+          "appName": "Maps & Navigation",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.android.overlay.modules.documentsui",
+          "appName": "com.oplus.android.overlay.modules.documentsui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.sceneservice",
+          "appName": "Layanan cerdas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.UCMobile.intl",
+          "appName": "UC Browser",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.calculator",
+          "appName": "Kalkulator",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.connectivity.resources",
+          "appName": "Resource Konektivitas Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "appName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.feedback",
+          "appName": "Agen Masukan Market",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.printservice.recommendation",
+          "appName": "Print Service Recommendation Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.photos",
+          "appName": "Foto",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.calendar",
+          "appName": "Kalender",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.managedprovisioning",
+          "appName": "Penyiapan Profil Kerja",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.spotify.music",
+          "appName": "Spotify",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "photoeditor.layout.collagemaker",
+          "appName": "Kolase Foto - GridArt",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.tencent.soter.soterserver",
+          "appName": "aidlserverdemo",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.documentsui",
+          "appName": "File",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.gojek.app",
+          "appName": "Gojek",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.mainline.telemetry",
+          "appName": "Support components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.katana",
+          "appName": "Facebook",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.alarmclock",
+          "appName": "Jam",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller.overlay.oplus",
+          "appName": "com.google.android.permissioncontroller.overlay.oplus",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.atlas",
+          "appName": "atlasService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.telkomsel.telkomselcm",
+          "appName": "MyTelkomsel",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.games",
+          "appName": "Game",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.omoji",
+          "appName": "Omoji",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.itgsolution.fic",
+          "appName": "الخطوط الإسلامية",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.stdid",
+          "appName": "StdID",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.basyir.audioplayerbarjanzimp3",
+          "appName": "Maulid Barzanji",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "io.infradigital.app.pelajar",
+          "appName": "Pelajar",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.partnerbookmarks",
+          "appName": "com.android.providers.partnerbookmarks",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.smspush",
+          "appName": "com.android.smspush",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.exsystemservice",
+          "appName": "Pelayanan Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.antivirus.mobilesecurity.viruscleaner.applock",
+          "appName": "Antivirus & Security",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.sauhelper",
+          "appName": "SAUHelper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaper.livepicker",
+          "appName": "Pemilih live-wallpaper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.youtube.kids",
+          "appName": "YT Kids",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.wallpapers",
+          "appName": "Wallpaper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coderecognizer.codescan.codeidentifier.qrcodereader.barcodescanner.qrscanner",
+          "appName": "QR Scanner",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.apps.tag",
+          "appName": "Tag",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.encryption",
+          "appName": "Brankas Pribadi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.phonemanager",
+          "appName": "Pengelola Telepon",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.securepay",
+          "appName": "Perlindungan pembayaran",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.bca",
+          "appName": "BCA mobile",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.rsupport.mvagent",
+          "appName": "Mobizen",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.facebook.system",
+          "appName": "Meta App Installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "in.startv.hotstar.dplus",
+          "appName": "Disney+",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.paxel",
+          "appName": "Paxel",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.tera.scan",
+          "appName": "TeraScan",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.translate",
+          "appName": "Terjemahan",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.heytap.colorfulengine",
+          "appName": "Colorful Engine",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.trafficmonitor",
+          "appName": "Penggunaan data",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.linkdokter.halodoc.android",
+          "appName": "Halodoc",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.blacklistapp",
+          "appName": "Blokir & filter",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack.permissionconfig",
+          "appName": "com.android.server.NetworkPermissionConfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.storagemanager",
+          "appName": "Pengelola Penyimpanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bookmarkprovider",
+          "appName": "Bookmark Provider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ses.entitlement.o2",
+          "appName": "com.ses.entitlement.o2.EntitlementApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.cne",
+          "appName": "CneApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.ims",
+          "appName": "com.qualcomm.qti.ims",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.lpa",
+          "appName": "com.qualcomm.qti.lpa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.smq",
+          "appName": "QTR",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.uim",
+          "appName": "com.qualcomm.qti.uim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.mcs",
+          "appName": "System Messages",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.wifibackuprestore",
+          "appName": "WifiBackupRestore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.browser",
+          "appName": "Internet",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.networkstack.overlay",
+          "appName": "com.google.android.networkstack.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.battery",
+          "appName": "Baterai",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.appswing.qrcodereader.barcodescanner.qrscanner",
+          "appName": "Pemindai QR",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.roborisen.pingpongscratch",
+          "appName": "PingPongScratch",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.projection.gearhead",
+          "appName": "Android Auto",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.multiapp",
+          "appName": "Pengganda aplikasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.location",
+          "appName": "LocationServices",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.engineercamera",
+          "appName": "EngineerCamera",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.postmanservice",
+          "appName": "OIDT Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nexstreaming.app.kinemasterfree",
+          "appName": "KineMaster",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.safetycore",
+          "appName": "Android System SafetyCore",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.wearable.app",
+          "appName": "Wear OS by Google",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.msd.JTClient",
+          "appName": "J&T Express",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.cts.ctsshim",
+          "appName": "com.android.cts.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.portrait",
+          "appName": "Siluet potret",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.video",
+          "appName": "Video (Sistem)",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "appName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.accessory",
+          "appName": "Hubungkan cepat perangkat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.filemanager",
+          "appName": "File Saya",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.uimGbaApp",
+          "appName": "com.qualcomm.qti.uimGbaApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.caf.fmradio",
+          "appName": "Radio FM",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.downloadwhatsappstatus.statussaver.videodownloader",
+          "appName": "Status Saver",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.gesture",
+          "appName": "Gestur & gerakan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.securitypermission",
+          "appName": "Pengelola izin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.vpndialogs",
+          "appName": "VpnDialogs",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "id.co.educourseschool",
+          "appName": "educourseschool",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.fido.uafclient",
+          "appName": "FIDO UAF1.0 Client",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.keep",
+          "appName": "Keep",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.dubox.drive",
+          "appName": "TeraBox",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.nearme.instant.platform",
+          "appName": "InstantWeb Service Framework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.soundrecorder",
+          "appName": "Perekam",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.email",
+          "appName": "Email",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.phone",
+          "appName": "Layanan Ponsel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.shell",
+          "appName": "Shell",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.cast",
+          "appName": "Proyeksi Layar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.cosa",
+          "appName": "Layanan Penyempurnaan Aplikasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.cota",
+          "appName": "Pembaruan pengaturan operator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.lfeh",
+          "appName": "OplusLFEHer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.onet",
+          "appName": "ONet",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.athena",
+          "appName": "Athena",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaperbackup",
+          "appName": "com.android.wallpaperbackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.blockednumber",
+          "appName": "Simpan Nomor Terblokir",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.duckduckgo.mobile.android",
+          "appName": "DuckDuckGo",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.email.partnerprovider",
+          "appName": "EmailPartnerProvider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.userdictionary",
+          "appName": "Kamus Pengguna",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.camera",
+          "appName": "Kamera",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.vuclip.viu",
+          "appName": "Viu",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "id.dana",
+          "appName": "DANA",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.indomaret.klikindomaret",
+          "appName": "Klik Indomaret",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.shopee.id",
+          "appName": "Shopee",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oppo.quicksearchbox",
+          "appName": "Pencarian Global",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.seccamservice",
+          "appName": "SecCamService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.hotspot2.osulogin",
+          "appName": "OsuLogin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.qdma",
+          "appName": "QCC",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.xrcb",
+          "appName": "XRCB",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms.location.history",
+          "appName": "Histori Lokasi Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.intsig.camscanner",
+          "appName": "CamScanner",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.location.fused",
+          "appName": "Fused Location",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui",
+          "appName": "UI Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.phonenoareainquire",
+          "appName": "Area Nomor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.youtube.music",
+          "appName": "YouTube Music",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.bluetoothmidiservice",
+          "appName": "Bluetooth MIDI Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.confdialer",
+          "appName": "ConfDialer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.themestore",
+          "appName": "Toko Tema",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.poweroffalarm",
+          "appName": "PowerOffAlarm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.ltebc",
+          "appName": "LTE Broadcast Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.phone",
+          "appName": "com.qti.phone.QtiPhoneApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.appmanager",
+          "appName": "Meta App Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.apps.MyXL",
+          "appName": "myXL",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.viewtalk",
+          "appName": "ViewTalk",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.floatassistant",
+          "appName": "Bola Asisten",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig.overlay",
+          "appName": "com.android.carrierconfig.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.safecenter",
+          "appName": "Pusat Keamanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.k24klik.android",
+          "appName": "K24Klik",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.childrenspace",
+          "appName": "Ruang Anak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.traceur",
+          "appName": "Pelacakan Sistem",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver",
+          "appName": "Peringatan darurat nirkabel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.qccauthmgr",
+          "appName": "QCC-AUTHMGR",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.moonvideo.android.resso",
+          "appName": "Resso",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.linker",
+          "appName": "PC Connect",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.logkit",
+          "appName": "Masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.mall",
+          "appName": "OPPO Store",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.melody",
+          "appName": "Earphone Nirkabel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.gallery3d",
+          "appName": "Foto",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.play.games",
+          "appName": "Google Play Game",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.nrMode",
+          "appName": "OplusNrModeControl",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.jakarta.baca.lite",
+          "appName": "Baca Plus",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.magazines",
+          "appName": "Google Berita",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.bluetooth",
+          "appName": "Bluetooth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.timeservice",
+          "appName": "com.qualcomm.timeservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.engineermode",
+          "appName": "EngineerMode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "co.brainly",
+          "appName": "Brainly",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.atfwd",
+          "appName": "com.qualcomm.atfwd",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.musiclink",
+          "appName": "Pesta Musik",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.embms",
+          "appName": "com.qualcomm.embms",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.contacts",
+          "appName": "Penyimpanan Kenalan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "vendor.qti.imsrcs",
+          "appName": "vendor.qti.imsrcs",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.screenshot",
+          "appName": "Cuplikan layar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_narrow_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cellbroadcastreceiver.overlay.common",
+          "appName": "com.android.cellbroadcastreceiver.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.photopicker",
+          "appName": "Foto & video",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.subsys",
+          "appName": "com.oplus.subsys.SubsystemApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "cn.wps.moffice_eng",
+          "appName": "WPS Office",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "vidma.screenrecorder.videorecorder.videoeditor.lite",
+          "appName": "Vidma Recorder Lite",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.engineernetwork",
+          "appName": "EngineerNetwork",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.inputmethod.latin",
+          "appName": "Gboard",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.restore",
+          "appName": "Android Switch",
+          "isSystem": true,
+          "isLaunchable": true
+        }
+      ],
+      "receivedAt": 1775065939471
+    },
+    "cameraFrameId": 54,
+    "lastCameraFrame": {
+      "frameBase64": "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",
+      "facing": "front",
+      "frameId": 54,
+      "capturedAt": 1775065939377
+    }
   }
 ]
