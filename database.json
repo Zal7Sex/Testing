@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1511 pesan dari 14 chat",
+        "time": "01/04 23:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775058351642
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1111 pesan): ~ syafa karamoy",
         "content": "iya kan",
         "time": "01/04 23:45",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1775057164361
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1378 pesan dari 14 chat",
-        "time": "01/04 23:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775057164290
       }
     ],
     "galleryPhotos": [],
