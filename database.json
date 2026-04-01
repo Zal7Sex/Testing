@@ -22,6 +22,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14502 pesan dari 11 chat",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040606970
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12151 pesan): ~ p!nz",
+        "content": "darimana tan",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040606919
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12150 pesan): ~ jihan",
+        "content": "portugal",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040605396
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14501 pesan dari 11 chat",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040605317
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14500 pesan dari 11 chat",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040604085
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12149 pesan): ~ Bot",
         "content": "⚠️ Masih ada game yang berlangsung di chat ini! Selesaikan dulu atau ketik .nyerah",
         "time": "01/04 18:50",
@@ -3425,7 +3465,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040601574,
+    "lastSeen": 1775040604660,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -3441,6 +3481,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14502 pesan dari 11 chat",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040607040
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12151 pesan): ~ p!nz",
+        "content": "darimana tan",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040606943
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14501 pesan dari 11 chat",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040605387
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12150 pesan): ~ jihan",
+        "content": "portugal",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040605329
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14500 pesan dari 11 chat",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040604098
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12149 pesan): ~ Bot",
