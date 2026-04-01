@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1234 pesan): ~ Dapa",
+        "content": "💟 Stiker",
+        "time": "02/04 06:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081473656
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1705 pesan dari 14 chat",
+        "time": "02/04 06:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081473627
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1704 pesan dari 14 chat",
         "time": "02/04 06:10",
@@ -4003,22 +4019,6 @@
         "time": "02/04 02:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1775068787661
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (1151 pesan): ~ Hoi?",
-        "content": "halo jga",
-        "time": "02/04 02:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068787578
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (23 pesan): ~ Call Me Zal7Sex",
-        "content": ".del",
-        "time": "02/04 02:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068787510
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775081462616,
+    "lastSeen": 1775081471634,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
