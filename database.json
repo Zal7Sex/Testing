@@ -4068,6 +4068,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "01/04 23:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775059120467
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎1555 pesan dari 14 chat",
         "time": "01/04 23:58",
         "pkg": "com.whatsapp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1775057418720
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (50 pesan): ~ ?",
-        "content": "optes pm",
-        "time": "01/04 23:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775057418636
       }
     ],
     "galleryPhotos": [],
