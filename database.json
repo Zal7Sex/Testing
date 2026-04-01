@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎16088 pesan dari 12 chat",
+        "time": "01/04 21:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775049396409
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB OPTES EXO X XEMET (25 pesan): ~ Kasilas",
         "content": "💟 Stiker",
         "time": "01/04 21:16",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775048236709
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (94 pesan): ~ Dark Chocolate 🍫👅",
-        "content": "💟 Stiker",
-        "time": "01/04 20:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775048236607
       }
     ],
     "galleryPhotos": [],
