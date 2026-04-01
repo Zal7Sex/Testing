@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045515643,
+    "lastSeen": 1775045518618,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15676 pesan dari 10 chat",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045517892
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13469 pesan): ~ celynn?",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045012660
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13326 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
-        "content": "Borong baju",
-        "time": "01/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045012556
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15676 pesan dari 10 chat",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045517874
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13469 pesan): ~ celynn?",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045012676
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15573 pesan dari 10 chat",
-        "time": "01/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045012640
       }
     ],
     "galleryPhotos": [],
