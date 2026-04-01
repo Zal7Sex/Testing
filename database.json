@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1538 pesan dari 14 chat",
+        "time": "01/04 23:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775058664117
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎7Sex Message (15 pesan): ~ a",
         "content": "cara ganti user name gimana",
         "time": "01/04 23:51",
@@ -4011,14 +4019,6 @@
         "time": "01/04 23:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775057292133
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (50 pesan): ~ ?",
-        "content": "optes pm",
-        "time": "01/04 23:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775057292112
       }
     ],
     "galleryPhotos": [],
