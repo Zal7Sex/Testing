@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046723113,
+    "lastSeen": 1775046725815,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775046722227,
+    "lastSeen": 1775046724857,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13726 pesan): ~ Bot",
+        "content": "🎵 Pesan suara (0.17)",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046726053
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13725 pesan): ~ Bot",
+        "content": "📄 > 𐔈⃘ ֹ ׅ 🍓 ֹ Hi celynn? welcome! This is official bot md zy — your smart assistant 2026, ready to help you anytime with fast, simple, and powerful features\n       \n ╭╼─┈───┈──⏣╼╯\n ┆✿᪲ ׄ𖹭₊ Status : Free User\n ┆✿᪲ ׄ𖹭₊ Limit : 2/39 • Sisa: 37\n ┆✿᪲ ׄ𖹭₊ Role : Free\n ╰─╼𔕬─┈───┈───┈\n ",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046724101
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15888 pesan dari 10 chat",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046724062
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13724 pesan): ~ Bot",
@@ -8040,30 +8064,6 @@
         "time": "01/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046081159
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15770 pesan dari 10 chat",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046080405
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13572 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar nenek, kuping, dan lambang &.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046080199
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15769 pesan dari 10 chat",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046078154
       }
     ],
     "galleryPhotos": [],
