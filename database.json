@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎16097 pesan dari 12 chat",
+        "time": "01/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775049537146
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (14066 pesan): ~ 🕷️",
         "content": "masak mie dulu ah",
         "time": "01/04 21:18",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1775048364357
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14440 pesan dari 10 chat",
-        "time": "01/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775048357370
       }
     ],
     "galleryPhotos": [],
