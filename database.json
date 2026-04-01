@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12111 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: buku estetika\n\nSelamat kepada @⁨~jihan⁩! 🎉\n🎁 Kamu mendapatkan hadiah +1 Limit Bot!",
+        "time": "01/04 18:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040488940
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎14458 pesan dari 11 chat",
         "time": "01/04 18:48",
@@ -2561,7 +2569,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040484474,
+    "lastSeen": 1775040487446,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -2577,6 +2585,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14458 pesan dari 11 chat",
+        "time": "01/04 18:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040487027
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12110 pesan): ~ jihan",
+        "content": "buku estetika",
+        "time": "01/04 18:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040487004
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
