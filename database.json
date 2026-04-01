@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1434 pesan dari 14 chat",
+        "time": "01/04 23:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775057476356
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1050 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
         "content": ".brat tidaq fantasshhh 😾🙂‍↔️",
         "time": "01/04 23:30",
@@ -4011,14 +4019,6 @@
         "time": "01/04 23:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775056754633
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (15 pesan): ~ Riki",
-        "content": "22 1,5 nvmtps no mcro mobi hp only",
-        "time": "01/04 23:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056754579
       }
     ],
     "galleryPhotos": [],
