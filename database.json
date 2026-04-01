@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (739 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 23:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055657332
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1116 pesan dari 13 chat",
         "time": "01/04 23:00",
@@ -4011,14 +4019,6 @@
         "time": "01/04 22:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1775054921181
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (251 pesan): ~ <>",
-        "content": "Thx🥰",
-        "time": "01/04 22:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775054921152
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1116 pesan dari 13 chat",
+        "time": "01/04 23:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055657319
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (739 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 23:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055657293
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 22:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1775054921168
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (251 pesan): ~ <>",
-        "content": "Thx🥰",
-        "time": "01/04 22:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775054921138
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎969 pesan dari 13 chat",
-        "time": "01/04 22:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775054918144
       }
     ],
     "galleryPhotos": [],
