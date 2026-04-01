@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎396 pesan dari 10 chat",
+        "time": "01/04 21:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775051825641
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (48 pesan): ~ Dapa",
         "content": "💟 Stiker",
         "time": "01/04 21:57",
@@ -8056,14 +8064,6 @@
         "time": "01/04 21:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1775051220113
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14642 pesan dari 10 chat",
-        "time": "01/04 21:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775051219589
       }
     ],
     "galleryPhotos": [],
