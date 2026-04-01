@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044299517,
+    "lastSeen": 1775044302392,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13101 pesan): ~ Fegg",
+        "content": "pasangan ku golis",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044302735
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15366 pesan dari 10 chat",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044300980
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13100 pesan): ~ 🕷️",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043784508
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "01/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043783790
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12940 pesan): ~ 🕷️",
-        "content": "💟 Stiker",
-        "time": "01/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043781104
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15367 pesan dari 10 chat",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044302812
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13101 pesan): ~ Fegg",
+        "content": "pasangan ku golis",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044302723
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15366 pesan dari 10 chat",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044300993
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13100 pesan): ~ 🕷️",
+        "content": "pasangan kuegois",
+        "time": "01/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044300955
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8032,38 +8064,6 @@
         "time": "01/04 19:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043784479
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12941 pesan): ~ airen anak orang",
-        "content": "Taris ayu",
-        "time": "01/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043784407
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "01/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043783803
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043781054
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12940 pesan): ~ 🕷️",
-        "content": "💟 Stiker",
-        "time": "01/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043781036
       }
     ],
     "galleryPhotos": [],
