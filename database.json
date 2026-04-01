@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14570 pesan dari 8 chat",
+        "time": "01/04 21:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775050526138
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14570 pesan dari 8 chat",
+        "time": "01/04 21:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775050521217
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (14228 pesan): ~ nyta",
         "content": "Hmm aku boleh cb brat gak",
         "time": "01/04 21:35",
@@ -4003,22 +4019,6 @@
         "time": "01/04 21:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1775049617891
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎APK BUG BY ZYRXX (4 pesan): ~ :)",
-        "content": "Yg mau apk pm 895-4119-69283",
-        "time": "01/04 21:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775049616936
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (248 pesan): ~ DEWANGGA",
-        "content": "Cuy",
-        "time": "01/04 21:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775049616883
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14570 pesan dari 8 chat",
+        "time": "01/04 21:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775050522184
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (14228 pesan): ~ nyta",
@@ -8056,14 +8064,6 @@
         "time": "01/04 21:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1775049616908
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 21:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775049616894
       }
     ],
     "galleryPhotos": [],
