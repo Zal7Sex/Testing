@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1180 pesan dari 14 chat",
+        "time": "01/04 23:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056192295
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (802 pesan): ~ nyta",
+        "content": ".brat hai",
+        "time": "01/04 23:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056192278
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (802 pesan): ~ Bot",
         "content": "Wokehh, siap Kak Joo! Perintah dicatat dan disimpan di memoriku paling dalam.🫡\nJadi, mulai sekarang, setiap kali Kak Joo bilang \"tutup grup\", aku akan langsung balas dengan `.close`.\nSiap menerima perintah selanjutnya, Bos! 😎👍",
         "time": "01/04 23:09",
@@ -4003,22 +4019,6 @@
         "time": "01/04 22:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055248737
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (251 pesan): ~ <>",
-        "content": "Thx🥰",
-        "time": "01/04 22:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055248608
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (674 pesan): ~ joo",
-        "content": "📷 Foto",
-        "time": "01/04 22:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055244580
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (803 pesan): ~ joo",
+        "content": "tutup grup",
+        "time": "01/04 23:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056198921
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1180 pesan dari 14 chat",
+        "time": "01/04 23:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056192318
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (802 pesan): ~ nyta",
+        "content": ".brat hai",
+        "time": "01/04 23:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056192249
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8040,30 +8064,6 @@
         "time": "01/04 22:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055248827
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus ( Full Update ) (11 pesan): ~ <>",
-        "content": "Tq😍",
-        "time": "01/04 22:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055248718
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (251 pesan): ~ <>",
-        "content": "Thx🥰",
-        "time": "01/04 22:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055248625
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (674 pesan): ~ joo",
-        "content": "📷 Foto",
-        "time": "01/04 22:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055244594
       }
     ],
     "galleryPhotos": [],
