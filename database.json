@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (888 pesan): ~ joo",
+        "content": "siapa?",
+        "time": "01/04 23:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056514923
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (887 pesan): ~ Bot",
         "content": "✅ Kata \"porno\" berhasil ditambahkan ke daftar badwords!",
         "time": "01/04 23:14",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055638751
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1112 pesan dari 13 chat",
-        "time": "01/04 23:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055638025
       }
     ],
     "galleryPhotos": [],
