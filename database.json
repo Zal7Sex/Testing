@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046671892,
+    "lastSeen": 1775046674821,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13713 pesan): ~ 🕷️",
+        "content": "dolnas",
+        "time": "01/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046676932
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15873 pesan dari 10 chat",
+        "time": "01/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046674074
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (95 pesan): ~ Dark Chocolate 🍫👅",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045993292
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13559 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar huruf A, kartu remi, huruf M, dan bulan.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045991837
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15757 pesan dari 10 chat",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045991568
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775046673607,
+    "lastSeen": 1775046676696,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15874 pesan dari 10 chat",
+        "time": "01/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046676916
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045993278
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13559 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar huruf A, kartu remi, huruf M, dan bulan.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045991806
       }
     ],
     "galleryPhotos": [],
