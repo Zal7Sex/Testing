@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044897054,
+    "lastSeen": 1775044899999,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13288 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: merampas harta\n\nSelamat kepada @⁨~🕷️⁩! 🎉\n🎁 Kamu mendapatkan hadiah +1 Limit Bot!",
+        "time": "01/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044900125
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13287 pesan): ~ 🕷️",
+        "content": "merampas harta",
+        "time": "01/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044899128
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15540 pesan dari 10 chat",
+        "time": "01/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044899116
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044392698
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13126 pesan): ~ r",
-        "content": "kadang kita perlu belajar dari kesalahan",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044392625
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15391 pesan dari 10 chat",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044391162
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13125 pesan): ~ 🕷️",
-        "content": "kadang kita perlu belajar dari kesalahan",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044391055
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15540 pesan dari 10 chat",
+        "time": "01/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044899159
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13287 pesan): ~ 🕷️",
+        "content": "merampas harta",
+        "time": "01/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044899142
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 19:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044392734
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15391 pesan dari 10 chat",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044391151
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13125 pesan): ~ 🕷️",
-        "content": "kadang kita perlu belajar dari kesalahan",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044391075
       }
     ],
     "galleryPhotos": [],
