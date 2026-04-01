@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1599 pesan dari 14 chat",
+        "time": "02/04 01:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775063705118
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (4 pesan): ~ toko fadly",
         "content": "🔗 11 fee 500p pp 1,5k | https://chat.whatsapp.com/EsIWjVIlKg24OipZ4tKEbE?mode=gi_t",
         "time": "02/04 01:15",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1775059158694
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (16 pesan): ~ raxz",
-        "content": "kirlang apk pegasus gua tak punya link download nya",
-        "time": "01/04 23:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775059158100
       }
     ],
     "galleryPhotos": [],
