@@ -4067,6 +4067,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1327 pesan dari 14 chat",
+        "time": "01/04 23:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056967713
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1326 pesan dari 14 chat",
+        "time": "01/04 23:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056963685
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (947 pesan): ~ joo",
         "content": ".addbadword jembud",
         "time": "01/04 23:22",
@@ -8048,22 +8064,6 @@
         "time": "01/04 23:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1775056161870
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1174 pesan dari 14 chat",
-        "time": "01/04 23:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056161840
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "APK BUG BY ZYRXX: ~ sanzz",
-        "content": "🎥 Diskon 25k aja pm 083181647282 (0.36)",
-        "time": "01/04 23:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056148836
       }
     ],
     "galleryPhotos": [],
