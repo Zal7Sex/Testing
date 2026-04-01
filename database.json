@@ -8114,12 +8114,12 @@
     "deviceName": "HP-TES123-C0EA",
     "ownerUsername": "blay vip",
     "token": "2eb33445318fe23d22724dfe934e1df6",
-    "lastSeen": 1775063008781,
+    "lastSeen": 1775063039110,
     "commandQueue": [
       {
         "type": "unlock",
         "payload": {},
-        "sentAt": 1775063010706
+        "sentAt": 1775063039389
       }
     ],
     "online": true,
