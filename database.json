@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14555 pesan dari 8 chat",
+        "time": "01/04 21:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775050420573
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (14213 pesan): ~ 🕷️",
         "content": "eror..",
         "time": "01/04 21:33",
@@ -4011,14 +4019,6 @@
         "time": "01/04 21:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775049582209
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (248 pesan): ~ DEWANGGA",
-        "content": "Cuy",
-        "time": "01/04 21:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775049582196
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14555 pesan dari 8 chat",
+        "time": "01/04 21:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775050420541
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14555 pesan dari 8 chat",
+        "time": "01/04 21:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775050418290
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (14213 pesan): ~ 🕷️",
@@ -8048,22 +8064,6 @@
         "time": "01/04 21:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775049583091
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB OPTES EXO X XEMET (25 pesan): ~ Kasilas",
-        "content": "💟 Stiker",
-        "time": "01/04 21:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775049582182
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎APK BUG BY ZYRXX (4 pesan): ~ :)",
-        "content": "Yg mau apk pm 895-4119-69283",
-        "time": "01/04 21:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775049582149
       }
     ],
     "galleryPhotos": [],
