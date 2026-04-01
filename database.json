@@ -4,14 +4,14 @@
     "deviceName": "HP-FRBUNZZX-99AB",
     "ownerUsername": "FRBUNZZX",
     "token": "028c6e9db5fab9deedea6acb4daf7b7c",
-    "lastSeen": 1775026253320,
+    "lastSeen": 1775027138993,
     "commandQueue": [],
-    "online": false,
+    "online": true,
     "connectedAt": "2026-04-01T06:49:28.816Z",
     "deviceInfo": {
       "model": "INFINIX MOBILITY LIMITED Infinix X688B",
       "androidVersion": "Android 11",
-      "battery": 28,
+      "battery": 27,
       "network": "Seluler: INDOSATOOREDOO",
       "sim1": "Indosat Ooredoo",
       "sim2": "Indosat Ooredoo"
