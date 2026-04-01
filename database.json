@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎16082 pesan dari 12 chat",
+        "time": "01/04 21:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775049355843
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (14025 pesan): ~ Dapa",
+        "content": "Gladi nya",
+        "time": "01/04 21:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775049355788
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (14024 pesan): ~ Dapa",
         "content": "Tauk",
         "time": "01/04 21:15",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1775048201699
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (4 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 20:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775048201513
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 20:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775048201404
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎16082 pesan dari 12 chat",
+        "time": "01/04 21:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775049355810
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (14025 pesan): ~ Dapa",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1775048202310
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 20:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775048202051
       }
     ],
     "galleryPhotos": [],
