@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (857 pesan): ~ nyta",
+        "content": ".brat nita lup",
+        "time": "01/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056428003
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1234 pesan dari 14 chat",
         "time": "01/04 23:13",
@@ -8056,14 +8064,6 @@
         "time": "01/04 22:58",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055534645
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1087 pesan dari 13 chat",
-        "time": "01/04 22:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055528446
       }
     ],
     "galleryPhotos": [],
