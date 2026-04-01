@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043500750,
+    "lastSeen": 1775043503752,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15146 pesan dari 10 chat",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043501616
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12866 pesan): ~ airen anak orang",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042939236
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14942 pesan dari 9 chat",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042938753
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775043498953,
+    "lastSeen": 1775043501954,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12867 pesan): ~ sʏʀɪɴɴ",
+        "content": "Obat jalan",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043504845
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15146 pesan dari 10 chat",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043501641
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12866 pesan): ~ airen anak orang",
+        "content": "Cipol duduk pangan",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043501560
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8040,30 +8064,6 @@
         "time": "01/04 19:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042940114
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14942 pesan dari 9 chat",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042939759
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14943 pesan dari 9 chat",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042939259
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12688 pesan): ~ Bot",
-        "content": "✅ Jawaban Benar! \nJawabannya adalah: rangkul lawan\n\nSelamat kepada @⁨~Fegg⁩! 🎉\n🎁 Kamu mendapatkan hadiah +3 Limit Bot!",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042938709
       }
     ],
     "galleryPhotos": [],
