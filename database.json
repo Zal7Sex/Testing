@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14608 pesan dari 8 chat",
+        "time": "01/04 21:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775050796581
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎PEGASUS X ZAL7SEK (9 pesan): ~ ell",
         "content": "Etdah",
         "time": "01/04 21:39",
@@ -8056,14 +8064,6 @@
         "time": "01/04 21:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1775049943933
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (14132 pesan): ~ zzeell_",
-        "content": "bikin la,akun ku aj 8",
-        "time": "01/04 21:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775049943092
       }
     ],
     "galleryPhotos": [],
