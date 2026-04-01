@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (839 pesan): ~ Bot",
+        "content": "✅ Kata \"bego\" berhasil ditambahkan ke daftar badwords!",
+        "time": "01/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056388280
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1217 pesan dari 14 chat",
+        "time": "01/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056388255
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1216 pesan dari 14 chat",
         "time": "01/04 23:13",
@@ -4003,22 +4019,6 @@
         "time": "01/04 22:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055458426
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (700 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 22:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055458396
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB OPTES EXO X XEMET (27 pesan): ~ hi cadangan",
-        "content": "📷 Next pur tips tips",
-        "time": "01/04 22:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055457305
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1217 pesan dari 14 chat",
+        "time": "01/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056388217
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (838 pesan): ~ joo",
@@ -8056,14 +8064,6 @@
         "time": "01/04 22:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055458380
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB OPTES EXO X XEMET (27 pesan): ~ hi cadangan",
-        "content": "📷 Next pur tips tips",
-        "time": "01/04 22:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055458310
       }
     ],
     "galleryPhotos": [],
