@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045023088,
+    "lastSeen": 1775045026120,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15580 pesan dari 10 chat",
+        "time": "01/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045027231
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13331 pesan): ~ 🕷️",
+        "content": ". tebakgambar",
+        "time": "01/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045027140
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15579 pesan dari 10 chat",
+        "time": "01/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045023515
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13330 pesan): ~ Fegg",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044502368
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1766 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044502272
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [6] (96 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044502175
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15431 pesan dari 10 chat",
-        "time": "01/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044500856
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045021599,
+    "lastSeen": 1775045026817,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13330 pesan): ~ Fegg",
+        "content": "dei",
+        "time": "01/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045023529
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15579 pesan dari 10 chat",
+        "time": "01/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045023456
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 19:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044502132
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15431 pesan dari 10 chat",
-        "time": "01/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044500882
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13166 pesan): ~ Bot",
-        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
-        "time": "01/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044500838
       }
     ],
     "galleryPhotos": [],
