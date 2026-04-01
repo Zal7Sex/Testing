@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043170543,
+    "lastSeen": 1775043173543,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14993 pesan dari 9 chat",
+        "time": "01/04 19:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043174370
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12755 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: wajah rupawan\n\nSelamat kepada @⁨~r⁩! 🎉\n🎁 Kamu mendapatkan hadiah +3 Limit Bot!",
+        "time": "01/04 19:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043174275
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14993 pesan dari 9 chat",
+        "time": "01/04 19:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043172523
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12754 pesan): ~ r",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042603607
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1835 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042603570
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [6] (96 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042603330
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (238 pesan): ~ Call Me Zal7Sex",
-        "content": "join live ku \n\nhttps://vt.tiktok.com/ZS98yFdDXbnt8-zv89N/",
-        "time": "01/04 19:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042603239
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12755 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: wajah rupawan\n\nSelamat kepada @⁨~r⁩! 🎉\n🎁 Kamu mendapatkan hadiah +3 Limit Bot!",
+        "time": "01/04 19:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043174351
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12754 pesan): ~ r",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042603624
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1835 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042603554
       }
     ],
     "galleryPhotos": [],
