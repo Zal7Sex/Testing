@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045467770,
+    "lastSeen": 1775045470565,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15666 pesan dari 10 chat",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045473124
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13456 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: bengkel sepeda\n\nSelamat kepada @⁨~r⁩! 🎉\n🎁 Kamu mendapatkan hadiah +5 Limit Bot!",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045473104
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15665 pesan dari 10 chat",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045471798
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13455 pesan): ~ mika",
+        "content": "Bengkel sepeda",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045471708
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13454 pesan): ~ r",
+        "content": "bengkel sepeda",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045470539
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3979,46 +4019,6 @@
         "time": "01/04 20:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044971784
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15554 pesan dari 10 chat",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044970096
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13307 pesan): ~ Fegg",
-        "content": "kenda lilintasan",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044970068
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15553 pesan dari 10 chat",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044969648
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13306 pesan): ~ Bot",
-        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044969574
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15552 pesan dari 10 chat",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044969123
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045469074,
+    "lastSeen": 1775045472125,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13456 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: bengkel sepeda\n\nSelamat kepada @⁨~r⁩! 🎉\n🎁 Kamu mendapatkan hadiah +5 Limit Bot!",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045473138
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15665 pesan dari 10 chat",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045471813
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13455 pesan): ~ mika",
+        "content": "Bengkel sepeda",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045471781
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13454 pesan): ~ r",
+        "content": "bengkel sepeda",
+        "time": "01/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045470518
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8032,38 +8064,6 @@
         "time": "01/04 20:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044970148
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15554 pesan dari 10 chat",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044970129
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13307 pesan): ~ Fegg",
-        "content": "kenda lilintasan",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044970111
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13306 pesan): ~ Bot",
-        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044969663
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15553 pesan dari 10 chat",
-        "time": "01/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044969633
       }
     ],
     "galleryPhotos": [],
