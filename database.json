@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045630504,
+    "lastSeen": 1775045635656,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15703 pesan dari 10 chat",
+        "time": "01/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045637645
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13496 pesan): ~ celynn?",
+        "content": "obor tokgol",
+        "time": "01/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045637534
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15702 pesan dari 10 chat",
+        "time": "01/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045631623
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13495 pesan): ~ Bot",
@@ -3995,30 +4019,6 @@
         "time": "01/04 20:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045113040
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13341 pesan): ~ 🕷️",
-        "content": "penjaga gawang terbaik humi alami keseleo",
-        "time": "01/04 20:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045112402
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (91 pesan): ~ WINZX [3648]",
-        "content": "💟 Stiker",
-        "time": "01/04 20:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045112260
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 20:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045112177
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045631342,
+    "lastSeen": 1775045637250,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13496 pesan): ~ celynn?",
+        "content": "obor tokgol",
+        "time": "01/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045637550
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045112187
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 20:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045112167
       }
     ],
     "galleryPhotos": [],
