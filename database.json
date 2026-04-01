@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775048221681,
+    "lastSeen": 1775048226056,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14418 pesan dari 10 chat",
+        "time": "01/04 20:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048226717
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13889 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
+        "content": "Tidak fantassshhhh",
+        "time": "01/04 20:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048226674
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046789521
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB OPTES EXO X XEMET (21 pesan): ~ dimv",
-        "content": "optes pm",
-        "time": "01/04 20:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046789437
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15901 pesan dari 10 chat",
-        "time": "01/04 20:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046787580
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775048220914,
+    "lastSeen": 1775048223937,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13889 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
+        "content": "Tidak fantassshhhh",
+        "time": "01/04 20:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048226692
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14418 pesan dari 10 chat",
+        "time": "01/04 20:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048226602
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046789543
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB OPTES EXO X XEMET (21 pesan): ~ dimv",
-        "content": "optes pm",
-        "time": "01/04 20:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046789380
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15901 pesan dari 10 chat",
-        "time": "01/04 20:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046787539
       }
     ],
     "galleryPhotos": [],
