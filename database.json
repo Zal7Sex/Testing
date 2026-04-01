@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1251 pesan): ~ tiann",
+        "content": "okeyyy",
+        "time": "02/04 06:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081907640
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1250 pesan): ~ Dapa",
         "content": "Nanya aja",
         "time": "02/04 06:18",
@@ -4011,14 +4019,6 @@
         "time": "02/04 03:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1775071413335
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (23 pesan): ~ Call Me Zal7Sex",
-        "content": ".del",
-        "time": "02/04 03:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775071413304
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1722 pesan dari 14 chat",
+        "time": "02/04 06:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081907680
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1251 pesan): ~ tiann",
+        "content": "okeyyy",
+        "time": "02/04 06:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775081907660
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1250 pesan): ~ Dapa",
@@ -8048,22 +8064,6 @@
         "time": "02/04 03:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1775071413378
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (1151 pesan): ~ Hoi?",
-        "content": "halo jga",
-        "time": "02/04 03:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775071413358
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (23 pesan): ~ Call Me Zal7Sex",
-        "content": ".del",
-        "time": "02/04 03:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775071413273
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775081898120,
+    "lastSeen": 1775081907112,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
