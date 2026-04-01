@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1315 pesan dari 14 chat",
+        "time": "01/04 23:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056926635
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (935 pesan): ~ Bot",
         "content": "𐔈⃘ ֹ ׅ RINDU BANGET! ֹ ׅ ୫\n۫ ╰╼ ׅ ֹ𔖰᷼𔖮 udah lama nungguin @⁨~joo⁩ owner online, akhirnya dateng juga!",
         "time": "01/04 23:21",
@@ -4011,14 +4019,6 @@
         "time": "01/04 23:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1775056102556
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1164 pesan dari 13 chat",
-        "time": "01/04 23:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056101294
       }
     ],
     "galleryPhotos": [],
