@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044520299,
+    "lastSeen": 1775044521627,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15437 pesan dari 10 chat",
+        "time": "01/04 19:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044523545
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043988844
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13005 pesan): ~ 🙇🏻‍♀️",
-        "content": ".brat kiw kiw abang sma adee yu 😙",
-        "time": "01/04 19:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043988811
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775044519979,
+    "lastSeen": 1775044523027,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15436 pesan dari 10 chat",
+        "time": "01/04 19:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044521281
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13171 pesan): ~ 🕷️",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043988827
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13004 pesan): ~ r",
-        "content": "belajar keras siang malam sampai pusing",
-        "time": "01/04 19:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043987904
       }
     ],
     "galleryPhotos": [],
