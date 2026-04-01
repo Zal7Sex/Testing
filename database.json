@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775041135182,
+    "lastSeen": 1775041138283,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14605 pesan dari 11 chat",
+        "time": "01/04 18:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041136523
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12268 pesan): ~ 🕷️",
@@ -4011,14 +4019,6 @@
         "time": "01/04 18:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040571002
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14483 pesan dari 11 chat",
-        "time": "01/04 18:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040570500
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14605 pesan dari 11 chat",
+        "time": "01/04 18:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041136510
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12268 pesan): ~ 🕷️",
+        "content": ".bratgambar my besplen cakep bgd🫰🏻",
+        "time": "01/04 18:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041136436
+      },
       {
         "appName": "WhatsApp",
         "sender": "muh jusmin",
@@ -8048,22 +8064,6 @@
         "time": "01/04 18:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040571040
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14483 pesan dari 11 chat",
-        "time": "01/04 18:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040570522
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12135 pesan): ~ Bot",
-        "content": "🎮 FAMILY100\n\nTanda Mau Turun Hujan\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 18:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040570419
       }
     ],
     "galleryPhotos": [],
