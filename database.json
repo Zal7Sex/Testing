@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775039580975,
+    "lastSeen": 1775039583972,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (92 pesan): ~ amz own lin own mario",
+        "content": "vote gc juragan",
+        "time": "01/04 18:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039585225
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
