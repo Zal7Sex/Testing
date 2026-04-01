@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15755 pesan dari 10 chat",
+        "time": "01/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045985723
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13556 pesan): ~ mika",
         "content": ". Limit",
         "time": "01/04 20:19",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045316335
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 20:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045316224
       }
     ],
     "galleryPhotos": [],
