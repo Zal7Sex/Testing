@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13293 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: pesan minuman\n\nSelamat kepada @⁨~Fegg⁩! 🎉\n🎁 Kamu mendapatkan hadiah +3 Limit Bot!",
+        "time": "01/04 20:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044923368
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13292 pesan): ~ Fegg",
+        "content": "pesan minuman",
+        "time": "01/04 20:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044921164
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15539 pesan dari 10 chat",
+        "time": "01/04 20:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044921113
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13291 pesan): ~ Bot",
         "content": "📷 🎮 TEBAKGAMBAR\n\nGambar pesan dalam telepon, orang minum, dan huruf AN.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
         "time": "01/04 20:01",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044411948
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15396 pesan dari 10 chat",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044410984
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13130 pesan): ~ r",
-        "content": "lagi",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044410849
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15395 pesan dari 10 chat",
-        "time": "01/04 19:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044409164
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775044919407,
+    "lastSeen": 1775044922478,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
