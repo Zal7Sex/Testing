@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1581 pesan dari 14 chat",
+        "time": "02/04 00:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775061437196
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (257 pesan): ~ Ubill",
         "content": "Iya",
         "time": "02/04 00:37",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1775058531780
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (12 pesan): ~ Zal7Sex",
-        "content": "serah gw lah jir, suka suka gw, duit\" gw bukan punya Mak lu, hidup komen Mulu punya kaga 😂",
-        "time": "01/04 23:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775058531725
       }
     ],
     "galleryPhotos": [],
