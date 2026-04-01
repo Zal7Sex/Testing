@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045937662,
+    "lastSeen": 1775045940669,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13550 pesan): ~ mika",
+        "content": "Pecah peperangan",
+        "time": "01/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045941185
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (93 pesan): ~ Dark Chocolate 🍫👅",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045291975
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 20:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045291933
       }
     ],
     "galleryPhotos": [],
