@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775041276199,
+    "lastSeen": 1775041279187,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12292 pesan): ~ 🕷️",
+        "content": ".bratgambar kasiann",
+        "time": "01/04 19:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041281147
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14627 pesan dari 11 chat",
+        "time": "01/04 19:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041276433
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12291 pesan): ~ Fegg",
@@ -4003,22 +4019,6 @@
         "time": "01/04 18:50",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040653730
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (94 pesan): ~ amz own lin own mario",
-        "content": "mana cok yang vote banyak",
-        "time": "01/04 18:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040650866
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14514 pesan dari 11 chat",
-        "time": "01/04 18:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040650837
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775041276219,
+    "lastSeen": 1775041279954,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14627 pesan dari 11 chat",
+        "time": "01/04 19:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775041276414
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12291 pesan): ~ Fegg",
@@ -8056,14 +8064,6 @@
         "time": "01/04 18:50",
         "pkg": "com.whatsapp",
         "receivedAt": 1775040650847
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (94 pesan): ~ amz own lin own mario",
-        "content": "mana cok yang vote banyak",
-        "time": "01/04 18:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775040650767
       }
     ],
     "galleryPhotos": [],
