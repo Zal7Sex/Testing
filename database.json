@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044385271,
+    "lastSeen": 1775044386473,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15390 pesan dari 10 chat",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044387689
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13124 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: kadang kita perlu belajar dari kesalahan\n\nSelamat kepada @⁨~Fegg⁩! 🎉\n🎁 Kamu mendapatkan hadiah +1 Limit Bot!",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044387607
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13123 pesan): ~ Fegg",
+        "content": "kadang kita perlu belajar dari kesalahan",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044385504
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15389 pesan dari 10 chat",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044385467
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
@@ -3987,38 +4019,6 @@
         "time": "01/04 19:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043863066
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15235 pesan dari 10 chat",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043861246
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12961 pesan): ~ ipaa୨୧|| `𝟔𝟐𝟔",
-        "content": ".brat ipa istrinya zhangchi🤍💕",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043861166
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15234 pesan dari 10 chat",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043854854
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12960 pesan): ~ 🙇🏻‍♀️",
-        "content": ".brat oi prendd mbr epep yuuuu 😜👈🏻",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043854794
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13123 pesan): ~ Fegg",
+        "content": "kadang kita perlu belajar dari kesalahan",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044385540
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043861207
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15234 pesan dari 10 chat",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043854875
       }
     ],
     "galleryPhotos": [],
