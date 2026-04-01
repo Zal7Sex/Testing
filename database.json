@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1400 pesan dari 14 chat",
+        "time": "01/04 23:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775057295036
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1021 pesan): ~ nyta",
         "content": "Jenis pesan tidak diketahui",
         "time": "01/04 23:28",
@@ -4011,14 +4019,6 @@
         "time": "01/04 23:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1775056556204
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1274 pesan dari 14 chat",
-        "time": "01/04 23:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056552740
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1401 pesan dari 14 chat",
+        "time": "01/04 23:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775057298208
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1775056556232
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (897 pesan): ~ nok ngmbce ank ask",
-        "content": ". brat kamu belum bobo?",
-        "time": "01/04 23:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056556217
       }
     ],
     "galleryPhotos": [],
