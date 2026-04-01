@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎877 pesan dari 13 chat",
+        "time": "01/04 22:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775054254009
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (514 pesan): ~ 🕷️",
         "content": "BUKAN TERNYATA",
         "time": "01/04 22:37",
@@ -4011,14 +4019,6 @@
         "time": "01/04 22:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1775053427803
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (370 pesan): ~ Fegg",
-        "content": "wujud asli siapa ini",
-        "time": "01/04 22:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775053427618
       }
     ],
     "galleryPhotos": [],
