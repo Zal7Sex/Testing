@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1440 pesan dari 14 chat",
+        "time": "01/04 23:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775057512693
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1057 pesan): ~ Bot",
+        "content": "Kenapa nih, buttleafrlies? Kok \"aelah\" gitu? 😅 Lagi ada yang bikin kesel atau gimana? Sini cerita coba, siapa tau aku bisa bantu bikin mood jadi lebih baik! 😁",
+        "time": "01/04 23:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775057512680
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1056 pesan): ~ buttleafrlies",
         "content": "AELAH",
         "time": "01/04 23:31",
@@ -4003,22 +4019,6 @@
         "time": "01/04 23:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1775056815712
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus ( Full Update ) (11 pesan): ~ <>",
-        "content": "Tq😍",
-        "time": "01/04 23:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056815683
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1303 pesan dari 14 chat",
-        "time": "01/04 23:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775056811786
       }
     ],
     "galleryPhotos": [],
