@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1606 pesan dari 14 chat",
+        "time": "02/04 01:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775064269677
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (271 pesan): ~ Kyy X Nasgor",
         "content": "pake 62",
         "time": "02/04 01:24",
@@ -8056,14 +8064,6 @@
         "time": "02/04 00:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1775059384177
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (26 pesan): ~ kanjn",
-        "content": "Ss saldo",
-        "time": "02/04 00:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775059384116
       }
     ],
     "galleryPhotos": [],
