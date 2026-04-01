@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1176 pesan dari 14 chat",
+        "time": "01/04 23:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775056175737
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (796 pesan): ~ ⛦jean_",
         "content": "💟 Stiker",
         "time": "01/04 23:09",
@@ -4011,14 +4019,6 @@
         "time": "01/04 22:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1775055229307
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1047 pesan dari 13 chat",
-        "time": "01/04 22:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775055224035
       }
     ],
     "galleryPhotos": [],
