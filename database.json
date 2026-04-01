@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046731906,
+    "lastSeen": 1775046734871,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13728 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046737175
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13727 pesan): ~ idk",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046732174
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15889 pesan dari 10 chat",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046732157
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (248 pesan): ~ DEWANGGA",
@@ -3995,30 +4019,6 @@
         "time": "01/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046100011
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15775 pesan dari 10 chat",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046098843
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (94 pesan): ~ WINZX [3648]",
-        "content": "🔗 22 FEE 2K K PP 6K | https://chat.whatsapp.com/CLRXqFJ9YbrGmt7YNUrRaF?mode=gi_t\n\n-1 gc geseran lagi jan php",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046098773
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13577 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046097524
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775046730786,
+    "lastSeen": 1775046736678,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15889 pesan dari 10 chat",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046732201
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13727 pesan): ~ idk",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046098856
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (94 pesan): ~ WINZX [3648]",
-        "content": "🔗 22 FEE 2K K PP 6K | https://chat.whatsapp.com/CLRXqFJ9YbrGmt7YNUrRaF?mode=gi_t\n\n-1 gc geseran lagi jan php",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046098789
       }
     ],
     "galleryPhotos": [],
