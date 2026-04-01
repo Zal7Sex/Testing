@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1093 pesan dari 13 chat",
+        "time": "01/04 22:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775055560286
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (716 pesan): ~ jiyo di panggil nyaut",
         "content": ". brathd love u bbehh",
         "time": "01/04 22:59",
@@ -4011,14 +4019,6 @@
         "time": "01/04 22:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1775054812757
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus ( Full Update ) (11 pesan): ~ <>",
-        "content": "Tq😍",
-        "time": "01/04 22:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775054812731
       }
     ],
     "galleryPhotos": [],
