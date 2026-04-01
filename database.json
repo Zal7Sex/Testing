@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043227575,
+    "lastSeen": 1775043230587,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12772 pesan): ~ Fegg",
+        "content": "mobilang pameran",
+        "time": "01/04 19:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043231219
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042659053
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12588 pesan): ~ Dapa",
-        "content": ".brat awas aja lu",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042659005
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12772 pesan): ~ Fegg",
+        "content": "mobilang pameran",
+        "time": "01/04 19:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043231232
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12771 pesan): ~ Bot",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042659537
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14868 pesan dari 10 chat",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042659068
       }
     ],
     "galleryPhotos": [],
