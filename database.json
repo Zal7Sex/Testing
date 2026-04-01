@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043266634,
+    "lastSeen": 1775043272545,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15012 pesan dari 9 chat",
+        "time": "01/04 19:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043273876
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12786 pesan): ~ 🕷️",
+        "content": "💟 Stiker",
+        "time": "01/04 19:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043273846
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "01/04 19:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043273038
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12785 pesan): ~ Fegg",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042690983
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12605 pesan): ~ r",
-        "content": "ah apanitu",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042690903
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14877 pesan dari 10 chat",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042688215
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12604 pesan): ~ Dapa",
-        "content": "💟 Stiker",
-        "time": "01/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042688205
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775043267742,
+    "lastSeen": 1775043273749,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
