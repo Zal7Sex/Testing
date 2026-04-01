@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775040444809,
+    "lastSeen": 1775040447784,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -2273,7 +2273,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775040445360,
+    "lastSeen": 1775040448445,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -2289,6 +2289,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ISIAN ZAYN X OWN [2] (1903 pesan): ~ Putz",
+        "content": "`PUTZ ON MC 24 JAM⏰`\nOPEN MC ISIAN💸\n-FAST RESPON⚡\n-TF KILAT ANTI NGARET🚀\n-ALL PAY NO PAJAK👀\n-EVENT WS? ADA WOK GASKEN🤑\n-CARIIN MUSUH? PM AJA\n`#MC CULIK/SEND LINK KE PM`\n\nCULIK BUB PUTZ LAGI LIMIT",
+        "time": "01/04 18:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775040446325
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ISIAN ZAYN X OWN [6] (91 pesan): ~ dikzz [own Zayn gb8 x PT bomo]",
