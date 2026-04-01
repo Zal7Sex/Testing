@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14392 pesan dari 11 chat",
+        "time": "01/04 18:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039727773
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12045 pesan): ~ p!nz",
         "content": "ange",
         "time": "01/04 18:35",
@@ -365,6 +373,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14392 pesan dari 11 chat",
+        "time": "01/04 18:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039727915
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12045 pesan): ~ p!nz",
