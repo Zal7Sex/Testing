@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1555 pesan dari 14 chat",
+        "time": "01/04 23:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775059097001
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (6 pesan): ~ toko fadly",
         "content": "ALL",
         "time": "01/04 23:58",
@@ -8056,14 +8064,6 @@
         "time": "01/04 23:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1775057418636
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (2 pesan): ~ Bimm.",
-        "content": "087898838081",
-        "time": "01/04 23:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775057415015
       }
     ],
     "galleryPhotos": [],
