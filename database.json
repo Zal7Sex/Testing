@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046680834,
+    "lastSeen": 1775046683899,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13716 pesan): ~ Fegg",
+        "content": "berdo berdo lanas",
+        "time": "01/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046685339
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13715 pesan): ~ 🕷️",
+        "content": "download",
+        "time": "01/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046683842
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15876 pesan dari 10 chat",
+        "time": "01/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046683781
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "01/04 20:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045996354
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045996246
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (248 pesan): ~ DEWANGGA",
-        "content": "Cuy",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045996191
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045995803
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13715 pesan): ~ 🕷️",
+        "content": "download",
+        "time": "01/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046683748
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15876 pesan dari 10 chat",
+        "time": "01/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046683727
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045996152
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (4 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045995911
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (3 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045995829
       }
     ],
     "galleryPhotos": [],
