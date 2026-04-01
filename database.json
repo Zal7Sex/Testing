@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775039805964,
+    "lastSeen": 1775039807683,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12053 pesan): ~ p!nz",
+        "content": "Tante acu mana yach",
+        "time": "01/04 18:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039809732
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12052 pesan): ~ ayi imut",
+        "content": "💟 Stiker",
+        "time": "01/04 18:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039807540
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -885,6 +901,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12053 pesan): ~ p!nz",
+        "content": "Tante acu mana yach",
+        "time": "01/04 18:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039809818
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14397 pesan dari 11 chat",
+        "time": "01/04 18:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775039807579
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12052 pesan): ~ ayi imut",
