@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14657 pesan dari 10 chat",
+        "time": "01/04 21:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775051269254
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (14309 pesan): ~ ୨ৎ✿sapa_imupp✿୨ৎ",
         "content": "Dia habis on??",
         "time": "01/04 21:47",
@@ -8056,14 +8064,6 @@
         "time": "01/04 21:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1775050305841
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (4 pesan): ~ Call Me Zal7Sex",
-        "content": "🔗 TikTok · — Zal Infinity | penuhkan komen #Zal7Sex kalo mau apk ga maintenance😈\n\nlink video\nhttps://vt.tiktok.com/ZSHjYWLJT",
-        "time": "01/04 21:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775050305714
       }
     ],
     "galleryPhotos": [],
