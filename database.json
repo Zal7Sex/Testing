@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1187 pesan): ~ Bot",
+        "content": "📷 ╭╼─┈───┈──⏣\n┆▣ Channel : SMTOWN\n┆▣ Durasi : 3:51\n┆▣ Views : 75079753\n┆▣ Upload : 3y ago\n╰─╼𔕬─┈───┈──⏣",
+        "time": "02/04 06:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080888910
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1657 pesan dari 14 chat",
         "time": "02/04 06:01",
@@ -4011,14 +4019,6 @@
         "time": "02/04 01:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1775063802744
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (23 pesan): ~ 𝐙𝐈𝐋 𝐀𝐉𝐀𝐀𝐀",
-        "content": "on culik",
-        "time": "02/04 01:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775063802625
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1658 pesan dari 14 chat",
+        "time": "02/04 06:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080888949
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (1186 pesan): ~ buttleafrlies",
@@ -8056,14 +8064,6 @@
         "time": "02/04 01:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1775063802706
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (23 pesan): ~ 𝐙𝐈𝐋 𝐀𝐉𝐀𝐀𝐀",
-        "content": "on culik",
-        "time": "02/04 01:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775063802660
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775080883083,
+    "lastSeen": 1775080885943,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
