@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775046650778,
+    "lastSeen": 1775046653810,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13709 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 20:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046655610
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13708 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "01/04 20:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046652925
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎🇫🇮GB OPTEST XEMETRIX ELITE🇫🇮 (49 pesan): ~ ?",
@@ -4003,22 +4019,6 @@
         "time": "01/04 20:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045957412
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15750 pesan dari 10 chat",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045957195
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (13551 pesan): ~ mika",
-        "content": "Pecah peperangan",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045957153
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15869 pesan dari 10 chat",
+        "time": "01/04 20:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775046655670
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13708 pesan): ~ Bot",
@@ -8056,14 +8064,6 @@
         "time": "01/04 20:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1775045957396
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15750 pesan dari 10 chat",
-        "time": "01/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775045957183
       }
     ],
     "galleryPhotos": [],
