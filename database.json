@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775047999307,
+    "lastSeen": 1775048002406,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775047998491,
+    "lastSeen": 1775048001498,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (13847 pesan): +62 831-1989-2351",
+        "content": ".menu",
+        "time": "01/04 20:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048004342
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14375 pesan dari 10 chat",
+        "time": "01/04 20:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775048000993
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (13846 pesan): ~ cewek bauti 👅☝🏻",
@@ -8048,22 +8064,6 @@
         "time": "01/04 20:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1775046674038
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎LANGGANAN FT CEES 500P-5K BY WINZX [1] (95 pesan): ~ Dark Chocolate 🍫👅",
-        "content": "Kalo 11 5v gas",
-        "time": "01/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046673952
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎15872 pesan dari 10 chat",
-        "time": "01/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775046670829
       }
     ],
     "galleryPhotos": [],
