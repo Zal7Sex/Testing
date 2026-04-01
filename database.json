@@ -4067,6 +4067,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (244 pesan): ~ Dapa",
+        "content": "Ngusir lu yak",
+        "time": "01/04 22:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775052656389
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎593 pesan dari 12 chat",
         "time": "01/04 22:10",
@@ -8056,14 +8064,6 @@
         "time": "01/04 22:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1775052003940
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (105 pesan): ~ syafa karamoy",
-        "content": "aku martabak nya",
-        "time": "01/04 22:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775052001740
       }
     ],
     "galleryPhotos": [],
