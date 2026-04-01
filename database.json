@@ -4,7 +4,7 @@
     "deviceName": "HP-AIM-7C2F",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "5c459e8712f2a7ee2b4192ea89156763",
-    "lastSeen": 1775042588160,
+    "lastSeen": 1775042594060,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:32:40.020Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14847 pesan dari 10 chat",
+        "time": "01/04 19:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042595419
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12565 pesan): ~ airen anak orang",
+        "content": ".bratvid don't call me darling\nI'm toOoO RUDE!",
+        "time": "01/04 19:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042595327
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎main botwiee bersama (12564 pesan): ~ Bot",
+        "content": "✅ Jawaban Benar! \nJawabannya adalah: jam kerja\n\nSelamat kepada @⁨~🕷️⁩! 🎉\n🎁 Kamu mendapatkan hadiah +3 Limit Bot!",
+        "time": "01/04 19:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042589972
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14846 pesan dari 10 chat",
+        "time": "01/04 19:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042589945
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12563 pesan): ~ r",
@@ -3987,38 +4019,6 @@
         "time": "01/04 19:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041996265
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12411 pesan): ~ Fegg",
-        "content": ". bratgambar kaisze🤍🩵❤️",
-        "time": "01/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041993889
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14735 pesan dari 11 chat",
-        "time": "01/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041992868
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12410 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041949750
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎14735 pesan dari 11 chat",
-        "time": "01/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041949717
       }
     ],
     "galleryPhotos": [],
@@ -4049,7 +4049,7 @@
     "deviceName": "HP-AIM-22BD",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "ee7716168abf03ae6470b12578967076",
-    "lastSeen": 1775042589114,
+    "lastSeen": 1775042595030,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-01T10:33:59.233Z",
@@ -4065,6 +4065,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎14846 pesan dari 10 chat",
+        "time": "01/04 19:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775042589901
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎main botwiee bersama (12564 pesan): ~ Bot",
@@ -8056,14 +8064,6 @@
         "time": "01/04 19:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1775041992783
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎main botwiee bersama (12410 pesan): ~ Bot",
-        "content": "💟 Stiker",
-        "time": "01/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775041949780
       }
     ],
     "galleryPhotos": [],
