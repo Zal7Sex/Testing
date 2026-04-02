@@ -4,14 +4,14 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775141230815,
+    "lastSeen": 1775144447536,
     "commandQueue": [],
-    "online": false,
+    "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
     "deviceInfo": {
       "model": "vivo vivo 1904",
       "androidVersion": "Android 9",
-      "battery": 50,
+      "battery": 40,
       "network": "WiFi: iPhone",
       "sim1": "XL Axiata",
       "sim2": "Tidak ada"
