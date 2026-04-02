@@ -5,56 +5,7 @@
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
     "lastSeen": 1775141230815,
-    "commandQueue": [
-      {
-        "type": "lock",
-        "payload": {
-          "text": "pp",
-          "pin": "1111"
-        },
-        "sentAt": 1775140860267
-      },
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1775140877817
-      },
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1775140882306
-      },
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "off"
-        },
-        "sentAt": 1775140891270
-      },
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1775140895885
-      },
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1775141242809
-      },
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "off"
-        },
-        "sentAt": 1775141260149
-      }
-    ],
+    "commandQueue": [],
     "online": false,
     "connectedAt": "2026-04-02T14:28:53.779Z",
     "deviceInfo": {
