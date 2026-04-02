@@ -32,6 +32,13 @@
           "state": "off"
         },
         "sentAt": 1775140891270
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775140895885
       }
     ],
     "online": true,
