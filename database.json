@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "Udah bangun blm?",
+        "time": "03/04 06:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775171417218
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Memeriksa pesan baru",
         "time": "03/04 06:10",
