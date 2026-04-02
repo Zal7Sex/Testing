@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Yogi",
+        "content": "Pesan ini dihapus",
+        "time": "02/04 09:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775096571986
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Memeriksa pesan baru",
         "time": "02/04 09:22",
