@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775228882424,
+    "lastSeen": 1775228894459,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7703,6 +7703,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "capel",
+        "content": "‎6 pesan baru",
+        "time": "03/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228883645
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎capel (6 pesan): iman",
+        "content": "haa iyaa apa pak dela sit lagi nguyuh yak yak nko haa madang miki wis",
+        "time": "03/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228883616
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "SENN STORE REAL",
+        "content": "📷 #158 NEXT MC? CULIK AJA BOS\nJP FREE? AMBIL FORMAT KE PM",
+        "time": "03/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228882846
+      },
       {
         "appName": "WhatsApp",
         "sender": "SENN STORE REAL",
