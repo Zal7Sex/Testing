@@ -21,6 +21,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "Mode tidur",
+        "content": "uswah_032512 mengirim pesan kepada Anda.",
+        "time": "03/04 07:02",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1775174522341
+      },
+      {
         "appName": "WhatsApp",
         "sender": "🤍",
         "content": "‎5 pesan baru",
