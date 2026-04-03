@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775228116953,
+    "lastSeen": 1775228128937,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7703,6 +7703,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "@⁨Meta AI⁩ ngewe yuk",
+        "time": "03/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228129024
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "‎2 pesan baru",
+        "time": "03/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228129014
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "😅 Ngewe itu bahasa gaul buat \"berhubungan intim\" atau \"sex\". Ada konteks tertentu yang kamu maksud?",
+        "time": "03/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228119219
+      },
       {
         "appName": "WhatsApp",
         "sender": "Meta AI",
