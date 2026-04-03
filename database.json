@@ -21,6 +21,22 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "uswah_032512 dan 7 lainnya",
+        "content": "Berita baru",
+        "time": "03/04 16:38",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1775209131419
+      },
+      {
+        "appName": "Instagram",
+        "sender": "uswatun hasanh",
+        "content": "Cerita baru",
+        "time": "03/04 16:38",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1775209131406
+      },
+      {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Memeriksa pesan baru",
