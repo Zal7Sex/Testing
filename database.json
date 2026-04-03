@@ -2793,6 +2793,14 @@
       {
         "appName": "WhatsApp",
         "sender": "[ dani ]",
+        "content": "Pesan baru dari 3 chat",
+        "time": "03/04 14:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201655082
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ dani ]",
         "content": "Pesan baru dari 2 chat",
         "time": "03/04 14:34",
         "pkg": "com.whatsapp",
@@ -6781,14 +6789,6 @@
         "time": "03/04 14:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1775200986241
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1080 pesan dari 3 chat",
-        "time": "03/04 14:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775200974679
       }
     ],
     "galleryPhotos": [],
