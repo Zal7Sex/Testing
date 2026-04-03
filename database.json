@@ -2766,7 +2766,7 @@
     "deviceName": "HP-FREE-E7C4",
     "ownerUsername": "rian",
     "token": "3edb01b0f7a259097d52c5b4fdd50348",
-    "lastSeen": 1775201094534,
+    "lastSeen": 1775201097657,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T07:22:21.597Z",
@@ -2782,6 +2782,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎296 pesan dari 2 chat",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201098496
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐆𝐁 𝐈𝐒𝐈𝐀𝐍 𝐊𝐢𝐧𝐠 𝐑𝐢𝐜𝐲 [1] (132 pesan): ~ ragil",
+        "content": "11 1k allskin no mobi makro pc andro only",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201098226
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐆𝐁 𝐈𝐒𝐈𝐀𝐍 𝐊𝐢𝐧𝐠 𝐑𝐢𝐜𝐲 [1] (131 pesan): ~ nopall",
+        "content": "22 2-3k kayu fpt",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201098112
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎295 pesan dari 2 chat",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201098032
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗞𝗨𝗪𝗢 𝗫 𝗞𝗜𝗡𝗚 𝗥𝗜𝗖𝗬 #𝟮 (164 pesan): ~ hamiddun15",
+        "content": "11 5 f PT nvmtps no mobi makro PC Andro only",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201097477
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
