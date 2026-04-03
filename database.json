@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775226252648,
+    "lastSeen": 1775226261511,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7687,7 +7687,7 @@
     "deviceName": "HP-FREE-E66C",
     "ownerUsername": "rian",
     "token": "7c40312663da19aa0afa5e0005207a47",
-    "lastSeen": 1775226255758,
+    "lastSeen": 1775226258876,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T14:23:08.255Z",
@@ -7702,7 +7702,40 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "‎2 pesan baru",
+        "time": "03/04 21:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775226261637
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "nonton ongkek yuh",
+        "time": "03/04 21:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775226261488
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "lip",
+        "time": "03/04 21:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775226256754
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "lip",
+        "time": "03/04 21:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775226256638
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
