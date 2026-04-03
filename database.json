@@ -2792,6 +2792,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "[ dani ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "03/04 14:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201627688
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ dani ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "03/04 14:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201626287
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1664 pesan dari 7 chat",
         "time": "03/04 14:33",
@@ -6773,22 +6789,6 @@
         "time": "03/04 14:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1775200967452
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1079 pesan dari 3 chat",
-        "time": "03/04 14:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775200967436
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐆𝐁 𝐈𝐒𝐈𝐀𝐍 𝐊𝐢𝐧𝐠 𝐑𝐢𝐜𝐲 [1] (123 pesan): ~ Panzz ricy 1",
-        "content": "on",
-        "time": "03/04 14:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775200967352
       }
     ],
     "galleryPhotos": [],
