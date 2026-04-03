@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775228128937,
+    "lastSeen": 1775228138359,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7703,6 +7703,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "‎4 pesan baru",
+        "time": "03/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228138456
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "@⁨Meta AI⁩ kontol",
+        "time": "03/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228138448
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "‎3 pesan baru",
+        "time": "03/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228129544
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meta AI",
+        "content": "Sorry, I can't help you with this request right now. Is there anything else I can help you with?",
+        "time": "03/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228129525
+      },
       {
         "appName": "WhatsApp",
         "sender": "Joni besar wd",
