@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "03/04 17:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775213299424
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "🤍",
         "content": "Apa?",
         "time": "03/04 17:45",
