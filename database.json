@@ -21,6 +21,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "uswah_032512 dan 7 lainnya",
+        "content": "Berita baru",
+        "time": "03/04 14:28",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1775201304123
+      },
+      {
         "appName": "WhatsApp",
         "sender": "+62 896-7928-3026",
         "content": "P",
@@ -2782,6 +2790,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎347 pesan dari 2 chat",
+        "time": "03/04 14:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201301384
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗚𝗕 𝗜𝗦𝗜𝗔𝗡 𝗞𝗨𝗪𝗢 𝗫 𝗞𝗜𝗡𝗚 𝗥𝗜𝗖𝗬 #𝟮 (177 pesan): ~ a90325530",
+        "content": "9,5",
+        "time": "03/04 14:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201301367
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝐆𝐁 𝐈𝐒𝐈𝐀𝐍 𝐊𝐢𝐧𝐠 𝐑𝐢𝐜𝐲 [1]",
