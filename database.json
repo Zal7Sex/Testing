@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "🤍",
+        "content": "Mati in yaaa",
+        "time": "03/04 15:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775205510136
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎4 pesan dari 2 chat",
         "time": "03/04 15:38",
