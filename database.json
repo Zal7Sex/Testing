@@ -2792,6 +2792,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎348 pesan dari 2 chat",
+        "time": "03/04 14:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201311031
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐆𝐁 𝐈𝐒𝐈𝐀𝐍 𝐊𝐢𝐧𝐠 𝐑𝐢𝐜𝐲 [1] (171 pesan): ~ .",
         "content": "Npt kayuan",
         "time": "03/04 14:28",
