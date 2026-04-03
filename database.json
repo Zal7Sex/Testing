@@ -21,6 +21,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "uswatun hasanh",
+        "content": "📹 Mengirim reel kepada Anda",
+        "time": "03/04 10:24",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1775186689345
+      },
+      {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Memeriksa pesan baru",
