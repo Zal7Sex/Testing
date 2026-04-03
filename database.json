@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775228414125,
+    "lastSeen": 1775228417122,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7703,6 +7703,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meta AI",
+        "content": "Kayaknya ada suara yang kamu dengar, tapi gak jelas apa 😅. Bisa lebih jelas lagi? Suara apa itu?",
+        "time": "03/04 22:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228418825
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "@⁨Meta AI⁩ suara ap ini",
+        "time": "03/04 22:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228417011
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "@⁨Meta AI⁩ suara ap ini",
+        "time": "03/04 22:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775228416994
+      },
       {
         "appName": "WhatsApp",
         "sender": "Joni besar wd",
