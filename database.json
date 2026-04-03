@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775226886000,
+    "lastSeen": 1775226889084,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7687,14 +7687,14 @@
     "deviceName": "HP-FREE-E66C",
     "ownerUsername": "rian",
     "token": "7c40312663da19aa0afa5e0005207a47",
-    "lastSeen": 1775226886247,
+    "lastSeen": 1775226891106,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T14:23:08.255Z",
     "deviceInfo": {
       "model": "INFINIX Infinix X6882",
       "androidVersion": "Android 14",
-      "battery": 43,
+      "battery": 41,
       "network": "WiFi: WAHYONO 5G",
       "sim1": "Tidak ada layanan",
       "sim2": "Tidak ada"
@@ -7703,6 +7703,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Joni besar wd",
+        "content": "50k",
+        "time": "03/04 21:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775226888608
+      },
       {
         "appName": "WhatsApp",
         "sender": "Joni besar wd",
