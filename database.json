@@ -2766,7 +2766,7 @@
     "deviceName": "HP-FREE-E7C4",
     "ownerUsername": "rian",
     "token": "3edb01b0f7a259097d52c5b4fdd50348",
-    "lastSeen": 1775201163562,
+    "lastSeen": 1775201169545,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T07:22:21.597Z",
@@ -2782,6 +2782,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Kyvrenn | Drip Client x Pato Team OP (807 pesan): ~ pandu",
+        "content": "P",
+        "time": "03/04 14:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775201169682
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
