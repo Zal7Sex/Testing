@@ -9657,13 +9657,7 @@
     "ownerUsername": "BLAY VIP",
     "token": "912f9e8e364583cc76d6253d9fb739b4",
     "lastSeen": 1775320944496,
-    "commandQueue": [
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1775320982234
-      }
-    ],
+    "commandQueue": [],
     "online": false,
     "connectedAt": "2026-04-04T16:37:17.557Z",
     "deviceInfo": {
