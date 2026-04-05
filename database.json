@@ -11685,6 +11685,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "196 pesan baru dari 66 obrolan",
+        "time": "05/04 16:14",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775380482349
+      },
+      {
         "appName": "Instagram",
         "sender": "IBLIS MANIS",
         "content": "Cerita baru",
@@ -21492,7 +21500,7 @@
     "deviceName": "HP-ARDAN62011AYY6-F933",
     "ownerUsername": "ardan",
     "token": "c809a7fa3d8da7835b6ba602dd1fb8f6",
-    "lastSeen": 1775380464138,
+    "lastSeen": 1775380476106,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-05T09:08:45.077Z",
