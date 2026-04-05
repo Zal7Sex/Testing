@@ -11668,7 +11668,7 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "8db5c22ec43e944451c7043e662ffe1e",
-    "lastSeen": 1775353542249,
+    "lastSeen": 1775353548450,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-04T22:33:47.636Z",
@@ -18961,8 +18961,24 @@
         "phone": "+628819933538"
       }
     ],
-    "lastGps": null,
-    "gpsList": [],
+    "lastGps": {
+      "latitude": -7.292063333333334,
+      "longitude": 108.76507666666666,
+      "accuracy": 7.4,
+      "altitude": 102.2,
+      "provider": "gps",
+      "timestamp": 1775353550004
+    },
+    "gpsList": [
+      {
+        "latitude": -7.292063333333334,
+        "longitude": 108.76507666666666,
+        "accuracy": 7.4,
+        "altitude": 102.2,
+        "provider": "gps",
+        "timestamp": 1775353550004
+      }
+    ],
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
