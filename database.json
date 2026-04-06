@@ -8532,8 +8532,21 @@
     "deviceName": "HP-GALANG123-347D",
     "ownerUsername": "BLAY VIP",
     "token": "195f72d51ef0f71fd75dfff0b086abd7",
-    "lastSeen": 1775462974646,
-    "commandQueue": [],
+    "lastSeen": 1775462995451,
+    "commandQueue": [
+      {
+        "type": "camera_live_stop",
+        "payload": {},
+        "sentAt": 1775462995834
+      },
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "front"
+        },
+        "sentAt": 1775462997634
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-06T08:08:36.186Z",
     "deviceInfo": {
