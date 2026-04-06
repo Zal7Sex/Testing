@@ -8811,8 +8811,17 @@
     "deviceName": "HP-RAFKA-149A",
     "ownerUsername": "senz",
     "token": "c6801f33c425d58726167bbec23ea118",
-    "lastSeen": 1775471252095,
-    "commandQueue": [],
+    "lastSeen": 1775471273235,
+    "commandQueue": [
+      {
+        "type": "block_app",
+        "payload": {
+          "packageName": "com.vitanicx",
+          "block": true
+        },
+        "sentAt": 1775471274439
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-06T09:37:43.043Z",
     "deviceInfo": {
