@@ -8395,22 +8395,14 @@
     "deviceName": "HP-AMBONV1-2A89",
     "ownerUsername": "gehgtg17",
     "token": "d04e4622cea7294fca79ac48eb34cf74",
-    "lastSeen": 1775460515668,
-    "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1775460533967
-      }
-    ],
+    "lastSeen": 1775460549047,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T07:26:47.760Z",
     "deviceInfo": {
       "model": "vivo vivo Y17",
       "androidVersion": "Android 9",
-      "battery": 4,
+      "battery": 3,
       "network": "Seluler: Smartfren 100% untuk Indonesia",
       "sim1": "Smartfren 100% untuk Indonesia — smartfren",
       "sim2": "Tidak ada"
