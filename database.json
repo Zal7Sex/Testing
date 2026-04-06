@@ -8749,7 +8749,7 @@
     "token": "0234f6d17b04b16f14417a06572c9125",
     "lastSeen": 1775467888836,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-06T09:21:46.721Z",
     "deviceInfo": {
       "model": "Xiaomi 2409BRN2CY",
@@ -8781,7 +8781,7 @@
     "token": "39f5e4e941001722ba2ae89fe2c7db38",
     "lastSeen": 1775467675559,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-06T09:25:45.297Z",
     "deviceInfo": {
       "model": "OPPO CPH2473",
@@ -8811,7 +8811,7 @@
     "deviceName": "HP-RAFKA-149A",
     "ownerUsername": "senz",
     "token": "c6801f33c425d58726167bbec23ea118",
-    "lastSeen": 1775471161977,
+    "lastSeen": 1775471186393,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T09:37:43.043Z",
@@ -8836,6 +8836,2416 @@
     "lastAudio": null,
     "audioList": [],
     "lastAppUsage": null,
-    "appList": null
+    "appList": {
+      "apps": [
+        {
+          "packageName": "com.miui.screenrecorder",
+          "appName": "Rekam Layar",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack.tethering",
+          "appName": "Tethering",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.cameramind",
+          "appName": "CameraMind",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.amazon.mShop.android.shopping",
+          "appName": "Amazon Shopping",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.ims",
+          "appName": "ImsApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.subscriptions.red",
+          "appName": "Google One",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.cts.priv.ctsshim",
+          "appName": "com.android.cts.priv.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.youtube",
+          "appName": "YouTube",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "org.chromium.webapk.a2f252c9b9588588a_v2",
+          "appName": "VXZ CRASHER",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.ss.android.ugc.tiktok.livewallpaper",
+          "appName": "Wallpaper Video TickTock oleh TikTok",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.uwb.resources",
+          "appName": "System UWB Resources",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.corner",
+          "appName": "Potongan sudut",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.services",
+          "appName": "Android Services Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.double",
+          "appName": "Potongan ganda",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.agoda.mobile.consumer",
+          "appName": "Agoda",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.telephony",
+          "appName": "Penyimpanan Ponsel dan Pesan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.dynsystem",
+          "appName": "Dynamic System Updates",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.powerkeeper",
+          "appName": "Baterai dan performa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.googlequicksearchbox",
+          "appName": "Google",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "cn.wps.xiaomi.abroad.lite",
+          "appName": "Mi Doc Viewer (Didukung oleh WPS)",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.fm",
+          "appName": "Radio FM",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.qr",
+          "appName": "com.miui.qr.InfoApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice",
+          "appName": "Cell Broadcast Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.hexacrash",
+          "appName": "HexaCrash V2",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.calendar",
+          "appName": "Penyimpanan kalender",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.miui.home.launcher.res",
+          "appName": "android.miui.home.launcher.res",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.telephony",
+          "appName": "Telephony Assist",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.media",
+          "appName": "com.android.providers.media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.milink.service",
+          "appName": "Layanan interkonektivitas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.vitanicx",
+          "appName": "VITANICX V2",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.onetimeinitializer",
+          "appName": "Google One Time Init",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.shared",
+          "appName": "Android Shared Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.location.lppe.main",
+          "appName": "LPPe Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.simejikeyboard",
+          "appName": "Keyboard Facemoji",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.virtualmachine.res",
+          "appName": "com.android.virtualmachine.res",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.account",
+          "appName": "Akun Xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.phone.carriers.overlay.vodafone",
+          "appName": "com.miui.phone.carriers.overlay.vodafone",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpapercropper",
+          "appName": "com.android.wallpapercropper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.federatedcompute",
+          "appName": "com.google.android.federatedcompute",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.daerisoft.thespikerm",
+          "appName": "The Spike Volleyball battle",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.SettingsProviderResOverlay",
+          "appName": "com.mediatek.SettingsProviderResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "miui.systemui.plugin",
+          "appName": "Plug-in UI Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.telephony.overlay.miui",
+          "appName": "com.android.providers.telephony.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.mi_connect_service",
+          "appName": "Mi Connect",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.micloud.sdk",
+          "appName": "com.xiaomi.micloudsdk.SdkApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.systemuiresoverlay",
+          "appName": "com.mediatek.systemuiresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.server.deviceconfig.resources",
+          "appName": "com.google.android.server.deviceconfig.resources",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.updater",
+          "appName": "Pembaruan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.bluetooth.rro.device.config.overlay",
+          "appName": "com.xiaomi.bluetooth.rro.device.config.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay",
+          "appName": "com.android.wifi.resources.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.externalstorage",
+          "appName": "Penyimpanan Eksternal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.ygps",
+          "appName": "YGPS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.htmlviewer",
+          "appName": "HTML Viewer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.extraphoto",
+          "appName": "Bokeh",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.securityadd",
+          "appName": "Plugin layanan sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.networkstack.tethering.overlay",
+          "appName": "TetheringResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.companiondevicemanager",
+          "appName": "Pengelola Perangkat Pendamping",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.gallery",
+          "appName": "Galeri",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.mms.service",
+          "appName": "MmsService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.msa.global",
+          "appName": "msa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.downloads",
+          "appName": "Unduhan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.datachannel.service",
+          "appName": "DataChannel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.health.connect.backuprestore",
+          "appName": "com.google.android.health.connect.backuprestore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.payment",
+          "appName": "Mi Coin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.messaging",
+          "appName": "Message",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.securitycenter",
+          "appName": "Keamanan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.engineermode",
+          "appName": "EngineerMode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "ru.zdevs.zarchiver",
+          "appName": "ZArchiver",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.cellbroadcastuiresoverlay",
+          "appName": "com.mediatek.cellbroadcastuiresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.videoplayer",
+          "appName": "Mi Video",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.aiasst.vision",
+          "appName": "AI subtitles",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.configupdater",
+          "appName": "ConfigUpdater",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.lemon.lvoverseas",
+          "appName": "CapCut",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.providers.media.module",
+          "appName": "Pemilih media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller",
+          "appName": "com.google.android.overlay.modules.permissioncontroller",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.soundrecorder",
+          "appName": "Perekam",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.xiaomi.trustservice",
+          "appName": "MiTrustService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.avatarpicker",
+          "appName": "Pemilih Avatar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.safetyhub",
+          "appName": "Keselamatan Pribadi",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.guardprovider",
+          "appName": "Komponen keamanan sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nullx.xxo25",
+          "appName": "XX-O-25",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mi.globalbrowser",
+          "appName": "Mi Browser",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.ar.core",
+          "appName": "Google Play Services for AR",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.downloads.ui",
+          "appName": "Unduhan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.pacprocessor",
+          "appName": "PacProcessor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.simappdialog",
+          "appName": "Dialog Aplikasi SIM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.backup",
+          "appName": "Cadangan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.overlay.miui",
+          "appName": "com.android.settings.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.adservices.api",
+          "appName": "Privasi Iklan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.notification",
+          "appName": "Notifikasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.microsoftsdk.crossdeviceservicebroker",
+          "appName": "com.microsoftsdk.crossdeviceservicebroker",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.microsoft.skydrive",
+          "appName": "OneDrive",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.system.overlay",
+          "appName": "com.miui.system.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.micloudsync",
+          "appName": "MiCloudSync",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.hole",
+          "appName": "Potongan Lubang Kertas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.tall",
+          "appName": "Potongan tinggi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.daemon",
+          "appName": "System Daemon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.certinstaller",
+          "appName": "Pemasang Sertifikat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "app.bpjs.mobile",
+          "appName": "Mobile JKN",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.carrierconfig",
+          "appName": "com.android.carrierconfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.marvin.talkback",
+          "appName": "Android Accessibility Suite",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig.overlay.miui",
+          "appName": "com.android.carrierconfig.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.threebutton",
+          "appName": "3 Button Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.dialog",
+          "appName": "com.android.wifi.dialog",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.wifi.resources.xiaomi",
+          "appName": "com.google.android.wifi.resources.xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android",
+          "appName": "Sistem Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.contacts",
+          "appName": "Kontak dan pemanggil",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.huanji",
+          "appName": "Mi Mover",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.settings.rro.device.hide.statusbar.overlay",
+          "appName": "com.miui.settings.rro.device.hide.statusbar.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.miui.overlay",
+          "appName": "android.miui.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.securitycore",
+          "appName": "Plug-in fitur sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.sdksandbox",
+          "appName": "com.google.android.sdksandbox",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.preff.kb.xm",
+          "appName": "Emoji&Font Keyboard",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.egg",
+          "appName": "Android Easter Egg",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mms",
+          "appName": "Pesan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.mtp",
+          "appName": "Host MTP",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.nfc",
+          "appName": "Layanan NFC",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.ons",
+          "appName": "com.android.ons",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.stk",
+          "appName": "SIM Toolkit",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.backupconfirm",
+          "appName": "com.android.backupconfirm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.simactivate.service",
+          "appName": "Layanan Aktivasi SIM Xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.goodix.gftest",
+          "appName": "Fingerpirnt test",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.longcheertel.sarauth",
+          "appName": "SarUI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.touchservice",
+          "appName": "com.xiaomi.touchservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.phrase",
+          "appName": "Papan klip dan frasa umum",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.player",
+          "appName": "Musik",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.miservice",
+          "appName": "Layanan & masukan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.provision",
+          "appName": "Ketentuan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.statementservice",
+          "appName": "Intent Filter Verification Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.as",
+          "appName": "Android System Intelligence",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gm",
+          "appName": "Gmail",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "myfiles.filemanager.fileexplorer.cleaner",
+          "appName": "Pembersih telepon",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.compos.payload",
+          "appName": "CompOS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.system",
+          "appName": "com.miui.internal.app.SystemApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.tachyon",
+          "appName": "Meet",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.mdmlsample",
+          "appName": "MDMLSample",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.common",
+          "appName": "com.google.android.overlay.gmsconfig.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.systemui",
+          "appName": "com.android.overlay.systemui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.networkstack.overlay",
+          "appName": "NetworkStackResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.cleaner",
+          "appName": "Pembersih",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.intelligence",
+          "appName": "Saran Setelan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.frameworkresoverlay",
+          "appName": "com.mediatek.frameworkresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.block.juggle",
+          "appName": "Block Blast!",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.global.packageinstaller",
+          "appName": "Package installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.managedprovisioning.overlay",
+          "appName": "com.android.managedprovisioning.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmscontactprovider",
+          "appName": "com.android.overlay.gmscontactprovider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.miwallpaper.overlay.customize",
+          "appName": "com.miui.miwallpaper.overlay.customize",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.debug.loggerui",
+          "appName": "DebugLoggerUI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmssettingprovider",
+          "appName": "com.android.overlay.gmssettingprovider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.accessibility.accessibilitymenu",
+          "appName": "com.android.systemui.accessibility.accessibilitymenu",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller",
+          "appName": "Pengontrol izin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.systemui.devices.overlay",
+          "appName": "DevicesOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.compass",
+          "appName": "Kompas",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.setupwizard",
+          "appName": "Penyiapan Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.aod",
+          "appName": "Ubah Layar kunci",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.rom",
+          "appName": "com.miui.rom",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miuix.editor",
+          "appName": "textaction",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.android.fashiongallery",
+          "appName": "Komedi putar Wallpaper",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.settings",
+          "appName": "Setelan Penyimpanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.miravision.ui",
+          "appName": "MiraVision",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.sharedstoragebackup",
+          "appName": "com.android.sharedstoragebackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.services",
+          "appName": "Meta Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mi.appfinder",
+          "appName": "AppFinder",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.printspooler",
+          "appName": "Print Spooler",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.misound",
+          "appName": "Earphone",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "org.ifaa.aidl.manager",
+          "appName": "IFAAService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.dreams.basic",
+          "appName": "Lamunan Dasar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.phone.overlay",
+          "appName": "com.xiaomi.phone.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.ext.services",
+          "appName": "com.google.android.overlay.modules.ext.services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.as.oss",
+          "appName": "Private Compute Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.incallui",
+          "appName": "Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.gesture.line.overlay",
+          "appName": "com.android.systemui.gesture.line.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.bugreport",
+          "appName": "Masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.se",
+          "appName": "SecureElementApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.inputdevices",
+          "appName": "Perangkat Masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.wellbeing",
+          "appName": "Kesehatan Digital",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fido.asm",
+          "appName": "FIDO UAF1.0 ASM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.rkpdapp",
+          "appName": "RemoteProvisioner",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.photos",
+          "appName": "com.google.android.overlay.gmsconfig.photos",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.devicelockcontroller",
+          "appName": "DeviceLockController",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bips",
+          "appName": "Layanan pencetakan sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek",
+          "appName": "com.mediatek",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.captiveportallogin",
+          "appName": "Login Captive Portal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.lazada.android",
+          "appName": "Lazada",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.duraspeed",
+          "appName": "DuraSpeed",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.geotz",
+          "appName": "com.google.android.overlay.gmsconfig.geotz",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.appsearch.apk",
+          "appName": "com.google.android.appsearch.apk",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.ambient.streaming",
+          "appName": "Layanan Lintas Perangkat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.musicfx",
+          "appName": "MusicFX",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.mircs",
+          "appName": "Mi RCS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.miui",
+          "appName": "com.android.systemui.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.phone",
+          "appName": "HyperPhone",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.inputsettings.overlay.miui",
+          "appName": "com.android.inputsettings.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.dts.freefiremax",
+          "appName": "Free Fire MAX",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.docs",
+          "appName": "Drive",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.maps",
+          "appName": "Maps",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.thememanager.customizethemeconfig.config.overlay",
+          "appName": "com.android.thememanager.customizethemeconfig.config.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.modulemetadata",
+          "appName": "Main components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmssettings",
+          "appName": "com.android.overlay.gmssettings",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.cloudbackup",
+          "appName": "Cadangan cloud",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.novatek.novavis",
+          "appName": "novavis",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.wallpaper.overlay",
+          "appName": "com.miui.wallpaper.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cellbroadcastreceiver",
+          "appName": "com.android.cellbroadcastreceiver",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.webview",
+          "appName": "Android System WebView",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.myapp.vitanicx",
+          "appName": "VITANICX V1",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.documentsui",
+          "appName": "com.google.android.overlay.modules.documentsui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.amazon.appmanager",
+          "appName": "Mobile Device Information Provider",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack",
+          "appName": "Pengelola jaringan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetooth.overlay",
+          "appName": "com.android.bluetooth.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.contactkeys",
+          "appName": "Android System Key Verifier",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom",
+          "appName": "Pengelolaan Panggilan Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom.overlay.miui",
+          "appName": "Pengelolaan Panggilan Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.keychain",
+          "appName": "Key Chain",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.camera",
+          "appName": "Kamera",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.healthfitness.forframework",
+          "appName": "com.google.android.overlay.modules.healthfitness.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.crazybug.team",
+          "appName": "CRAZY BUG",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.xiaomi.aicr",
+          "appName": "Mesin Xiaomi HyperAI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.glgm",
+          "appName": "Pusat Permainan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.xiaomi.xmsf",
+          "appName": "Kerangka layanan Xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Installer paket",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "co.median.android.eeebnxn",
+          "appName": "DARK ANGEL",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.gms",
+          "appName": "Layanan Google Play",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gsf",
+          "appName": "Framework Layanan Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.tts",
+          "appName": "Pengenalan dan Sintesis Ucapan dari Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.resources",
+          "appName": "Resource Wi-Fi Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.calllogbackup",
+          "appName": "Call Log Backup/Restore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.partnersetup",
+          "appName": "Google Partner Setup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.aosp.overlay",
+          "appName": "android.aosp.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.magtapp",
+          "appName": "MAGTApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cameraextensions",
+          "appName": "CameraExtensionsProxy",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.xmsfkeeper",
+          "appName": "Xiaomi Service Framework Keeper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.localtransport",
+          "appName": "com.android.localtransport",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.videos",
+          "appName": "Google TV",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.asi",
+          "appName": "com.google.android.overlay.gmsconfig.asi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.gsa",
+          "appName": "com.google.android.overlay.gmsconfig.gsa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.miwallpaper.overlay",
+          "appName": "com.miui.miwallpaper.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierdefaultapp",
+          "appName": "Komunikasi Operator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.mipicks",
+          "appName": "GetApps",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.atmwifimeta",
+          "appName": "ATMWifiMeta",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.wallpaper.overlay.customize",
+          "appName": "com.miui.wallpaper.overlay.customize",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.credentialmanager",
+          "appName": "Pengelola Kredensial",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.finddevice",
+          "appName": "Cari perangkat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.font.notoserifsource",
+          "appName": "Noto Serif / Source Sans Pro",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mi.global.bbs",
+          "appName": "Xiaomi Community",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.DeviceAsWebcam",
+          "appName": "Layanan Webcam",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.FrameworkResOverlayExt",
+          "appName": "com.mediatek.FrameworkResOverlayExt",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.proxyhandler",
+          "appName": "ProxyHandler",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.safetycenter.resources",
+          "appName": "Resource Pusat Keamanan Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.waterfall",
+          "appName": "Potongan waterfall",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.intentresolver",
+          "appName": "IntentResolver",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.netflix.mediaclient",
+          "appName": "Netflix",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mi.android.globalFileexplorer",
+          "appName": "File Manager",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.system.mainline.resources.overlay",
+          "appName": "com.android.wifi.system.mainline.resources.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.transparent",
+          "appName": "Transparent navigation bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.contactkeys",
+          "appName": "ContactsKeys Storage",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.notes",
+          "appName": "Catatan",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.connectivity.resources",
+          "appName": "Resource Konektivitas Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "appName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.settings.overlay",
+          "appName": "com.android.providers.settings.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.phone.overlay.miui",
+          "appName": "com.android.phone.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.miwallpaper.config.overlay",
+          "appName": "com.miui.miwallpaper.config.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.misettings",
+          "appName": "Setelan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.feedback",
+          "appName": "Agen Masukan Market",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.printservice.recommendation",
+          "appName": "Print Service Recommendation Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.midrop",
+          "appName": "ShareMe",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.photos",
+          "appName": "Foto",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.syncadapters.calendar",
+          "appName": "Sinkronisasi Google Kalender",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.cloudservice",
+          "appName": "Xiaomi Cloud",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.managedprovisioning",
+          "appName": "Penyiapan Profil Kerja",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.devicelockcontroller",
+          "appName": "com.google.android.overlay.devicelockcontroller",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.spotify.music",
+          "appName": "Spotify",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.atci.service",
+          "appName": "Atci_service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fingerprints.sensortesttool",
+          "appName": "Sensor Test Tool",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.soundpicker",
+          "appName": "Sounds",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.aosp.overlay.telephony",
+          "appName": "android.aosp.overlay.telephony",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.capctrl.service",
+          "appName": "RilCap",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.tencent.soter.soterserver",
+          "appName": "SoterService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.documentsui",
+          "appName": "File",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.permissioncontroller.overlay",
+          "appName": "com.miui.permissioncontroller.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.audiomonitor",
+          "appName": "Perekam Panggilan Suara",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.MtkSettingsResOverlay",
+          "appName": "com.mediatek.MtkSettingsResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.accessibility.switchaccess",
+          "appName": "Tombol Akses",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.mainline.telemetry",
+          "appName": "Support components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.mtb",
+          "appName": "Rueban(MTB)",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.ugd",
+          "appName": "GPU Driver Updater",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.katana",
+          "appName": "Facebook",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.callrecorder",
+          "appName": "Perekam Panggilan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.networkstack.gooverlay",
+          "appName": "NetworkStackGoogleGoResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.devicediagnostics",
+          "appName": "DeviceDiagnostics",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.networkstack.tethering.googleoverlay",
+          "appName": "TetheringResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.partnerbookmarks",
+          "appName": "com.android.providers.partnerbookmarks",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.role.notes.enabled",
+          "appName": "Notes Role enabled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.networkstack.overlay.miui",
+          "appName": "NetworkStackOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.calculator",
+          "appName": "Kalkulator",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.voicecommand",
+          "appName": "Perintah Suara",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.trustonic.teeservice",
+          "appName": "TeeService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaper.livepicker",
+          "appName": "Pemilih Wallpaper Animasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.settings.rro.device.type.overlay",
+          "appName": "com.miui.settings.rro.device.type.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.apps.tag",
+          "appName": "Tag",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.miwallpaper",
+          "appName": "MiWallpaper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.mainline.adservices",
+          "appName": "Main components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.imsserviceentitlement",
+          "appName": "com.android.imsserviceentitlement",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.playgendary.bowmasters",
+          "appName": "Bowmasters",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.silead.factorytest",
+          "appName": "指纹测试",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.system",
+          "appName": "Meta App Installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.navigation.bar.overlay",
+          "appName": "com.android.systemui.navigation.bar.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.bluetooth",
+          "appName": "Ekstensi Bluetooth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.healthconnect.controller",
+          "appName": "Health Connect",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.haunteddorm.mihuan",
+          "appName": "Haunted Dorm",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.longcheertel.AutoTest",
+          "appName": "Autotest",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice.overlay.miui",
+          "appName": "com.google.android.cellbroadcastservice.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.bsp.logmanager",
+          "appName": "Log generator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms.supervision",
+          "appName": "Kontrol orang tua sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.autoinstalls.config.Xiaomi.model",
+          "appName": "PlayAutoInstalls",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.storagemanager",
+          "appName": "Pengelola Penyimpanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.wdstechnology.android.kryten",
+          "appName": "Konfigurasi titik akses OTA",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.analytics",
+          "appName": "Analytics",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bookmarkprovider",
+          "appName": "Bookmark Provider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.linkedin.android",
+          "appName": "LinkedIn",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Setelan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.weather2",
+          "appName": "Cuaca",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.captiveportallogin.forframework",
+          "appName": "com.google.android.overlay.modules.captiveportallogin.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.mainline.resources.overlay",
+          "appName": "com.android.wifi.mainline.resources.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.mdmconfig",
+          "appName": "MDMConfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.projection.gearhead",
+          "appName": "Android Auto",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.scanner",
+          "appName": "Pemindai",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.safetycore",
+          "appName": "Android System SafetyCore",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.lbs.em2.ui",
+          "appName": "LocationEM2",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.misightservice",
+          "appName": "System quality monitoring",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.calendar",
+          "appName": "Kalender",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.cts.ctsshim",
+          "appName": "com.android.cts.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.booking",
+          "appName": "Booking.com",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.mediaeditor",
+          "appName": "Editor Galeri",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "appName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.yellowpage",
+          "appName": "Yellow pages",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.accessibility",
+          "appName": "Mi Ditto",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.systemui.carriers.overlay",
+          "appName": "MccMncOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.microdroid.empty_payload",
+          "appName": "com.android.microdroid.empty_payload",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.systemui.overlay.devices.android",
+          "appName": "DevicesAndroidOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.vpndialogs",
+          "appName": "VpnDialogs",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.longcheertel.cit",
+          "appName": "cit test",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.miui.overlay.telephony",
+          "appName": "android.miui.overlay.telephony",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.pegasusx.core",
+          "appName": "Pegasus-X Core",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mi.global.shop",
+          "appName": "Mi Store",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.phone",
+          "appName": "Layanan Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmstelephony",
+          "appName": "com.android.overlay.gmstelephony",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.shell",
+          "appName": "Shell",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaperbackup",
+          "appName": "com.android.wallpaperbackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.blockednumber",
+          "appName": "Penyimpanan Nomor yang Diblokir",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.screenshot",
+          "appName": "Screenshot",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.systemuiwmshellresoverlay",
+          "appName": "com.mediatek.systemuiwmshellresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.system.resources.overlay",
+          "appName": "com.android.wifi.system.resources.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmstelecomm",
+          "appName": "com.android.overlay.gmstelecomm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.userdictionary",
+          "appName": "Kamus Pengguna",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.emergency",
+          "appName": "com.android.emergency",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.shopee.id",
+          "appName": "Shopee",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.hotspot2.osulogin",
+          "appName": "OsuLogin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.voiceunlock",
+          "appName": "com.mediatek.voiceunlock",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms.location.history",
+          "appName": "Histori Lokasi Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.personalsafety",
+          "appName": "com.google.android.overlay.gmsconfig.personalsafety",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.location.fused",
+          "appName": "Fused Location",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.deskclock",
+          "appName": "Jam",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.systemui",
+          "appName": "UI Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ondevicepersonalization.services",
+          "appName": "com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.youtube.music",
+          "appName": "YouTube Music",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.phone.carriers.overlay.h3g",
+          "appName": "com.miui.phone.carriers.overlay.h3g",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.core.internal.services",
+          "appName": "com.miui.core.internal.services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.xiaomi",
+          "appName": "com.android.wifi.resources.xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetoothmidiservice",
+          "appName": "Bluetooth MIDI Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver.overlay.miui",
+          "appName": "com.google.android.cellbroadcastreceiver.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mi.globallayout",
+          "appName": "HomeLayout",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.appmanager",
+          "appName": "Meta App Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.discover",
+          "appName": "Pembaruan apl sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.networkstack.nongooverlay",
+          "appName": "NetworkStackGoogleResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.thememanager",
+          "appName": "Tema",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.traceur",
+          "appName": "Pelacakan Sistem",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.fmservice",
+          "appName": "Layanan Radio FM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver",
+          "appName": "Peringatan darurat nirkabel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.mediaviewer",
+          "appName": "Penampil media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.smarthome",
+          "appName": "Mi Home",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.lbe.security.miui",
+          "appName": "Perizinan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.message",
+          "appName": "com.google.android.overlay.gmsconfig.message",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetooth",
+          "appName": "Bluetooth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mi.globalminusscreen",
+          "appName": "App vault",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.contacts",
+          "appName": "Penyimpanan Kontak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nullx.dark",
+          "appName": "DarkVerse",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.stk.overlay.miui",
+          "appName": "com.android.stk.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.settings.rro.device.config.overlay",
+          "appName": "com.miui.settings.rro.device.config.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.photopicker",
+          "appName": "Foto & video",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "cn.wps.moffice_eng",
+          "appName": "WPS Office",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.gbaservice",
+          "appName": "com.mediatek.gbaservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.core",
+          "appName": "SDK sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.home",
+          "appName": "Peluncur sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.inputmethod.latin",
+          "appName": "Gboard",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.restore",
+          "appName": "Android Switch",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.MtkTelephonyServiceResOverlay",
+          "appName": "com.mediatek.MtkTelephonyServiceResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        }
+      ],
+      "receivedAt": 1775471186397
+    }
   }
 ]
