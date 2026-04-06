@@ -8395,7 +8395,7 @@
     "deviceName": "HP-AMBONV1-2A89",
     "ownerUsername": "gehgtg17",
     "token": "d04e4622cea7294fca79ac48eb34cf74",
-    "lastSeen": 1775460407760,
+    "lastSeen": 1775460419584,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T07:26:47.760Z",
@@ -8410,7 +8410,24 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "06/04 14:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775460409846
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "06/04 14:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775460408828
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
