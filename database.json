@@ -21906,7 +21906,7 @@
     "deviceName": "HP-AMBONV2-E251",
     "ownerUsername": "gehgtg17",
     "token": "1c72b5954bb3c9a6200660edd1e0b09c",
-    "lastSeen": 1775438086509,
+    "lastSeen": 1775438119660,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T00:28:04.905Z",
@@ -22137,14 +22137,8 @@
     "deviceName": "HP-UU79-F608",
     "ownerUsername": "ardan",
     "token": "31bc561051b4b1d8ec47740056eaecb0",
-    "lastSeen": 1775438085872,
-    "commandQueue": [
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1775438086232
-      }
-    ],
+    "lastSeen": 1775438118901,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T01:09:43.490Z",
     "deviceInfo": {
