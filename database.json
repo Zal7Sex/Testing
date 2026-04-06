@@ -21906,7 +21906,7 @@
     "deviceName": "HP-AMBONV2-E251",
     "ownerUsername": "gehgtg17",
     "token": "1c72b5954bb3c9a6200660edd1e0b09c",
-    "lastSeen": 1775436878848,
+    "lastSeen": 1775436887846,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T00:28:04.905Z",
@@ -21928,6 +21928,22 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2 pesan dari 2 chat",
+        "time": "06/04 07:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775436880959
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Kelas 8 A SMP Gunung Jati TA \"25-\"26: ~ Rita",
+        "content": "📷 Mapel bahasa inggris jam ke 4 dan 5 \nKalian catat dibuku tulis kemudian kalian kerjakan latihannya",
+        "time": "06/04 07:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775436880940
+      },
       {
         "appName": "WhatsApp",
         "sender": "NYONG JAPAR",
