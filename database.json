@@ -4,7 +4,7 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "55a5b4006ca55171a079b79bc615ba6c",
-    "lastSeen": 1775458838244,
+    "lastSeen": 1775458841223,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:50:16.345Z",
@@ -2529,6 +2529,38 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "⏤͟͟͞͞l⚡ MURBUGVIP: autocpu",
+        "content": "📊 Monitoring CPU Server\n\nStatus Server:\n✅ Semua server normal (CPU < 80%)",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458841677
+      },
+      {
+        "appName": "Telegram",
+        "sender": "NÚMER0 DA SALA DE TELEGRAM ELITE: ⏤͟͟𝐂𝐄𝐋𝐘𝐍",
+        "content": "𝗦𝗘𝗟𝗟 𝗦𝗖𝗥𝗜𝗣𝗧 𝗕𝗨𝗚 𝗟𝗢𝗩𝗘𝗟𝗬 𝗖𝗥𝗔𝗦𝗛\n💸𝗛𝗔𝗥𝗚𝗔 : \n𝗙𝗨𝗟𝗟 𝗨𝗣 ━ 𝟱𝗞\n𝗥𝗘𝗦𝗘𝗟𝗟𝗘𝗥 ━ 𝟭𝟬𝗞\n𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ━ 𝟭𝟱𝗞\n𝗢𝗪𝗡𝗘𝗥 ━ 𝟮𝟱𝗞\n🦠﻿𝗠𝗘𝗡𝗨 𝗕𝗨𝗚 :\n- ᴅᴇʟᴀʏ ʜᴀʀᴅ\n- ᴅᴇʟᴀʏ ʙᴇʙᴀs sᴘᴀᴍ\n- ғᴄ ᴛʀʏ ᴀᴊᴀ\n- ʙʟᴀɴᴋ ᴀɴᴅʀᴏ\n- ᴅʀᴀɪɴ ᴋᴜᴏᴛ\n🔧𝗠𝗘𝗡𝗨 𝗧𝗢𝗢𝗟𝗦 : \n- ᴛᴏᴜʀʟ\n- ɪǫᴄ\n- ᴠɪᴅᴇʏ\n- ғᴀᴋᴇ ᴄᴀʟʟ\n- ᴇɴᴄ\n- ᴛɪᴋᴛᴏᴋ\nᴏʀᴅᴇʀ : @XRafzz\nᴋᴇɴᴀᴘᴀ ᴍᴜʀᴀʜ? ᴋᴀʀᴇɴᴀ ʙᴀʀᴜ ᴀᴡᴀʟ ʀɪʟɪs",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458840922
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ROOM PUBLICK DITZ: BOT - STXB",
+        "content": "╭─────────────────╮\n│ WP┊🇸🇩 STXB4974 #Indonesian\n╰─────────────────╯",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458840146
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝙁𝙐𝙇𝙇 𝙐𝙋 𝙇𝙊𝙑𝙀𝙇𝙔 𝘾𝙍𝘼𝙎𝙃: 影⏤͟✧✘S13×メグミ⏤͟✧影",
+        "content": "Kebanyakan gw join grup anti promosi jier",
+        "time": "06/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458839913
+      },
       {
         "appName": "Telegram",
         "sender": "𝘽𝙀𝘽𝘼𝙎 𝙉𝙔𝘼𝙒𝙄𝙏 #𝟮: Rose",
@@ -5874,7 +5906,191 @@
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [
+        {
+          "packageName": "com.zhiliaoapp.musically.go",
+          "appName": "TikTok Lite",
+          "timeMin": 250,
+          "lastUsed": 1775455226968
+        },
+        {
+          "packageName": "com.zhiliaoapp.musically.go",
+          "appName": "TikTok Lite",
+          "timeMin": 110,
+          "lastUsed": 1775395859314
+        },
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "timeMin": 74,
+          "lastUsed": 1775426034105
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "timeMin": 56,
+          "lastUsed": 1775426545966
+        },
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "timeMin": 50,
+          "lastUsed": 1775457964495
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 41,
+          "lastUsed": 1775396794895
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "timeMin": 35,
+          "lastUsed": 1775434395289
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "timeMin": 35,
+          "lastUsed": 1775458727219
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 31,
+          "lastUsed": 1775368529625
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 24,
+          "lastUsed": 1775458077799
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "timeMin": 20,
+          "lastUsed": 1775397727926
+        },
+        {
+          "packageName": "com.transsion.XOSLauncher",
+          "appName": "Peluncur XOS",
+          "timeMin": 18,
+          "lastUsed": 1775426546792
+        },
+        {
+          "packageName": "com.transsion.XOSLauncher",
+          "appName": "Peluncur XOS",
+          "timeMin": 15,
+          "lastUsed": 1775458808612
+        },
+        {
+          "packageName": "bin.mt.plus",
+          "appName": "Manajer MT",
+          "timeMin": 13,
+          "lastUsed": 1775391206637
+        },
+        {
+          "packageName": "bin.mt.plus",
+          "appName": "Manajer MT",
+          "timeMin": 13,
+          "lastUsed": 1775431931872
+        },
+        {
+          "packageName": "com.dark.darkverse",
+          "appName": "Trapenden V3.1",
+          "timeMin": 12,
+          "lastUsed": 1775392486322
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "timeMin": 10,
+          "lastUsed": 1775397295340
+        },
+        {
+          "packageName": "com.nullx.ppl",
+          "appName": "Parapam V2.5",
+          "timeMin": 10,
+          "lastUsed": 1775455680431
+        },
+        {
+          "packageName": "com.transsion.magicshow",
+          "appName": "Pemutar Visha",
+          "timeMin": 8,
+          "lastUsed": 1775384429211
+        },
+        {
+          "packageName": "ru.zdevs.zarchiver",
+          "appName": "ZArchiver",
+          "timeMin": 7,
+          "lastUsed": 1775393806508
+        },
+        {
+          "packageName": "com.nullx.ppl",
+          "appName": "Parapam V2.5",
+          "timeMin": 6,
+          "lastUsed": 1775426554773
+        },
+        {
+          "packageName": "ru.zdevs.zarchiver",
+          "appName": "ZArchiver",
+          "timeMin": 5,
+          "lastUsed": 1775452981531
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "timeMin": 5,
+          "lastUsed": 1775458821635
+        },
+        {
+          "packageName": "com.gallery20",
+          "appName": "Galeri AI",
+          "timeMin": 3,
+          "lastUsed": 1775390843386
+        },
+        {
+          "packageName": "android",
+          "appName": "Sistem Android",
+          "timeMin": 2,
+          "lastUsed": 1775456650610
+        },
+        {
+          "packageName": "id.dana",
+          "appName": "DANA",
+          "timeMin": 2,
+          "lastUsed": 1775386950261
+        },
+        {
+          "packageName": "com.aimlock.app",
+          "appName": "Aim Lock",
+          "timeMin": 2,
+          "lastUsed": 1775458821660
+        },
+        {
+          "packageName": "com.transsion.magicshow",
+          "appName": "Pemutar Visha",
+          "timeMin": 2,
+          "lastUsed": 1775435079297
+        },
+        {
+          "packageName": "com.pegasusx.revenge",
+          "appName": "Pegasus-X",
+          "timeMin": 1,
+          "lastUsed": 1775457978262
+        },
+        {
+          "packageName": "com.xui.xhide",
+          "appName": "XHide",
+          "timeMin": 1,
+          "lastUsed": 1775458617580
+        }
+      ],
+      "receivedAt": 1775458840660
+    },
     "appList": null
   }
 ]
