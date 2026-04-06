@@ -8395,8 +8395,16 @@
     "deviceName": "HP-AMBONV1-2A89",
     "ownerUsername": "gehgtg17",
     "token": "d04e4622cea7294fca79ac48eb34cf74",
-    "lastSeen": 1775460509826,
-    "commandQueue": [],
+    "lastSeen": 1775460515668,
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775460533967
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-06T07:26:47.760Z",
     "deviceInfo": {
