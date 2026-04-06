@@ -22129,5 +22129,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "aimlock_a71806c6",
+    "deviceName": "HP-UU79-F608",
+    "ownerUsername": "ardan",
+    "token": "31bc561051b4b1d8ec47740056eaecb0",
+    "lastSeen": 1775437783490,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-06T01:09:43.490Z",
+    "deviceInfo": {
+      "model": "INFINIX Infinix X6525",
+      "androidVersion": "Android 13",
+      "battery": 43,
+      "network": "WiFi: NAZURA.NET",
+      "sim1": "SIM 1",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
