@@ -8805,5 +8805,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_403049ac",
+    "deviceName": "HP-RAFKA-149A",
+    "ownerUsername": "senz",
+    "token": "c6801f33c425d58726167bbec23ea118",
+    "lastSeen": 1775468263043,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-06T09:37:43.043Z",
+    "deviceInfo": {
+      "model": "Xiaomi 2409BRN2CY",
+      "androidVersion": "Android 15",
+      "battery": 29,
+      "network": "WiFi: MY HOME",
+      "sim1": "Panggilan darurat saja",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
