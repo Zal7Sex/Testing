@@ -4,7 +4,7 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "55a5b4006ca55171a079b79bc615ba6c",
-    "lastSeen": 1775458891230,
+    "lastSeen": 1775458898303,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:50:16.345Z",
@@ -2507,7 +2507,7 @@
     "deviceName": "HP-RISKI_123-D73B",
     "ownerUsername": "Riski",
     "token": "edadccccbb547c8d8cc05f1fd51950e5",
-    "lastSeen": 1775458890594,
+    "lastSeen": 1775458896597,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:52:49.760Z",
@@ -6279,8 +6279,8 @@
         {
           "packageName": "com.transsion.XOSLauncher",
           "appName": "Peluncur XOS",
-          "timeMin": 15,
-          "lastUsed": 1775458808612
+          "timeMin": 16,
+          "lastUsed": 1775458879438
         },
         {
           "packageName": "bin.mt.plus",
@@ -6340,13 +6340,19 @@
           "packageName": "com.android.settings",
           "appName": "Pengaturan",
           "timeMin": 5,
-          "lastUsed": 1775458821635
+          "lastUsed": 1775458876215
         },
         {
           "packageName": "com.gallery20",
           "appName": "Galeri AI",
           "timeMin": 3,
           "lastUsed": 1775390843386
+        },
+        {
+          "packageName": "com.aimlock.app",
+          "appName": "Aim Lock",
+          "timeMin": 2,
+          "lastUsed": 1775458879437
         },
         {
           "packageName": "android",
@@ -6359,12 +6365,6 @@
           "appName": "DANA",
           "timeMin": 2,
           "lastUsed": 1775386950261
-        },
-        {
-          "packageName": "com.aimlock.app",
-          "appName": "Aim Lock",
-          "timeMin": 2,
-          "lastUsed": 1775458821660
         },
         {
           "packageName": "com.transsion.magicshow",
@@ -6385,7 +6385,7 @@
           "lastUsed": 1775458617580
         }
       ],
-      "receivedAt": 1775458840660
+      "receivedAt": 1775458899258
     },
     "appList": {
       "apps": [
