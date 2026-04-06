@@ -8462,5 +8462,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_2bc54ea0",
+    "deviceName": "HP-HLZZ-245F",
+    "ownerUsername": "BLAY VIP",
+    "token": "86f44ac677024abf3e4d7b5071c97ebb",
+    "lastSeen": 1775461183189,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-06T07:39:43.189Z",
+    "deviceInfo": {
+      "model": "ADVAN 6781",
+      "androidVersion": "Android 14",
+      "battery": 61,
+      "network": "WiFi: Wifi-Maremare",
+      "sim1": "Tidak ada",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
