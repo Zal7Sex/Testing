@@ -21907,7 +21907,13 @@
     "ownerUsername": "gehgtg17",
     "token": "1c72b5954bb3c9a6200660edd1e0b09c",
     "lastSeen": 1775437377767,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1775437379552
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-06T00:28:04.905Z",
     "deviceInfo": {
