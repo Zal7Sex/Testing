@@ -8526,5 +8526,37 @@
       "frameId": 10,
       "capturedAt": 1775462253364
     }
+  },
+  {
+    "deviceId": "pxc_777bb254",
+    "deviceName": "HP-GALANG123-347D",
+    "ownerUsername": "BLAY VIP",
+    "token": "195f72d51ef0f71fd75dfff0b086abd7",
+    "lastSeen": 1775462916186,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-06T08:08:36.186Z",
+    "deviceInfo": {
+      "model": "samsung SM-M307F",
+      "androidVersion": "Android 11",
+      "battery": 92,
+      "network": "WiFi: WARKOP GOR BOGEM",
+      "sim1": "XL Axiata",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
