@@ -21927,7 +21927,16 @@
       "capturedAt": 1775435511401
     },
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "06/04 07:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775436068917
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
