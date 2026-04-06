@@ -4,14 +4,8 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "55a5b4006ca55171a079b79bc615ba6c",
-    "lastSeen": 1775458381153,
-    "commandQueue": [
-      {
-        "type": "get_clipboard",
-        "payload": {},
-        "sentAt": 1775458380682
-      }
-    ],
+    "lastSeen": 1775458390852,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:50:16.345Z",
     "deviceInfo": {
@@ -373,7 +367,10 @@
         "recordedAt": 1775458270175
       }
     ],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [],
+      "receivedAt": 1775458391058
+    },
     "appList": null,
     "cameraFrameId": 625,
     "lastCameraFrame": {
@@ -388,7 +385,7 @@
     "deviceName": "HP-RISKI_123-D73B",
     "ownerUsername": "Riski",
     "token": "edadccccbb547c8d8cc05f1fd51950e5",
-    "lastSeen": 1775458378623,
+    "lastSeen": 1775458390623,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:52:49.760Z",
