@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633142173,
+    "lastSeen": 1775633143521,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633145128
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎81 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633143372
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633143366
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633142872
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:05",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631933103
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Ini?",
-        "time": "08/04 14:05",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631923067
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Kalo mw jadi ress",
-        "time": "08/04 14:05",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631912057
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Zal7Sex sama dia",
-        "time": "08/04 14:05",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631912006
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Zal7Sex sama dia",
-        "time": "08/04 14:05",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631906523
       }
     ],
     "galleryPhotos": [],
