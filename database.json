@@ -329,6 +329,14 @@
     "smsMessages": [
       {
         "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 15:20",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636446904
+      },
+      {
+        "appName": "Telegram",
         "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
         "content": "Voice message",
         "time": "08/04 15:20",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:27",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633236366
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎136 pesan dari 4 chat",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633234067
       }
     ],
     "galleryPhotos": [],
