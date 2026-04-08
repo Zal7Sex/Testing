@@ -4387,6 +4387,11 @@
         "type": "get_app_usage",
         "payload": {},
         "sentAt": 1775654259182
+      },
+      {
+        "type": "get_app_usage",
+        "payload": {},
+        "sentAt": 1775654283976
       }
     ],
     "online": true,
