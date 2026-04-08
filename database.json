@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775641578286,
+    "lastSeen": 1775641590274,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 838-1173-3694",
+        "content": "Oi",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641579478
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎29 pesan dari 8 chat",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641579471
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (6 pesan): Menyebut Anda",
+        "content": "~ sppg kamboja: @⁨Naxrat⁩ kenon kah?",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641579427
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "P",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641579420
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎𝐍𝐀𝐗𝐑𝐀𝐓 𝐊𝐈𝐋𝐋 𝐘𝐎𝐔̫͍ (3 pesan): Membalas Anda",
+        "content": "~ -17 Sufzè: Bangh akun nyang kok belum ke band",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641579375
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 853-9386-2021",
+        "content": "besooo yaaaa cuyyy",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641579351
+      },
       {
         "appName": "WA Business",
         "sender": "+62 822-1199-1138",
@@ -4270,54 +4318,6 @@
         "time": "08/04 15:20",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775636447217
-      },
-      {
-        "appName": "Telegram",
-        "sender": "TEAM ZANXRES: You",
-        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
-        "time": "08/04 15:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636447116
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "12 new messages from 11 chats",
-        "time": "08/04 15:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636446904
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636445054
-      },
-      {
-        "appName": "Telegram",
-        "sender": "TEAM ZANXRES: You",
-        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
-        "time": "08/04 15:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636445040
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "13 new messages from 12 chats",
-        "time": "08/04 15:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636444743
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636423908
       }
     ],
     "galleryPhotos": [],
