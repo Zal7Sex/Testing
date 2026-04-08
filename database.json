@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633107494,
+    "lastSeen": 1775633112201,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎56 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633112290
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633112282
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎52 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633109853
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633109795
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎51 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633109071
+      },
       {
         "appName": "WA Business",
         "sender": "+62 856-2460-4911",
@@ -4286,46 +4326,6 @@
         "time": "08/04 14:00",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631653515
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Harus owner",
-        "time": "08/04 14:00",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631652141
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Ya",
-        "time": "08/04 14:00",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631639341
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎6 pesan dari 2 chat",
-        "time": "08/04 14:00",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631634317
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "gk tau gw",
-        "time": "08/04 14:00",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631634216
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎5 pesan dari 2 chat",
-        "time": "08/04 14:00",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631633444
       }
     ],
     "galleryPhotos": [],
