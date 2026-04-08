@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633092489,
+    "lastSeen": 1775633097280,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633097518
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎42 pesan dari 4 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633096066
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633095957
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎41 pesan dari 4 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633095356
+      },
       {
         "appName": "WA Business",
         "sender": "+62 856-2460-4911",
@@ -4294,38 +4326,6 @@
         "time": "08/04 13:58",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775631503670
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
-        "content": "~ sfr: Lu cowo bangsat🗿",
-        "time": "08/04 13:58",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631483129
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
-        "content": "~ sfr: Lu cowo bangsat🗿",
-        "time": "08/04 13:58",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631483055
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
-        "content": "‎2 pesan baru",
-        "time": "08/04 13:57",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631466613
-      },
-      {
-        "appName": "WA Business",
-        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (2 pesan): Menyebut Anda",
-        "content": "~ sfr: P @⁨Naxrat⁩",
-        "time": "08/04 13:57",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631466525
       }
     ],
     "galleryPhotos": [],
