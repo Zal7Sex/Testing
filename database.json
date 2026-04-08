@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775639239066,
+    "lastSeen": 1775639245076,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎10 pesan dari 2 chat",
+        "time": "08/04 16:07",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639247754
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-4046-8707",
+        "content": "Maksudnya apa jir?",
+        "time": "08/04 16:07",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639247655
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎9 pesan dari 2 chat",
+        "time": "08/04 16:07",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639241727
+      },
       {
         "appName": "WA Business",
         "sender": "+62 856-4046-8707",
@@ -4294,30 +4318,6 @@
         "time": "08/04 15:19",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775636356705
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 857-8951-4723",
-        "content": "Izin SV",
-        "time": "08/04 15:19",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775636356619
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:17",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636271988
-      },
-      {
-        "appName": "Telegram",
-        "sender": "TEAM ZANXRES: You",
-        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
-        "time": "08/04 15:17",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636271847
       }
     ],
     "galleryPhotos": [],
