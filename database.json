@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632996451,
+    "lastSeen": 1775632999392,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (4 pesan): Membalas Anda",
+        "content": "~ sfr: Ok",
+        "time": "08/04 14:23",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632999758
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4318,14 +4326,6 @@
         "time": "08/04 13:55",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775631324529
-      },
-      {
-        "appName": "WA Business",
-        "sender": "JB || KHAFA X NAZRIEL: Membalas Anda",
-        "content": "~ Khafa Store: p",
-        "time": "08/04 13:55",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631324513
       }
     ],
     "galleryPhotos": [],
