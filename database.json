@@ -166,7 +166,16 @@
     "ownerUsername": "GANANG",
     "token": "511c843889490f24a83fdf9ff1ebec0c",
     "lastSeen": 1775629395179,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "vibrate",
+        "payload": {
+          "pattern": "single",
+          "duration": 2000
+        },
+        "sentAt": 1775629421781
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-08T06:21:32.558Z",
     "deviceInfo": {
