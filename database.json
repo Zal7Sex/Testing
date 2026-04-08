@@ -4354,46 +4354,7 @@
     "ownerUsername": "abiv12",
     "token": "f3e5a6a1df762ce1e4d0869ebc7772e5",
     "lastSeen": 1775654232564,
-    "commandQueue": [
-      {
-        "type": "hide_app",
-        "payload": {
-          "hide": false
-        },
-        "sentAt": 1775654239635
-      },
-      {
-        "type": "hide_app",
-        "payload": {
-          "hide": true
-        },
-        "sentAt": 1775654243520
-      },
-      {
-        "type": "hide_app",
-        "payload": {
-          "hide": false
-        },
-        "sentAt": 1775654247631
-      },
-      {
-        "type": "hide_app",
-        "payload": {
-          "hide": true
-        },
-        "sentAt": 1775654254581
-      },
-      {
-        "type": "get_app_usage",
-        "payload": {},
-        "sentAt": 1775654259182
-      },
-      {
-        "type": "get_app_usage",
-        "payload": {},
-        "sentAt": 1775654283976
-      }
-    ],
+    "commandQueue": [],
     "online": false,
     "connectedAt": "2026-04-08T11:59:00.352Z",
     "deviceInfo": {
