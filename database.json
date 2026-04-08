@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775631729576,
+    "lastSeen": 1775631735575,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "?",
+        "time": "08/04 14:02",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631736276
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "14 new messages from 10 chats",
+        "time": "08/04 14:02",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631736268
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Karena fitur dikit",
+        "time": "08/04 14:02",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631730125
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Gue kasih onwer gmnm",
+        "time": "08/04 14:02",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631729979
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
