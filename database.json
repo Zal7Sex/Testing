@@ -329,6 +329,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Sending video to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "time": "08/04 14:44",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634266640
+      },
+      {
+        "appName": "WA Business",
         "sender": "WA Business",
         "content": "‎‎3 pesan dari 2 chat",
         "time": "08/04 14:44",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:25",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633127117
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎67 pesan dari 4 chat",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633125155
       }
     ],
     "galleryPhotos": [],
