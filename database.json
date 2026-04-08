@@ -329,6 +329,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎2 pesan dari 2 chat",
+        "time": "08/04 14:44",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634250215
+      },
+      {
+        "appName": "WA Business",
         "sender": "+62 898-7564-441",
         "content": "Suk?",
         "time": "08/04 14:44",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:25",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633124611
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎65 pesan dari 4 chat",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633121609
       }
     ],
     "galleryPhotos": [],
