@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775630383107,
+    "lastSeen": 1775630386116,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -698,7 +698,24 @@
     ],
     "galleryPhotos": [],
     "galleryDone": false,
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Cek Pulsa",
+        "phone": "*808#"
+      },
+      {
+        "name": "Customer Care Axis",
+        "phone": "838"
+      },
+      {
+        "name": "Customer Care XL",
+        "phone": "818"
+      },
+      {
+        "name": "‏Carlcare Layanan Hotline‏",
+        "phone": "02150955121"
+      }
+    ],
     "lastGps": null,
     "gpsList": [],
     "lastClipboard": null,
