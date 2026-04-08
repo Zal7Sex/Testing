@@ -328,6 +328,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Sbar",
+        "time": "08/04 14:40",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634049858
+      },
+      {
         "appName": "Telegram",
         "sender": "ALL BUYYER GOJO HARIAN: Rose",
         "content": "File",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:24",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633069044
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "Permisi Azx",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633067852
       }
     ],
     "galleryPhotos": [],
