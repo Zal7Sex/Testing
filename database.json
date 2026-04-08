@@ -319,6 +319,13 @@
           "state": "on"
         },
         "sentAt": 1775630460493
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1775630471920
       }
     ],
     "online": true,
