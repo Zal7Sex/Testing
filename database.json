@@ -311,8 +311,16 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775630443165,
-    "commandQueue": [],
+    "lastSeen": 1775630468443,
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775630460493
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
     "deviceInfo": {
