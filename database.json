@@ -328,6 +328,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "+62 857-8951-4723",
+        "content": "SV panz",
+        "time": "08/04 15:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636869696
+      },
+      {
         "appName": "Telegram",
         "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
         "content": "Voice message",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:33",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633605000
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "taruu di gb ajaaa",
-        "time": "08/04 14:33",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633604988
       }
     ],
     "galleryPhotos": [],
