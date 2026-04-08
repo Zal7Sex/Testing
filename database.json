@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775641948690,
+    "lastSeen": 1775641965650,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "XL",
+        "content": "(XL) Sisa kuota YouTube dari pkt Xtra Combo Mini XL Poin Anda: 95.00MB. Ayo aktifkan lagi paketnya di Aplikasi myXL. Info: xl.co.id/LC",
+        "time": "08/04 16:52",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1775641967669
+      },
       {
         "appName": "WA Business",
         "sender": "+62 853-9386-2021",
@@ -4310,14 +4318,6 @@
         "time": "08/04 15:21",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775636503283
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "13 new messages from 12 chats",
-        "time": "08/04 15:21",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636503189
       }
     ],
     "galleryPhotos": [],
