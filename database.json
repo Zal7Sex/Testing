@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775631408455,
+    "lastSeen": 1775631411875,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "08/04 13:56",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775631411901
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 851-2302-5715",
+        "content": "💟 Stiker",
+        "time": "08/04 13:56",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775631411876
+      },
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "content": "‎2 pesan baru",
+        "time": "08/04 13:56",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775631409664
+      },
       {
         "appName": "WA Business",
         "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (2 pesan): Menyebut Anda",
