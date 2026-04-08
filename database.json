@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633686904,
+    "lastSeen": 1775633695991,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎14 pesan dari 3 chat",
+        "time": "08/04 14:34",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633696649
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "P",
+        "time": "08/04 14:34",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633696637
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "taruu di gb ajaaa",
+        "time": "08/04 14:34",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633696526
+      },
       {
         "appName": "WA Business",
         "sender": "+62 838-1173-3694",
@@ -4302,30 +4326,6 @@
         "time": "08/04 14:17",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775632667929
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 853-9386-2021",
-        "content": "belum ada uang",
-        "time": "08/04 14:17",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632667863
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎2 pesan dari 2 chat",
-        "time": "08/04 14:17",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632663943
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
-        "content": "~ ★: gileee",
-        "time": "08/04 14:17",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632663842
       }
     ],
     "galleryPhotos": [],
