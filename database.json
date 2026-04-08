@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636579281,
+    "lastSeen": 1775636585124,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 15:23",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636587622
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 857-8951-4723",
+        "content": "Izin sv. Aja bng",
+        "time": "08/04 15:22",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636581244
+      },
       {
         "appName": "WA Business",
         "sender": "+62 857-8951-4723",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:27",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633275587
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 838-1173-3694",
-        "content": "Oi",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633275523
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Lu online doang anjing",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633275486
       }
     ],
     "galleryPhotos": [],
