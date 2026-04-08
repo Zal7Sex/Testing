@@ -329,6 +329,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": ".",
+        "time": "08/04 14:43",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634199329
+      },
+      {
+        "appName": "WA Business",
         "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
         "content": "~ sppg kamboja: Cpm",
         "time": "08/04 14:43",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:25",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633115433
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎60 pesan dari 4 chat",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633114677
       }
     ],
     "galleryPhotos": [],
