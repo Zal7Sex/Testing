@@ -322,6 +322,22 @@
       {
         "appName": "WA Business",
         "sender": "Menghapus obrolan terpilih…",
+        "content": "84%",
+        "time": "08/04 16:47",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641655026
+      },
+      {
+        "appName": "WA Business",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "67%",
+        "time": "08/04 16:47",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641654164
+      },
+      {
+        "appName": "WA Business",
+        "sender": "Menghapus obrolan terpilih…",
         "content": "50%",
         "time": "08/04 16:47",
         "pkg": "com.whatsapp.w4b",
@@ -4302,22 +4318,6 @@
         "time": "08/04 15:21",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775636495904
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:21",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636495872
-      },
-      {
-        "appName": "Telegram",
-        "sender": "TEAM ZANXRES: You",
-        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
-        "time": "08/04 15:21",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636495813
       }
     ],
     "galleryPhotos": [],
