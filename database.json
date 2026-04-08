@@ -328,6 +328,30 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:55",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631339143
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:55",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631337761
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎8 pesan dari 3 chat",
+        "time": "08/04 13:55",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775631337256
+      },
+      {
         "appName": "WA Business",
         "sender": "‎JB || KHAFA X NAZRIEL (3 pesan): ~ Khafa Store",
         "content": "bgi tele dev nya dong",
