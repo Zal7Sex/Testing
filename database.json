@@ -321,6 +321,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "16%",
+        "time": "08/04 16:47",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641652516
+      },
+      {
+        "appName": "WA Business",
         "sender": "+62 838-1173-3694",
         "content": "Oi",
         "time": "08/04 16:46",
@@ -4310,14 +4318,6 @@
         "time": "08/04 15:20",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775636455397
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636447217
       }
     ],
     "galleryPhotos": [],
