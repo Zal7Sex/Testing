@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633074501,
+    "lastSeen": 1775633077500,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633080127
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎27 pesan dari 3 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633080117
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎26 pesan dari 3 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633077981
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633077890
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633077404
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4286,46 +4326,6 @@
         "time": "08/04 13:56",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775631392449
-      },
-      {
-        "appName": "WA Business",
-        "sender": "JB || KHAFA X NAZRIEL",
-        "content": "~ Khafa Store: dev traspend",
-        "time": "08/04 13:56",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631382504
-      },
-      {
-        "appName": "WA Business",
-        "sender": "JB || KHAFA X NAZRIEL: ~ Khafa Store",
-        "content": "dev traspend",
-        "time": "08/04 13:56",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631382425
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:56",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631364341
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:56",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631363782
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:56",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631362232
       }
     ],
     "galleryPhotos": [],
