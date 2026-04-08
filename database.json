@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636867404,
+    "lastSeen": 1775636870423,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 15:27",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636873350
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 857-8951-4723",
+        "content": "SV panz",
+        "time": "08/04 15:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775636869778
+      },
       {
         "appName": "WA Business",
         "sender": "+62 857-8951-4723",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:33",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633619880
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎17 pesan dari 3 chat",
-        "time": "08/04 14:33",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633605021
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 838-1173-3694",
-        "content": "Minta base dong",
-        "time": "08/04 14:33",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633605000
       }
     ],
     "galleryPhotos": [],
