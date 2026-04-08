@@ -329,6 +329,30 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "dataa gw sekarat",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633166732
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎87 pesan dari 3 chat",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633166395
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633166388
+      },
+      {
+        "appName": "WA Business",
         "sender": "WA Business",
         "content": "‎‎86 pesan dari 3 chat",
         "time": "08/04 14:26",
@@ -4302,30 +4326,6 @@
         "time": "08/04 14:07",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632034542
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:07",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632030565
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "10 new messages from 10 chats",
-        "time": "08/04 14:07",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632030450
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Gue berapa kali buy di dia",
-        "time": "08/04 14:07",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632030387
       }
     ],
     "galleryPhotos": [],
