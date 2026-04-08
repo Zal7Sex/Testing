@@ -328,6 +328,22 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "+62 838-1173-3694",
+        "content": "Tahu kon?",
+        "time": "08/04 14:39",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633989041
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 838-1173-3694",
+        "content": "Tahu kon?",
+        "time": "08/04 14:39",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633988955
+      },
+      {
         "appName": "Telegram",
         "sender": "STORE Reski",
         "content": "JDI? BELIK YANG MN?",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:24",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633064388
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633064204
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎17 pesan dari 4 chat",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633062321
       }
     ],
     "galleryPhotos": [],
