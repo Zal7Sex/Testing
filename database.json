@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632666213,
+    "lastSeen": 1775632672128,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (2 pesan): Menyebut Anda",
+        "content": "~ ★: @⁨Naxrat⁩ seleb bet",
+        "time": "08/04 14:17",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632675016
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "08/04 14:17",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632667929
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 853-9386-2021",
+        "content": "belum ada uang",
+        "time": "08/04 14:17",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632667863
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4302,30 +4326,6 @@
         "time": "08/04 13:49",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775630996354
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "💟 Stiker",
-        "time": "08/04 13:49",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630996123
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "💟 Stiker",
-        "time": "08/04 13:49",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630992392
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "💟 Stiker",
-        "time": "08/04 13:49",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630992381
       }
     ],
     "galleryPhotos": [],
