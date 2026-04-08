@@ -329,6 +329,22 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633163780
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎85 pesan dari 3 chat",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633163771
+      },
+      {
+        "appName": "WA Business",
         "sender": "WA Business",
         "content": "‎‎84 pesan dari 3 chat",
         "time": "08/04 14:26",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:07",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632022923
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Kayak gini kan",
-        "time": "08/04 14:07",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632022883
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "10 new messages from 10 chats",
-        "time": "08/04 14:07",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632022656
       }
     ],
     "galleryPhotos": [],
