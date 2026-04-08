@@ -333,6 +333,30 @@
         "content": "📡 Undangan admin saluran",
         "time": "08/04 14:24",
         "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633061675
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎15 pesan dari 4 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633060083
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633059922
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633059494
       },
       {
@@ -4302,30 +4326,6 @@
         "time": "08/04 13:55",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631335720
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:55",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631335674
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:55",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631335649
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:55",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631333757
       }
     ],
     "galleryPhotos": [],
