@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633056395,
+    "lastSeen": 1775633059493,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633059494
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎14 pesan dari 4 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633059478
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633058150
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎13 pesan dari 4 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633058144
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎12 pesan dari 4 chat",
+        "time": "08/04 14:24",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633057441
+      },
       {
         "appName": "WA Business",
         "sender": "+62 856-2460-4911",
@@ -4286,46 +4326,6 @@
         "time": "08/04 13:55",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631333757
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:55",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631332568
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:55",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631330737
-      },
-      {
-        "appName": "WA Business",
-        "sender": "‎JB || KHAFA X NAZRIEL (2 pesan): ~ Khafa Store",
-        "content": "traspend dev nya siapa",
-        "time": "08/04 13:55",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631329592
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎7 pesan dari 3 chat",
-        "time": "08/04 13:55",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631329588
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:55",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631329358
       }
     ],
     "galleryPhotos": [],
