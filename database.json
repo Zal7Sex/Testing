@@ -329,6 +329,22 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Lu online doang anjing",
+        "time": "08/04 14:29",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633343936
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎197 pesan dari 3 chat",
+        "time": "08/04 14:29",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633342521
+      },
+      {
+        "appName": "WA Business",
         "sender": "+62 856-2460-4911",
         "content": "📡 Undangan admin saluran",
         "time": "08/04 14:29",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:14",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632457384
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Ni nomor dana",
-        "time": "08/04 14:14",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632457351
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "11 new messages from 11 chats",
-        "time": "08/04 14:14",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632457249
       }
     ],
     "galleryPhotos": [],
