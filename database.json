@@ -329,6 +329,38 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎85 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633149052
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633149047
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎84 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633148377
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633148228
+      },
+      {
+        "appName": "WA Business",
         "sender": "+62 856-2460-4911",
         "content": "Permisi Azx",
         "time": "08/04 14:25",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:05",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631946569
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "11 new messages from 11 chats",
-        "time": "08/04 14:05",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631946286
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:05",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631942870
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "10 new messages from 10 chats",
-        "time": "08/04 14:05",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631942798
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Ress ?",
-        "time": "08/04 14:05",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631942792
       }
     ],
     "galleryPhotos": [],
