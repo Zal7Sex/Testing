@@ -330,6 +330,22 @@
       {
         "appName": "WA Business",
         "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633181744
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎97 pesan dari 4 chat",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633181253
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
         "content": "📡 Undangan admin saluran",
         "time": "08/04 14:26",
         "pkg": "com.whatsapp.w4b",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:08",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632105181
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:08",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632105001
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "@Vanzzo_Shop_Official",
-        "time": "08/04 14:08",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632104890
       }
     ],
     "galleryPhotos": [],
