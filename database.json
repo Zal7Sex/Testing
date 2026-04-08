@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633112201,
+    "lastSeen": 1775633113623,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633114583
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏 (9 pesan): Menyebut Anda",
+        "content": "~ ★: @⁨Naxrat⁩ woiiiiiooo cpm",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633112948
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎59 pesan dari 4 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633112920
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎50 pesan dari 3 chat",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633112887
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:25",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633112860
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
@@ -4286,46 +4326,6 @@
         "time": "08/04 14:01",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775631696320
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Hadeh",
-        "time": "08/04 14:01",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631696315
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "10 new messages from 10 chats",
-        "time": "08/04 14:01",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631695817
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Amanah dong",
-        "time": "08/04 14:01",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631693989
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Banyak yang juga VIP",
-        "time": "08/04 14:01",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631670786
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Bisa",
-        "time": "08/04 14:00",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775631653515
       }
     ],
     "galleryPhotos": [],
