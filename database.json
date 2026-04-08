@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637122498,
+    "lastSeen": 1775637137603,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "14 new messages from 13 chats",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637140225
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637125173
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637125166
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: Gok",
+        "content": "Cara pakai attack panel gimana",
+        "time": "08/04 15:32",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637125118
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4286,38 +4318,6 @@
         "time": "08/04 14:42",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775634129952
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "14 new messages from 12 chats",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634129904
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "JDI? BELIK YANG MN?",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634128704
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634128527
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send user lu",
-        "time": "08/04 14:42",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634128451
       }
     ],
     "galleryPhotos": [],
