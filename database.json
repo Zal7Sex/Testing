@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775634005080,
+    "lastSeen": 1775634016996,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: Rose",
+        "content": "File",
+        "time": "08/04 14:40",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775634005414
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
+        "content": "Voice message",
+        "time": "08/04 14:40",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775634005402
+      },
       {
         "appName": "Telegram",
         "sender": "STORE Reski",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:24",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633067852
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎18 pesan dari 3 chat",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633067847
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎21 pesan dari 4 chat",
-        "time": "08/04 14:24",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633067044
       }
     ],
     "galleryPhotos": [],
