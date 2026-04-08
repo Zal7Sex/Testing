@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775631327439,
+    "lastSeen": 1775631330498,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Sending video...",
+        "time": "08/04 13:55",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775631330737
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎JB || KHAFA X NAZRIEL (2 pesan): ~ Khafa Store",
+        "content": "traspend dev nya siapa",
+        "time": "08/04 13:55",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775631329592
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
