@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632630108,
+    "lastSeen": 1775632632191,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "12 new messages from 12 chats",
+        "time": "08/04 14:17",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632633065
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "6281356292223 no admin tele gue nih",
+        "time": "08/04 14:17",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632633055
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Dah tuh",
+        "time": "08/04 14:17",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632633042
+      },
       {
         "appName": "Telegram",
         "sender": "Alifzx rezz",
@@ -4302,30 +4326,6 @@
         "time": "08/04 13:46",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775630798706
-      },
-      {
-        "appName": "Messages",
-        "sender": "XL",
-        "content": "(XL) Kuota Area Bebas Puas sudah habis. Beli paket Internet lainnya di outlet terdekat atau download aplikasi myXL. Info: xl.co.id/LC",
-        "time": "08/04 13:45",
-        "pkg": "com.google.android.apps.messaging",
-        "receivedAt": 1775630740102
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630700507
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Sending video...",
-        "time": "08/04 13:44",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775630700475
       }
     ],
     "galleryPhotos": [],
