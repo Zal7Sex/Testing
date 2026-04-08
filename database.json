@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775637092572,
+    "lastSeen": 1775637110488,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "14 new messages from 13 chats",
+        "time": "08/04 15:31",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775637111638
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎6 pesan dari 3 chat",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637093204
+      },
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
+        "content": "~ 𝙇𝙪𝙯𝙝𝙖𝙣: Pelaku nya no nya mana?",
+        "time": "08/04 15:31",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775637093197
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4294,30 +4318,6 @@
         "time": "08/04 14:40",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775634052277
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎2 pesan dari 2 chat",
-        "time": "08/04 14:40",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634050725
-      },
-      {
-        "appName": "WA Business",
-        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
-        "content": "~ 𝖅𝕽𝕴𝕷𝖅 ℌ𝔒𝔖𝔗: Ezz",
-        "time": "08/04 14:40",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634050649
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 898-7564-441",
-        "content": "Sbar",
-        "time": "08/04 14:40",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775634049952
       }
     ],
     "galleryPhotos": [],
