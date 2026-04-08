@@ -329,6 +329,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633253842
+      },
+      {
+        "appName": "WA Business",
         "sender": "WA Business",
         "content": "‎‎146 pesan dari 4 chat",
         "time": "08/04 14:27",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:11",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632311287
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Lu mau",
-        "time": "08/04 14:11",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632311236
       }
     ],
     "galleryPhotos": [],
