@@ -329,6 +329,22 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
+        "content": "~ 𝖅𝕽𝕴𝕷𝖅 ℌ𝔒𝔖𝔗: Apny",
+        "time": "08/04 14:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634367447
+      },
+      {
+        "appName": "WA Business",
+        "sender": "𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏: Membalas Anda",
+        "content": "~ 𝖅𝕽𝕴𝕷𝖅 ℌ𝔒𝔖𝔗: Apny",
+        "time": "08/04 14:46",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634367438
+      },
+      {
+        "appName": "WA Business",
         "sender": "WhatsApp Business",
         "content": "Sending video to 𝙏𝙀𝘼𝙈 𝙉𝘼𝙓𝙍𝘼𝙏",
         "time": "08/04 14:44",
@@ -4310,22 +4326,6 @@
         "time": "08/04 14:26",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633165402
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "Permisi Azx",
-        "time": "08/04 14:26",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633163780
-      },
-      {
-        "appName": "WA Business",
-        "sender": "WA Business",
-        "content": "‎‎85 pesan dari 3 chat",
-        "time": "08/04 14:26",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633163771
       }
     ],
     "galleryPhotos": [],
