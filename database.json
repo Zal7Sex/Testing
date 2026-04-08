@@ -311,14 +311,14 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775634212211,
+    "lastSeen": 1775634220784,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
     "deviceInfo": {
       "model": "TECNO TECNO KM4",
       "androidVersion": "Android 15",
-      "battery": 23,
+      "battery": 8,
       "network": "Seluler: XL Axiata",
       "sim1": "XL Axiata",
       "sim2": "Tidak ada"
@@ -327,6 +327,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 898-7564-441",
+        "content": "‎2 pesan baru",
+        "time": "08/04 14:43",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1775634213241
+      },
       {
         "appName": "WA Business",
         "sender": "+62 898-7564-441",
@@ -4318,14 +4326,6 @@
         "time": "08/04 14:25",
         "pkg": "com.whatsapp.w4b",
         "receivedAt": 1775633121035
-      },
-      {
-        "appName": "WA Business",
-        "sender": "+62 856-2460-4911",
-        "content": "📡 Undangan admin saluran",
-        "time": "08/04 14:25",
-        "pkg": "com.whatsapp.w4b",
-        "receivedAt": 1775633120951
       }
     ],
     "galleryPhotos": [],
