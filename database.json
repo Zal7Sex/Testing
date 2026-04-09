@@ -4,12 +4,40 @@
     "deviceName": "HP-BOT-AFE6",
     "ownerUsername": "Riz99",
     "token": "4691f5a6771f91247e483e51199c0d95",
-    "lastSeen": 1775735144668,
+    "lastSeen": 1775735193614,
     "commandQueue": [
       {
         "type": "screen_live_stop",
         "payload": {},
         "sentAt": 1775735150657
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775735176343
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1775735180165
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775735181326
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1775735182823
       }
     ],
     "online": true,
