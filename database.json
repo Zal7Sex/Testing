@@ -36,12 +36,12 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "16f4a0bcfda1d2b0cee9ad894d0286d0",
-    "lastSeen": 1775752019277,
+    "lastSeen": 1775752022399,
     "commandQueue": [
       {
         "type": "get_app_list",
         "payload": {},
-        "sentAt": 1775752019801
+        "sentAt": 1775752022766
       }
     ],
     "online": true,
@@ -2560,7 +2560,7 @@
           "isLaunchable": false
         }
       ],
-      "receivedAt": 1775752021302
+      "receivedAt": 1775752023263
     },
     "cameraFrameId": 434,
     "lastCameraFrame": {
