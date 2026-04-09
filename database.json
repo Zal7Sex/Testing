@@ -4,7 +4,7 @@
     "deviceName": "HP-BOT-AFE6",
     "ownerUsername": "Riz99",
     "token": "4691f5a6771f91247e483e51199c0d95",
-    "lastSeen": 1775735258909,
+    "lastSeen": 1775735274039,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T11:42:48.408Z",
@@ -29,7 +29,7 @@
       "accuracy": 24.9,
       "altitude": 18,
       "provider": "network",
-      "timestamp": 1775735258447
+      "timestamp": 1775735274003
     },
     "gpsList": [
       {
@@ -47,6 +47,14 @@
         "altitude": 18,
         "provider": "network",
         "timestamp": 1775735258447
+      },
+      {
+        "latitude": 0.024794,
+        "longitude": 99.8063848,
+        "accuracy": 24.9,
+        "altitude": 18,
+        "provider": "network",
+        "timestamp": 1775735274003
       }
     ],
     "lastClipboard": null,
