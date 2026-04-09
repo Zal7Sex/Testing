@@ -5,7 +5,13 @@
     "ownerUsername": "Riz99",
     "token": "4691f5a6771f91247e483e51199c0d95",
     "lastSeen": 1775735144668,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "screen_live_stop",
+        "payload": {},
+        "sentAt": 1775735150657
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-09T11:42:48.408Z",
     "deviceInfo": {
