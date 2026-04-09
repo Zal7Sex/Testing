@@ -4,13 +4,8 @@
     "deviceName": "HP-BOT-AFE6",
     "ownerUsername": "Riz99",
     "token": "4691f5a6771f91247e483e51199c0d95",
-    "lastSeen": 1775735193614,
+    "lastSeen": 1775735196719,
     "commandQueue": [
-      {
-        "type": "screen_live_stop",
-        "payload": {},
-        "sentAt": 1775735150657
-      },
       {
         "type": "flashlight",
         "payload": {
