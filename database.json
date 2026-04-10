@@ -4,7 +4,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "6e7220f26efbc41a8ae81e6ccbe33703",
-    "lastSeen": 1775829453407,
+    "lastSeen": 1775829483390,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T11:33:42.377Z",
@@ -2205,6 +2205,35 @@
         "type": "unlock",
         "payload": {},
         "sentAt": 1775829449153
+      },
+      {
+        "type": "lock",
+        "payload": {
+          "text": "www",
+          "pin": "1234"
+        },
+        "sentAt": 1775829460995
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775829468567
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1775829474645
+      },
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "front"
+        },
+        "sentAt": 1775829478867
       }
     ],
     "online": true,
