@@ -36,7 +36,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "16f4a0bcfda1d2b0cee9ad894d0286d0",
-    "lastSeen": 1775783132480,
+    "lastSeen": 1775783199603,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T16:24:02.368Z",
@@ -2564,7 +2564,7 @@
     "token": "1d0822ca6110995ebbd76a4da4d60e90",
     "lastSeen": 1775754080550,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-09T17:00:31.550Z",
     "deviceInfo": {
       "model": "vivo V2344",
@@ -2594,7 +2594,7 @@
     "deviceName": "HP-RANSZZ-5B45",
     "ownerUsername": "RANSZZ",
     "token": "5254feb49c7af70650dd79eaee46dffd",
-    "lastSeen": 1775783130851,
+    "lastSeen": 1775783199933,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T18:28:35.828Z",
@@ -5262,15 +5262,7 @@
     "ownerUsername": "gehgtg17",
     "token": "e43e6a8e7a8c813dde322c0c8163e62a",
     "lastSeen": 1775781562850,
-    "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1775781585552
-      }
-    ],
+    "commandQueue": [],
     "online": false,
     "connectedAt": "2026-04-10T00:37:52.701Z",
     "deviceInfo": {
