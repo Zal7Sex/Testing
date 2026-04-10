@@ -2217,14 +2217,8 @@
     "deviceName": "HP-DDD-D84C",
     "ownerUsername": "kamu cii",
     "token": "163be1beb8d3daf27fadd11d728c24a0",
-    "lastSeen": 1775829903723,
-    "commandQueue": [
-      {
-        "type": "get_app_usage",
-        "payload": {},
-        "sentAt": 1775829903759
-      }
-    ],
+    "lastSeen": 1775829907002,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T13:56:46.034Z",
     "deviceInfo": {
@@ -4502,7 +4496,191 @@
         "recordedAt": 1775829899534
       }
     ],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 160,
+          "lastUsed": 1775814875620
+        },
+        {
+          "packageName": "com.google.android.youtube",
+          "appName": "YouTube",
+          "timeMin": 92,
+          "lastUsed": 1775754207333
+        },
+        {
+          "packageName": "com.dts.freefireth",
+          "appName": "Free Fire",
+          "timeMin": 81,
+          "lastUsed": 1775778151640
+        },
+        {
+          "packageName": "com.dts.freefireth",
+          "appName": "Free Fire",
+          "timeMin": 70,
+          "lastUsed": 1775826002042
+        },
+        {
+          "packageName": "info.flowersoft.theotown.theotown",
+          "appName": "TheoTown",
+          "timeMin": 65,
+          "lastUsed": 1775753352353
+        },
+        {
+          "packageName": "com.canva.editor",
+          "appName": "Canva",
+          "timeMin": 60,
+          "lastUsed": 1775783796139
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "timeMin": 58,
+          "lastUsed": 1775829161865
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "timeMin": 34,
+          "lastUsed": 1775809522655
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 18,
+          "lastUsed": 1775828584811
+        },
+        {
+          "packageName": "com.sec.android.app.launcher",
+          "appName": "Beranda One UI",
+          "timeMin": 10,
+          "lastUsed": 1775829899571
+        },
+        {
+          "packageName": "com.sec.android.app.launcher",
+          "appName": "Beranda One UI",
+          "timeMin": 9,
+          "lastUsed": 1775809529968
+        },
+        {
+          "packageName": "com.google.android.googlequicksearchbox",
+          "appName": "Google",
+          "timeMin": 7,
+          "lastUsed": 1775781528667
+        },
+        {
+          "packageName": "com.sec.android.gallery3d",
+          "appName": "Galeri",
+          "timeMin": 7,
+          "lastUsed": 1775783651320
+        },
+        {
+          "packageName": "id.dana",
+          "appName": "DANA",
+          "timeMin": 6,
+          "lastUsed": 1775827738404
+        },
+        {
+          "packageName": "id.dana",
+          "appName": "DANA",
+          "timeMin": 3,
+          "lastUsed": 1775729113437
+        },
+        {
+          "packageName": "com.aimlock.app",
+          "appName": "Aim Lock",
+          "timeMin": 3,
+          "lastUsed": 1775829841837
+        },
+        {
+          "packageName": "com.sec.android.app.myfiles",
+          "appName": "File Saya",
+          "timeMin": 3,
+          "lastUsed": 1775793058333
+        },
+        {
+          "packageName": "com.android.documentsui",
+          "appName": "File",
+          "timeMin": 2,
+          "lastUsed": 1775783739215
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "timeMin": 1,
+          "lastUsed": 1775793097240
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 1,
+          "lastUsed": 1775742002327
+        },
+        {
+          "packageName": "com.samsung.accessibility",
+          "appName": "Aksesibilitas",
+          "timeMin": 1,
+          "lastUsed": 1775829401640
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "timeMin": 1,
+          "lastUsed": 1775829740057
+        },
+        {
+          "packageName": "com.android.settings.intelligence",
+          "appName": "Saran Pengaturan",
+          "timeMin": 1,
+          "lastUsed": 1775829317011
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Installer paket",
+          "timeMin": 0,
+          "lastUsed": 1775829160240
+        },
+        {
+          "packageName": "com.sec.android.gallery3d",
+          "appName": "Galeri",
+          "timeMin": 0,
+          "lastUsed": 1775827485130
+        },
+        {
+          "packageName": "com.google.android.gms",
+          "appName": "Layanan Google Play",
+          "timeMin": 0,
+          "lastUsed": 1775817554526
+        },
+        {
+          "packageName": "com.sec.android.app.camera",
+          "appName": "Kamera",
+          "timeMin": 0,
+          "lastUsed": 1775827455900
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "timeMin": 0,
+          "lastUsed": 1775829027180
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller",
+          "appName": "Pengontrol izin",
+          "timeMin": 0,
+          "lastUsed": 1775829338565
+        },
+        {
+          "packageName": "android",
+          "appName": "Sistem Android",
+          "timeMin": 0,
+          "lastUsed": 1775792977419
+        }
+      ],
+      "receivedAt": 1775829908851
+    },
     "appList": null
   }
 ]
