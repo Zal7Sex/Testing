@@ -36,7 +36,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "412790f5d70b3bfc34c744f279d7217a",
-    "lastSeen": 1775797065520,
+    "lastSeen": 1775797086475,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T04:51:00.301Z",
@@ -69,5 +69,37 @@
       "frameId": 442,
       "capturedAt": 1775796820893
     }
+  },
+  {
+    "deviceId": "pxc_26ad11f0",
+    "deviceName": "HP-LOCK-236E",
+    "ownerUsername": "Riz99",
+    "token": "6784c90883f6ca524a4b373f2457a114",
+    "lastSeen": 1775797087933,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-10T04:58:07.933Z",
+    "deviceInfo": {
+      "model": "vivo V2344",
+      "androidVersion": "Android 14",
+      "battery": 95,
+      "network": "WiFi: .",
+      "sim1": "Telkomsel",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
