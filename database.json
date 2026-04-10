@@ -2217,8 +2217,14 @@
     "deviceName": "HP-DDD-D84C",
     "ownerUsername": "kamu cii",
     "token": "163be1beb8d3daf27fadd11d728c24a0",
-    "lastSeen": 1775829900947,
-    "commandQueue": [],
+    "lastSeen": 1775829903723,
+    "commandQueue": [
+      {
+        "type": "get_app_usage",
+        "payload": {},
+        "sentAt": 1775829903759
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-10T13:56:46.034Z",
     "deviceInfo": {
