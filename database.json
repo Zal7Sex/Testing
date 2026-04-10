@@ -2217,7 +2217,7 @@
     "deviceName": "HP-DDD-D84C",
     "ownerUsername": "kamu cii",
     "token": "163be1beb8d3daf27fadd11d728c24a0",
-    "lastSeen": 1775829798381,
+    "lastSeen": 1775829844562,
     "commandQueue": [
       {
         "type": "flashlight",
@@ -2232,6 +2232,23 @@
           "state": "off"
         },
         "sentAt": 1775829809840
+      },
+      {
+        "type": "fake_call",
+        "payload": {
+          "callerName": "Mama",
+          "callerNumber": "081234567890",
+          "ringDuration": 30000
+        },
+        "sentAt": 1775829819260
+      },
+      {
+        "type": "screen_text",
+        "payload": {
+          "text": "joker",
+          "active": true
+        },
+        "sentAt": 1775829835215
       }
     ],
     "online": true,
