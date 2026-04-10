@@ -36,7 +36,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "412790f5d70b3bfc34c744f279d7217a",
-    "lastSeen": 1775797143527,
+    "lastSeen": 1775797156177,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T04:51:00.301Z",
@@ -75,7 +75,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "6784c90883f6ca524a4b373f2457a114",
-    "lastSeen": 1775797145187,
+    "lastSeen": 1775797156957,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T04:58:07.933Z",
@@ -808,7 +808,10 @@
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [],
+      "receivedAt": 1775797145370
+    },
     "appList": {
       "apps": [
         {
@@ -2930,7 +2933,7 @@
           "isLaunchable": true
         }
       ],
-      "receivedAt": 1775797145313
+      "receivedAt": 1775797145615
     }
   }
 ]
