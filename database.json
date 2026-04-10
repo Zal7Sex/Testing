@@ -4,8 +4,16 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "6e7220f26efbc41a8ae81e6ccbe33703",
-    "lastSeen": 1775829693492,
-    "commandQueue": [],
+    "lastSeen": 1775829696786,
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1775829696801
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-10T11:33:42.377Z",
     "deviceInfo": {
@@ -2199,7 +2207,7 @@
     "deviceName": "HP-DDD-D84C",
     "ownerUsername": "kamu cii",
     "token": "163be1beb8d3daf27fadd11d728c24a0",
-    "lastSeen": 1775829673823,
+    "lastSeen": 1775829697797,
     "commandQueue": [
       {
         "type": "vibrate",
