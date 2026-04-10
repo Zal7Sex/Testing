@@ -4,8 +4,16 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "beb4680df9d0c4760e888ab7befb5c20",
-    "lastSeen": 1775809869493,
-    "commandQueue": [],
+    "lastSeen": 1775809878452,
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775809878827
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-10T07:13:35.169Z",
     "deviceInfo": {
