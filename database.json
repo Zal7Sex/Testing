@@ -36,14 +36,8 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "412790f5d70b3bfc34c744f279d7217a",
-    "lastSeen": 1775797002398,
-    "commandQueue": [
-      {
-        "type": "screen_live",
-        "payload": {},
-        "sentAt": 1775797004647
-      }
-    ],
+    "lastSeen": 1775797038421,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T04:51:00.301Z",
     "deviceInfo": {
