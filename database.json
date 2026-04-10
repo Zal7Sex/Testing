@@ -5,7 +5,13 @@
     "ownerUsername": "Riz99",
     "token": "6e7220f26efbc41a8ae81e6ccbe33703",
     "lastSeen": 1775829767468,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1775829801322
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-10T11:33:42.377Z",
     "deviceInfo": {
@@ -2212,7 +2218,22 @@
     "ownerUsername": "kamu cii",
     "token": "163be1beb8d3daf27fadd11d728c24a0",
     "lastSeen": 1775829798381,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775829804847
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1775829809840
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-10T13:56:46.034Z",
     "deviceInfo": {
