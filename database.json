@@ -36,7 +36,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "16f4a0bcfda1d2b0cee9ad894d0286d0",
-    "lastSeen": 1775786380603,
+    "lastSeen": 1775786410635,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T16:24:02.368Z",
@@ -2594,7 +2594,7 @@
     "deviceName": "HP-RANSZZ-5B45",
     "ownerUsername": "RANSZZ",
     "token": "5254feb49c7af70650dd79eaee46dffd",
-    "lastSeen": 1775786378942,
+    "lastSeen": 1775786409072,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-09T18:28:35.828Z",
@@ -5325,16 +5325,8 @@
     "deviceName": "HP-AMBON19-0D5B",
     "ownerUsername": "gehgtg17",
     "token": "3381b1f324ed8a6232b2bc945db220e9",
-    "lastSeen": 1775786378075,
-    "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "off"
-        },
-        "sentAt": 1775786378646
-      }
-    ],
+    "lastSeen": 1775786408117,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-10T01:56:37.805Z",
     "deviceInfo": {
