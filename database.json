@@ -4,8 +4,16 @@
     "deviceName": "HP-MAX-8E35",
     "ownerUsername": "mat",
     "token": "d5e011bd9b982d62b09800f151c57ebd",
-    "lastSeen": 1775894249292,
-    "commandQueue": [],
+    "lastSeen": 1775894278968,
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1775894280039
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-11T07:51:28.866Z",
     "deviceInfo": {
