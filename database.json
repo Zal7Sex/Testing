@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775928071393,
+    "lastSeen": 1775928089427,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋: Membalas Anda",
+        "content": "~ sanji (am prem 2k 1 tahun pm!!): ya kalo free gw mati",
+        "time": "12/04 00:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775928090754
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925127401
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925127026
       }
     ],
     "galleryPhotos": [],
