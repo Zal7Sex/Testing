@@ -126,6 +126,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (2 pesan): ~ k",
+        "content": "yg lain doang gw mah kagak",
+        "time": "12/04 00:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927555957
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
         "content": "~ regàcmèldlv/𝐂𝐈𝐓𝐄𝐍𝟗/ROR: 💟 Stiker",
         "time": "12/04 00:12",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1775924804111
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ dapa: Menyebut grup Anda secara privat di status",
-        "time": "11/04 23:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924732790
       }
     ],
     "galleryPhotos": [],
