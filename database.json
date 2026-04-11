@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927084703,
+    "lastSeen": 1775927106056,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Mengunduh 1 video",
+        "content": "dari Robzz x Arzz JASDIT MENTAHAN",
+        "time": "12/04 00:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927106941
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (2 pesan): ~ tapzyUrPrblm",
+        "content": "iya",
+        "time": "12/04 00:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927087479
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎2 pesan baru",
+        "time": "12/04 00:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927087470
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "~ kkdap catalyst/reality: 🗿",
+        "time": "12/04 00:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927086746
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ kkdap catalyst/reality",
