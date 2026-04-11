@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927250240,
+    "lastSeen": 1775927253248,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎4 pesan baru",
+        "time": "12/04 00:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927256134
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (4 pesan): ~ tapzyUrPrblm",
+        "content": "bgi gocap",
+        "time": "12/04 00:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927256110
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎3 pesan baru",
+        "time": "12/04 00:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927251802
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ tapzyUrPrblm",
@@ -4099,30 +4123,6 @@
         "time": "11/04 23:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1775923353352
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 895-3713-33331",
-        "content": "messipaw@neosstudy.work",
-        "time": "11/04 23:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923351429
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 895-3713-33331",
-        "content": "messipaw@neosstudy.work",
-        "time": "11/04 23:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923351338
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ dapa: ganti ke cc",
-        "time": "11/04 23:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923348580
       }
     ],
     "galleryPhotos": [],
