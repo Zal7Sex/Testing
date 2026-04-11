@@ -54,6 +54,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "+62 882-0034-07371",
+        "content": "Ok",
+        "time": "11/04 17:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775903736260
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎9 pesan dari 2 chat",
         "time": "11/04 17:30",
@@ -269,7 +277,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "25f27c309061b42c3e6310cc706ba952",
-    "lastSeen": 1775903733010,
+    "lastSeen": 1775903736109,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:23:23.787Z",
@@ -301,7 +309,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "e13e997b60c0fcca110bf105c3d2f904",
-    "lastSeen": 1775903731865,
+    "lastSeen": 1775903734836,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:39:58.599Z",
