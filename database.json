@@ -58,6 +58,14 @@
         "content": "Bang boleh join gak bang \nKan udah mau 13th",
         "time": "11/04 17:06",
         "pkg": "com.whatsapp",
+        "receivedAt": 1775902011866
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 882-0034-07371",
+        "content": "Bang boleh join gak bang \nKan udah mau 13th",
+        "time": "11/04 17:06",
+        "pkg": "com.whatsapp",
         "receivedAt": 1775902010560
       },
       {
@@ -205,7 +213,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "e13e997b60c0fcca110bf105c3d2f904",
-    "lastSeen": 1775902008368,
+    "lastSeen": 1775902010999,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:39:58.599Z",
