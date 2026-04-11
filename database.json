@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775925418308,
+    "lastSeen": 1775925421321,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke +62 895-3713-33331",
+        "time": "11/04 23:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925421404
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke +62 895-3713-33331",
+        "time": "11/04 23:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925420806
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke +62 895-3713-33331",
+        "time": "11/04 23:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925420656
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
