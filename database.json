@@ -5,15 +5,7 @@
     "ownerUsername": "gehgtg17",
     "token": "cb1b1bec7fb91ce24a2b872769712f41",
     "lastSeen": 1775909367953,
-    "commandQueue": [
-      {
-        "type": "camera_live_start",
-        "payload": {
-          "facing": "front"
-        },
-        "sentAt": 1775909374755
-      }
-    ],
+    "commandQueue": [],
     "online": false,
     "connectedAt": "2026-04-11T11:55:24.142Z",
     "deviceInfo": {
@@ -79,7 +71,7 @@
     "token": "d55db186fe9dc11a2005331c05cbd3a5",
     "lastSeen": 1775912146845,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-11T12:50:34.176Z",
     "deviceInfo": {
       "model": "vivo V2344",
