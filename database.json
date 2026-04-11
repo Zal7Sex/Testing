@@ -4,7 +4,7 @@
     "deviceName": "HP-HS100%-325B",
     "ownerUsername": "gehgtg17",
     "token": "cb1b1bec7fb91ce24a2b872769712f41",
-    "lastSeen": 1775909172464,
+    "lastSeen": 1775909200218,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T11:55:24.142Z",
@@ -19,7 +19,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "11/04 19:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775909201238
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
