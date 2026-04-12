@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003529257,
+    "lastSeen": 1776003532334,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎2 pesan baru",
+        "time": "12/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003534267
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (2 pesan): ~ sky",
+        "content": "apsi si nasgor ini",
+        "time": "12/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003531896
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎2 pesan baru",
+        "time": "12/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003531863
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎2 pesan baru",
+        "time": "12/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003531857
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎: hahaa",
+        "time": "12/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003530733
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨: ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
@@ -4083,46 +4123,6 @@
         "time": "12/04 00:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927893865
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ tapzyUrPrblm: 📷 @⁨semua⁩ passin saldo lu ke qr gw tuh nganggur",
-        "time": "12/04 00:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927893860
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎3 pesan baru",
-        "time": "12/04 00:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927893853
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ m!kel",
-        "content": "ambil ae klo bisa",
-        "time": "12/04 00:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927893844
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎2 pesan baru",
-        "time": "12/04 00:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927893838
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (2 pesan): Menyebut semua",
-        "content": "~ tapzyUrPrblm: 📷 @⁨semua⁩ passin saldo lu ke qr gw tuh nganggur",
-        "time": "12/04 00:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927893108
       }
     ],
     "galleryPhotos": [],
