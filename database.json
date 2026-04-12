@@ -130,6 +130,14 @@
         "content": "Maaf aku keluar soalnya leg",
         "time": "12/04 10:04",
         "pkg": "com.whatsapp",
+        "receivedAt": 1775963079202
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 813-9113-295",
+        "content": "Maaf aku keluar soalnya leg",
+        "time": "12/04 10:04",
+        "pkg": "com.whatsapp",
         "receivedAt": 1775963079018
       },
       {
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925417264
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925416904
       }
     ],
     "galleryPhotos": [],
