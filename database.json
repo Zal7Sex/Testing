@@ -127,6 +127,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎2 pesan baru",
+        "time": "12/04 09:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775960625551
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎1 pesan baru",
         "time": "12/04 09:23",
         "pkg": "com.whatsapp",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925408785
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925407841
       }
     ],
     "galleryPhotos": [],
