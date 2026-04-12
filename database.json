@@ -130,6 +130,14 @@
         "content": "Memeriksa pesan baru",
         "time": "12/04 17:02",
         "pkg": "com.whatsapp",
+        "receivedAt": 1775988164131
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "12/04 17:02",
+        "pkg": "com.whatsapp",
         "receivedAt": 1775988164110
       },
       {
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925797795
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (11 pesan): ~ nay",
-        "content": "dym s",
-        "time": "11/04 23:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925793903
       }
     ],
     "galleryPhotos": [],
