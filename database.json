@@ -126,6 +126,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (3 pesan): ~ 你也太八卦了吧 ",
+        "content": "💟 Stiker",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003659972
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎2 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003657274
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
         "content": "‎2 pesan baru",
         "time": "12/04 21:20",
@@ -4107,22 +4123,6 @@
         "time": "12/04 04:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775943386705
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎5 pesan dari 3 chat",
-        "time": "12/04 04:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775943383933
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4 pesan dari 2 chat",
-        "time": "12/04 04:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775942208810
       }
     ],
     "galleryPhotos": [],
