@@ -127,6 +127,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎2 pesan baru",
+        "time": "12/04 17:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775989624317
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎1 pesan baru",
         "time": "12/04 17:27",
         "pkg": "com.whatsapp",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1775926105059
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 838-7194-1894",
-        "content": "byr 2k",
-        "time": "11/04 23:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925937217
       }
     ],
     "galleryPhotos": [],
