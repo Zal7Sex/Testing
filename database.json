@@ -126,6 +126,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Mama mamak",
+        "content": "Memanggil…",
+        "time": "12/04 17:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775991157472
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Menghapus obrolan terpilih…",
         "content": "77%",
         "time": "12/04 17:51",
@@ -4115,14 +4123,6 @@
         "time": "12/04 00:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927013945
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ regàcmèldlv/𝐂𝐈𝐓𝐄𝐍𝟗/ROR: genak gw",
-        "time": "12/04 00:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775926863085
       }
     ],
     "galleryPhotos": [],
