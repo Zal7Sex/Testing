@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776001322450,
+    "lastSeen": 1776001331557,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.",
+        "content": "~ '   بنت جميلة    !¡    @phina: Menyebut grup Anda secara privat di status",
+        "time": "12/04 20:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776001331800
+      },
       {
         "appName": "WhatsApp",
         "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.",
@@ -4115,14 +4123,6 @@
         "time": "12/04 00:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927107232
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari Robzz x Arzz JASDIT MENTAHAN",
-        "time": "12/04 00:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927106941
       }
     ],
     "galleryPhotos": [],
