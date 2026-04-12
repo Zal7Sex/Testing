@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776002842493,
+    "lastSeen": 1776002857919,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "84%",
+        "time": "12/04 21:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002843186
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "56%",
+        "time": "12/04 21:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002842932
+      },
       {
         "appName": "WhatsApp",
         "sender": "Menghapus obrolan terpilih…",
@@ -4107,22 +4123,6 @@
         "time": "12/04 00:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927552720
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎2 pesan baru",
-        "time": "12/04 00:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927541237
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (2 pesan): ~ anna",
-        "content": "💟 Stiker",
-        "time": "12/04 00:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927541186
       }
     ],
     "galleryPhotos": [],
