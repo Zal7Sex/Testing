@@ -126,6 +126,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌",
+        "content": "~ 𝐂𝐈𝐓𝐄𝐍𝟗renz': intro pm",
+        "time": "12/04 08:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775957658044
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌: ~ 𝐂𝐈𝐓𝐄𝐍𝟗renz'",
+        "content": "intro pm",
+        "time": "12/04 08:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775957658037
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎2 pesan baru",
         "time": "12/04 08:33",
@@ -4107,22 +4123,6 @@
         "time": "11/04 23:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925279737
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ Rusjie: ① Foto",
-        "time": "11/04 23:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925260544
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ Rusjie",
-        "content": "① Foto",
-        "time": "11/04 23:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925259801
       }
     ],
     "galleryPhotos": [],
