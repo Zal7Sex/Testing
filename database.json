@@ -126,6 +126,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "8%",
+        "time": "12/04 15:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775981001919
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎1 pesan baru",
         "time": "12/04 15:02",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925777816
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (5 pesan): ~ nay",
-        "content": "kit hert si",
-        "time": "11/04 23:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925777738
       }
     ],
     "galleryPhotos": [],
