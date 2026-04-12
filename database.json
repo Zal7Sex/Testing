@@ -4163,8 +4163,16 @@
     "deviceName": "HP-AMBON19-0D5B",
     "ownerUsername": "gehgtg17",
     "token": "b36a601bee97c135ded0a2cfdb727a64",
-    "lastSeen": 1776037610415,
-    "commandQueue": [],
+    "lastSeen": 1776037640008,
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1776037640870
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-12T23:23:36.743Z",
     "deviceInfo": {
