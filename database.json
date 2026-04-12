@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776002436879,
+    "lastSeen": 1776002439774,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.: +62 859-4654-4205",
+        "content": "① Foto",
+        "time": "12/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002442758
+      },
       {
         "appName": "WhatsApp",
         "sender": "𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚",
@@ -4115,14 +4123,6 @@
         "time": "12/04 00:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927282208
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎3 pesan baru",
-        "time": "12/04 00:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927282148
       }
     ],
     "galleryPhotos": [],
