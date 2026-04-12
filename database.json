@@ -126,6 +126,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Menghapus pesan…",
+        "content": "‎4 dari 121 (3%)",
+        "time": "12/04 10:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775964295232
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
         "content": "‎7 pesan baru",
         "time": "12/04 10:16",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:37",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925420806
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925420656
       }
     ],
     "galleryPhotos": [],
