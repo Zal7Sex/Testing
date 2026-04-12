@@ -126,6 +126,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌: ~ 𝐂𝐈𝐓𝐄𝐍𝟗renz'",
+        "content": "📷 sela\n15\nlpg",
+        "time": "12/04 08:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775957809197
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝐑𝐀𝐑 𝐎𝐏𝐌𝐄𝐌",
         "content": "~ 𝐂𝐈𝐓𝐄𝐍𝟗renz': 📷 kay\n16\nbelitung",
         "time": "12/04 08:35",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925401431
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925401146
       }
     ],
     "galleryPhotos": [],
