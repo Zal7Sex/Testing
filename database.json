@@ -126,6 +126,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋 (2 pesan): Membalas Anda",
+        "content": "~ skibidi tet tet: okey min",
+        "time": "12/04 10:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775963191596
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "+62 813-9113-295",
         "content": "Maaf aku keluar soalnya leg",
         "time": "12/04 10:04",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925417635
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke +62 895-3713-33331",
-        "time": "11/04 23:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925417264
       }
     ],
     "galleryPhotos": [],
