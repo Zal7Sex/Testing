@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776002087818,
+    "lastSeen": 1776002103247,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
+        "content": "👋 Hekàl fo arthicàl ingin mengobrol sekarang. Ayo gabung ke percakapan!",
+        "time": "12/04 20:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002092564
+      },
       {
         "appName": "WhatsApp",
         "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.",
@@ -4115,14 +4123,6 @@
         "time": "12/04 00:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927249448
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "~ k: 💟 Stiker",
-        "time": "12/04 00:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927248873
       }
     ],
     "galleryPhotos": [],
