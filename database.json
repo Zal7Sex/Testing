@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003622457,
+    "lastSeen": 1776003628735,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎5 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003629066
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎5 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003624647
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (5 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
@@ -4107,22 +4123,6 @@
         "time": "12/04 00:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1775928787554
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘 (2 pesan): Menyebut Anda",
-        "content": "~ INI BOT KONTOL: Welcome yang baru gabung❤️\n\nBACA BAIK BAIK JANGAN MALAS‼️\n\n`jika belum paham cara jualan apk premium cek deskripsi ada grup belajar`\n\nCara mengecek produk\n- ketik list\n- ketik apk yang mau di cek harga\n- contoh: viu . Iqiyi . Vidio\n- wajib tanya stok sebelum pembelian \n\nCara pembelian \n- ketik payment\n- gunakan payment jangan sampai salah nomor/atas atas nama siapa.jika salah = pembelian tidak berhasil di proses",
-        "time": "12/04 00:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775928592087
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝗬𝗨𝗞𝗜 𝗦𝗧𝗢𝗥𝗘",
-        "content": "‎2 pesan baru",
-        "time": "12/04 00:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775928592003
       }
     ],
     "galleryPhotos": [],
