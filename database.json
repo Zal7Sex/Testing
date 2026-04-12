@@ -127,6 +127,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎2 pesan baru",
+        "time": "12/04 17:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775990608525
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎1 pesan baru",
         "time": "12/04 17:43",
         "pkg": "com.whatsapp",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:51",
         "pkg": "com.whatsapp",
         "receivedAt": 1775926301409
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (14 pesan): ~ k",
-        "content": "💟 Stiker",
-        "time": "11/04 23:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775926301324
       }
     ],
     "galleryPhotos": [],
