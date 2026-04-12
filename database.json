@@ -127,6 +127,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎1 pesan baru",
+        "time": "12/04 10:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775964714324
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎2 pesan baru",
         "time": "12/04 10:26",
         "pkg": "com.whatsapp",
@@ -4115,14 +4123,6 @@
         "time": "11/04 23:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1775925573610
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ kkdap catalyst/reality",
-        "content": "share woi, paling deres gw dajet",
-        "time": "11/04 23:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775925573537
       }
     ],
     "galleryPhotos": [],
