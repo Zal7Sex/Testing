@@ -126,6 +126,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚",
+        "content": "‎2 pesan baru",
+        "time": "12/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002454735
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚 (2 pesan): ~ 𝓖𝓲𝓻𝓵𝓯𝓻𝓲𝓮𝓷𝓭 𝓶𝓪𝓻𝓽𝓲𝓷 𝓬𝓸𝓻𝓽𝓲𝓼",
+        "content": "💟 Stiker",
+        "time": "12/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002454387
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚",
+        "content": "~ 𝓖𝓲𝓻𝓵𝓯𝓻𝓲𝓮𝓷𝓭 𝓶𝓪𝓻𝓽𝓲𝓷 𝓬𝓸𝓻𝓽𝓲𝓼: 💟 Stiker",
+        "time": "12/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776002453302
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𓆚꧁𝐿𝐸𝑍𝐴 𝐿𝑃𝑀꧂𓆚: ~ 𝓖𝓲𝓻𝓵𝓯𝓻𝓲𝓮𝓷𝓭 𝓶𝓪𝓻𝓽𝓲𝓷 𝓬𝓸𝓻𝓽𝓲𝓼",
         "content": "💟 Stiker",
         "time": "12/04 21:00",
@@ -4099,30 +4123,6 @@
         "time": "12/04 00:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927398423
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
-        "content": "~ thinn: trus kalo lu ada KTP buat apa anjing",
-        "time": "12/04 00:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927340207
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋: Membalas Anda",
-        "content": "~ thinn: trus kalo lu ada KTP buat apa anjing",
-        "time": "12/04 00:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927339800
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎5 pesan baru",
-        "time": "12/04 00:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927297524
       }
     ],
     "galleryPhotos": [],
