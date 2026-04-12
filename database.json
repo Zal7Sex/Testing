@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776022333381,
+    "lastSeen": 1776022351398,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -4134,8 +4134,24 @@
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
-    "lastGps": null,
-    "gpsList": [],
+    "lastGps": {
+      "latitude": -2.5936033333333333,
+      "longitude": 107.64275666666666,
+      "accuracy": 13.8,
+      "altitude": 47.9,
+      "provider": "gps",
+      "timestamp": 1776022352245
+    },
+    "gpsList": [
+      {
+        "latitude": -2.5936033333333333,
+        "longitude": 107.64275666666666,
+        "accuracy": 13.8,
+        "altitude": 47.9,
+        "provider": "gps",
+        "timestamp": 1776022352245
+      }
+    ],
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
