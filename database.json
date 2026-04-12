@@ -126,6 +126,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4 pesan dari 3 chat",
+        "time": "12/04 18:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775994126584
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "palenn",
+        "content": "Menyukai status Anda",
+        "time": "12/04 18:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1775994126454
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "palenn",
         "content": "Menyukai status Anda",
         "time": "12/04 18:42",
@@ -4107,22 +4123,6 @@
         "time": "12/04 00:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1775927040594
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈 (3 pesan): ~ tapzyUrPrblm",
-        "content": "dibuy diego gbny",
-        "time": "12/04 00:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927040574
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟑 𝐕𝐄𝐋𝐂𝐘𝐄𝐈",
-        "content": "‎2 pesan baru",
-        "time": "12/04 00:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775927038673
       }
     ],
     "galleryPhotos": [],
