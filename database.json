@@ -37,7 +37,15 @@
     "ownerUsername": "gehgtg17",
     "token": "074c70324689a6d895cd017b2b0059b6",
     "lastSeen": 1776087743839,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "front"
+        },
+        "sentAt": 1776087777202
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-13T11:23:24.956Z",
     "deviceInfo": {
