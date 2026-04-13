@@ -6349,8 +6349,16 @@
     "deviceName": "HP-DDD-1CAC",
     "ownerUsername": "kamu cii",
     "token": "d5a9c3629e069dc89393e6c813957bc7",
-    "lastSeen": 1776041389484,
-    "commandQueue": [],
+    "lastSeen": 1776041418499,
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1776041419681
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-13T00:49:25.859Z",
     "deviceInfo": {
