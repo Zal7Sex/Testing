@@ -53,6 +53,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "elganprtama",
+        "content": "Cerita baru: \"i’m negan\"",
+        "time": "13/04 22:44",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1776095075580
+      },
+      {
         "appName": "WhatsApp",
         "sender": "Marzz",
         "content": "Telepon suara tak terjawab",
