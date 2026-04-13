@@ -54,6 +54,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "STOCK PRIBADI  DIMZ STOCK",
+        "content": "~ Dimz Stock: 📷 Op\nLog ? GGL\nBind ? Bind gw\n20k",
+        "time": "13/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776089882254
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "STOCK PRIBADI  DIMZ STOCK: ~ Dimz Stock",
         "content": "📷 Op\nLog ? GGL\nBind ? Bind gw\n20k",
         "time": "13/04 21:18",
