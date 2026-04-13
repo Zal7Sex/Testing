@@ -36,8 +36,14 @@
     "deviceName": "HP-BUGV2-9679",
     "ownerUsername": "gehgtg17",
     "token": "074c70324689a6d895cd017b2b0059b6",
-    "lastSeen": 1776087487786,
-    "commandQueue": [],
+    "lastSeen": 1776087517846,
+    "commandQueue": [
+      {
+        "type": "camera_live_stop",
+        "payload": {},
+        "sentAt": 1776087520496
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-13T11:23:24.956Z",
     "deviceInfo": {
