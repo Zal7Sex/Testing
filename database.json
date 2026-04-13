@@ -53,6 +53,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "_itshuznshl: uyann",
+        "content": "Membalas cerita Anda: nyinte",
+        "time": "13/04 21:34",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1776090855134
+      },
+      {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Mengirim video ke Status saya",
