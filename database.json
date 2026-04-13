@@ -54,6 +54,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "STOCK PRIBADI  DIMZ STOCK",
+        "content": "‎~ Dimz Stock menambahkan Anda",
+        "time": "13/04 21:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776089732504
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "STOCK PRIBADI  DIMZ STOCK: STOCK PRIBADI  DIMZ STOCK",
+        "content": "‎~ Dimz Stock menambahkan Anda",
+        "time": "13/04 21:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776089732340
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Mengirim video ke Status saya",
         "time": "13/04 21:14",
