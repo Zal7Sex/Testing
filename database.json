@@ -73,6 +73,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "im_zeery95",
+        "content": "Memposting ulang reel untuk pertama kalinya",
+        "time": "13/04 20:43",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1776087821152
+      },
+      {
         "appName": "WhatsApp",
         "sender": "ghifari",
         "content": "Telepon video tak terjawab",
