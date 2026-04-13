@@ -54,6 +54,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "STOCK PRIBADI  DIMZ STOCK: ~ Dimz Stock",
+        "content": "📷 Sold out",
+        "time": "13/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776090016501
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "STOCK PRIBADI  DIMZ STOCK",
+        "content": "~ Dimz Stock: 📷 Sold out",
+        "time": "13/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776090016484
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "STOCK PRIBADI  DIMZ STOCK",
         "content": "~ Dimz Stock: 📷 Op\nLog ? GGL\nBind ? Bind gw\n20k",
         "time": "13/04 21:18",
