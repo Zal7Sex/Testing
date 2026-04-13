@@ -4163,8 +4163,17 @@
     "deviceName": "HP-AMBON19-0D5B",
     "ownerUsername": "gehgtg17",
     "token": "b36a601bee97c135ded0a2cfdb727a64",
-    "lastSeen": 1776046342724,
-    "commandQueue": [],
+    "lastSeen": 1776046369589,
+    "commandQueue": [
+      {
+        "type": "trigger_alarm",
+        "payload": {
+          "message": "Pegasus-X Rat Ni Dek😹",
+          "duration": 10000
+        },
+        "sentAt": 1776046371744
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-12T23:23:36.743Z",
     "deviceInfo": {
