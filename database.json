@@ -53,6 +53,22 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WhatsApp",
+        "sender": "STOCK PRIBADI  DIMZ STOCK",
+        "content": "rapa p7: 🔗 JB Dimz Stock | https://whatsapp.com/channel/0029VbCMTMkGOj9oW1ITE70d",
+        "time": "13/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776091314869
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "STOCK PRIBADI  DIMZ STOCK: rapa p7",
+        "content": "🔗 JB Dimz Stock | https://whatsapp.com/channel/0029VbCMTMkGOj9oW1ITE70d",
+        "time": "13/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776091314856
+      },
+      {
         "appName": "Instagram",
         "sender": "_itshuznshl: uyann",
         "content": "gua",
