@@ -6366,6 +6366,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "SMS",
+        "sender": "Pesan sedang berjalan",
+        "content": "Ketuk untuk informasi selengkapnya atau menghentikan aplikasi.",
+        "time": "13/04 08:53",
+        "pkg": "com.android.mms",
+        "receivedAt": 1776041634037
+      },
+      {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Memeriksa pesan baru",
