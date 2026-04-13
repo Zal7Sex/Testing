@@ -73,6 +73,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "_itshuznshl: gee17",
+        "content": "Membalas cerita Anda: Baca wa kntl",
+        "time": "13/04 21:02",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1776088968868
+      },
+      {
         "appName": "WhatsApp",
         "sender": "k: rapa p7",
         "content": "🎥 Catatan video  (0.19)",
