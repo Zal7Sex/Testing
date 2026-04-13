@@ -53,6 +53,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WhatsApp",
+        "sender": "ibu negara",
+        "content": "🎤 Pesan suara (0.04)",
+        "time": "13/04 21:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776091139659
+      },
+      {
         "appName": "Instagram",
         "sender": "_itshuznshl: ikik",
         "content": "yauda",
