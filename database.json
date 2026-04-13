@@ -4,14 +4,14 @@
     "deviceName": "HP-BUGV2-72B9",
     "ownerUsername": "gehgtg17",
     "token": "812a43bb8f83ed77d5b48f97e18e9b4e",
-    "lastSeen": 1776078882058,
+    "lastSeen": 1776079130783,
     "commandQueue": [],
-    "online": false,
+    "online": true,
     "connectedAt": "2026-04-13T11:13:00.134Z",
     "deviceInfo": {
       "model": "ITEL itel P671L",
       "androidVersion": "Android 14",
-      "battery": 85,
+      "battery": 84,
       "network": "Seluler: Smartfren 100% untuk Indonesia",
       "sim1": "Smartfren 100% untuk Indonesia",
       "sim2": "Tidak ada"
