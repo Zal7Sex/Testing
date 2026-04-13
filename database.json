@@ -53,6 +53,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Instagram",
+        "sender": "Pengikut baru",
+        "content": "liezl.548 mulai mengikuti Anda.",
+        "time": "13/04 20:16",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1776086161627
+      },
+      {
         "appName": "WhatsApp",
         "sender": "ghifari",
         "content": "Berdering…",
