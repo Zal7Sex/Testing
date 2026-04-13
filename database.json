@@ -4172,9 +4172,23 @@
           "pin": "4444"
         },
         "sentAt": 1776053604400
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1776053612883
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1776053618634
       }
     ],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-12T23:23:36.743Z",
     "deviceInfo": {
       "model": "vivo vivo Y17",
