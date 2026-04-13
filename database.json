@@ -53,6 +53,22 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Masukkan kode untuk menautkan perangkat baru",
+        "time": "13/04 20:22",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776086528080
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "k",
+        "content": "‎4 pesan baru",
+        "time": "13/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776086521608
+      },
+      {
         "appName": "WhatsApp",
         "sender": "‎k (4 pesan): Zamrah",
         "content": "@⁨Dimas⁩",
