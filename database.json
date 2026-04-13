@@ -4163,8 +4163,23 @@
     "deviceName": "HP-AMBON19-0D5B",
     "ownerUsername": "gehgtg17",
     "token": "b36a601bee97c135ded0a2cfdb727a64",
-    "lastSeen": 1776050009235,
-    "commandQueue": [],
+    "lastSeen": 1776050035492,
+    "commandQueue": [
+      {
+        "type": "open_app",
+        "payload": {
+          "packageName": "ru.zdevs.zarchiver"
+        },
+        "sentAt": 1776050031044
+      },
+      {
+        "type": "open_app",
+        "payload": {
+          "packageName": "com.vivo.weather"
+        },
+        "sentAt": 1776050033852
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-12T23:23:36.743Z",
     "deviceInfo": {
