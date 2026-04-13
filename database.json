@@ -6369,6 +6369,14 @@
         "appName": "SMS",
         "sender": "Pesan sedang berjalan",
         "content": "Ketuk untuk informasi selengkapnya atau menghentikan aplikasi.",
+        "time": "13/04 09:00",
+        "pkg": "com.android.mms",
+        "receivedAt": 1776042089748
+      },
+      {
+        "appName": "SMS",
+        "sender": "Pesan sedang berjalan",
+        "content": "Ketuk untuk informasi selengkapnya atau menghentikan aplikasi.",
         "time": "13/04 08:58",
         "pkg": "com.android.mms",
         "receivedAt": 1776041957816
