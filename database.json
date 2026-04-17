@@ -1048,7 +1048,7 @@
     "deviceName": "HP-ZAL7SEX-C460",
     "ownerUsername": "Zal7Sex",
     "token": "83c647b3b66e88ea039dfc8feddf49e2",
-    "lastSeen": 1776451059999,
+    "lastSeen": 1776451078018,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-17T16:39:47.738Z",
@@ -1063,7 +1063,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Checking for new messages",
+        "time": "18/04 01:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776451078198
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
