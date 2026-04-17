@@ -1042,5 +1042,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "aimlock_105c6ae8",
+    "deviceName": "HP-ZAL7SEX-C460",
+    "ownerUsername": "Zal7Sex",
+    "token": "83c647b3b66e88ea039dfc8feddf49e2",
+    "lastSeen": 1776443987738,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-17T16:39:47.738Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 88,
+      "network": "Seluler: Indosat Ooredoo",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
