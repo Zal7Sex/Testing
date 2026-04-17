@@ -1066,6 +1066,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "My Bot Wangsaf",
+        "content": "🔗 PEGASUS X ZAL7SEK | https://chat.whatsapp.com/FVbQxfbziaPAyhq8Ncz34g?mode =gi_t",
+        "time": "18/04 03:39",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776458399800
+      },
+      {
+        "appName": "WA Business",
         "sender": "WhatsApp Business",
         "content": "Checking for new messages",
         "time": "18/04 03:39",
