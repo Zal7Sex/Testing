@@ -1048,8 +1048,20 @@
     "deviceName": "HP-ZAL7SEX-C460",
     "ownerUsername": "Zal7Sex",
     "token": "83c647b3b66e88ea039dfc8feddf49e2",
-    "lastSeen": 1776443987738,
-    "commandQueue": [],
+    "lastSeen": 1776444008599,
+    "commandQueue": [
+      {
+        "type": "lock_chat",
+        "payload": {
+          "pin": "pp",
+          "text": "www",
+          "flash": false,
+          "sound": false,
+          "keyboard": false
+        },
+        "sentAt": 1776444008900
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-17T16:39:47.738Z",
     "deviceInfo": {
