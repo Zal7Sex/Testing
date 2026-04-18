@@ -1652,7 +1652,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "62ec192e8707094a77af5015cee3227b",
-    "lastSeen": 1776538125077,
+    "lastSeen": 1776538130986,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T18:37:29.429Z",
@@ -1668,6 +1668,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "⚙️ Actions Running\n\n▢ Information\n└──\n ├── workflow : Build Android APK\n ├── repo     : Builder\n ├── branch   : main\n ├── commit   : b18e0bc\n └── status   : Running\n\n▢ Steps\n✅ Set up job\n✅ Run actions/checkout@v4\n✅ Run actions/setup-java@v4\n🔄 Generate project & build APK\n⏳ Run actions/upload-artifact@v4\n⏳ Post Run actions/setup-java@v4\n⏳ Post Run actions/checkout@v4",
+        "time": "19/04 01:48",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776538131788
+      },
       {
         "appName": "Telegram",
         "sender": "Pegasus-X Tool",
