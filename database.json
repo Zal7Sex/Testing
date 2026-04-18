@@ -1130,6 +1130,30 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "PEGASUS X ZAL7SEK",
+        "content": "13 new messages",
+        "time": "18/04 22:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776526680264
+      },
+      {
+        "appName": "WA Business",
+        "sender": "PEGASUS X ZAL7SEK (13 messages): ~ DANS STORE REAL",
+        "content": "beli apk bug dmn",
+        "time": "18/04 22:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776526680258
+      },
+      {
+        "appName": "WA Business",
+        "sender": "PEGASUS X ZAL7SEK (13 messages): ~ DANS STORE REAL",
+        "content": "asalamualaikum",
+        "time": "18/04 22:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776526680254
+      },
+      {
         "appName": "Telegram",
         "sender": "REY JB ALL",
         "content": "Ss",
