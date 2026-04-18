@@ -1652,7 +1652,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "62ec192e8707094a77af5015cee3227b",
-    "lastSeen": 1776539832776,
+    "lastSeen": 1776539835867,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T18:37:29.429Z",
@@ -1668,6 +1668,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "✅ Actions Success\n\n▢ Information\n└──\n ├── workflow : Build Pegasus-X\n ├── repo     : r-up9\n ├── branch   : main\n ├── commit   : ffeee64\n ├── duration : 5m 42s\n └── result   : Success\n\n▢ Artifact\n└──\n ├── name : Pegasus-X\n └── size : 29.77 MB\n\n❌ Gagal Download: ETELEGRAM: 400 Bad Request: invalid file HTTP URL specified: URL host is empty\nDownload Manual Via Link.",
+        "time": "19/04 02:17",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776539836256
+      },
       {
         "appName": "Telegram",
         "sender": "Pegasus-X Tool",
