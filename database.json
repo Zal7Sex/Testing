@@ -1131,6 +1131,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "PEGASUS X ZAL7SEK",
+        "content": "14 new messages",
+        "time": "18/04 22:45",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776527135056
+      },
+      {
+        "appName": "WA Business",
         "sender": "PEGASUS X ZAL7SEK (14 messages): ~ Rizz",
         "content": "Pm",
         "time": "18/04 22:45",
