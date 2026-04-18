@@ -1652,7 +1652,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "62ec192e8707094a77af5015cee3227b",
-    "lastSeen": 1776539439624,
+    "lastSeen": 1776539472649,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T18:37:29.429Z",
@@ -1668,6 +1668,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "⚙️ Actions Queued\n\n▢ Information\n└──\n ├── workflow : Build Pegasus-X\n ├── repo     : r-up9\n ├── branch   : main\n ├── commit   : ffeee64\n └── status   : Queued\n\n⏳ Memuat langkah build...",
+        "time": "19/04 02:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776539472765
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
