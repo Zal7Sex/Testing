@@ -1130,6 +1130,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Messages",
+        "sender": "",
+        "content": "Messages is doing work in the background",
+        "time": "18/04 23:02",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1776528171505
+      },
+      {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
         "content": "Checking for new messages",
