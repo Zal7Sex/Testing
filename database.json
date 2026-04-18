@@ -1130,6 +1130,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "PEGASUS X ZAL7SEK (14 messages): ~ Rizz",
+        "content": "Pm",
+        "time": "18/04 22:45",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776527134607
+      },
+      {
         "appName": "Messages",
         "sender": "",
         "content": "Messages is doing work in the background",
