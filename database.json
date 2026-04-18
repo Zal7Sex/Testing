@@ -1396,5 +1396,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "aimlock_8096a8d3",
+    "deviceName": "HP-ZAL7SEX-3990",
+    "ownerUsername": "Zal7Sex",
+    "token": "78c81bc89c2169060674d81ad262f04b",
+    "lastSeen": 1776530740573,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-18T16:45:40.573Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 21,
+      "network": "WiFi: Zal7Sex Network",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
