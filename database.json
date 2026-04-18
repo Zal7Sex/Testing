@@ -1113,7 +1113,7 @@
     "deviceName": "HP-ZAL7SEX-31CE",
     "ownerUsername": "Zal7Sex",
     "token": "8bb07e24912da81df58390f0d6dd139a",
-    "lastSeen": 1776524810022,
+    "lastSeen": 1776524830140,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T14:57:09.343Z",
@@ -1129,6 +1129,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "REY JB ALL",
+        "content": "Ss",
+        "time": "18/04 22:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776524830558
+      },
       {
         "appName": "Messages",
         "sender": "IM3PAKET",
