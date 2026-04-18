@@ -1130,6 +1130,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Checking for new messages",
+        "time": "18/04 22:37",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776526676297
+      },
+      {
         "appName": "Messages",
         "sender": "",
         "content": "Messages is doing work in the background",
