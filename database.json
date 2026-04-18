@@ -1130,6 +1130,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Telegram",
+        "sender": "REY JB ALL",
+        "content": "Ss",
+        "time": "18/04 22:32",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776526330063
+      },
+      {
         "appName": "Messages",
         "sender": "",
         "content": "Messages is doing work in the background",
