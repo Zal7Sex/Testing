@@ -1130,6 +1130,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Telegram",
+        "sender": "REY JB ALL",
+        "content": "Ss",
+        "time": "18/04 22:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776526678717
+      },
+      {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
         "content": "Checking for new messages",
