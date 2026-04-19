@@ -87,6 +87,14 @@
       {
         "appName": "Telegram",
         "sender": "Pegasus-X Tool",
+        "content": "⎙ Uploading...\n\n▢ Progress\n└──\n ├── [██████████████░] 90%\n └── files : 44/49",
+        "time": "20/04 01:04",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776621898894
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
         "content": "⎙ Uploading...\n\n▢ Progress\n└──\n ├── [█████████████░░] 84%\n └── files : 41/49",
         "time": "20/04 01:04",
         "pkg": "org.telegram.messenger",
