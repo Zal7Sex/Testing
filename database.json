@@ -86,6 +86,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "51 messages from 6 chats",
+        "time": "20/04 00:19",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776619190370
+      },
+      {
+        "appName": "WA Business",
         "sender": "Call Me Zal7Sex",
         "content": "bantu gw fix dan ubahin pada file ini\n1. di hacked screen tepat nya fitur lock & chat itu pas mau kirim pesan itu tombol kirim nya ga bisa di pencet\n2. fitur play video itu sekarang ga usah upload video melainkan video udah tersedia di assest/video/hack.mp4 bersama video background.mp4\n3. play video itu kasih pinning screen seperti lock\n4. overlay lock pada fitur lock & chat itu jangan reset overlay atau ngasih accessibility, dia hanya pake pinning screen atau sematkan aplikasi saja untuk lock & chat\n5. perbaiki device offline dan online, contoh hp Tecno udah connect terus offline nah terus connect lagi tuh jadi jangan daftar in sebagai online baru melainkan yg sebelumnya Offline jadi Online \n6. di hacked screen Kalo device udah pernah ke lock melalui fitur lock & chat itu log chatan sama victim tetep ada jangan ilang",
         "time": "20/04 00:19",
