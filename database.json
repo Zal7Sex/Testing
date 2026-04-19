@@ -68,8 +68,20 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2b39a6703f5db8211dfa9f9423390eb5",
-    "lastSeen": 1776622188181,
-    "commandQueue": [],
+    "lastSeen": 1776622215106,
+    "commandQueue": [
+      {
+        "type": "lock_chat",
+        "payload": {
+          "pin": "hi",
+          "text": "im",
+          "flash": true,
+          "sound": false,
+          "keyboard": false
+        },
+        "sentAt": 1776622215327
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-19T17:08:10.865Z",
     "deviceInfo": {
