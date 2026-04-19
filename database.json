@@ -86,6 +86,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "3 messages from 2 chats",
+        "time": "20/04 00:42",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776620560541
+      },
+      {
+        "appName": "WA Business",
         "sender": "+62 831-6863-7098",
         "content": "Kick yg ini aja bg zal",
         "time": "20/04 00:42",
