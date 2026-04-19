@@ -949,7 +949,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2e92a6bdd822c4e30f88c80450a71ff6",
-    "lastSeen": 1776628262427,
+    "lastSeen": 1776628271477,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-19T19:47:39.388Z",
@@ -974,6 +974,1870 @@
     "lastAudio": null,
     "audioList": [],
     "lastAppUsage": null,
-    "appList": null
+    "appList": {
+      "apps": [
+        {
+          "packageName": "com.google.android.networkstack.tethering",
+          "appName": "Tethering",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.gba",
+          "appName": "GBA Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.ims",
+          "appName": "com.mediatek.ims.ImsApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.cts.priv.ctsshim",
+          "appName": "com.android.cts.priv.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.youtube",
+          "appName": "YouTube",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.statisticalsales",
+          "appName": "sys Stasl",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.hilauncherconfig",
+          "appName": "com.hilauncherconfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.zaz.translate",
+          "appName": "Hi Translate",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.corner",
+          "appName": "Corner cutout",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.services",
+          "appName": "Android Services Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediafire.android",
+          "appName": "MediaFire",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.double",
+          "appName": "Double cutout",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.telephony",
+          "appName": "Phone and Messaging Storage",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.dynsystem",
+          "appName": "Dynamic System Updates",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.plat.appupdate",
+          "appName": "App Update",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.pebble",
+          "appName": "Pebble",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.googlequicksearchbox",
+          "appName": "Google",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice",
+          "appName": "Cell Broadcast Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.phonemaster",
+          "appName": "Phone Master",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.calendar",
+          "appName": "Calendar Storage",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.manualguide",
+          "appName": "Manual Guide",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.googleassistant",
+          "appName": "Assistant",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.telephony",
+          "appName": "Telephony Assist",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.media",
+          "appName": "com.android.providers.media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.networkstack.tethering.overlay",
+          "appName": "TetheringResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.onetimeinitializer",
+          "appName": "Google One Time Init",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.shared",
+          "appName": "Android Shared Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_wide_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.location.lppe.main",
+          "appName": "LPPe Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpapercropper",
+          "appName": "com.android.wallpapercropper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.magicfont",
+          "appName": "Font Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.magicshow",
+          "appName": "Visha Player",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon.vessel",
+          "appName": "Vessel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.schpwronoff",
+          "appName": "Scheduled power on/off and restart",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.cinnamon",
+          "appName": "Cinnamon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.SettingsProviderResOverlay",
+          "appName": "com.mediatek.SettingsProviderResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.idea.questionnaire",
+          "appName": "Questionnaire",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.gnss.nonframeworklbs",
+          "appName": "MTK Non-Framework LBS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.antitheft",
+          "appName": "Za-Hooc",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.systemuiresoverlay",
+          "appName": "com.mediatek.systemuiresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.systemui",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.networkstack.tethering.inprocess.overlay",
+          "appName": "TetheringResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.taperedrect",
+          "appName": "Tapered Rect",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.agingfunction",
+          "appName": "AgingFunction",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay",
+          "appName": "com.android.wifi.resources.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cellbroadcast.overlay",
+          "appName": "com.android.cellbroadcast.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.externalstorage",
+          "appName": "External Storage",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.zjx.ztezscreenshot",
+          "appName": "GG Mouse Pro 2",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.ygps",
+          "appName": "YGPS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.simprocessor",
+          "appName": "SimProcessor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.htmlviewer",
+          "appName": "HTML Viewer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.picsart.studio",
+          "appName": "Picsart",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.companiondevicemanager",
+          "appName": "Companion Device Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mms.service",
+          "appName": "MmsService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.downloads",
+          "appName": "Download Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetooth.auto_generated_rro_product__",
+          "appName": "com.android.bluetooth.auto_generated_rro_product__",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.messaging",
+          "appName": "Messages",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.pegasusx.project",
+          "appName": "Pegasus-X",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.networkstack.tethering.overlay",
+          "appName": "TetheringResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.engineermode",
+          "appName": "EngineerMode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "ru.zdevs.zarchiver",
+          "appName": "ZArchiver",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.facemoji.lite.transsion",
+          "appName": "Emoji Keyboard",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.bodylock.app",
+          "appName": "Body Lock",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.android",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.faceidsub",
+          "appName": "Face Unlock",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.westalgo.factorycamera",
+          "appName": "CalibrationTool",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "jp.ddo.hotmist.unicodepad",
+          "appName": "UnicodePad",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.openai.chatgpt",
+          "appName": "ChatGPT",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.omacp",
+          "appName": "Omacp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.networkstack.inprocess.overlay",
+          "appName": "NetworkStackInProcessResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.os.overlay",
+          "appName": "com.android.systemui.os.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.themepicker",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.configupdater",
+          "appName": "ConfigUpdater",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.dualapp",
+          "appName": "Dual App",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.providers.media.module",
+          "appName": "Media picker",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller",
+          "appName": "com.google.android.overlay.modules.permissioncontroller",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "moe.shizuku.privileged.api",
+          "appName": "Shizuku",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.ar.core",
+          "appName": "Google Play Services for AR",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.downloads.ui",
+          "appName": "Downloads",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.pacprocessor",
+          "appName": "PacProcessor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.simappdialog",
+          "appName": "Sim App Dialog",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.aogservice",
+          "appName": "AogService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.hole",
+          "appName": "Punch Hole cutout",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.tall",
+          "appName": "Tall cutout",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.networkstack.overlay",
+          "appName": "NetworkStackResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.certinstaller",
+          "appName": "Certificate Installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.theme.icon",
+          "appName": "com.transsion.theme.icon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.black",
+          "appName": "Black",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig",
+          "appName": "com.android.carrierconfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.marvin.talkback",
+          "appName": "Android Accessibility Suite",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.green",
+          "appName": "Green",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.ocean",
+          "appName": "Ocean",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.space",
+          "appName": "Space",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.threebutton",
+          "appName": "3 Button Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android",
+          "appName": "Android System",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.contacts",
+          "appName": "Contacts",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.launcher",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.powercenter",
+          "appName": "Power",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.egg",
+          "appName": "Android R Easter Egg",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mtp",
+          "appName": "MTP Host",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.ons",
+          "appName": "com.android.ons",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.stk",
+          "appName": "SIM Toolkit",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.launcher3",
+          "appName": "com.android.launcher3",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.backupconfirm",
+          "appName": "com.android.backupconfirm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "se.dirac.acs",
+          "appName": "Dirac Control Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "bin.mt.plus.canary",
+          "appName": "MT Manager",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.deepseek.chat",
+          "appName": "DeepSeek",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.linkit.bimatri",
+          "appName": "bima+",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.pinterest",
+          "appName": "Pinterest",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.statementservice",
+          "appName": "Intent Filter Verification Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xui.xhide",
+          "appName": "XHide",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gm",
+          "appName": "Gmail",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.silead.fingerprint",
+          "appName": "silead manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.mdmlsample",
+          "appName": "MDMLSample",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.camera",
+          "appName": "Camera",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.common",
+          "appName": "com.google.android.overlay.gmsconfig.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.datatransfer",
+          "appName": "Backup and Restore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.smartratswitch.service",
+          "appName": "SmartRatSwitch",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.intelligence",
+          "appName": "Settings Suggestions",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.frameworkresoverlay",
+          "appName": "com.mediatek.frameworkresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.faceid",
+          "appName": "Face Unlock",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.debug.loggerui",
+          "appName": "DebugLoggerUI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.foxdebug.acodefree",
+          "appName": "Acode",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller",
+          "appName": "Permission controller",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.health",
+          "appName": "Health",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.setupwizard",
+          "appName": "Android Setup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.settings",
+          "appName": "Settings Storage",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.sharedstoragebackup",
+          "appName": "com.android.sharedstoragebackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.batterywarning",
+          "appName": "com.mediatek.batterywarning",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.services",
+          "appName": "Meta Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.printspooler",
+          "appName": "Print Spooler",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.gallery20",
+          "appName": "AI Gallery",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.settings",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mmitest",
+          "appName": "1IWTPhoneTestTool",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.scorpio.securitycom",
+          "appName": "",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.ext.services",
+          "appName": "com.google.android.overlay.modules.ext.services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.incallui",
+          "appName": "InCallUI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.antipeep",
+          "appName": "Za-Hooc",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.phonemanager",
+          "appName": "PhoneMaster Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.se",
+          "appName": "SecureElementApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.inputdevices",
+          "appName": "Input Devices",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.wellbeing",
+          "appName": "Digital Wellbeing",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.funbase.xradio",
+          "appName": "WOW FM",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.bips",
+          "appName": "Default Print Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek",
+          "appName": "com.mediatek",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.ossettingsext",
+          "appName": "OSSettings",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.nbu.files",
+          "appName": "Files by Google",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.captiveportallogin",
+          "appName": "Captive Portal Login",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.settings",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.comms",
+          "appName": "com.google.android.overlay.gmsconfig.comms",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.docs",
+          "appName": "Drive",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.maps",
+          "appName": "Maps",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.filemanagerx",
+          "appName": "File Manager",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.modulemetadata",
+          "appName": "Main components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.wezone",
+          "appName": "WeZone",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.talpa.share",
+          "appName": "XShare Mini",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.calendar",
+          "appName": "Calendar",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.hoffnung",
+          "appName": "TPMS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.webview",
+          "appName": "Android System WebView",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.teardrop",
+          "appName": "Teardrop",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.rlk.weathers",
+          "appName": "Weather",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.networkstack",
+          "appName": "Network manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.contactkeys",
+          "appName": "Android System Key Verifier",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom",
+          "appName": "Call Management",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.syncadapters.contacts",
+          "appName": "Google Contacts Sync",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.themepicker",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.keychain",
+          "appName": "Key Chain",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.childmode",
+          "appName": "Kids Mode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.carlcare",
+          "appName": "Carlcare",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.systemui",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.axis.net",
+          "appName": "AXISnet",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Package installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.childmode.resoverlay",
+          "appName": "com.transsion.childmode.resoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.skyroam.silverhelper",
+          "appName": "GENIEX Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.applock",
+          "appName": "App Lock",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms",
+          "appName": "Google Play services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gsf",
+          "appName": "Google Services Framework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ims",
+          "appName": "Carrier Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.tts",
+          "appName": "Speech Recognition and Synthesis from Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.resources",
+          "appName": "System Wi-Fi Resources",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.calllogbackup",
+          "appName": "Call Log Backup/Restore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.partnersetup",
+          "appName": "Google Partner Setup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.fmradio",
+          "appName": "FM Radio",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.localtransport",
+          "appName": "com.android.localtransport",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.gsa",
+          "appName": "com.google.android.overlay.gmsconfig.gsa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierdefaultapp",
+          "appName": "CarrierDefaultApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.batterylab",
+          "appName": "Battery lab",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.font.notoserifsource",
+          "appName": "Noto Serif / Source Sans Pro",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.android",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.proxyhandler",
+          "appName": "ProxyHandler",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.aftersalecalibrationtool",
+          "appName": "AfterSaleCalibrationTool",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.safetycenter.resources",
+          "appName": "Google Safety Center Resources",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.scanningrecharger",
+          "appName": "Smart Scanner",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.waterfall",
+          "appName": "Waterfall cutout",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.talpa.hibrowser",
+          "appName": "Hola",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.magazineservice.hios",
+          "appName": "Magazine Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.systemui",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.reallytek.wg",
+          "appName": "SemiAutoMidtest",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.connectivity.resources",
+          "appName": "System Connectivity Resources",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "appName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.feedback",
+          "appName": "Market Feedback Agent",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.printservice.recommendation",
+          "appName": "Print Service Recommendation Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.photos",
+          "appName": "Photos",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.calendar",
+          "appName": "Calendar",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.managedprovisioning",
+          "appName": "Work Setup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.permissionprotect",
+          "appName": "Za-Hooc",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.soundpicker",
+          "appName": "Sounds",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.capctrl.service",
+          "appName": "RilCap",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.documentsui",
+          "appName": "Files",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.dirac",
+          "appName": "TranssionService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.hamal",
+          "appName": "TranHamal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.repaircard",
+          "appName": "E-warranty card",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.mainline.telemetry",
+          "appName": "Support components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.katana",
+          "appName": "Facebook",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.callrecorder",
+          "appName": "Call Recorder",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.partnerbookmarks",
+          "appName": "com.android.providers.partnerbookmarks",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.pages.app",
+          "appName": "Business Suite",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.screencapture",
+          "appName": "Screenshots",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaper.livepicker",
+          "appName": "Live Wallpaper Picker",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.overlaysuw",
+          "appName": "OOBE",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.gnssdebugreport",
+          "appName": "GnssDebugReport",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.silead.factorytest",
+          "appName": "fingertest_silead",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.videocallenhancer",
+          "appName": "Social Turbo",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.os.overlay",
+          "appName": "com.android.settings.os.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.system",
+          "appName": "Meta App Installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsnet.store",
+          "appName": "Palm Store",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.squircle",
+          "appName": "Squircle",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.smartpanel",
+          "appName": "Smart Panel",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.microintelligence",
+          "appName": "Micro Intelligence",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack.permissionconfig",
+          "appName": "com.android.server.NetworkPermissionConfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.storagemanager",
+          "appName": "Storage Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.tabe",
+          "appName": "APPIOT",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bookmarkprovider",
+          "appName": "Bookmark Provider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Settings",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.networkstack.overlay",
+          "appName": "GoogleNetworkStackResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.rlk.mi",
+          "appName": "TECNO ID Lite",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.theme.icondefaultshape",
+          "appName": "com.theme.icondefaultshape",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.launcher",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.termux",
+          "appName": "Termux",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.mdmconfig",
+          "appName": "MDMConfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.projection.gearhead",
+          "appName": "Android Auto",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.anthropic.claude",
+          "appName": "Claude",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.safetycore",
+          "appName": "Android System SafetyCore",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.autoinstalls.config.transsion.device",
+          "appName": "PlayAutoInstall",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.lbs.em2.ui",
+          "appName": "LocationEM2",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "net.bat.store",
+          "appName": "AHA Games",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cts.ctsshim",
+          "appName": "com.android.cts.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "appName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.sh.smart.caller",
+          "appName": "Phone",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.pegasusx.avangard",
+          "appName": "Pegasus-X",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.launcher",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.nephilim",
+          "appName": "Nephilim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.vpndialogs",
+          "appName": "VpnDialogs",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.phone",
+          "appName": "Phone Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.shell",
+          "appName": "Shell",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.systemupdate",
+          "appName": "System update",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.themepicker",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaperbackup",
+          "appName": "com.android.wallpaperbackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.blockednumber",
+          "appName": "Blocked Numbers Storage",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.soundrecorder",
+          "appName": "Sound Recorder",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.trancare",
+          "appName": "Trancare",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.auto_generated_rro_product__",
+          "appName": "com.android.settings.auto_generated_rro_product__",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.userdictionary",
+          "appName": "User Dictionary",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.meitu.poster",
+          "appName": "X-Design Galaxy",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.emergency",
+          "appName": "Emergency information",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.shopee.id",
+          "appName": "Shopee",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.letswitch",
+          "appName": "Phone Cloner",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.hotspot2.osulogin",
+          "appName": "OsuLogin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms.location.history",
+          "appName": "Google Location History",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.hilauncher",
+          "appName": "HiOS Launcher",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.location.fused",
+          "appName": "Fused Location",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.orchid",
+          "appName": "Orchid",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui",
+          "appName": "System UI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.youtube.music",
+          "appName": "YouTube Music",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.color.purple",
+          "appName": "Purple",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.calculator",
+          "appName": "Calculator",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.bluetoothmidiservice",
+          "appName": "Bluetooth MIDI Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.htetznaing.zfont2",
+          "appName": "zFont 3",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.os.typeface",
+          "appName": "FontManager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.appmanager",
+          "appName": "Meta App Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.traceur",
+          "appName": "System Tracing",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver",
+          "appName": "Wireless emergency alerts",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fpsensor.fpSensorExtensionSvc2",
+          "appName": "com.fpsensor.fpSensorExtensionSvc2",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.notebook",
+          "appName": "Notes",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android.auto_generated_rro_product__",
+          "appName": "android.auto_generated_rro_product__",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.adm",
+          "appName": "Find Hub",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.bluetooth",
+          "appName": "Bluetooth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaperpicker",
+          "appName": "Wallpapers",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.contacts",
+          "appName": "Contacts Storage",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.chromecustomization",
+          "appName": "Chrome Assistant",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.roundedrect",
+          "appName": "Rounded Rectangle",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.tecnospot",
+          "appName": "TECNO SPOT",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_narrow_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.hiparty",
+          "appName": "HiParty",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.photopicker",
+          "appName": "Photos & videos",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.compass",
+          "appName": "Compass",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.settings",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.transsion.deskclock",
+          "appName": "Clock",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.transsion.kolun.assistant",
+          "appName": "SmartAssistant",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.inputmethod.latin",
+          "appName": "Gboard",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.android",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.restore",
+          "appName": "Android Setup",
+          "isSystem": true,
+          "isLaunchable": false
+        }
+      ],
+      "receivedAt": 1776628272637
+    }
   }
 ]
