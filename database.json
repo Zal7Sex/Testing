@@ -2958,7 +2958,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "4fbddca0ad495e43e9702a786658b0b9",
-    "lastSeen": 1776712079308,
+    "lastSeen": 1776712082209,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T18:46:53.149Z",
@@ -2973,7 +2973,24 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "Pegasus-X Avangard: Pegasus-X Avangard",
+        "content": "‎Call Me Zal7Sex menambahkan Anda",
+        "time": "21/04 02:08",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776712083585
+      },
+      {
+        "appName": "WA Business",
+        "sender": "Pegasus-X Avangard",
+        "content": "‎Call Me Zal7Sex menambahkan Anda",
+        "time": "21/04 02:08",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776712083486
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
