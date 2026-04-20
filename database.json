@@ -2845,7 +2845,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "d74578f3ff66c3430ca09d01f1212737",
-    "lastSeen": 1776707898868,
+    "lastSeen": 1776707922875,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T17:55:24.269Z",
@@ -2860,7 +2860,48 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎8 pesan dari 4 chat",
+        "time": "21/04 00:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776707925253
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 877-2799-2931",
+        "content": "💟 Stiker",
+        "time": "21/04 00:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776707925208
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+60 11-6875 6088",
+        "content": "itu bg coba cari ada ga soalnya wa saaya semalem ada 3",
+        "time": "21/04 00:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776707925152
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 812-4458-6106",
+        "content": "Cara nge lock device gmn",
+        "time": "21/04 00:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776707925045
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 831-6863-7098",
+        "content": "Sabar deh kalo dia bikin sw",
+        "time": "21/04 00:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776707924908
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
