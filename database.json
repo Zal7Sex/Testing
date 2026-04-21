@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778626034,
+    "lastSeen": 1776778629100,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778626826,
+    "lastSeen": 1776778629370,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,78 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778630959
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778628637
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778628608
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778628589
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778628569
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778628536
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778628499
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778628479
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16880 pesan baru dari 118 obrolan",
+        "time": "21/04 20:37",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778628414
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14330,78 +14402,6 @@
         "time": "21/04 20:28",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778103475
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********761\n💰 Price: Rp 4.100\n🔢 Code: 182946\n━━━━━━━━━━━━━━━\n📨 Message:\nYour WhatsApp Business code 182-946\nDon't share this code with others\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008762036\n🏷️ System ID: FSCL33773076\n⏰ 21 Apr 2026 • 20:27 WIB\n\n#OTP #WHATSAPP",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778102343
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: ❄️ Akun Terhapus",
-        "content": "coba",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778102318
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16826 pesan baru dari 118 obrolan",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778102206
-      },
-      {
-        "appName": "Telegram",
-        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
-        "content": "Hey there KING777, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778095078
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778094943
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778094881
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778094856
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: Rose",
-        "content": "DDOS PANEL GW SUMPAHIN YAPIT",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778094817
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: alzz new era",
-        "content": "dah bisa buat adp?",
-        "time": "21/04 20:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778094741
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778626367,
+    "lastSeen": 1776778629306,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
