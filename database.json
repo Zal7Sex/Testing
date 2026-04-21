@@ -6331,6 +6331,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1027 pesan): Menyebut semua",
+        "content": "~ zunz: @⁨semua⁩",
+        "time": "21/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781414998
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2927 pesan dari 17 chat",
+        "time": "21/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781413056
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (1026 pesan): ~ zunz",
         "content": "join jb gw ke2",
         "time": "21/04 21:23",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779868744
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3646 pesan dari 21 chat",
-        "time": "21/04 20:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779867734
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (131 pesan): ~ jall store",
-        "content": "📷 𝗙𝗢𝗥𝗠𝗔𝗧 𝗝𝗣 𝗕𝗬 𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘\n[BUKAN PUNYA ADMIN]\n\n☎NOMOR SELLER :+6285713377298\n📦AKUN :ff\n💎SPEK : mamba old\n💸HARGA :60+\n⚙️LOG :ggl bind rebind tw koss \n🥷MC : 𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘\n\n𝗦𝗘𝗟𝗔𝗟𝗨 𝗠𝗘𝗡𝗚𝗚𝗨𝗡𝗔𝗞𝗔𝗡 𝗝𝗔𝗦𝗔 𝗔𝗗𝗠𝗜𝗡 [𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘] 𝗔𝗚𝗔𝗥 𝗧𝗘𝗥𝗛𝗜𝗡𝗗𝗔𝗥 𝗗𝗔𝗥𝗜 𝗥𝗜𝗣/𝗣𝗘𝗡𝗜𝗣𝗨𝗔𝗡‼️",
-        "time": "21/04 20:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779867692
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781410510,
+    "lastSeen": 1776781413676,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781411321,
+    "lastSeen": 1776781414334,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
