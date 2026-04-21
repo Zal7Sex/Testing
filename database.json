@@ -5572,6 +5572,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3175 pesan dari 21 chat",
+        "time": "21/04 18:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770048639
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎eight_creativityy 🅰️ (15 pesan): Daraa",
+        "content": "aok kan",
+        "time": "21/04 18:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770048616
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3174 pesan dari 21 chat",
         "time": "21/04 18:14",
         "pkg": "com.whatsapp",
@@ -9552,22 +9568,6 @@
         "time": "21/04 17:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768041680
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (916 pesan): ~ zunz",
-        "content": "📷 Foto",
-        "time": "21/04 17:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768041342
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3809 pesan dari 20 chat",
-        "time": "21/04 17:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768041331
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770045014,
+    "lastSeen": 1776770048200,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
