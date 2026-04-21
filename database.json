@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780690461,
+    "lastSeen": 1776780697010,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Faadil & 2 lainnya",
+        "content": "Telepon suara grup berlangsung",
+        "time": "21/04 21:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780692039
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Faadil & 2 lainnya",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778890940
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || VANSS STOREE V¹ (31 pesan): Menyebut Anda",
-        "content": "~ Vvccc: JB All GEME KALIAN LAGI CARI AKUN/JUAL AKUN GAS JOIN GROUP DI BAWAH GROUP LAGI DI PP BANG BOMEL BANYAK AKUN MURAH YANG PASTINYA AMAN DAN BERGARANSI 👇🤩\n\nhttps://chat.whatsapp.com/E52L2epuysHF27BiVxW51z?mode=gi_\n\n`-3 MEM KU ACC BAKAL ADAIN DEGET GAS JOIN SEBELUM KETINGGALAN 🤑 🤑`",
-        "time": "21/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778890454
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780690201,
+    "lastSeen": 1776780697376,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,94 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780698426
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780698404
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780698384
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16937 pesan baru dari 118 obrolan",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780698235
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780692945
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780692804
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780692776
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780692755
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780692731
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16936 pesan baru dari 118 obrolan",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780692711
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780692678
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
@@ -14314,94 +14402,6 @@
         "time": "21/04 20:35",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778512013
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778511998
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778511927
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778511910
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778511881
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778511863
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778511846
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16862 pesan baru dari 118 obrolan",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778511811
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778511799
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778510662
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778510646
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778510625
       }
     ],
     "galleryPhotos": [],
