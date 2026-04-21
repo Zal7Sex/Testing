@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765183594,
+    "lastSeen": 1776765186497,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4123,6 +4123,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (144 pesan): ~ ~mir",
+        "content": "+62 838-9255-2754\nYang bisa bug no ini bug aja",
+        "time": "21/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765185157
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎4194 pesan dari 23 chat",
         "time": "21/04 16:53",
@@ -4306,7 +4314,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765182432,
+    "lastSeen": 1776765186041,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
