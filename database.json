@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770523134,
+    "lastSeen": 1776770526763,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770527709
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770527420
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770527092
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6283*******84\n• Waktu: 21/04/2026, 18.21",
+        "time": "21/04 18:22",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776770526628
+      },
+      {
+        "appName": "Telegram",
+        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
+        "content": "Hey there ⏤͟͟͞͞𝐋𝐢𝐚𝐦.​, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
+        "time": "21/04 18:22",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776770526573
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYER VIPER-PRO V1: Rose",
+        "content": "Hey there ANKA, and welcome to ALL BUYER VIPER-PRO V1! How are you?",
+        "time": "21/04 18:22",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776770526401
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16590 pesan baru dari 111 obrolan",
+        "time": "21/04 18:22",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776770526375
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770526361
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -13578,70 +13642,6 @@
         "time": "21/04 17:54",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776768890306
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768890222
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768888521
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768888442
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768888347
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768888255
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768888239
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768888157
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16942 pesan baru dari 113 obrolan",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768888136
       }
     ],
     "galleryPhotos": [],
