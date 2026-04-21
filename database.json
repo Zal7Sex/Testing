@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781613512,
+    "lastSeen": 1776781620776,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Faadil & 2 lainnya",
+        "content": "Telepon video grup berlangsung",
+        "time": "21/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781620925
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2940 pesan dari 19 chat",
+        "time": "21/04 21:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781615651
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB || RULZ STORE KALBAR (5 pesan): ~ .",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779974995
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3574 pesan dari 21 chat",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779974901
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (239 pesan): ~ yapik",
-        "content": "nokos buat wa",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779974814
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781612228,
+    "lastSeen": 1776781617838,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781612599,
+    "lastSeen": 1776781618504,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
