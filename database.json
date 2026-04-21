@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782443108,
+    "lastSeen": 1776782452086,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776782440746,
+    "lastSeen": 1776782453102,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: Rose",
+        "content": "START DULU BOT NYA DONGO",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782453103
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6283*******77\n• Waktu: 21/04/2026, 21.38",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782453089
+      },
+      {
+        "appName": "Telegram",
+        "sender": "🜲 𝐙 𝐑 🜲",
+        "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782453048
+      },
+      {
+        "appName": "Telegram",
+        "sender": "SEPUTAR INFORMASI BOT COIN",
+        "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782453035
+      },
+      {
+        "appName": "Telegram",
+        "sender": "🜲 𝐙 𝐑 🜲",
+        "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782452976
+      },
+      {
+        "appName": "Telegram",
+        "sender": "🜲 𝐙 𝐑 🜲",
+        "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782452955
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: BOT KONTOL",
+        "content": "Say what?",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782452900
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・17121 pesan baru dari 115 obrolan",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782452737
+      },
       {
         "appName": "Telegram",
         "sender": "SEPUTAR INFORMASI BOT COIN",
@@ -14338,70 +14402,6 @@
         "time": "21/04 21:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780986942
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 21:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780986920
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780986900
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780986881
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780986855
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780986838
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 21:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780986824
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16935 pesan baru dari 113 obrolan",
-        "time": "21/04 21:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780986810
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780986794
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782442333,
+    "lastSeen": 1776782451338,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
