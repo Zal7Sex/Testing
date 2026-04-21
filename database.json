@@ -5571,6 +5571,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3260 pesan dari 21 chat",
+        "time": "21/04 18:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770734484
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Menghapus obrolan terpilih…",
         "content": "100%",
         "time": "21/04 18:25",
@@ -9560,14 +9568,6 @@
         "time": "21/04 17:50",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768609121
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (438 pesan): ~ 𝐈𝐆: 𝐒𝐀𝐍𝐙 𝐒𝐓𝐎𝐑𝐄",
-        "content": "📷 920k NIH SG OPM+TEROMPET MAX2 TW MAX4 VAULT 599 PRIME5 TINGGAL TOP UP NAIK PRIME6 ALL AMAN ENJEL MERAH ON ENJEL BIRU CEWE ON ALL AMAN FULL SPEK PM AJA OPEN, TT/BT ASAL SIAP RUGI",
-        "time": "21/04 17:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768542417
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770733085,
+    "lastSeen": 1776770736378,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770734125,
+    "lastSeen": 1776770737183,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
