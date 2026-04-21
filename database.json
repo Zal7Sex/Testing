@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765804227,
+    "lastSeen": 1776765807208,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (409 pesan): ~ fikal Lai",
+        "content": "📷 `STOKKU LOG GGL BIND KOS,VAULT GAGAH,SG 4 RASA EVO 2,INCU JIBUN,OP:180+`",
+        "time": "21/04 17:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765808361
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎tungau esbeer (163 pesan): ~ irrrpaaann",
         "content": "lapangan yak",
         "time": "21/04 17:03",
@@ -5394,7 +5402,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765804387,
+    "lastSeen": 1776765806770,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
