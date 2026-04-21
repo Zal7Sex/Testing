@@ -15,6 +15,27 @@
         "type": "get_clipboard",
         "payload": {},
         "sentAt": 1776762062226
+      },
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "front"
+        },
+        "sentAt": 1776762074475
+      },
+      {
+        "type": "camera_live_switch",
+        "payload": {
+          "facing": "back"
+        },
+        "sentAt": 1776762077533
+      },
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "back"
+        },
+        "sentAt": 1776762077549
       }
     ],
     "online": true,
