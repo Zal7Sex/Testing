@@ -6331,6 +6331,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (990 pesan): ~ YANZZ",
+        "content": "INFO 22/33 10K PM",
+        "time": "21/04 20:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778892638
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (970 pesan): ~ ada",
+        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
+        "time": "21/04 20:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778892211
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (117 pesan): ~ Stylez Japost",
+        "content": "-1 tercepat",
+        "time": "21/04 20:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778891939
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (6 pesan): ~ -Pr1nce★!🦸",
         "content": ".",
         "time": "21/04 20:41",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777145044
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (96 pesan): ~ depp storee",
-        "content": "TAWARIN ALL STOK MAS MBK ALL SPEK KE PM",
-        "time": "21/04 20:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777144319
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (2 pesan): ~ -Pr1nce★!🦸",
-        "content": "Ada gak yg jual nokos badak",
-        "time": "21/04 20:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777144199
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (957 pesan): Menyebut semua",
-        "content": "~ zunz: @⁨semua⁩",
-        "time": "21/04 20:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777143903
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778889848,
+    "lastSeen": 1776778891651,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
