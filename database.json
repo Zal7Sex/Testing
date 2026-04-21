@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776772223580,
+    "lastSeen": 1776772241677,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -6331,6 +6331,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎107 pesan dari 6 saluran",
+        "time": "21/04 18:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776772225356
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "⏤͟͟͞͞𝙆𝙖𝙡𝙯𝙄𝙨𝙃𝙚𝙧𝙚 #1",
         "content": "New Harga Apps Killer horse V7\nAccest Member\n30k 1bulan\n60k Permanent\n\nAccest Reseller \n60k 1bulan\n120k Permanent\n\nContact\nwa.me/6289697176899",
         "time": "21/04 18:50",
@@ -10320,14 +10328,6 @@
         "time": "21/04 18:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776769924025
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (607 pesan): ~ .",
-        "content": "📷 new stok\n\nop? 110\n\nsg lumut \nv 27\nkakasih itam on\nkekasih pink on\n\nfullspek pm",
-        "time": "21/04 18:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776769923865
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776772222466,
+    "lastSeen": 1776772240667,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776772225290,
+    "lastSeen": 1776772240309,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776772224852,
+    "lastSeen": 1776772241731,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
