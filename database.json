@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780000233,
+    "lastSeen": 1776780006034,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (3 pesan): Daraa",
+        "content": "cper gitu a",
+        "time": "21/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780007061
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3577 pesan dari 21 chat",
+        "time": "21/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780003085
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (242 pesan): ~ yapik",
+        "content": "gw kira gk tau👺",
+        "time": "21/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780003062
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Imam & Imam",
+        "content": "Telepon video - menunggu peserta lain...",
+        "time": "21/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780002493
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Imam & Imam",
@@ -10296,38 +10328,6 @@
         "time": "21/04 20:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777973249
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB1 ALDY BANYUMAS JATENG (70 pesan): ~ Elgiz",
-        "content": "WA KALIAN NGANGGUR? SINI SEWAIN AJA KU RATE PERCHAT 400P W A BADAK? ASLI CUAN GEDE🤑 SEWA SUNG KE PM AJA BOS",
-        "time": "21/04 20:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777958660
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3563 pesan dari 22 chat",
-        "time": "21/04 20:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777958641
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3562 pesan dari 22 chat",
-        "time": "21/04 20:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777955703
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB1 ALDY BANYUMAS JATENG (69 pesan): ~ DUTSS STR",
-        "content": "Bisa open donasi kah",
-        "time": "21/04 20:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777955619
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780001977,
+    "lastSeen": 1776780005176,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
