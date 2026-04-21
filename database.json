@@ -6331,6 +6331,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (117 pesan): ~ Stylez Japost",
+        "content": "-1 tercepat",
+        "time": "21/04 20:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778640879
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3599 pesan dari 22 chat",
+        "time": "21/04 20:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778638721
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (969 pesan): Menyebut semua",
         "content": "~ zunz: @⁨semua⁩",
         "time": "21/04 20:37",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1776776656287
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (231 pesan): ~ P1",
-        "content": "@⁨Owner Pega⁩ baca pm mim",
-        "time": "21/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776605972
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3502 pesan dari 21 chat",
-        "time": "21/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776605896
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778638236,
+    "lastSeen": 1776778639562,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
