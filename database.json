@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781761292,
+    "lastSeen": 1776781764363,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10406,6 +10406,14 @@
       {
         "appName": "Telegram",
         "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16993 pesan baru dari 118 obrolan",
+        "time": "21/04 21:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781765878
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
         "content": "Pesan baru",
         "time": "21/04 21:29",
         "pkg": "org.telegram.messenger",
@@ -14394,14 +14402,6 @@
         "time": "21/04 21:07",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780471004
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16917 pesan baru dari 118 obrolan",
-        "time": "21/04 21:07",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780470987
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781762851,
+    "lastSeen": 1776781765674,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
