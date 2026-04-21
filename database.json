@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780594898,
+    "lastSeen": 1776780609920,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2888 pesan dari 17 chat",
+        "time": "21/04 21:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780597649
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (249 pesan): ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
+        "content": "📷 Dadah @⁨~sudrahoshin⁩\nSelamat Tinggal Dari Group 7Sex Message\n!\nPatuhi Rules Yang Ada\n\n.\nundefined\n",
+        "time": "21/04 21:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780597636
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2887 pesan dari 17 chat",
+        "time": "21/04 21:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780597345
+      },
       {
         "appName": "WhatsApp",
         "sender": "Pegasus-X Room: ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778883070
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || VANSS STOREE V¹ (31 pesan): Menyebut Anda",
-        "content": "~ Vvccc: JB All GEME KALIAN LAGI CARI AKUN/JUAL AKUN GAS JOIN GROUP DI BAWAH GROUP LAGI DI PP BANG BOMEL BANYAK AKUN MURAH YANG PASTINYA AMAN DAN BERGARANSI 👇🤩\n\nhttps://chat.whatsapp.com/E52L2epuysHF27BiVxW51z?mode=gi_\n\n`-3 MEM KU ACC BAKAL ADAIN DEGET GAS JOIN SEBELUM KETINGGALAN 🤑 🤑`",
-        "time": "21/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778882351
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (684 pesan): ~ barzzstr2",
-        "content": "📷 1jt+ log bind sepaket\nSg REPER max 5\nVault gagah bray",
-        "time": "21/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778879672
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3625 pesan dari 22 chat",
-        "time": "21/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778879373
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780596930,
+    "lastSeen": 1776780608611,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 21:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780598721
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14394,14 +14402,6 @@
         "time": "21/04 20:34",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778458373
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:34",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778458359
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780594472,
+    "lastSeen": 1776780603572,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
