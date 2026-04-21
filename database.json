@@ -10405,6 +10405,54 @@
     "smsMessages": [
       {
         "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 19:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776774657352
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 19:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776774657171
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 19:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776774657147
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 19:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776774656615
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 19:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776774656134
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 19:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776774655848
+      },
+      {
+        "appName": "Telegram",
         "sender": "Telegram",
         "content": "Pesan baru",
         "time": "21/04 19:30",
@@ -14354,54 +14402,6 @@
         "time": "21/04 18:35",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776771329465
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5797 pesan baru dari 48 obrolan",
-        "time": "21/04 18:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776771329137
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Zara",
-        "content": "Telepon suara tak terjawab",
-        "time": "21/04 18:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776771307612
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Zara",
-        "content": "Telepon suara masuk",
-        "time": "21/04 18:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776771303067
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Zara",
-        "content": "Telepon suara masuk",
-        "time": "21/04 18:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776771302056
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 18:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776771271599
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 18:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776771270647
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776774655121,
+    "lastSeen": 1776774656322,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
