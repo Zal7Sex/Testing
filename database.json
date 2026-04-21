@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781890811,
+    "lastSeen": 1776781893525,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1031 pesan): ~ ZI ANJAYY",
+        "content": "Aman",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781893723
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (152 pesan): ~ OISHIX STORE REAL",
+        "content": "N FF BRAYY DANA 0-1JT+ , UTAMAKAN BER SG LOBY+BER MAX \n`WAJIB BIND ON , GANERIMA BIND MTI , GECEE TAWARIN BUTUH BNYK`",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781893590
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (975 pesan): ~ ada",
+        "content": "📷 280 NEPIS\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781893448
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (9 pesan): ~ .",
+        "content": "💟 Stiker",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781893402
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (12 pesan): ~ ada",
+        "content": "📷 280 NEPIS\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781892078
+      },
       {
         "appName": "WhatsApp",
         "sender": "Laa",
@@ -10288,46 +10328,6 @@
         "time": "21/04 21:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780106513
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3591 pesan dari 20 chat",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780106499
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3592 pesan dari 21 chat",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780089348
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (693 pesan): ~ Xell",
-        "content": "📷 OP 305k\nFIST 1\nSG 2\nLOG REDBIN TRA YG REDBIN AD BUKTI",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780089315
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (972 pesan): ~ Xell",
-        "content": "📷 Op 230\nSg omper \nFist ad 2 \nv tw 400\nEvo ad 2\nFull Spek pm\nIncuu utamaa jibunn\nproses redbin Traa yg redbin ad buktii",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780089160
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (12 pesan): ~ -Pr1nce★!🦸",
-        "content": "Info yg jual noktel",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780089012
       }
     ],
     "galleryPhotos": [],
