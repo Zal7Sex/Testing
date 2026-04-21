@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765486415,
+    "lastSeen": 1776765498597,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (402 pesan): ~ Agung",
+        "content": "📷 50 PAS\nLOG NOMOR FREE CEIN\nBUAT YANG NANYA GA ADA NAMA NYA TADI TUH",
+        "time": "21/04 16:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765501167
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎JB1 ALDY BANYUMAS JATENG (146 pesan): ~ yan",
         "content": "📷 400+ satsetin bos",
         "time": "21/04 16:57",
@@ -4898,7 +4906,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765482529,
+    "lastSeen": 1776765500464,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
