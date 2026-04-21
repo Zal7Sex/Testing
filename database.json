@@ -5571,6 +5571,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎eight_creativityy 🅰️ (6 pesan): Daraa",
+        "content": "ak yk blm na w",
+        "time": "21/04 18:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771256615
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3441 pesan dari 22 chat",
         "time": "21/04 18:34",
@@ -9560,14 +9568,6 @@
         "time": "21/04 18:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776769365343
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3115 pesan dari 17 chat",
-        "time": "21/04 18:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776769342018
       }
     ],
     "galleryPhotos": [],
@@ -9643,6 +9643,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771258492
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim pesan…",
+        "time": "21/04 18:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771258461
+      },
       {
         "appName": "Telegram",
         "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
@@ -13626,22 +13642,6 @@
         "time": "21/04 17:59",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769174765
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:59",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769174745
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:59",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769174465
       }
     ],
     "galleryPhotos": [],
