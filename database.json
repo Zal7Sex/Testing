@@ -3072,7 +3072,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "3b9b91fe42c928810228c2889719201c",
-    "lastSeen": 1776745139754,
+    "lastSeen": 1776745142866,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T04:18:12.057Z",
@@ -3088,6 +3088,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5209 pesan baru dari 49 obrolan",
+        "time": "21/04 11:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776745143662
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 11:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776745143376
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776745143226
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
