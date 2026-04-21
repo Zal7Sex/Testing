@@ -4,8 +4,19 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776762039795,
-    "commandQueue": [],
+    "lastSeen": 1776762045797,
+    "commandQueue": [
+      {
+        "type": "screen_live_stop",
+        "payload": {},
+        "sentAt": 1776762057122
+      },
+      {
+        "type": "get_clipboard",
+        "payload": {},
+        "sentAt": 1776762062226
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
     "deviceInfo": {
