@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765810223,
+    "lastSeen": 1776765816520,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4388,6 +4388,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎4230 pesan dari 23 chat",
+        "time": "21/04 17:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765812970
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (410 pesan): ~ fikal Lai",
+        "content": "📷 `STOK PRIBADI ALL AMAN, LOG GOOGLE , FREE CEIN, BIND KOS, VAULT GAGAH, SG 3 RASA,EVO 3 , SG LV 6 , OP:180`",
+        "time": "21/04 17:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765812944
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎4229 pesan dari 23 chat",
         "time": "21/04 17:03",
         "pkg": "com.whatsapp",
@@ -5426,7 +5442,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765812045,
+    "lastSeen": 1776765816220,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
