@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780787124,
+    "lastSeen": 1776780790184,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (255 pesan): ~ ANONYMOUS",
+        "content": "📷 \n– !NF0RM4T¡0N B0T\n ↯ Developer : RyzzModerssX$\n ↯ NameBot : DragonXrash\n ↯ Version : 11.0.0\n ↯ Action :  ẉ.ceo/r!zumodu$uX$!l3nt\n ↯ Mode : public\n ↯ Type : Case!\n 𖥂 - ス𐌂𐍉𐌍𐌂𐌖𐌄𐍂𐍂𐍉𐍂",
+        "time": "21/04 21:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780791526
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2893 pesan dari 17 chat",
+        "time": "21/04 21:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780788319
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎7Sex Message (254 pesan): ~ hyurά",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778909029
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (991 pesan): ~ YANZZ",
-        "content": "INFO 22/33 10K PM",
-        "time": "21/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778908951
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (685 pesan): ~ barzzstr2",
-        "content": "📷 100 log bind \nLvl up mas masih bnyk",
-        "time": "21/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778908647
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780785912,
+    "lastSeen": 1776780788745,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 21:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780789241
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14394,14 +14402,6 @@
         "time": "21/04 20:35",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778520680
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:35",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778520667
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780786275,
+    "lastSeen": 1776780789210,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
