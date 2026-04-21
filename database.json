@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777160090,
+    "lastSeen": 1776777166265,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777160414,
+    "lastSeen": 1776777166418,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ALL BUYER VIPER-PRO V1: ⏤͟͟𝘿𝙋𝙓 || ⏤͟͟ 𝐃𝐚𝐩𝐚𝐚",
+        "content": "📣NEED YANG MAU DI JADIIN PT PRIBADI📣\nBEBAS MAU BERBENTUK\nFILE | SC | APK | GRUP \nDAN LAIN\"\n\n👍👍👍👍\n@Dapaa021",
+        "time": "21/04 20:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777167454
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "❌ ᴋʜᴜꜱᴜꜱ ʀᴇꜱᴇʟʟᴇʀ!",
+        "time": "21/04 20:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777167432
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / MU*************\n🏦 Method: DANA\n💰 Amount: Rp 10.000\n💸 Fee: Rp 181\n💵 Total Payload: Rp 10.181\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421210731241799\n🏷️ System ID: FSCL68794690\n⏰ 21 Apr 2026 • 20:12 WIB\n\n#DEPOSIT #DANA",
+        "time": "21/04 20:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777167410
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16787 pesan baru dari 118 obrolan",
+        "time": "21/04 20:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777162739
+      },
       {
         "appName": "Telegram",
         "sender": "ROOM PUBLIK BY JEFF: Rose",
@@ -14370,38 +14402,6 @@
         "time": "21/04 19:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776773796915
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******59\n• Waktu: 21/04/2026, 19.14",
-        "time": "21/04 19:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773796623
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝐊𝐚𝐲𝐲'𝐳? ♰",
-        "content": "GADA YG PUNYA APA😣 GW BONUSIN RESELER APK BUG",
-        "time": "21/04 19:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773796601
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @XCHINDO_HAN ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
-        "time": "21/04 19:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773796576
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: GOOGLE, GMAIL, YOUTUBE\n🌍 Country: Indonesia\n📞 Number: +62********371\n💰 Price: Rp 950\n🔢 Code: 356232\n━━━━━━━━━━━━━━━\n📨 Message:\nG-356232 is your Google verification code.\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008722383\n🏷️ System ID: FSCL12112744\n⏰ 21 Apr 2026 • 19:15 WIB\n\n#OTP #GOOGLE,GMAIL,YOUTUBE",
-        "time": "21/04 19:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773796541
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777159752,
+    "lastSeen": 1776777165818,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
