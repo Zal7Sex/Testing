@@ -5573,6 +5573,14 @@
         "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3248 pesan dari 19 chat",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770530148
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3248 pesan dari 19 chat",
         "time": "21/04 18:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776770497685
@@ -9560,14 +9568,6 @@
         "time": "21/04 17:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768308539
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (924 pesan): ~ Neyzi store",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "21/04 17:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768308525
       }
     ],
     "galleryPhotos": [],
@@ -9643,6 +9643,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770531983
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770531683
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770531364
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770531092
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770530815
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770530472
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770530162
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -13586,62 +13642,6 @@
         "time": "21/04 17:57",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769051531
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16945 pesan baru dari 113 obrolan",
-        "time": "21/04 17:57",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769051431
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:55",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768958216
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:55",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768958055
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:55",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768955934
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:55",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768955781
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768890404
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768890380
       }
     ],
     "galleryPhotos": [],
