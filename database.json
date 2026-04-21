@@ -9644,6 +9644,22 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 18:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770213022
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********657\n💰 Price: Rp 4.100\n🔢 Code: 698751\n━━━━━━━━━━━━━━━\n📨 Message:\n Kode WhatsApp: 698-751\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008685706\n🏷️ System ID: FSCL86997281\n⏰ 21 Apr 2026 • 18:15 WIB\n\n#OTP #WHATSAPP",
+        "time": "21/04 18:16",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776770211615
+      },
+      {
         "appName": "Telegram",
         "sender": "LearnTermuxHUB.Tools: 𝐃𝐈𝐓𝐙 𝐆𝐀𝐍𝐓𝐄𝐍𝐆",
         "content": "APK BUG X RAT 5K PV @Napkxiua PERMANEN FULL UP",
@@ -13626,22 +13642,6 @@
         "time": "21/04 17:52",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776768741223
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 17:52",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768741210
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16937 pesan baru dari 113 obrolan",
-        "time": "21/04 17:52",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768741195
       }
     ],
     "galleryPhotos": [],
