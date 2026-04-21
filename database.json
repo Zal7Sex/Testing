@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765678607,
+    "lastSeen": 1776765687179,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4224 pesan dari 23 chat",
+        "time": "21/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765687395
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (526 pesan): Givano",
+        "content": "Suruh Excel lahh",
+        "time": "21/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765687381
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4223 pesan dari 23 chat",
+        "time": "21/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765681682
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (406 pesan): ~ REYY STR 18",
+        "content": "📷 SG TROMPET, EVO 1 OTW GEMUK -96 TOKEN, VAULT 169 GAGAH, OP? 100+?",
+        "time": "21/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765681657
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (405 pesan): ~ REYY STR 18",
         "content": "📷 SG TROMPET, EVO 2, VAULT 182 GAGAH, OP? 110+?",
         "time": "21/04 17:01",
@@ -5298,7 +5330,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765680658,
+    "lastSeen": 1776765686659,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
