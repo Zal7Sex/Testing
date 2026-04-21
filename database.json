@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777841277,
+    "lastSeen": 1776777847241,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3547 pesan dari 22 chat",
+        "time": "21/04 20:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777844256
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (664 pesan): ~ -zarrstr",
+        "content": "90",
+        "time": "21/04 20:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777844235
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3546 pesan dari 22 chat",
+        "time": "21/04 20:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777843263
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB || RULZ STORE KALBAR (664 pesan): ~ -zarrstr",
@@ -10304,30 +10328,6 @@
         "time": "21/04 19:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775605222
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3735 pesan dari 23 chat",
-        "time": "21/04 19:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775604833
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (224 pesan): ~ ?",
-        "content": "paduan sempurna, tapi masi perbaikan",
-        "time": "21/04 19:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775604801
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3734 pesan dari 23 chat",
-        "time": "21/04 19:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775604067
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777842204,
+    "lastSeen": 1776777845608,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "⏤͟͟𝐀𝐅 || Jmbt Panjang",
+        "content": "━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥✅ DONE TRX NOREFF YAA\n━━━━━━━━━━━━━━━━━━━━━━━━\n📦:  VPS R8C4 \n💸: 9K NEGO\n💳: NOPE\n📅: 2026-21\n━━━━━━━━━━━━━━━━━━━━━━━━━\nNYARI PANEL/ROLE LEGAL MURMER?\nPV @gas_buyy",
+        "time": "21/04 20:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777847439
+      },
+      {
+        "appName": "Telegram",
+        "sender": "(苏) 𝗙𝗮𝗺𝗔𝘅𝗰𝗮𝗹⁶⁰⁵",
+        "content": "t.me/nft/XmasStocking-192966\n\n[70k] stars dari u",
+        "time": "21/04 20:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777847422
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: alzz new era",
+        "content": "@scarlatee19",
+        "time": "21/04 20:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777847395
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Testimoni Gift",
+        "content": "🎉 User Baru Masuk!\n\n👤 Hanzyy 21\n🆔 8393746943\n⏰ 21/4/2026, 13.21.23",
+        "time": "21/04 20:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777847375
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6283*******26\n• Waktu: 21/04/2026, 20.23",
+        "time": "21/04 20:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777847225
+      },
+      {
+        "appName": "Telegram",
+        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
+        "content": "Hey there KING777, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
+        "time": "21/04 20:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777847206
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16806 pesan baru dari 118 obrolan",
+        "time": "21/04 20:24",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777847095
+      },
       {
         "appName": "WhatsApp",
         "sender": "Mamah",
@@ -14346,62 +14402,6 @@
         "time": "21/04 19:49",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776775748410
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Phil Godlewski 4.0",
-        "content": "Community Zoom Sessions Continue! 📢\n\nOur community Zoom sessions with managers are continuing today\n\nWhether you want to:\n\n💬 Ask questions about the Atom Venture ecosystem\n📊 Learn more about what’s happening across our projects\n‼️ Get the latest updates, especially on Arteki\n💭 Join the conversation with the team \n\n– You have the chance to join throughout this entire week\n\n🗓 Today’s available session slots are:\n10 AM, 12 PM, 5 PM, 7 PM, 9 PM, 10 PM, and 11 PM Eastern time\n\n📍 Head to meet.boostyfi.com and book your slot\n\nSee you on Zoom  🙌",
-        "time": "21/04 19:49",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775748392
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @IkyyNotDev2 ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
-        "time": "21/04 19:49",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775748377
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6281*******74\n• Waktu: 21/04/2026, 19.47",
-        "time": "21/04 19:49",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775748359
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / MO*******************\n🏦 Method: DANA\n💰 Amount: Rp 2.800\n💸 Fee: Rp 200\n💵 Total Payload: Rp 3.000\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421204648241713\n🏷️ System ID: FSCL88367116\n⏰ 21 Apr 2026 • 19:49 WIB\n\n#DEPOSIT #DANA",
-        "time": "21/04 19:49",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775748207
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16751 pesan baru dari 117 obrolan",
-        "time": "21/04 19:49",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775748167
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB CPANEL BY PRABOWO: ZEEIN STORE",
-        "content": "Rate brpa perchat nya",
-        "time": "21/04 19:49",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775748022
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6281*******74\n• Waktu: 21/04/2026, 19.47",
-        "time": "21/04 19:49",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775747998
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777841259,
+    "lastSeen": 1776777847182,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
