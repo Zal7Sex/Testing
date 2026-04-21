@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781643625,
+    "lastSeen": 1776781646813,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2946 pesan dari 19 chat",
+        "time": "21/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781647744
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (9 pesan): ~ RulzOraSepele",
+        "content": "On",
+        "time": "21/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781647542
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2945 pesan dari 19 chat",
+        "time": "21/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781646548
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB || RULZ STORE KALBAR (9 pesan): ~ .",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779993813
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3574 pesan dari 21 chat",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779991522
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (240 pesan): ~ N9THCRAL",
-        "content": "Gw juga tau kli😭😭",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779991433
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3573 pesan dari 21 chat",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779987499
       }
     ],
     "galleryPhotos": [],
