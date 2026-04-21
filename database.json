@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767497333,
+    "lastSeen": 1776767500261,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4451,6 +4451,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (143 pesan): ~ reall rezzsturr",
+        "content": "📷 430\nLOG BIND",
+        "time": "21/04 17:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767501080
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (163 pesan): ~ N9THCRAL",
+        "content": "🛒 Leaving Group",
+        "time": "21/04 17:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767500602
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎tungau esbeer (180 pesan): ~ .",
+        "content": "MN AD KE BENDUNGAN",
+        "time": "21/04 17:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767500053
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (425 pesan): ~ jall store",
         "content": "GB 0.1 DAGET SETIAP JUM'AT +400MEM",
         "time": "21/04 17:31",
@@ -8424,30 +8448,6 @@
         "time": "21/04 17:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776765727076
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4225 pesan dari 23 chat",
-        "time": "21/04 17:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776765727068
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4225 pesan dari 23 chat",
-        "time": "21/04 17:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776765694015
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (407 pesan): ~ fikal Lai",
-        "content": "📷 FORMAT JUAL AKUN BY FIKAL STORE\n \n(`BUKAN AKUN ADMIN`)\n\nNO SELLER:083191513178\nNAMA : f\nAKUN :ff\nSPEK : gagah\nLOG :log google proses unbind\nHARGA :155+\nMC lu\n\n`WA REKBER FIKAL STORE:` 085761226876\nNOTE\n \n-SETIAP PEMBELIAN AKUN WAJIB MEMAKAI REKBER AGAR UANG KALIAN AMAN\n\n- JANGAN MAU DIAJAK DIRECT/SIS P KALAU JAPOST",
-        "time": "21/04 17:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776765694004
       }
     ],
     "galleryPhotos": [],
@@ -8466,7 +8466,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767498295,
+    "lastSeen": 1776767501067,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
