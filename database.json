@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765621471,
+    "lastSeen": 1776765627162,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎7Sex Message (137 pesan): ~ zal",
+        "content": "😭😭",
+        "time": "21/04 17:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765629296
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎4210 pesan dari 23 chat",
         "time": "21/04 17:00",
@@ -4962,7 +4970,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765620620,
+    "lastSeen": 1776765626568,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
