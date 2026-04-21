@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780138268,
+    "lastSeen": 1776780144200,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "raka",
+        "content": "isian yok",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780144390
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (136 pesan): ~ jall store",
+        "content": "Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/FLtl30uj2uuF31bcyT04qU?mode=gi_t \n\n𝗚𝗮𝘀 𝗷𝗼𝗶𝗻 𝗴𝗼 𝘁𝗼 𝟰𝟬𝟬𝗺𝗲𝗺 𝗱𝗮𝗴𝗲𝘁+𝘀𝗲𝘁𝗶𝗮𝗽 𝗝𝗨𝗠'𝗔𝗧",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780140262
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3595 pesan dari 20 chat",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780140247
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3595 pesan dari 20 chat",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780139937
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎7Sex Message (245 pesan): ~ N9THCRAL",
@@ -10296,38 +10328,6 @@
         "time": "21/04 20:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778488877
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3586 pesan dari 22 chat",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778488769
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3586 pesan dari 22 chat",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778475330
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (114 pesan): ~ Stylez Japost",
-        "content": "GRUB REKOMENDASI KU 👇🏻\nhttps://chat.whatsapp.com/GdVu3Bv2YUIBFD1NfaRRhX\nSTOCK STYLEZ JAPOST 1\nhttps://chat.whatsapp.com/Hy1G4peOsR70ZvLPJmYdnB\nSTOCK STYLEZ X OWNER\nhttps://chat.whatsapp.com/CJPoJpnWs4Z0aSGnGO75wZ\nSTOCK PRIBADI STYLEZ\nhttps://chat.whatsapp.com/ExuwABy4qcwLvqqe9ATlkQ\nSTOCK STYLEZ JAPOST 2\nhttps://chat.whatsapp.com/KSSvhMeEJWq2QlTtS2RX42\nSTOCK NEW STYLEZ JAPOST\nhttps://chat.whatsapp.com/BolVA0MkMf3FSFDBuse0Mg\n\nNYARI - JUAL STOCK AKUN GAME FF - ML DLL GASKEUN MASUK FULL IN ALL GRUB KU DI ATAS 👆🏻",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778475299
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3585 pesan dari 22 chat",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778473801
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780138314,
+    "lastSeen": 1776780144244,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
