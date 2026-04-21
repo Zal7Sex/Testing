@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776754829911,
+    "lastSeen": 1776754833524,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3080,7 +3080,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "3b9b91fe42c928810228c2889719201c",
-    "lastSeen": 1776754830577,
+    "lastSeen": 1776754831991,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T04:18:12.057Z",
@@ -3102,6 +3102,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 14:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776754831232
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -7093,14 +7101,6 @@
         "time": "21/04 13:43",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776753839567
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 13:43",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776753839510
       }
     ],
     "galleryPhotos": [
