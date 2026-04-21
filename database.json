@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775720963,
+    "lastSeen": 1776775724044,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (654 pesan): ~ Jumbo g mud",
+        "content": "📷 120+ lumut polosan vault 113",
+        "time": "21/04 19:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775725475
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3724 pesan dari 22 chat",
+        "time": "21/04 19:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775724045
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (653 pesan): ~ Jumbo g mud",
+        "content": "📷 400 nego\nbt/tt msuk siap rugi",
+        "time": "21/04 19:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775724018
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10304,30 +10328,6 @@
         "time": "21/04 19:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774100896
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3601 pesan dari 23 chat",
-        "time": "21/04 19:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774098223
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (206 pesan): ~ runcing627",
-        "content": "Lu tetep lewat crome",
-        "time": "21/04 19:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774098095
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3600 pesan dari 23 chat",
-        "time": "21/04 19:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774097843
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775721616,
+    "lastSeen": 1776775724769,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775719845,
+    "lastSeen": 1776775722572,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775722085,
+    "lastSeen": 1776775723440,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
