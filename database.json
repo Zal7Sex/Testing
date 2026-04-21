@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767410193,
+    "lastSeen": 1776767425270,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4452,6 +4452,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3780 pesan dari 19 chat",
+        "time": "21/04 17:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767425671
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3779 pesan dari 19 chat",
         "time": "21/04 17:30",
         "pkg": "com.whatsapp",
@@ -8440,14 +8448,6 @@
         "time": "21/04 17:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1776765634124
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (846 pesan): ~ Deden",
-        "content": "Brp bg",
-        "time": "21/04 17:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776765633925
       }
     ],
     "galleryPhotos": [],
@@ -8466,7 +8466,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767410752,
+    "lastSeen": 1776767422745,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8507,7 +8507,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776767409772,
+    "lastSeen": 1776767424722,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
