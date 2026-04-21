@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768028769,
+    "lastSeen": 1776768031762,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4699,6 +4699,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3807 pesan dari 20 chat",
+        "time": "21/04 17:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768031578
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (914 pesan): ~ ‍\n່ ‍ ‍‍ ‍ ‍",
         "content": "ada nokos ga mas??",
         "time": "21/04 17:40",
@@ -8688,14 +8696,6 @@
         "time": "21/04 17:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766394380
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4277 pesan dari 24 chat",
-        "time": "21/04 17:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766338960
       }
     ],
     "galleryPhotos": [],
@@ -8771,6 +8771,102 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768032453
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768032323
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768032205
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16901 pesan baru dari 114 obrolan",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768032153
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768032034
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768031967
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768031936
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768031880
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768031809
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768031796
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768031700
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16900 pesan baru dari 113 obrolan",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768031539
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
