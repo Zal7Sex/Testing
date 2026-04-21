@@ -5571,6 +5571,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (6 pesan): ~ 𝐈𝐆: 𝐒𝐀𝐍𝐙 𝐒𝐓𝐎𝐑𝐄",
+        "content": "📷 920k NIH SG OPM+TEROMPET MAX2 TW MAX4 VAULT 599 PRIME5 TINGGAL TOP UP NAIK PRIME6 ALL AMAN ENJEL MERAH ON ENJEL BIRU CEWE ON ALL AMAN FULL SPEK PM AJA OPEN, TT/BT ASAL SIAP RUGI",
+        "time": "21/04 18:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769738411
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3262 pesan dari 22 chat",
+        "time": "21/04 18:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769738391
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3261 pesan dari 22 chat",
         "time": "21/04 18:08",
@@ -9552,22 +9568,6 @@
         "time": "21/04 17:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767658325
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎tungau esbeer (180 pesan): ~ .",
-        "content": "MN AD KE BENDUNGAN",
-        "time": "21/04 17:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767658264
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (179 pesan): ~ -Pr1nce★!🦸",
-        "content": "Siapa yg jual nokos badag?",
-        "time": "21/04 17:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767658094
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769729775,
+    "lastSeen": 1776769737213,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769730613,
+    "lastSeen": 1776769736608,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
