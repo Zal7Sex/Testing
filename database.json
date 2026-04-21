@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780186405,
+    "lastSeen": 1776780189484,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (4 pesan): ~ P1",
+        "content": "Ingin punya bot sendiri GRATIS?\nGunakan command !Jadibot\n\n⚠️ PERHATIAN:\n- Nomor ini bukan milik admin resmi.\n- Info dan update bot: https://whatsapp.com/channel/0029VaF8y0ZDJ6H9O1Gwv93T\n- Cek FAQ: !Faq\n- Aturan Penggunaan: !Rules",
+        "time": "21/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780191759
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Faadil Muhammad",
+        "content": "Berdering…",
+        "time": "21/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780187826
+      },
       {
         "appName": "WhatsApp",
         "sender": "Faadil Muhammad",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778579023
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || VANSS STOREE V¹ (31 pesan): Menyebut Anda",
-        "content": "~ Vvccc: JB All GEME KALIAN LAGI CARI AKUN/JUAL AKUN GAS JOIN GROUP DI BAWAH GROUP LAGI DI PP BANG BOMEL BANYAK AKUN MURAH YANG PASTINYA AMAN DAN BERGARANSI 👇🤩\n\nhttps://chat.whatsapp.com/E52L2epuysHF27BiVxW51z?mode=gi_\n\n`-3 MEM KU ACC BAKAL ADAIN DEGET GAS JOIN SEBELUM KETINGGALAN 🤑 🤑`",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778578460
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3593 pesan dari 22 chat",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778574003
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780182763,
+    "lastSeen": 1776780191599,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780186403,
+    "lastSeen": 1776780189264,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
