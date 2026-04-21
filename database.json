@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776779666182,
+    "lastSeen": 1776779681601,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Saluran • Zrylx",
+        "content": "🎉 Saluran Anda memiliki 1 pengikut",
+        "time": "21/04 20:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779683331
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777709607
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (654 pesan): ~ -zarrstr",
-        "content": "📷 400 ambek edisi bu",
-        "time": "21/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777707315
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776779665426,
+    "lastSeen": 1776779680492,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776779665483,
+    "lastSeen": 1776779680526,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
