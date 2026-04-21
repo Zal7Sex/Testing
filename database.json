@@ -6332,6 +6332,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3592 pesan dari 23 chat",
+        "time": "21/04 19:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776774054445
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3591 pesan dari 23 chat",
         "time": "21/04 19:20",
         "pkg": "com.whatsapp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 18:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1776771227089
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3437 pesan dari 21 chat",
-        "time": "21/04 18:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776771226958
       }
     ],
     "galleryPhotos": [],
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776774050344,
+    "lastSeen": 1776774053463,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
