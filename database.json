@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775666902,
+    "lastSeen": 1776775675897,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775667643,
+    "lastSeen": 1776775676923,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775668644,
+    "lastSeen": 1776775677522,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "🖼 HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @IkyyNotDev2 ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
+        "time": "21/04 19:47",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775678217
+      },
       {
         "appName": "Telegram",
         "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:09",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776773364272
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******61\n• Waktu: 21/04/2026, 19.09",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773363976
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775666193,
+    "lastSeen": 1776775677082,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
