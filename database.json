@@ -10405,6 +10405,22 @@
     "smsMessages": [
       {
         "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781739931
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781738973
+      },
+      {
+        "appName": "Telegram",
         "sender": "Telegram: Pengguna",
         "content": "Pesan baru",
         "time": "21/04 21:28",
@@ -14386,22 +14402,6 @@
         "time": "21/04 21:07",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780455857
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:07",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780455813
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:07",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780455666
       }
     ],
     "galleryPhotos": [],
