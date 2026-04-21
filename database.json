@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776763237343,
+    "lastSeen": 1776763258369,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "21/04 17:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776763259881
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
