@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765663631,
+    "lastSeen": 1776765672189,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4220 pesan dari 23 chat",
+        "time": "21/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765673656
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (525 pesan): Givano",
+        "content": "Bale",
+        "time": "21/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765673648
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB byone/mabar ff 8a (524 pesan): diga",
         "content": "Aku kenak antar nam",
         "time": "21/04 17:01",
@@ -5250,7 +5266,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765665674,
+    "lastSeen": 1776765671626,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
