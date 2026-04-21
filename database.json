@@ -10405,6 +10405,22 @@
     "smsMessages": [
       {
         "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・17115 pesan baru dari 115 obrolan",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782430617
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6283*******77\n• Waktu: 21/04/2026, 21.38",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782428820
+      },
+      {
+        "appName": "Telegram",
         "sender": "GB PANEL PRIVATE WANZ: Rose",
         "content": "START DULU BOT NYA DONGO",
         "time": "21/04 21:40",
@@ -14386,22 +14402,6 @@
         "time": "21/04 21:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780811185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 21:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780808625
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 21:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780797496
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782427341,
+    "lastSeen": 1776782430317,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
