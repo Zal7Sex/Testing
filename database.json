@@ -8714,7 +8714,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776768026550,
+    "lastSeen": 1776768030068,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8771,6 +8771,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768030392
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768030374
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768030364
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768030300
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768030184
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768030102
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768029034
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768029022
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
