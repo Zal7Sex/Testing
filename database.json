@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782344038,
+    "lastSeen": 1776782347019,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776782345187,
+    "lastSeen": 1776782348090,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782343257,
+    "lastSeen": 1776782346315,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "7.4 cowo cowo kaciw: Rapli 7.4",
+        "content": "Takut ama ngentod",
+        "time": "21/04 21:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782348666
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2 pesan dari 2 chat",
+        "time": "21/04 21:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782346536
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "nopal cmpk",
+        "content": "sender?",
+        "time": "21/04 21:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782346443
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "7.4 cowo cowo kaciw",
+        "content": "Rapli 7.4: Takut ama ngentod",
+        "time": "21/04 21:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782345946
+      },
       {
         "appName": "WhatsApp",
         "sender": "7.4 cowo cowo kaciw: Rapli 7.4",
