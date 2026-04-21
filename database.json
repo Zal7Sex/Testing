@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776745287366,
+    "lastSeen": 1776745291831,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3088,6 +3088,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ara na Zakiii💕🫶💖💌💋",
+        "content": "‎2 pesan baru",
+        "time": "21/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776745293132
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 11:21",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776745288148
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:21",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776745288087
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
