@@ -4387,6 +4387,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4283 pesan dari 24 chat",
+        "time": "21/04 17:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766506310
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎JB1 ALDY BANYUMAS JATENG (151 pesan): ~ vampire",
         "content": "📷 Tawar ajaaa",
         "time": "21/04 17:15",
@@ -6874,7 +6882,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776766502182,
+    "lastSeen": 1776766505864,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
