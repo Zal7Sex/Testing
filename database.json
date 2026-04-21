@@ -4388,6 +4388,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎4216 pesan dari 23 chat",
+        "time": "21/04 17:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765651373
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (523 pesan): Givano",
+        "content": "Dutt",
+        "time": "21/04 17:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765651363
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎4215 pesan dari 23 chat",
         "time": "21/04 17:00",
         "pkg": "com.whatsapp",
@@ -5186,7 +5202,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765647675,
+    "lastSeen": 1776765650649,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
