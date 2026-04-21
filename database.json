@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765192023,
+    "lastSeen": 1776765213593,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4124,6 +4124,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎4196 pesan dari 23 chat",
+        "time": "21/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765215407
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (145 pesan): ~ PIWA STORE",
+        "content": "📷 ALHAMDULILLAH SOLD OUT OMPET",
+        "time": "21/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765215397
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎4195 pesan dari 23 chat",
         "time": "21/04 16:53",
         "pkg": "com.whatsapp",
@@ -4330,7 +4346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765191412,
+    "lastSeen": 1776765215119,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
