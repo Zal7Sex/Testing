@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776766206642,
+    "lastSeen": 1776766236645,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (150 pesan): ~ yaa",
+        "content": "yang bisa bikin gmail ksong pm pergmail gw rate 1k butuh banyak pm testi bnyk",
+        "time": "21/04 17:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766209222
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4262 pesan dari 23 chat",
+        "time": "21/04 17:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766209214
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎tungau esbeer (171 pesan): ~ .",
         "content": "benci x",
         "time": "21/04 17:10",
@@ -6138,7 +6154,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776766206666,
+    "lastSeen": 1776766236338,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
