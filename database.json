@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767977745,
+    "lastSeen": 1776767980717,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4612,6 +4612,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3806 pesan dari 20 chat",
+        "time": "21/04 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767981469
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (907 pesan): ~ zunz",
+        "content": "keluar ngerip 10k cooo",
+        "time": "21/04 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767981371
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3805 pesan dari 20 chat",
         "time": "21/04 17:39",
         "pkg": "com.whatsapp",
@@ -8592,22 +8608,6 @@
         "time": "21/04 17:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766274794
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (854 pesan): ~ 乙乇尺ㄖ",
-        "content": "❰ INFO BOT ❱\n\nBot ini gratis, tidak boleh disewakan/dijual/kudeta ❌\n\nKalau nemu, lapor pakai .owner\n\n> Pakai bot: .menu\n> Ubah Good Bye: .setgoodbye Bye Guys\n\n> Menonaktifkan Notifikasi Grup ketik '.notifgrup off'",
-        "time": "21/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766274743
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4267 pesan dari 23 chat",
-        "time": "21/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766271802
       }
     ],
     "galleryPhotos": [],
@@ -8667,7 +8667,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776767977259,
+    "lastSeen": 1776767980195,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
