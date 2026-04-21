@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780438713,
+    "lastSeen": 1776780441760,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10405,6 +10405,102 @@
     "smsMessages": [
       {
         "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780443271
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780443233
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780443201
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780443161
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780443138
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5970 pesan baru dari 49 obrolan",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780443106
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780441955
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780441937
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780441834
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780441813
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780441792
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:07",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780441772
+      },
+      {
+        "appName": "Telegram",
         "sender": "Telegram: Pengguna",
         "content": "Pesan baru",
         "time": "21/04 21:07",
@@ -14306,102 +14402,6 @@
         "time": "21/04 20:31",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778270978
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ROOM PUBLIK BY JEFF: Rose",
-        "content": "I've kicked Morlana $$$.",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270953
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6283*******26\n• Waktu: 21/04/2026, 20.23",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270928
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270905
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / NU*********\n🏦 Method: DANA\n💰 Amount: Rp 3.300\n💸 Fee: Rp 153\n💵 Total Payload: Rp 3.453\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421212631241896\n🏷️ System ID: FSCL48120547\n⏰ 21 Apr 2026 • 20:29 WIB\n\n#DEPOSIT #DANA",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270817
-      },
-      {
-        "appName": "Telegram",
-        "sender": "LearnTermuxHUB.Tools: Rose",
-        "content": "🇮🇩👋 Selamat datang!\nGhozi\nAnda telah bergabung di komunitas Cyphxsec 🛡️🦅⭐\n\nuser : Ghozi\nId : 7474416550\nFull name Ghozi\n\nKomunitas yang berfokus pada pembelajaran dan diskusi seputar keamanan siber & Hacking tool free.\n\n📌 Yang bisa Anda temukan di sini:\n• Belajar Termux bersama 💻\n• Pembelajaran Cyber Security 🔐\n• Diskusi seputar Ethical Hacking 🕵️‍♂️\n• Berbagi informasi tools & teknologi terbaru ⚙️\n• Sumber referensi tools Cyber Security gratis 📚\n• Update informasi menarik lainnya seputar dunia digital 🌐\n\n⚡🚀Bergabung all grup for edukasi full grup learn⌛ https://t.me/addlist/DEKAMM18tLhmOTU1\n\n📦tool gratis kami \nCheck : https://t.me/Frostwolfhackingid/14767\n\n📞 Hubungi Kami\nJika Anda memiliki pertanyaan, membutuhkan bantuan, atau ingin …",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270796
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗔𝗯𝗼𝘂𝘁 𝗙𝗿𝗲𝗻𝗴𝗸𝘆𝗝𝗮𝘅 🎭 🅂🄲🄰🄼",
-        "content": "🖼 🎉 User Baru Masuk!\n\n👤 ⏤͟͟͞͞✆BranzModss ⎙\n🆔 8371645260\n⏰ 21/4/2026, 13.31.07",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270697
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5948 pesan baru dari 49 obrolan",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270681
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270443
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "Fs Noktel \nId 1 r9k nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270367
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: Rose",
-        "content": "DDOS PANEL GW SUMPAHIN YAPIT",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270341
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: Rose",
-        "content": "START DULU BOT NYA DONGO",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270313
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / NU*********\n🏦 Method: DANA\n💰 Amount: Rp 3.300\n💸 Fee: Rp 153\n💵 Total Payload: Rp 3.453\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421212631241896\n🏷️ System ID: FSCL48120547\n⏰ 21 Apr 2026 • 20:29 WIB\n\n#DEPOSIT #DANA",
-        "time": "21/04 20:31",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778270288
       }
     ],
     "galleryPhotos": [],
