@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776763293381,
+    "lastSeen": 1776763297401,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "UReport Indonesia",
+        "content": "Gimana pengalaman U-Reporters di dunia online? \n\nPendapatmu bakal diteruskan tim UNICEF Global ke perusahaan teknologi & operator seluler supaya bisa bikin kebijakan yang lebih baik! \n\nMau berkontribusi?  \nA. Ya\nB. Tidak\n\nPilih tombol yang tersedia atau kirim pesan STOP jika ingin berhenti terima pesan",
+        "time": "21/04 17:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776763298257
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
