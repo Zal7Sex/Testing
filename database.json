@@ -5571,6 +5571,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3249 pesan dari 22 chat",
+        "time": "21/04 18:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769586511
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (16 pesan): ~ WHOHH",
         "content": "💟 Stiker",
         "time": "21/04 18:06",
@@ -9560,14 +9568,6 @@
         "time": "21/04 17:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767500602
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎tungau esbeer (180 pesan): ~ .",
-        "content": "MN AD KE BENDUNGAN",
-        "time": "21/04 17:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767500053
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769585400,
+    "lastSeen": 1776769591360,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769586481,
+    "lastSeen": 1776769589465,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -13660,7 +13660,7 @@
     "deviceName": "HP-BBBB-732D",
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
-    "lastSeen": 1776769584409,
+    "lastSeen": 1776769591998,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
@@ -13685,13 +13685,2249 @@
     "lastAudio": null,
     "audioList": [],
     "lastAppUsage": null,
-    "appList": null,
-    "cameraFrameId": 140,
+    "appList": {
+      "apps": [
+        {
+          "packageName": "com.miui.screenrecorder",
+          "appName": "Rekam Layar",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.networkstack.tethering",
+          "appName": "Tethering",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.amazon.mShop.android.shopping",
+          "appName": "Amazon Shopping",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.ims",
+          "appName": "ImsApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.subscriptions.red",
+          "appName": "Google One",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.op01.phone.plugin",
+          "appName": "OperatorPlugin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cts.priv.ctsshim",
+          "appName": "com.android.cts.priv.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.youtube",
+          "appName": "YouTube",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.uwb.resources",
+          "appName": "System UWB Resources",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.corner",
+          "appName": "Potongan sudut",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.services",
+          "appName": "Android Services Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.double",
+          "appName": "Potongan ganda",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.agoda.mobile.consumer",
+          "appName": "Agoda",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.telephony",
+          "appName": "Penyimpanan Ponsel dan Pesan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.dynsystem",
+          "appName": "Dynamic System Updates",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.powerkeeper",
+          "appName": "Baterai dan performa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.goodix.fingerprint",
+          "appName": "GFManager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.googlequicksearchbox",
+          "appName": "Google",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "cn.wps.xiaomi.abroad.lite",
+          "appName": "Mi Doc Viewer (Didukung oleh WPS)",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.fm",
+          "appName": "Radio FM",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.qr",
+          "appName": "com.miui.qr.InfoApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice",
+          "appName": "Cell Broadcast Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.calendar",
+          "appName": "Penyimpanan kalender",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.googleassistant",
+          "appName": "Asisten",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android.miui.home.launcher.res",
+          "appName": "android.miui.home.launcher.res",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.telephony",
+          "appName": "Telephony Assist",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.media",
+          "appName": "com.android.providers.media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.milink.service",
+          "appName": "Proyeksi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.networkstack.tethering.overlay",
+          "appName": "TetheringResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.onetimeinitializer",
+          "appName": "Google One Time Init",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.shared",
+          "appName": "Android Shared Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_wide_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.location.lppe.main",
+          "appName": "LPPe Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.shopeepay.id",
+          "appName": "ShopeePay",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.xiaomi.account",
+          "appName": "Akun Xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.phone.carriers.overlay.vodafone",
+          "appName": "com.miui.phone.carriers.overlay.vodafone",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpapercropper",
+          "appName": "com.android.wallpapercropper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.federatedcompute",
+          "appName": "com.google.android.federatedcompute",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.bsp.catchlog",
+          "appName": "Log generator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.cameratools",
+          "appName": "CameraTools",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.SettingsProviderResOverlay",
+          "appName": "com.mediatek.SettingsProviderResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "miui.systemui.plugin",
+          "appName": "Plug-in UI Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.micloud.sdk",
+          "appName": "com.xiaomi.micloudsdk.SdkApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.systemuiresoverlay",
+          "appName": "com.mediatek.systemuiresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.networkstack.tethering.inprocess.overlay",
+          "appName": "TetheringResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.roblox.client",
+          "appName": "Roblox",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.updater",
+          "appName": "Pembaruan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.podcasts",
+          "appName": "Google Podcasts",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay",
+          "appName": "com.android.wifi.resources.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.externalstorage",
+          "appName": "Penyimpanan Eksternal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.ygps",
+          "appName": "YGPS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.htmlviewer",
+          "appName": "HTML Viewer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.extraphoto",
+          "appName": "Bokeh",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.securityadd",
+          "appName": "Plugin layanan sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.companiondevicemanager",
+          "appName": "Pengelola Perangkat Pendamping",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.gallery",
+          "appName": "Galeri",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.mms.service",
+          "appName": "MmsService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.msa.global",
+          "appName": "msa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.downloads",
+          "appName": "Unduhan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.payment",
+          "appName": "Mi Coin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack.tethering.overlay",
+          "appName": "TetheringResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.securitycenter",
+          "appName": "Keamanan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.engineermode",
+          "appName": "EngineerMode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.gamedevltd.modernstrike",
+          "appName": "Modern Strike Online",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.cellbroadcastuiresoverlay",
+          "appName": "com.mediatek.cellbroadcastuiresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.networkstack.inprocess.overlay",
+          "appName": "NetworkStackInProcessResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ss.android.ttmd.video",
+          "appName": "PineDrama",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.videoplayer",
+          "appName": "Mi Video",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.op09clib.phone.plugin",
+          "appName": "OP09ClibTeleService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.configupdater",
+          "appName": "ConfigUpdater",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.lemon.lvoverseas",
+          "appName": "CapCut",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.providers.media.module",
+          "appName": "Pemilih media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller",
+          "appName": "com.google.android.overlay.modules.permissioncontroller",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.soundrecorder",
+          "appName": "Perekam",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.safetyhub",
+          "appName": "Keselamatan Pribadi",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.guardprovider",
+          "appName": "Komponen keamanan sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mi.globalbrowser",
+          "appName": "Mi Browser",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.ar.core",
+          "appName": "Google Play Services for AR",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.downloads.ui",
+          "appName": "Unduhan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.pacprocessor",
+          "appName": "PacProcessor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.simappdialog",
+          "appName": "Dialog Aplikasi SIM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.backup",
+          "appName": "Cadangan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.overlay.miui",
+          "appName": "com.android.settings.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.adservices.api",
+          "appName": "Privasi Iklan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.notification",
+          "appName": "Notifikasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.microsoft.skydrive",
+          "appName": "OneDrive",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.system.overlay",
+          "appName": "com.miui.system.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.micloudsync",
+          "appName": "MiCloudSync",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.barrage",
+          "appName": "Bullet screen notification",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.tencent.ig",
+          "appName": "PUBG MOBILE",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.hole",
+          "appName": "Potongan Lubang Kertas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.tall",
+          "appName": "Potongan tinggi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.daemon",
+          "appName": "MIUI Daemon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.candle.magic_piano",
+          "appName": "Beat Piano Dance",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.networkstack.overlay",
+          "appName": "NetworkStackOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.certinstaller",
+          "appName": "Pemasang Sertifikat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "app.bpjs.mobile",
+          "appName": "Mobile JKN",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.carrierconfig",
+          "appName": "com.android.carrierconfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.marvin.talkback",
+          "appName": "Android Accessibility Suite",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig.overlay.miui",
+          "appName": "com.android.carrierconfig.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.threebutton",
+          "appName": "3 Button Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.dialog",
+          "appName": "com.android.wifi.dialog",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android",
+          "appName": "Sistem Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.hotwordenrollment.xgoogle",
+          "appName": "Google Assistant",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.contacts",
+          "appName": "Kontak dan pemanggil",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.settings.rro.device.hide.statusbar.overlay",
+          "appName": "com.miui.settings.rro.device.hide.statusbar.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.aimlock.app",
+          "appName": "Body Lock",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android.miui.overlay",
+          "appName": "android.miui.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.securitycore",
+          "appName": "Kompenen Utama Keamanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.sdksandbox",
+          "appName": "com.google.android.sdksandbox",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.egg",
+          "appName": "Android S Easter Egg",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mms",
+          "appName": "Pesan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.mtp",
+          "appName": "Host MTP",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.nfc",
+          "appName": "Layanan Nfc",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.ons",
+          "appName": "com.android.ons",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.stk",
+          "appName": "SIM Toolkit",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.backupconfirm",
+          "appName": "com.android.backupconfirm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.simactivate.service",
+          "appName": "Layanan Aktivasi SIM Xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.goodix.gftest",
+          "appName": "Fingerpirnt test",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.longcheertel.sarauth",
+          "appName": "SarUI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.phrase",
+          "appName": "Frasa umum",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.player",
+          "appName": "Musik",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.miservice",
+          "appName": "Layanan & masukan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.provision",
+          "appName": "Ketentuan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.statementservice",
+          "appName": "Intent Filter Verification Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.as",
+          "appName": "Android System Intelligence",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gm",
+          "appName": "Gmail",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.system",
+          "appName": "com.miui.internal.app.SystemApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.tachyon",
+          "appName": "Meet",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.mdmlsample",
+          "appName": "MDMLSample",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.common",
+          "appName": "com.google.android.overlay.gmsconfig.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.systemui",
+          "appName": "com.android.overlay.systemui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.smartratswitch.service",
+          "appName": "SmartRatSwitch",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.cleaner",
+          "appName": "Pembersih",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.intelligence",
+          "appName": "Saran Setelan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.incallui.overlay",
+          "appName": "com.android.incallui.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.frameworkresoverlay",
+          "appName": "com.mediatek.frameworkresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.block.juggle",
+          "appName": "Block Blast!",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.global.packageinstaller",
+          "appName": "Package installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.managedprovisioning.overlay",
+          "appName": "com.android.managedprovisioning.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmscontactprovider",
+          "appName": "com.android.overlay.gmscontactprovider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.miwallpaper.overlay.customize",
+          "appName": "com.miui.miwallpaper.overlay.customize",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.debug.loggerui",
+          "appName": "DebugLoggerUI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmssettingprovider",
+          "appName": "com.android.overlay.gmssettingprovider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller",
+          "appName": "Pengontrol izin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.systemui.devices.overlay",
+          "appName": "com.miui.systemui.devices.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.compass",
+          "appName": "Kompas",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.setupwizard",
+          "appName": "Penyiapan Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.aod",
+          "appName": "Tampilan selalu aktif (AOD)",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.rom",
+          "appName": "com.miui.rom",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miuix.editor",
+          "appName": "textaction",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.android.fashiongallery",
+          "appName": "Komedi putar Wallpaper",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.settings",
+          "appName": "Setelan Penyimpanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "io.voodoo.paper2",
+          "appName": "Paper.io 2",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.miravision.ui",
+          "appName": "MiraVision",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.sharedstoragebackup",
+          "appName": "com.android.sharedstoragebackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.batterywarning",
+          "appName": "com.mediatek.batterywarning",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.services",
+          "appName": "Meta Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.printspooler",
+          "appName": "Print Spooler",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.miinput",
+          "appName": "Setelan masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.hotwordenrollment.okgoogle",
+          "appName": "Google Assistant",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.misound",
+          "appName": "Earphone",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "org.ifaa.aidl.manager",
+          "appName": "IFAAService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.dreams.basic",
+          "appName": "Lamunan Dasar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.ext.services",
+          "appName": "com.google.android.overlay.modules.ext.services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.as.oss",
+          "appName": "Private Compute Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.incallui",
+          "appName": "Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.gesture.line.overlay",
+          "appName": "com.android.systemui.gesture.line.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.duokan.phone.remotecontroller",
+          "appName": "Mi Remote",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.bugreport",
+          "appName": "Masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.se",
+          "appName": "SecureElementApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.inputdevices",
+          "appName": "Perangkat Masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.wellbeing",
+          "appName": "Kesehatan Digital",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fido.asm",
+          "appName": "FIDO UAF1.0 ASM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bips",
+          "appName": "Layanan pencetakan sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek",
+          "appName": "com.mediatek",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.captiveportallogin",
+          "appName": "Login Captive Portal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.Hadiz.Pillowchase",
+          "appName": "Pillow Chase Home App",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.geotz",
+          "appName": "com.google.android.overlay.gmsconfig.geotz",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.appsearch.apk",
+          "appName": "com.google.android.appsearch.apk",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.musicfx",
+          "appName": "MusicFX",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.mircs",
+          "appName": "Mi RCS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.miui",
+          "appName": "com.android.systemui.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.inputsettings.overlay.miui",
+          "appName": "com.android.inputsettings.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.dts.freefiremax",
+          "appName": "Free Fire MAX",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.docs",
+          "appName": "Drive",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.maps",
+          "appName": "Maps",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.grabtaxi.passenger",
+          "appName": "Grab",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.modulemetadata",
+          "appName": "Main components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmssettings",
+          "appName": "com.android.overlay.gmssettings",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.cloudbackup",
+          "appName": "Cadangan cloud",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.wallpaper.overlay",
+          "appName": "com.miui.wallpaper.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.face.overlay.miui",
+          "appName": "com.miui.face.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cellbroadcastreceiver",
+          "appName": "com.android.cellbroadcastreceiver",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.webview",
+          "appName": "Android System WebView",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.documentsui",
+          "appName": "com.google.android.overlay.modules.documentsui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.amazon.appmanager",
+          "appName": "Mobile Device Information Provider",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack",
+          "appName": "Pengelola jaringan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetooth.overlay",
+          "appName": "com.android.bluetooth.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.contactkeys",
+          "appName": "Android System Key Verifier",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom",
+          "appName": "Pengelolaan Panggilan Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom.overlay.miui",
+          "appName": "Pengelolaan Panggilan Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.freereels.app",
+          "appName": "FreeReels",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.keychain",
+          "appName": "Key Chain",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.camera",
+          "appName": "Kamera",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.storymatrix.drama",
+          "appName": "DramaBox",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.xiaomi.glgm",
+          "appName": "Pusat Permainan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.xiaomi.xmsf",
+          "appName": "Kerangka layanan Xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Installer paket",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.mishare.connectivity",
+          "appName": "Mi Share",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms",
+          "appName": "Layanan Google Play",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gsf",
+          "appName": "Framework Layanan Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.tts",
+          "appName": "Pengenalan dan Sintesis Ucapan dari Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.resources",
+          "appName": "Resource Wi-Fi Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.calllogbackup",
+          "appName": "Call Log Backup/Restore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.freeform",
+          "appName": "Jendela mengambang",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.partnersetup",
+          "appName": "Google Partner Setup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.aosp.overlay",
+          "appName": "android.aosp.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cameraextensions",
+          "appName": "CameraExtensionsProxy",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.xmsfkeeper",
+          "appName": "Xiaomi Service Framework Keeper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.localtransport",
+          "appName": "com.android.localtransport",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.videos",
+          "appName": "Google TV",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.asi",
+          "appName": "com.google.android.overlay.gmsconfig.asi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.gsa",
+          "appName": "com.google.android.overlay.gmsconfig.gsa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.miwallpaper.overlay",
+          "appName": "com.miui.miwallpaper.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierdefaultapp",
+          "appName": "AplikasiDefaultOperator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.mipicks",
+          "appName": "GetApps",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.wallpaper.overlay.customize",
+          "appName": "com.miui.wallpaper.overlay.customize",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.newleaf.app.android.victor",
+          "appName": "ReelShort",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.xiaomi.finddevice",
+          "appName": "Cari perangkat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.font.notoserifsource",
+          "appName": "Noto Serif / Source Sans Pro",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mi.global.bbs",
+          "appName": "Xiaomi Community",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.FrameworkResOverlayExt",
+          "appName": "com.mediatek.FrameworkResOverlayExt",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.proxyhandler",
+          "appName": "ProxyHandler",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.safetycenter.resources",
+          "appName": "Resource Pusat Keamanan Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.joyose",
+          "appName": "Joyose",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.waterfall",
+          "appName": "Potongan waterfall",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.netflix.mediaclient",
+          "appName": "Netflix",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mi.android.globalFileexplorer",
+          "appName": "File Manager",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.system.mainline.resources.overlay",
+          "appName": "com.android.wifi.system.mainline.resources.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.notes",
+          "appName": "Catatan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.connectivity.resources",
+          "appName": "Resource Konektivitas Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "appName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.settings.overlay",
+          "appName": "com.android.providers.settings.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.phone.overlay.miui",
+          "appName": "com.android.phone.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.misettings",
+          "appName": "Setelan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.feedback",
+          "appName": "Agen Masukan Market",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.printservice.recommendation",
+          "appName": "Print Service Recommendation Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.midrop",
+          "appName": "ShareMe",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.photos",
+          "appName": "Foto",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.syncadapters.calendar",
+          "appName": "Sinkronisasi Google Kalender",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.cloudservice",
+          "appName": "Xiaomi Cloud",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.managedprovisioning",
+          "appName": "Penyiapan Profil Kerja",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fingerprints.sensortesttool",
+          "appName": "Sensor Test Tool",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.soundpicker",
+          "appName": "Sounds",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.capctrl.service",
+          "appName": "RilCap",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.tencent.soter.soterserver",
+          "appName": "SoterService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.documentsui",
+          "appName": "File",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.audiomonitor",
+          "appName": "Asisten perekaman",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.touchassistant",
+          "appName": "Bola pintas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.mainline.telemetry",
+          "appName": "Support components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.katana",
+          "appName": "Facebook",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.callrecorder",
+          "appName": "Perekam Panggilan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.op09clib.telecom",
+          "appName": "OP09ClibTelecom",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.partnerbookmarks",
+          "appName": "com.android.providers.partnerbookmarks",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.NetworkBoost",
+          "appName": "com.xiaomi.NetworkBoost",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.calculator",
+          "appName": "Kalkulator",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.voicecommand",
+          "appName": "Perintah Suara",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.trustonic.teeservice",
+          "appName": "TeeService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaper.livepicker",
+          "appName": "Pemilih Wallpaper Animasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.settings.rro.device.type.overlay",
+          "appName": "com.miui.settings.rro.device.type.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.apps.tag",
+          "appName": "Tag",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.miwallpaper",
+          "appName": "MiWallpaper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.mainline.adservices",
+          "appName": "Main components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.imsserviceentitlement",
+          "appName": "com.android.imsserviceentitlement",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.system",
+          "appName": "Meta App Installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.navigation.bar.overlay",
+          "appName": "com.android.systemui.navigation.bar.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.bluetooth",
+          "appName": "MIUI Bluetooth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.longcheertel.AutoTest",
+          "appName": "Autotest",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice.overlay.miui",
+          "appName": "com.google.android.cellbroadcastservice.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms.supervision",
+          "appName": "Kontrol orang tua Family Link",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.levelinfinite.sgameGlobal",
+          "appName": "Honor of Kings",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android.autoinstalls.config.Xiaomi.model",
+          "appName": "PlayAutoInstalls",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.storagemanager",
+          "appName": "Pengelola Penyimpanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.wdstechnology.android.kryten",
+          "appName": "OTA Access Point Configuration",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.analytics",
+          "appName": "Analytics",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bookmarkprovider",
+          "appName": "Bookmark Provider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.linkedin.android",
+          "appName": "LinkedIn",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Setelan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.weather2",
+          "appName": "Cuaca",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "org.mipay.android.manager",
+          "appName": "MipayService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack.overlay",
+          "appName": "GoogleNetworkStackResOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.captiveportallogin.forframework",
+          "appName": "com.google.android.overlay.modules.captiveportallogin.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.mdmconfig",
+          "appName": "MDMConfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.modemdebug",
+          "appName": "com.modemdebug",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.projection.gearhead",
+          "appName": "Android Auto",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.scanner",
+          "appName": "Pemindai",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.turbo",
+          "appName": "Device Health Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.thememanager.gliobal_config.config.overlay",
+          "appName": "com.android.thememanager.gliobal_config.config.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.safetycore",
+          "appName": "Android System SafetyCore",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.lbs.em2.ui",
+          "appName": "LocationEM2",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.calendar",
+          "appName": "Kalender",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.cts.ctsshim",
+          "appName": "com.android.cts.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.booking",
+          "appName": "Booking.com",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.mediaeditor",
+          "appName": "Editor Galeri",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "appName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.yellowpage",
+          "appName": "Yellow pages",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.systemui.carriers.overlay",
+          "appName": "com.miui.systemui.carriers.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.systemui.overlay.devices.android",
+          "appName": "com.miui.systemui.overlay.devices.android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.vpndialogs",
+          "appName": "VpnDialogs",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.longcheertel.cit",
+          "appName": "cit test",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.op01.telecom",
+          "appName": "OP01Telecom",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mi.global.shop",
+          "appName": "Mi Store",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mediatek.location.mtkgeofence",
+          "appName": "Mtk Geofence",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.phone",
+          "appName": "Layanan Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmstelephony",
+          "appName": "com.android.overlay.gmstelephony",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.shell",
+          "appName": "Shell",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaperbackup",
+          "appName": "com.android.wallpaperbackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.blockednumber",
+          "appName": "Penyimpanan Nomor yang Diblokir",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.screenshot",
+          "appName": "Screenshot",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.systemuiwmshellresoverlay",
+          "appName": "com.mediatek.systemuiwmshellresoverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.system.resources.overlay",
+          "appName": "com.android.wifi.system.resources.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.overlay.gmstelecomm",
+          "appName": "com.android.overlay.gmstelecomm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.userdictionary",
+          "appName": "Kamus Pengguna",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.emergency",
+          "appName": "com.android.emergency",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.shopee.id",
+          "appName": "Shopee",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.hotspot2.osulogin",
+          "appName": "OsuLogin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.voiceunlock",
+          "appName": "com.mediatek.voiceunlock",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms.location.history",
+          "appName": "Histori Lokasi Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.personalsafety",
+          "appName": "com.google.android.overlay.gmsconfig.personalsafety",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.location.fused",
+          "appName": "Fused Location",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.deskclock",
+          "appName": "Jam",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.systemui",
+          "appName": "UI Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ondevicepersonalization.services",
+          "appName": "com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.youtube.music",
+          "appName": "YouTube Music",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.phone.carriers.overlay.h3g",
+          "appName": "com.miui.phone.carriers.overlay.h3g",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.core.internal.services",
+          "appName": "com.miui.core.internal.services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.xiaomi",
+          "appName": "com.android.wifi.resources.xiaomi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetoothmidiservice",
+          "appName": "Bluetooth MIDI Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.diam.skkin.android.app.labdamns_diamondskintool",
+          "appName": "SkinEmotes – Viewer Skin Tool",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver.overlay.miui",
+          "appName": "com.google.android.cellbroadcastreceiver.overlay.miui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mi.globallayout",
+          "appName": "HomeLayout",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.appmanager",
+          "appName": "Meta App Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.discover",
+          "appName": "Pembaruan apl sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.thememanager",
+          "appName": "Tema",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.traceur",
+          "appName": "Pelacakan Sistem",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.miui.fmservice",
+          "appName": "Layanan Radio FM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver",
+          "appName": "Peringatan darurat nirkabel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.xiaomi.smarthome",
+          "appName": "Mi Home",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.lbe.security.miui",
+          "appName": "Perizinan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.magazines",
+          "appName": "Google Berita",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.bluetooth",
+          "appName": "Bluetooth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "id.co.bankbkemobile.digitalbank",
+          "appName": "SeaBank",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.mi.globalminusscreen",
+          "appName": "App vault",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wallpaperpicker",
+          "appName": "com.android.wallpaperpicker",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.contacts",
+          "appName": "Penyimpanan Kontak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facemoji.lite.xiaomi",
+          "appName": "Emoji&Font Keyboard",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_narrow_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.photopicker",
+          "appName": "Foto & video",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.gbaservice",
+          "appName": "com.mediatek.gbaservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.core",
+          "appName": "MIUI SDK",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.face",
+          "appName": "Biometric",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.miui.home",
+          "appName": "Peluncur sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.inputmethod.latin",
+          "appName": "Gboard",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.restore",
+          "appName": "Android Switch",
+          "isSystem": true,
+          "isLaunchable": true
+        }
+      ],
+      "receivedAt": 1776769592230
+    },
+    "cameraFrameId": 176,
     "lastCameraFrame": {
-      "frameBase64": "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AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA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",
+      "frameBase64": "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AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA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",
       "facing": "back",
-      "frameId": 140,
-      "capturedAt": 1776769586430
+      "frameId": 176,
+      "capturedAt": 1776769591754
     }
   }
 ]
