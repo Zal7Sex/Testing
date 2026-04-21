@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776766506439,
+    "lastSeen": 1776766509427,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4287 pesan dari 24 chat",
+        "time": "21/04 17:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766509846
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4286 pesan dari 24 chat",
+        "time": "21/04 17:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766509090
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (156 pesan): ~ N9THCRAL",
+        "content": "Wkww bisa malemm",
+        "time": "21/04 17:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766509040
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4285 pesan dari 24 chat",
+        "time": "21/04 17:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766508223
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎JB || MANZZ KALBAR (905 pesan): ~ Xell",
         "content": "📷 Op 130k\nBind sepaket no lengket\nfull Spek pm",
         "time": "21/04 17:15",
@@ -6914,7 +6946,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776766506601,
+    "lastSeen": 1776766509590,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
