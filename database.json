@@ -6331,6 +6331,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1038 pesan): Menyebut semua",
+        "content": "~ zunz: @⁨semua⁩",
+        "time": "21/04 21:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782322519
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2969 pesan dari 19 chat",
         "time": "21/04 21:38",
@@ -10320,14 +10328,6 @@
         "time": "21/04 21:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776780172656
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3587 pesan dari 21 chat",
-        "time": "21/04 21:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780171599
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776782317873,
+    "lastSeen": 1776782321261,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
