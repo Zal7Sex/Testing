@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776771848345,
+    "lastSeen": 1776771854350,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -6331,6 +6331,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (96 pesan): ~ reall rezzsturr",
+        "content": "📷 430\nLOG BIND",
+        "time": "21/04 18:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771855124
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3452 pesan dari 22 chat",
+        "time": "21/04 18:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771850982
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎JB || MANZZ KALBAR (935 pesan): ~ Xell",
         "content": "📷 Op 130k\nBind sepaket no lengket\nfull Spek pm",
         "time": "21/04 18:44",
@@ -10312,22 +10328,6 @@
         "time": "21/04 18:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1776769628900
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (3 pesan): ~ kudanilkntl4",
-        "content": "📷 20last no nego allref sampe mampus",
-        "time": "21/04 18:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776769628880
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (17 pesan): ~ .",
-        "content": "maaff",
-        "time": "21/04 18:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776769623031
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776771850015,
+    "lastSeen": 1776771853080,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776771850061,
+    "lastSeen": 1776771853053,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776771848530,
+    "lastSeen": 1776771854617,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
