@@ -23,6 +23,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎42 pesan dari 25 chat",
+        "time": "21/04 18:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767627937
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "UReport Indonesia",
+        "content": "Gimana pengalaman U-Reporters di dunia online? \n\nPendapatmu bakal diteruskan tim UNICEF Global ke perusahaan teknologi & operator seluler supaya bisa bikin kebijakan yang lebih baik! \n\nMau berkontribusi?  \nA. Ya\nB. Tidak\n\nPilih tombol yang tersedia atau kirim pesan STOP jika ingin berhenti terima pesan",
+        "time": "21/04 18:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767627672
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎43 pesan dari 26 chat",
         "time": "21/04 18:33",
         "pkg": "com.whatsapp",
@@ -8546,7 +8562,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767625669,
+    "lastSeen": 1776767627120,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
