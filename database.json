@@ -6331,6 +6331,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (29 pesan): Givano",
+        "content": "Ape die",
+        "time": "21/04 19:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773956377
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB byone/mabar ff 8a (28 pesan): diga",
         "content": "Pr ape dar",
         "time": "21/04 19:19",
@@ -10320,14 +10328,6 @@
         "time": "21/04 18:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1776770857620
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎eight_creativityy 🅰️ (15 pesan): Daraa",
-        "content": "aok kan",
-        "time": "21/04 18:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776770856881
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776773949670,
+    "lastSeen": 1776773955616,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773951309,
+    "lastSeen": 1776773954307,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
