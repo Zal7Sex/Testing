@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782431127,
+    "lastSeen": 1776782434060,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10405,6 +10405,102 @@
     "smsMessages": [
       {
         "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・17118 pesan baru dari 116 obrolan",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782435853
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6283*******77\n• Waktu: 21/04/2026, 21.38",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782435444
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: Rose",
+        "content": "START DULU BOT NYA DONGO",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782435115
+      },
+      {
+        "appName": "Telegram",
+        "sender": "🜲 𝐙 𝐑 🜲",
+        "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782435054
+      },
+      {
+        "appName": "Telegram",
+        "sender": "SEPUTAR INFORMASI BOT COIN",
+        "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782435034
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: Rose",
+        "content": "DDOS PANEL GW SUMPAHIN YAPIT",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782434998
+      },
+      {
+        "appName": "Telegram",
+        "sender": "SEPUTAR INFORMASI BOT COIN",
+        "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782434392
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6283*******77\n• Waktu: 21/04/2026, 21.38",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782434373
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: Rose",
+        "content": "START DULU BOT NYA DONGO",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782434354
+      },
+      {
+        "appName": "Telegram",
+        "sender": "🜲 𝐙 𝐑 🜲",
+        "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782434250
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: Rose",
+        "content": "DDOS PANEL GW SUMPAHIN YAPIT",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782434078
+      },
+      {
+        "appName": "Telegram",
+        "sender": "BOT GACHA ITEM VIP",
+        "content": "🎁 KODE REDEEM BARU!\n\n📌 Kode: N3URVOJI\n💎 Bonus: +1 Limit\n⏰ Berlaku 24 jam\n\n/redeem N3URVOJI",
+        "time": "21/04 21:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776782433783
+      },
+      {
+        "appName": "Telegram",
         "sender": "🜲 𝐙 𝐑 🜲",
         "content": "BOT GACHA FREE NIH,SC BUG/FUNC APK BUG/SC MD/BASE APK BUG/DLL BANYAK SEMUA ADA DI\n\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot\n@GACHA_ITEM_VIP_bot",
         "time": "21/04 21:40",
@@ -14306,102 +14402,6 @@
         "time": "21/04 21:15",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780924247
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16939 pesan baru dari 118 obrolan",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780924226
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780924213
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780924201
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780920054
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780920038
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780920024
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780920012
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780919997
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780919984
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16939 pesan baru dari 118 obrolan",
-        "time": "21/04 21:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780919970
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4 pesan dari 3 chat",
-        "time": "21/04 21:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780906515
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "bintang",
-        "content": "🎥 Video (0.15)",
-        "time": "21/04 21:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776780906503
       }
     ],
     "galleryPhotos": [],
