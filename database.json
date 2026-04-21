@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781661693,
+    "lastSeen": 1776781664764,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (151 pesan): ~ RIZZSUGA PATNER YUDICRUEL PT PERGAM",
+        "content": "📷 LAST 340 ? NAIK KBRIN",
+        "time": "21/04 21:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781665681
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779993850
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (2 pesan): exell",
-        "content": "nonton bokep sme bocil bocil die",
-        "time": "21/04 20:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779993813
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781660539,
+    "lastSeen": 1776781663588,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
