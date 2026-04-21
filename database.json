@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781929498,
+    "lastSeen": 1776781932509,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10405,6 +10405,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "+62 896-7342-6335",
+        "content": "🎤 Pesan suara (0.03)",
+        "time": "21/04 21:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781931130
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎13 pesan dari 3 chat",
         "time": "21/04 21:32",
@@ -14394,14 +14402,6 @@
         "time": "21/04 21:10",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780646677
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:10",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780646612
       }
     ],
     "galleryPhotos": [],
