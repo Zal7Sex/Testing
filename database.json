@@ -5571,6 +5571,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (5 pesan): ~ t4mz wa stok/rekber/japost",
+        "content": "📷 𝙁𝙊𝙍𝙈𝘼𝙏 𝙅𝘼𝙋𝙊𝙎𝙏 𝙏4𝙈𝙕 𝙎𝙏𝙊𝙍𝙀\n      [𝘽𝙐𝙆𝘼𝙉 𝘼𝙆𝙐𝙉 𝘼𝘿𝙈𝙄𝙉]\n\n𝙅𝙐𝘼𝙇/𝙉𝙀𝙀𝘿 : jual\n𝘼𝙆𝙐𝙉 : epep\n𝙎𝙋𝙀𝙆 :gagah keren \n𝙇𝙊𝙂 :gg\n𝙃𝘼𝙍𝙂𝘼 : 100nego\n𝙈𝘾 : [𝙏4𝙈𝙕 𝙎𝙏𝙊𝙍𝙀]\n𝙉𝙊 𝙇𝙐 : +62 887-0466-1380\n\n𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐉𝐀𝐒𝐀 𝐀𝐃𝐌𝐈. [𝐓𝟒𝐌𝐙 𝐒𝐓𝐎𝐑𝐄] 𝐀𝐆𝐀𝐑 𝐓𝐄𝐑𝐇𝐈𝐍𝐃𝐀𝐑 𝐃𝐀𝐑𝐈 𝐏𝐄𝐍𝐈𝐏𝐔𝐀𝐍\n\n𝐍𝐎 𝐑𝐄𝐊𝐁𝐄𝐑/𝐉𝐏 𝐓𝐀𝐌𝐙 𝐒𝐓𝐎𝐑𝐄 𝐇𝐀𝐍𝐘𝐀 :081385347781\n\n𝐍𝐎𝐓𝐄 : 𝐉𝐈𝐊𝐀 𝐉𝐏 𝐃𝐈 𝐓𝐀𝐌𝐙 𝐒𝐓𝐎𝐑𝐄 𝐖𝐀𝐉𝐈𝐁 𝐌𝐂 𝐓𝐀𝐌𝐙 𝐒𝐓𝐎𝐑𝐄 𝐇𝐀𝐑𝐆𝐀 𝐈𝐍 𝐘𝐀𝐍𝐆 𝐉𝐏, 𝐔𝐃𝐀𝐇 𝐏𝐎𝐒𝐓 𝐀𝐊𝐔𝐍 𝐋𝐔 𝐒𝐀𝐍𝐀 𝐒𝐈𝐍𝐈!!",
+        "time": "21/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770652250
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3251 pesan dari 20 chat",
+        "time": "21/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770652230
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3250 pesan dari 20 chat",
         "time": "21/04 18:24",
@@ -9552,22 +9568,6 @@
         "time": "21/04 17:47",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768465962
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (921 pesan): ~ Xell",
-        "content": "📷 OP 305k\nFIST 1\nSG 2\nLOG REDBIN TRA YG REDBIN AD BUKTI",
-        "time": "21/04 17:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768465944
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (437 pesan): ~ MANZ KALTIM JP1",
-        "content": "KALIAN BINGUNG NYARI STOK FF ML RESS MURAH BERKUALITAS DI MANA? JOIN SINI AJA KAK 🤩✌️\nhttps://chat.whatsapp.com/DeLb5ueuWWHK6AclRiveR5\n> -1 800 MEMBER❗",
-        "time": "21/04 17:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768435885
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770645712,
+    "lastSeen": 1776770651748,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770646683,
+    "lastSeen": 1776770652207,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
