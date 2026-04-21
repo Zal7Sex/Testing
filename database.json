@@ -22,6 +22,54 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Adi Wirayuda W",
+        "content": "Naya kindang mendok duit",
+        "time": "21/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771462939
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "TelConnect",
+        "content": "[Verify] 467427. Ini adalah informasi rahasia, jangan bagikan kepada siapa pun.",
+        "time": "21/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771462680
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎ZPSX ROBLOX (10 pesan): ~ liyudzha nurul gina",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "21/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771462255
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "HAIDIR hk",
+        "content": "Kenapa",
+        "time": "21/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771462171
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "💟 Stiker",
+        "time": "21/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771462088
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎44 pesan dari 27 chat",
+        "time": "21/04 19:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771461937
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎43 pesan dari 26 chat",
         "time": "21/04 19:37",
@@ -5900,6 +5948,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3443 pesan dari 22 chat",
+        "time": "21/04 18:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771461691
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (18 pesan): ~ fikal Lai",
+        "content": "📷 FORMAT JUAL AKUN BY FIKAL STORE\n \n(`BUKAN AKUN ADMIN`)\n\nNO SELLER: 083128328011\nNAMA : yann str\nAKUN : ff\nSPEK : sg lumut\nLOG : ggl bind sepaket\nHARGA : 80+\nMC\n\n`WA REKBER FIKAL STORE:` 085761226876\nNOTE\n \n-SETIAP PEMBELIAN AKUN WAJIB MEMAKAI REKBER AGAR UANG KALIAN AMAN\n\n- JANGAN MAU DIAJAK DIRECT/SIS P KALAU JAPOST",
+        "time": "21/04 18:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776771461413
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3442 pesan dari 22 chat",
         "time": "21/04 18:37",
         "pkg": "com.whatsapp",
@@ -9880,22 +9944,6 @@
         "time": "21/04 18:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1776769459409
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB1 ALDY BANYUMAS JATENG (112 pesan): ~ zzzz",
-        "content": "📷 310 satset",
-        "time": "21/04 18:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776769459246
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pegasus-X Room: Owner Pega",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "21/04 18:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776769459177
       }
     ],
     "galleryPhotos": [],
@@ -16256,7 +16304,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776771459992,
+    "lastSeen": 1776771461396,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
