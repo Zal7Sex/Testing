@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782590596,
+    "lastSeen": 1776782605650,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776782591111,
+    "lastSeen": 1776782606022,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782593255,
+    "lastSeen": 1776782605336,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -20651,14 +20651,8 @@
     "deviceName": "HP-DEVABIL333-69AC",
     "ownerUsername": "Fibersec",
     "token": "a998090dbff92d6435ed4f2edf5c08f6",
-    "lastSeen": 1776782591650,
-    "commandQueue": [
-      {
-        "type": "screen_live_stop",
-        "payload": {},
-        "sentAt": 1776782592334
-      }
-    ],
+    "lastSeen": 1776782603639,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T14:42:17.817Z",
     "deviceInfo": {
@@ -20681,7 +20675,191 @@
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [
+        {
+          "packageName": "com.google.android.youtube",
+          "appName": "YouTube",
+          "timeMin": 262,
+          "lastUsed": 1776751582246
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "timeMin": 231,
+          "lastUsed": 1776760270083
+        },
+        {
+          "packageName": "com.dts.freefiremax",
+          "appName": "Free Fire MAX",
+          "timeMin": 117,
+          "lastUsed": 1776759713898
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 106,
+          "lastUsed": 1776751390163
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 85,
+          "lastUsed": 1776781727302
+        },
+        {
+          "packageName": "com.dts.freefiremax",
+          "appName": "Free Fire MAX",
+          "timeMin": 38,
+          "lastUsed": 1776762737486
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "timeMin": 37,
+          "lastUsed": 1776782072693
+        },
+        {
+          "packageName": "com.android.launcher",
+          "appName": "Peluncur Sistem",
+          "timeMin": 18,
+          "lastUsed": 1776760247472
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 7,
+          "lastUsed": 1776703833152
+        },
+        {
+          "packageName": "com.coloros.video",
+          "appName": "Video (Sistem)",
+          "timeMin": 6,
+          "lastUsed": 1776769049334
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "timeMin": 4,
+          "lastUsed": 1776753662262
+        },
+        {
+          "packageName": "com.android.launcher",
+          "appName": "Peluncur Sistem",
+          "timeMin": 2,
+          "lastUsed": 1776782545078
+        },
+        {
+          "packageName": "com.oplus.safecenter",
+          "appName": "Pusat Keamanan",
+          "timeMin": 2,
+          "lastUsed": 1776753799172
+        },
+        {
+          "packageName": "rikka.appops",
+          "appName": "App Ops",
+          "timeMin": 2,
+          "lastUsed": 1776782533501
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "timeMin": 1,
+          "lastUsed": 1776782532063
+        },
+        {
+          "packageName": "com.pegasusx.project",
+          "appName": "Pegasus-X",
+          "timeMin": 1,
+          "lastUsed": 1776703083962
+        },
+        {
+          "packageName": "com.google.android.captiveportallogin",
+          "appName": "Login Captive Portal",
+          "timeMin": 1,
+          "lastUsed": 1776753765891
+        },
+        {
+          "packageName": "com.pegasusx.project",
+          "appName": "Pegasus-X",
+          "timeMin": 1,
+          "lastUsed": 1776782598704
+        },
+        {
+          "packageName": "com.google.android.apps.maps",
+          "appName": "Maps",
+          "timeMin": 1,
+          "lastUsed": 1776779738266
+        },
+        {
+          "packageName": "moe.shizuku.privileged.api",
+          "appName": "Shizuku",
+          "timeMin": 1,
+          "lastUsed": 1776782354798
+        },
+        {
+          "packageName": "com.oplus.screenshot",
+          "appName": "Cuplikan layar",
+          "timeMin": 0,
+          "lastUsed": 1776697688109
+        },
+        {
+          "packageName": "com.pegasusx.core",
+          "appName": "Bug WhatsApp",
+          "timeMin": 0,
+          "lastUsed": 1776782598657
+        },
+        {
+          "packageName": "com.oplus.wirelesssettings",
+          "appName": "Pengaturan nirkabel",
+          "timeMin": 0,
+          "lastUsed": 1776753792080
+        },
+        {
+          "packageName": "com.coloros.video",
+          "appName": "Video (Sistem)",
+          "timeMin": 0,
+          "lastUsed": 1776675121430
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 0,
+          "lastUsed": 1776782112403
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "timeMin": 0,
+          "lastUsed": 1776782111138
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Installer paket",
+          "timeMin": 0,
+          "lastUsed": 1776782121083
+        },
+        {
+          "packageName": "com.coloros.alarmclock",
+          "appName": "Jam",
+          "timeMin": 0,
+          "lastUsed": 1776745696931
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller",
+          "appName": "Pengontrol izin",
+          "timeMin": 0,
+          "lastUsed": 1776782236819
+        },
+        {
+          "packageName": "com.heytap.market",
+          "appName": "App Market",
+          "timeMin": 0,
+          "lastUsed": 1776782127428
+        }
+      ],
+      "receivedAt": 1776782606144
+    },
     "appList": null
   }
 ]
