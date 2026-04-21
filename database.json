@@ -6331,6 +6331,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3567 pesan dari 22 chat",
+        "time": "21/04 20:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778075372
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎JB || MANZZ KALBAR (963 pesan): ~ ada",
         "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
         "time": "21/04 20:27",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775757437
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (229 pesan): ~ ?",
-        "content": "gatau",
-        "time": "21/04 19:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775757363
       }
     ],
     "galleryPhotos": [],
