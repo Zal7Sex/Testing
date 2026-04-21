@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776776970698,
+    "lastSeen": 1776776979655,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3517 pesan dari 21 chat",
+        "time": "21/04 20:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776973629
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (957 pesan): Menyebut semua",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775191332
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3688 pesan dari 23 chat",
-        "time": "21/04 19:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775187489
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776776971730,
+    "lastSeen": 1776776980553,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776776970730,
+    "lastSeen": 1776776979668,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
