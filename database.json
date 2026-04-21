@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770522908,
+    "lastSeen": 1776770525636,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9643,6 +9643,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770525865
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 18:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770523817
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -13626,22 +13642,6 @@
         "time": "21/04 17:54",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776768888136
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768887352
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 17:54",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768887335
       }
     ],
     "galleryPhotos": [],
