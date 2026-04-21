@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781024490,
+    "lastSeen": 1776781027436,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781025085,
+    "lastSeen": 1776781029386,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16704,6 +16704,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "alpin",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781029688
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Arkan",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781028903
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎12 pesan dari 4 chat",
+        "time": "21/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781028127
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus ( Full Update ) (6 pesan): ~ Zal7Sex",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781027948
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "nopal cmpk",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781027718
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "alpin",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781027610
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Arkan",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781027352
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
