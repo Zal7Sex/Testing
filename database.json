@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776762534508,
+    "lastSeen": 1776762537864,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "📹 Telepon video masuk",
+        "time": "21/04 17:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776762538076
+      },
       {
         "appName": "WhatsApp",
         "sender": "Rafly",
