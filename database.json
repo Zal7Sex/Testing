@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776782052640,
+    "lastSeen": 1776782067678,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776782050275,
+    "lastSeen": 1776782068585,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎13 pesan dari 2 chat",
+        "time": "21/04 21:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782069316
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 21:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776782054157
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -14386,22 +14402,6 @@
         "time": "21/04 21:10",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780646875
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:10",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780646821
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 21:10",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780646807
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776782051035,
+    "lastSeen": 1776782069038,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
