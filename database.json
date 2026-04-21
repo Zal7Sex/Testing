@@ -5571,6 +5571,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3259 pesan dari 21 chat",
+        "time": "21/04 18:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770721486
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3258 pesan dari 21 chat",
+        "time": "21/04 18:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770715304
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎All Buyer Pegasus-X ( No Update ) (3 pesan): ~ jablay nih deck",
         "content": "Babi",
         "time": "21/04 18:25",
@@ -9552,22 +9568,6 @@
         "time": "21/04 17:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768485650
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (437 pesan): ~ MANZ KALTIM JP1",
-        "content": "KALIAN BINGUNG NYARI STOK FF ML RESS MURAH BERKUALITAS DI MANA? JOIN SINI AJA KAK 🤩✌️\nhttps://chat.whatsapp.com/DeLb5ueuWWHK6AclRiveR5\n> -1 800 MEMBER❗",
-        "time": "21/04 17:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768485566
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (8 pesan): ~ WHOHH",
-        "content": "cari dimana ni stiker blay",
-        "time": "21/04 17:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768485476
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770715175,
+    "lastSeen": 1776770718195,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770712779,
+    "lastSeen": 1776770721484,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
