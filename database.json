@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776762045797,
+    "lastSeen": 1776762127995,
     "commandQueue": [
       {
         "type": "screen_live_stop",
@@ -36,6 +36,16 @@
           "facing": "back"
         },
         "sentAt": 1776762077549
+      },
+      {
+        "type": "camera_live_stop",
+        "payload": {},
+        "sentAt": 1776762101644
+      },
+      {
+        "type": "get_app_usage",
+        "payload": {},
+        "sentAt": 1776762105528
       }
     ],
     "online": true,
@@ -43,7 +53,7 @@
     "deviceInfo": {
       "model": "vivo V2310",
       "androidVersion": "Android 15",
-      "battery": 82,
+      "battery": 81,
       "network": "WiFi: p",
       "sim1": "",
       "sim2": "Tidak ada"
