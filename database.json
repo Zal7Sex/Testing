@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776783047448,
+    "lastSeen": 1776783050371,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776783047556,
+    "lastSeen": 1776783050929,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776783047871,
+    "lastSeen": 1776783050870,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -20747,8 +20747,19 @@
     "deviceName": "HP-DEVABIL333-69AC",
     "ownerUsername": "Fibersec",
     "token": "a998090dbff92d6435ed4f2edf5c08f6",
-    "lastSeen": 1776783049152,
-    "commandQueue": [],
+    "lastSeen": 1776783051316,
+    "commandQueue": [
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1776783050546
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1776783051852
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-21T14:42:17.817Z",
     "deviceInfo": {
@@ -20763,6 +20774,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎7 pesan dari 2 chat",
+        "time": "21/04 21:50",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776783052044
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎LAGA 11/22 FREE BY BINTANG¹ (2 pesan): ~ axa",
+        "content": "📷 pot 1 win xawnima",
+        "time": "21/04 21:50",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776783052023
+      },
+      {
+        "appName": "WA Business",
+        "sender": "‎DUELAN ANGGA +1 1m VS KIEL 1SG 2M #CZ (5 pesan): ~ king gitz ey",
+        "content": "pasti open aman",
+        "time": "21/04 21:50",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776783051662
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎7 pesan dari 2 chat",
+        "time": "21/04 21:50",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776783050679
+      },
       {
         "appName": "WA Business",
         "sender": "‎LAGA 11/22 FREE BY BINTANG¹ (2 pesan): ~ axa",
