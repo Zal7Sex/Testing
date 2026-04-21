@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778444494,
+    "lastSeen": 1776778450021,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 20:34",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778451549
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 20:34",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778451533
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -14386,22 +14402,6 @@
         "time": "21/04 20:19",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777552581
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PUBLIC FREE PANEL: Daniel",
-        "content": "Mau Panel Free? \n@PannelFreeBot\n@PannelFreeBot\n@PannelFreeBot",
-        "time": "21/04 20:19",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777552415
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Generate | Panel Free",
-        "content": "Gada yang request penambahan fitur lagi?",
-        "time": "21/04 20:19",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777552393
       }
     ],
     "galleryPhotos": [],
