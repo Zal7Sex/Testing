@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767932978,
+    "lastSeen": 1776767936245,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4611,6 +4611,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3797 pesan dari 19 chat",
+        "time": "21/04 17:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767938115
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (900 pesan): ~ ~",
         "content": "ada",
         "time": "21/04 17:38",
@@ -8600,14 +8608,6 @@
         "time": "21/04 17:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766267856
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (414 pesan): ~ fikal Lai",
-        "content": "FORMAT NEED AKUN BY FIKAL STORE\n \n(`BUKAN AKUN ADMIN`)\n\nNO BUYER:085736130127\nNAMA : skyy\nAKUN :epep\nSPEK : lumut + bandel gojo\nLOG :gugel\nHARGA :100+\nMC\n\n`WA REKBER FIKAL STORE` : 085761226876\nNOTE\n \n-SETIAP PEMBELIAN AKUN WAJIB MEMAKAI REKBER AGAR UANG KALIAN AMAN\n\n- JANGAN MAU DIAJAK DIRECT/SIS P KALAU JAPOST",
-        "time": "21/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766267720
       }
     ],
     "galleryPhotos": [],
@@ -8626,7 +8626,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767930549,
+    "lastSeen": 1776767936550,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8667,7 +8667,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776767932245,
+    "lastSeen": 1776767935170,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
