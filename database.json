@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768168981,
+    "lastSeen": 1776768170325,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4811,6 +4811,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3823 pesan dari 20 chat",
+        "time": "21/04 17:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768170893
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (433 pesan): ~ REYY STR 18",
         "content": "📷 SG TROMPET, EVO 2, VAULT 182 GAGAH, OP? 110+?",
         "time": "21/04 17:42",
@@ -8800,14 +8808,6 @@
         "time": "21/04 17:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766653825
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4261 pesan dari 21 chat",
-        "time": "21/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766653493
       }
     ],
     "galleryPhotos": [],
@@ -8826,7 +8826,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776768168008,
+    "lastSeen": 1776768170750,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
