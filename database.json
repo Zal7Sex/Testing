@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767494577,
+    "lastSeen": 1776767497333,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4451,6 +4451,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (425 pesan): ~ jall store",
+        "content": "GB 0.1 DAGET SETIAP JUM'AT +400MEM",
+        "time": "21/04 17:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767499821
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (880 pesan): ~ not may stel",
         "content": "@⁨+62 877-9605-1061⁩ bls chat ku",
         "time": "21/04 17:31",
@@ -8440,14 +8448,6 @@
         "time": "21/04 17:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1776765694004
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4224 pesan dari 23 chat",
-        "time": "21/04 17:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776765687395
       }
     ],
     "galleryPhotos": [],
@@ -8466,7 +8466,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767495100,
+    "lastSeen": 1776767498295,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8507,7 +8507,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776767493765,
+    "lastSeen": 1776767498991,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
