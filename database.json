@@ -5571,6 +5571,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3246 pesan dari 19 chat",
+        "time": "21/04 18:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770423473
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (2 pesan): ~ TUPPALSTORE",
+        "content": "📷 STOK PRIBADI ALLREFF AMPE 14H\nLOG:GGL\nBIND:ON/AMAN\nSPEK:MAX 2 SG OMPET , ADA SCAR TITAN ADA SHOTGUN PANJANG MERAH INCU UTAMA DAN INCU UTAMA LAIN , ADA EMOTE GOJO ADA EMOTE MERAH ADA ANIMASI BUNUH, ADA SET YUJI,DAN SET BERHARGA LAIN NYA RANK NYA PERNAH MASUK TOP 200 GLOBAL\nEMOTE BANYAK\nOP? 350k+",
+        "time": "21/04 18:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770423460
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "STOCK¹ NEW DAVID 18 STR X OWN: ~ kudanilkntl4",
         "content": "📷 20last no nego allref sampe mampus",
         "time": "21/04 18:19",
@@ -9552,22 +9568,6 @@
         "time": "21/04 17:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768233417
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (3 pesan): Givano",
-        "content": "@⁨diga⁩ ayoa main",
-        "time": "21/04 17:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768233403
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3830 pesan dari 21 chat",
-        "time": "21/04 17:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768229427
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770405462,
+    "lastSeen": 1776770420503,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770406679,
+    "lastSeen": 1776770421681,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
