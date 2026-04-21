@@ -5572,6 +5572,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3251 pesan dari 20 chat",
+        "time": "21/04 18:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770460130
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (4 pesan): ~ Ajm",
+        "content": "Punya gw hilang semua sl sama  bekas chat sama dia ntar gak percaya gw buy lagi",
+        "time": "21/04 18:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770460092
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3250 pesan dari 20 chat",
         "time": "21/04 18:20",
         "pkg": "com.whatsapp",
@@ -9552,22 +9568,6 @@
         "time": "21/04 17:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768260758
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3833 pesan dari 21 chat",
-        "time": "21/04 17:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768260749
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3832 pesan dari 21 chat",
-        "time": "21/04 17:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768252236
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770453504,
+    "lastSeen": 1776770459942,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770454142,
+    "lastSeen": 1776770460126,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ara na Zakiii💕🫶💖💌💋",
+        "content": "sediii",
+        "time": "21/04 18:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770455711
+      },
       {
         "appName": "WhatsApp",
         "sender": "Ara na Zakiii💕🫶💖💌💋",
@@ -13634,14 +13642,6 @@
         "time": "21/04 17:53",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776768791462
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:53",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768791427
       }
     ],
     "galleryPhotos": [],
