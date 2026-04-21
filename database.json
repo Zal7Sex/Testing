@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776766116581,
+    "lastSeen": 1776766119310,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎tungau esbeer (170 pesan): ~ Nayyy",
+        "content": "sinting",
+        "time": "21/04 17:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766120808
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (587 pesan): ~ ?",
+        "content": "140 log GGL bind sepaket cod di sui jawi/pal 13",
+        "time": "21/04 17:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766118805
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎4254 pesan dari 23 chat",
         "time": "21/04 17:08",
@@ -5898,7 +5914,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776766117114,
+    "lastSeen": 1776766119173,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
