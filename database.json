@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765855227,
+    "lastSeen": 1776765873643,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4235 pesan dari 23 chat",
+        "time": "21/04 17:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765875899
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (411 pesan): ~ fikal Lai",
+        "content": "📷 `Op?180+`",
+        "time": "21/04 17:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765875891
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4234 pesan dari 23 chat",
+        "time": "21/04 17:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765859093
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (139 pesan): ~ N9THCRAL",
+        "content": "Weh jn mainin menu nanti diomelin anj SM zal",
+        "time": "21/04 17:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765858863
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4233 pesan dari 23 chat",
+        "time": "21/04 17:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765858240
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎JB || MANZZ KALBAR (902 pesan): ~ nsm",
         "content": "📷 pasrah log ggl bindkos\n55k pm ae gbisa ce\nkait family mu aja",
         "time": "21/04 17:04",
@@ -5482,7 +5522,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765858218,
+    "lastSeen": 1776765872980,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
