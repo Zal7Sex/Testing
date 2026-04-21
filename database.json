@@ -6331,6 +6331,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (66 pesan): Givano",
+        "content": "Legg anjjj",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775123934
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3678 pesan dari 23 chat",
+        "time": "21/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775123916
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3677 pesan dari 23 chat",
         "time": "21/04 19:38",
@@ -10312,22 +10328,6 @@
         "time": "21/04 19:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1776773686497
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3515 pesan dari 23 chat",
-        "time": "21/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773686475
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3514 pesan dari 23 chat",
-        "time": "21/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773683513
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775120631,
+    "lastSeen": 1776775123547,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
