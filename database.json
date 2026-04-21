@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769174690,
+    "lastSeen": 1776769177199,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769175235,
+    "lastSeen": 1776769178277,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,78 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769178494
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16951 pesan baru dari 115 obrolan",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769178405
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769177187
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769176828
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769176768
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769176699
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16950 pesan baru dari 115 obrolan",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769176680
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769176171
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769176159
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -13570,78 +13642,6 @@
         "time": "21/04 17:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767891785
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767891458
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767891124
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767890809
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767890426
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767890211
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767889907
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim video ke Status saya",
-        "time": "21/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767888209
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengirim pesan…",
-        "time": "21/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767888158
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Ara na Zakiii💕🫶💖💌💋",
-        "content": "kenapa muhhh",
-        "time": "21/04 17:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766918366
       }
     ],
     "galleryPhotos": [],
@@ -13660,16 +13660,8 @@
     "deviceName": "HP-BBBB-732D",
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
-    "lastSeen": 1776769174058,
-    "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1776769174919
-      }
-    ],
+    "lastSeen": 1776769177134,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
     "deviceInfo": {
