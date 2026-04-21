@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768215298,
+    "lastSeen": 1776768217923,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4876,6 +4876,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3828 pesan dari 21 chat",
+        "time": "21/04 17:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768218733
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (915 pesan): ~ diegaa",
+        "content": "🎥 Video (1.24)",
+        "time": "21/04 17:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768218723
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3826 pesan dari 21 chat",
         "time": "21/04 17:43",
         "pkg": "com.whatsapp",
@@ -8856,22 +8872,6 @@
         "time": "21/04 17:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766683592
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4264 pesan dari 21 chat",
-        "time": "21/04 17:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766682635
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎tungau esbeer (173 pesan): ~ .",
-        "content": "om botak, om udin, abah",
-        "time": "21/04 17:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766682627
       }
     ],
     "galleryPhotos": [],
@@ -8931,7 +8931,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776768216517,
+    "lastSeen": 1776768217496,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -8947,6 +8947,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768217089
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768217080
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768217071
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768217060
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768216992
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768216982
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 17:43",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768216941
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
