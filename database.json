@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780570969,
+    "lastSeen": 1776780574045,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10409,6 +10409,62 @@
         "content": "Pesan baru",
         "time": "21/04 21:09",
         "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780574500
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780574067
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780574047
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780573710
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16928 pesan baru dari 118 obrolan",
+        "time": "21/04 21:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780573698
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780573332
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776780573306
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 21:09",
+        "pkg": "org.telegram.messenger",
         "receivedAt": 1776780572694
       },
       {
@@ -14346,62 +14402,6 @@
         "time": "21/04 20:34",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776778451549
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:34",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778451533
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778439128
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778439106
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778439086
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778439019
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778439002
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 20:33",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776778438987
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780570452,
+    "lastSeen": 1776780573537,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
