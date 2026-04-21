@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776746799493,
+    "lastSeen": 1776746805497,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3072,7 +3072,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "3b9b91fe42c928810228c2889719201c",
-    "lastSeen": 1776746802301,
+    "lastSeen": 1776746805354,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T04:18:12.057Z",
@@ -3086,14 +3086,158 @@
     },
     "lastPhoto": null,
     "lastScreenFrame": {
-      "frameBase64": "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",
+      "frameBase64": "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",
       "width": 216,
       "height": 480,
-      "frameId": 10975,
-      "capturedAt": 1776746802021
+      "frameId": 11013,
+      "capturedAt": 1776746807694
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746807853
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746807801
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746807748
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5255 pesan baru dari 49 obrolan",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746807695
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746803790
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746803726
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746803575
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16242 pesan baru dari 110 obrolan",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746803470
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746803382
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746803311
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5254 pesan baru dari 49 obrolan",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746803243
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746803146
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746802972
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746802853
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746802777
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746802710
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746802608
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 11:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776746802497
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -6949,150 +7093,6 @@
         "time": "21/04 11:22",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776745349606
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745349546
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5217 pesan baru dari 49 obrolan",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745349477
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745349135
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5214 pesan baru dari 49 obrolan",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745348260
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745345500
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745345440
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745345394
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745345362
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745345287
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5216 pesan baru dari 49 obrolan",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745345141
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745345086
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745345039
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745344990
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745344939
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745344840
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5215 pesan baru dari 49 obrolan",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745344774
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745344166
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 11:22",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776745344128
       }
     ],
     "galleryPhotos": [
