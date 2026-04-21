@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778253213,
+    "lastSeen": 1776778268249,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778252280,
+    "lastSeen": 1776778268788,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: Rose",
+        "content": "DDOS PANEL GW SUMPAHIN YAPIT",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778270341
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: Rose",
+        "content": "START DULU BOT NYA DONGO",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778270313
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / NU*********\n🏦 Method: DANA\n💰 Amount: Rp 3.300\n💸 Fee: Rp 153\n💵 Total Payload: Rp 3.453\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421212631241896\n🏷️ System ID: FSCL48120547\n⏰ 21 Apr 2026 • 20:29 WIB\n\n#DEPOSIT #DANA",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778270288
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
+        "content": "😊 Stiker",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778270196
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗔𝗯𝗼𝘂𝘁 𝗙𝗿𝗲𝗻𝗴𝗸𝘆𝗝𝗮𝘅 🎭 🅂🄲🄰🄼",
+        "content": "🖼 🎉 User Baru Masuk!\n\n👤 ⏤͟͟͞͞✆BranzModss ⎙\n🆔 8371645260\n⏰ 21/4/2026, 13.31.07",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778270081
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16846 pesan baru dari 118 obrolan",
+        "time": "21/04 20:31",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776778269993
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 896-7342-6335",
+        "content": "Telepon video berlangsung",
+        "time": "21/04 20:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778254658
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 896-7342-6335",
@@ -14346,62 +14402,6 @@
         "time": "21/04 20:15",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776777330806
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16796 pesan baru dari 118 obrolan",
-        "time": "21/04 20:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777330727
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / MU*************\n🏦 Method: DANA\n💰 Amount: Rp 10.000\n💸 Fee: Rp 181\n💵 Total Payload: Rp 10.181\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421210731241799\n🏷️ System ID: FSCL68794690\n⏰ 21 Apr 2026 • 20:12 WIB\n\n#DEPOSIT #DANA",
-        "time": "21/04 20:14",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777299067
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
-        "content": "Pol",
-        "time": "21/04 20:14",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777299042
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗖𝗼𝗻𝗳𝗲𝘀𝘀 𝗚𝗶𝗳𝘁 & 𝗢𝗿𝗱𝗲𝗿 𝗚𝗶𝗳𝘁",
-        "content": "🎉 User Baru Masuk!\n\n👤 @WizZzXTzy\n🆔 1887632665\n⏰ 21/4/2026, 13.09.28",
-        "time": "21/04 20:14",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777299018
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******99\n• Waktu: 21/04/2026, 20.13",
-        "time": "21/04 20:14",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777298958
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Phil Godlewski 4.0",
-        "content": "Community Zoom Sessions Continue! 📢\n\nOur community Zoom sessions with managers are continuing today\n\nWhether you want to:\n\n💬 Ask questions about the Atom Venture ecosystem\n📊 Learn more about what’s happening across our projects\n‼️ Get the latest updates, especially on Arteki\n💭 Join the conversation with the team \n\n– You have the chance to join throughout this entire week\n\n🗓 Today’s available session slots are:\n10 AM, 12 PM, 5 PM, 7 PM, 9 PM, and 11 PM Eastern time\n\n📍 Head to meet.boostyfi.com and book your slot\n\nSee you on Zoom  🙌",
-        "time": "21/04 20:14",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777298866
-      },
-      {
-        "appName": "Telegram",
-        "sender": "SEWA WA BY LIFESTYLE😈: Rose",
-        "content": "Hey there just call me dimzz, and welcome to SEWA WA BY LIFESTYLE😈! How are you?",
-        "time": "21/04 20:14",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776777298841
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778250595,
+    "lastSeen": 1776778268603,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
