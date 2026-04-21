@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776776381726,
+    "lastSeen": 1776776384858,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB || RULZ STORE KALBAR (655 pesan): ~ JB RENZ SMITH KALBAR",
+        "content": "📷 130K log bind",
+        "time": "21/04 19:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776776386286
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774663062
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (639 pesan): ~ dilz1rekberrr!!!",
-        "content": "LIST JUALAN DILZ STR\n\nUNCHEK\nJASTEB\nWA IOS\nAPK BUG\nAPK KEBUTUHAN JB\n\nJIKA BUY JASTEB 2K MAKA AKAN DAPAT BONUS\n\nUNTUK 1 ORNG TERCEPAT 2K UNCHEK BONUS 3 UNCHEK\n\nTESTI BANYAKKKK!!!",
-        "time": "21/04 19:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774663043
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776776382452,
+    "lastSeen": 1776776385455,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776776381910,
+    "lastSeen": 1776776385066,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
