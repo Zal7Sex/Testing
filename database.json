@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776780195488,
+    "lastSeen": 1776780198515,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3588 pesan dari 20 chat",
+        "time": "21/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780200309
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (138 pesan): ~ BASS STR",
+        "content": "📷 MINAT PM BUAT OPEN OWN DAN PT",
+        "time": "21/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780200216
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3587 pesan dari 20 chat",
+        "time": "21/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780197222
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (137 pesan): ~ RIZZSUGA PATNER YUDICRUEL PT PERGAM",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778580637
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (964 pesan): ~ p",
-        "content": "📷 op? \nlog bind\nmax1\nblue lock on",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778579765
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (115 pesan): ~ TUPPALSTORE",
-        "content": "📷 🌊🌊🌊",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778579548
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (965 pesan): ~ dodooo",
-        "content": "ajak MC lu aja bg",
-        "time": "21/04 20:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778579398
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780194072,
+    "lastSeen": 1776780197221,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776780195265,
+    "lastSeen": 1776780198398,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
