@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776775829122,
+    "lastSeen": 1776775832171,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (83 pesan): ~ fikal Lai",
+        "content": "📷 FORMAT JUAL AKUN BY FIKAL STORE\n \n(`BUKAN AKUN ADMIN`)\n\nNO SELLER:81917697926\nNAMA : glitch \nAKUN :ff\nSPEK : Stok log fb A2f of Al aman  spek polosan SG lumut v77 senjata Alroff cn 1 megicube 1 selebihnya cek foto op ? 55+\nLOG :log fb A2f bindkos of Al aman\nHARGA :55+/naik \nMC lu\n\n`WA REKBER FIKAL STORE:` 085761226876\nNOTE\n \n-SETIAP PEMBELIAN AKUN WAJIB MEMAKAI REKBER AGAR UANG KALIAN AMAN\n\n- JANGAN MAU DIAJAK DIRECT/SIS P KALAU JAPOST",
+        "time": "21/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776775832853
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10320,14 +10328,6 @@
         "time": "21/04 19:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1776774150679
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB byone/mabar ff 8a (53 pesan): Givano",
-        "content": "Oke",
-        "time": "21/04 19:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776774150660
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776775828448,
+    "lastSeen": 1776775831385,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
