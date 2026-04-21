@@ -6331,6 +6331,62 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3582 pesan dari 19 chat",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780147129
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (56 pesan): ~ reall rezzsturr",
+        "content": "📷 4PAS RAME INF0 41 PM\nLOG BIND ALL AMAN REBIND AE KE MAIL POLOSMU",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780147095
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3584 pesan dari 20 chat",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780145721
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (245 pesan): ~ N9THCRAL",
+        "content": "Pm",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780145708
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3597 pesan dari 21 chat",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780144969
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "raka",
+        "content": "11",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780144882
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3596 pesan dari 21 chat",
+        "time": "21/04 21:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776780144511
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "raka",
         "content": "isian yok",
         "time": "21/04 21:02",
@@ -10272,62 +10328,6 @@
         "time": "21/04 20:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1776778495038
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (6 pesan): ~ -Pr1nce★!🦸",
-        "content": ".",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778494498
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB1 ALDY BANYUMAS JATENG (71 pesan): ~ reall rezzsturr",
-        "content": "📷 4PAS RAME INF0 41 PM\nLOG BIND ALL AMAN REBIND AE KE MAIL POLOSMU",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778493933
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || VANSS STOREE V¹ (31 pesan): Menyebut Anda",
-        "content": "~ Vvccc: JB All GEME KALIAN LAGI CARI AKUN/JUAL AKUN GAS JOIN GROUP DI BAWAH GROUP LAGI DI PP BANG BOMEL BANYAK AKUN MURAH YANG PASTINYA AMAN DAN BERGARANSI 👇🤩\n\nhttps://chat.whatsapp.com/E52L2epuysHF27BiVxW51z?mode=gi_\n\n`-3 MEM KU ACC BAKAL ADAIN DEGET GAS JOIN SEBELUM KETINGGALAN 🤑 🤑`",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778493794
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || MANZZ KALBAR (963 pesan): ~ ada",
-        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778493451
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3587 pesan dari 22 chat",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778490497
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (965 pesan): ~ dodooo",
-        "content": "ajak MC lu aja bg",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778489924
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB || RULZ STORE KALBAR (674 pesan): ~ ada",
-        "content": "📷 300+\n\n* max 1 evo 2\n* log ggl bind sepaket\n* sg lobby 2\n* v140 \n\n(MC YANG AKU KENAL/COD SIANTAN)",
-        "time": "21/04 20:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776778488877
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776780137002,
+    "lastSeen": 1776780146874,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
