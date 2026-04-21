@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776779771756,
+    "lastSeen": 1776779789751,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB1 ALDY BANYUMAS JATENG (54 pesan): ~ berkahsholeh",
+        "content": "📷 Mbok ana sing minat layangan naga dm 35 gari mabur",
+        "time": "21/04 20:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779790049
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3642 pesan dari 22 chat",
+        "time": "21/04 20:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779773524
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB JB APK BUG BY ZIDE × KYY😈 (8 pesan): ~ -Pr1nce★!🦸",
+        "content": "Ada yg jual tele Prem gak?",
+        "time": "21/04 20:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776779773213
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -10304,30 +10328,6 @@
         "time": "21/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776777713168
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (233 pesan): ~ 𝑅𝑝𝑎𝑗𝑢𝑙𝑖𝑎𝑛𝑚𝑤𝑙𝑛𝑎𝑎𝑎`",
-        "content": "💟 Stiker",
-        "time": "21/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777712670
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOCK¹ NEW DAVID 18 STR X OWN (100 pesan): ~ BASS STR",
-        "content": "📷 SS DONE POLOSAN SG LUMUT SOLD 65K",
-        "time": "21/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777710948
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎JB1 ALDY BANYUMAS JATENG (66 pesan): ~ yaping",
-        "content": "ala sihh",
-        "time": "21/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776777710344
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776779770552,
+    "lastSeen": 1776779788571,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776779770595,
+    "lastSeen": 1776779788616,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
