@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776765756473,
+    "lastSeen": 1776765762213,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4226 pesan dari 23 chat",
+        "time": "21/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776765763129
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (849 pesan): ~ ㅤㅤpanz str ㅤㅤ",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "21/04 17:02",
@@ -5362,7 +5370,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776765755722,
+    "lastSeen": 1776765761789,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
