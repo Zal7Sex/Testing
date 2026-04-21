@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "74be2827eaa044a7872739b517404413",
-    "lastSeen": 1776766566452,
+    "lastSeen": 1776766584454,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T08:57:06.800Z",
@@ -4387,6 +4387,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎JB || MANZZ KALBAR (907 pesan): ~ a",
+        "content": "📷 1'5 nego tipis/bt kn hp",
+        "time": "21/04 17:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776766585953
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎4290 pesan dari 24 chat",
         "time": "21/04 17:15",
@@ -7018,7 +7026,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776766566823,
+    "lastSeen": 1776766584728,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
