@@ -6313,7 +6313,7 @@
     "deviceName": "HP-AUBREY-899E",
     "ownerUsername": "51a6566b-13c6-424c-8f68-421c28fdc099",
     "token": "3cfe8ffe8872f32822087d633ebd4fe4",
-    "lastSeen": 1776778662093,
+    "lastSeen": 1776778668120,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:49:26.839Z",
@@ -6329,6 +6329,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB ZUNZ PEKALONGAN (973 pesan): ~ zunz",
+        "content": "gpp",
+        "time": "21/04 20:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778668664
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3604 pesan dari 22 chat",
+        "time": "21/04 20:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776778662750
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎GB ZUNZ PEKALONGAN (972 pesan): ~ 𝐒𝐓𝐀𝐍𝐙•",
@@ -10312,22 +10328,6 @@
         "time": "21/04 20:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1776776690711
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB ZUNZ PEKALONGAN (951 pesan): ~ EyzaXZ STR",
-        "content": "Balasan otomatis\nMASUK SEND NOPE, DI TF 10K NO PHP\nBb: https://chat.whatsapp.com/E0Tye9GCzrP9eJxLbak4g7?mode=gi_t\n-1 DAGET 🤑🤑🤑 (NO PHP)\nAutoResponder.ai",
-        "time": "21/04 20:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776690671
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎All Buyer Pegasus-X ( No Update ) (6 pesan): ~ WHOHH",
-        "content": "💟 Stiker",
-        "time": "21/04 20:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776776690591
       }
     ],
     "galleryPhotos": [],
@@ -10346,7 +10346,7 @@
     "deviceName": "HP-XIINZ-E979",
     "ownerUsername": "abiv12",
     "token": "42f963bfe947d35a7c960fecc604b095",
-    "lastSeen": 1776778662328,
+    "lastSeen": 1776778668194,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T09:50:02.203Z",
@@ -16688,7 +16688,7 @@
     "deviceName": "HP-VIP-DFF9",
     "ownerUsername": "kinzz",
     "token": "5d86b5519e1603f3456060c28a22c345",
-    "lastSeen": 1776778662342,
+    "lastSeen": 1776778668535,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-21T11:31:24.904Z",
