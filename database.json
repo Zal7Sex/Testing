@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776845787523,
+    "lastSeen": 1776845796427,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "22/04 16:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776845796572
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -6028,7 +6036,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e0d08160e2e7174ce4ecac4f3a5a0002",
-    "lastSeen": 1776845784834,
+    "lastSeen": 1776845793773,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T08:12:20.623Z",
@@ -7929,7 +7937,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "e2902cd1fd42dda19cd9db366e0d73a3",
-    "lastSeen": 1776845784833,
+    "lastSeen": 1776845794052,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T08:15:58.181Z",
