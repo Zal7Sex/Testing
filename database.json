@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776860676509,
+    "lastSeen": 1776860688514,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus pesan…",
+        "content": "‎663 dari 1193 (55%)",
+        "time": "22/04 20:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860689225
+      },
       {
         "appName": "WhatsApp",
         "sender": "Menghapus pesan…",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1776842149613
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎68 pesan dari 2 chat",
-        "time": "22/04 15:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842147900
       }
     ],
     "galleryPhotos": [],
