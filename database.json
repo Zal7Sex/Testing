@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776841885654,
+    "lastSeen": 1776841891669,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (31 pesan): ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
+        "content": "Enter Text",
+        "time": "22/04 15:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776841893922
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (30 pesan): ~ Amsal",
+        "content": "• Example : .brat michelle bot",
+        "time": "22/04 15:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776841887024
+      },
       {
         "appName": "WhatsApp",
         "sender": "7Sex Message",
