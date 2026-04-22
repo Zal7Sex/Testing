@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843665480,
+    "lastSeen": 1776843675027,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -3682,7 +3682,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "7df00b3b83b2767d3665c31cb098e2ed",
-    "lastSeen": 1776843665231,
+    "lastSeen": 1776843674154,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:34:35.892Z",
@@ -3735,7 +3735,191 @@
         "recordedAt": 1776843490726
       }
     ],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [
+        {
+          "packageName": "com.transsion.hilauncher",
+          "appName": "HiOS Launcher",
+          "timeMin": 217,
+          "lastUsed": 1776828362302
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "timeMin": 113,
+          "lastUsed": 1776819743668
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 58,
+          "lastUsed": 1776821702351
+        },
+        {
+          "packageName": "com.transsion.hilauncher",
+          "appName": "HiOS Launcher",
+          "timeMin": 31,
+          "lastUsed": 1776843649288
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "timeMin": 19,
+          "lastUsed": 1776784294649
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 18,
+          "lastUsed": 1776784379907
+        },
+        {
+          "packageName": "bin.mt.plus.canary",
+          "appName": "MT Manager",
+          "timeMin": 14,
+          "lastUsed": 1776843228191
+        },
+        {
+          "packageName": "bin.mt.plus.canary",
+          "appName": "MT Manager",
+          "timeMin": 10,
+          "lastUsed": 1776767669981
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 8,
+          "lastUsed": 1776843446049
+        },
+        {
+          "packageName": "com.anthropic.claude",
+          "appName": "Claude",
+          "timeMin": 6,
+          "lastUsed": 1776843644210
+        },
+        {
+          "packageName": "com.pinterest",
+          "appName": "Pinterest",
+          "timeMin": 6,
+          "lastUsed": 1776822755518
+        },
+        {
+          "packageName": "com.whatsapp.w4b",
+          "appName": "WhatsApp Business",
+          "timeMin": 6,
+          "lastUsed": 1776843306722
+        },
+        {
+          "packageName": "com.pegasusx.project",
+          "appName": "Pegasus-X",
+          "timeMin": 4,
+          "lastUsed": 1776843649290
+        },
+        {
+          "packageName": "com.google.android.googlequicksearchbox",
+          "appName": "Google",
+          "timeMin": 3,
+          "lastUsed": 1776840509921
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Settings",
+          "timeMin": 3,
+          "lastUsed": 1776828374934
+        },
+        {
+          "packageName": "com.anthropic.claude",
+          "appName": "Claude",
+          "timeMin": 3,
+          "lastUsed": 1776767622848
+        },
+        {
+          "packageName": "com.meitu.poster",
+          "appName": "X-Design Galaxy",
+          "timeMin": 1,
+          "lastUsed": 1776759705743
+        },
+        {
+          "packageName": "com.foxdebug.acodefree",
+          "appName": "Acode",
+          "timeMin": 1,
+          "lastUsed": 1776768228402
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Settings",
+          "timeMin": 0,
+          "lastUsed": 1776843277576
+        },
+        {
+          "packageName": "com.google.android.documentsui",
+          "appName": "Files",
+          "timeMin": 0,
+          "lastUsed": 1776842795680
+        },
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "timeMin": 0,
+          "lastUsed": 1776768113003
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Package installer",
+          "timeMin": 0,
+          "lastUsed": 1776843352762
+        },
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "timeMin": 0,
+          "lastUsed": 1776843065690
+        },
+        {
+          "packageName": "android",
+          "appName": "Android System",
+          "timeMin": 0,
+          "lastUsed": 1776843229560
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Package installer",
+          "timeMin": 0,
+          "lastUsed": 1776759748665
+        },
+        {
+          "packageName": "com.bodylock.app",
+          "appName": "Body Lock",
+          "timeMin": 0,
+          "lastUsed": 1776843646554
+        },
+        {
+          "packageName": "com.google.android.documentsui",
+          "appName": "Files",
+          "timeMin": 0,
+          "lastUsed": 1776767368712
+        },
+        {
+          "packageName": "android",
+          "appName": "Android System",
+          "timeMin": 0,
+          "lastUsed": 1776767673409
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "timeMin": 0,
+          "lastUsed": 1776843194496
+        },
+        {
+          "packageName": "jp.ddo.hotmist.unicodepad",
+          "appName": "UnicodePad",
+          "timeMin": 0,
+          "lastUsed": 1776843360806
+        }
+      ],
+      "receivedAt": 1776843675204
+    },
     "appList": {
       "apps": [
         {
