@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776842951192,
+    "lastSeen": 1776842957200,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎86 pesan dari 2 chat",
+        "time": "22/04 15:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776842959594
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (13 pesan): ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
+        "content": "💟 Stiker",
+        "time": "22/04 15:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776842959464
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎85 pesan dari 2 chat",
+        "time": "22/04 15:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776842953582
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (12 pesan): ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
