@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "100%",
+        "time": "23/04 06:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776898308011
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎201 pesan dari 4 chat",
         "time": "23/04 06:49",
