@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843635491,
+    "lastSeen": 1776843644596,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -3682,7 +3682,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "7df00b3b83b2767d3665c31cb098e2ed",
-    "lastSeen": 1776843633472,
+    "lastSeen": 1776843647127,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:34:35.892Z",
@@ -5588,11 +5588,6 @@
         }
       ],
       "receivedAt": 1776843340147
-    },
-    "pendingVideo": {
-      "assetPath": "assets/video/hack.mp4",
-      "mimeType": "video/mp4",
-      "startedAt": 1776843511561
     }
   }
 ]
