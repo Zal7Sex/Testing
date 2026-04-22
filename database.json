@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "penuhan apk seng",
+        "time": "22/04 19:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776857470265
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Muhammad Amal Ardhafan",
         "content": "Semangat ma disana",
         "time": "22/04 19:30",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841839474
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (23 pesan): ~ lizx7sex",
-        "content": ".videy https://videy.co/v?id=VwG4o9CI1",
-        "time": "22/04 15:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841839343
       }
     ],
     "galleryPhotos": [],
