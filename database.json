@@ -11618,21 +11618,14 @@
     "deviceName": "HP-AMBONV2-0FAF",
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
-    "lastSeen": 1776902077545,
+    "lastSeen": 1776902107576,
     "commandQueue": [
       {
         "type": "flashlight",
         "payload": {
           "state": "off"
         },
-        "sentAt": 1776902072144
-      },
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1776902075065
+        "sentAt": 1776902109246
       }
     ],
     "online": true,
