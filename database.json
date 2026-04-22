@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843185275,
+    "lastSeen": 1776843194394,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (26 pesan): ~ senggeh",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "22/04 15:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776843195598
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -1725,7 +1733,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2d52258cb0a11a890ba41fac54cda5a3",
-    "lastSeen": 1776843182559,
+    "lastSeen": 1776843194598,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:30:01.375Z",
