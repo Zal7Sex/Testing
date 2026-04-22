@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776858920514,
+    "lastSeen": 1776858935537,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9969,6 +9969,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎199 pesan dari 5 chat",
+        "time": "22/04 19:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858921197
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (8 pesan): ~ Nur Aeda",
