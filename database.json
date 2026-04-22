@@ -11618,36 +11618,21 @@
     "deviceName": "HP-AMBONV2-0FAF",
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
-    "lastSeen": 1776902062584,
+    "lastSeen": 1776902077545,
     "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "on"
-        },
-        "sentAt": 1776902031697
-      },
       {
         "type": "flashlight",
         "payload": {
           "state": "off"
         },
-        "sentAt": 1776902038856
+        "sentAt": 1776902072144
       },
       {
         "type": "flashlight",
         "payload": {
           "state": "on"
         },
-        "sentAt": 1776902040680
-      },
-      {
-        "type": "trigger_alarm",
-        "payload": {
-          "message": "Pegasus-X Rat Ni Dek😹",
-          "duration": 10000
-        },
-        "sentAt": 1776902045477
+        "sentAt": 1776902075065
       }
     ],
     "online": true,
