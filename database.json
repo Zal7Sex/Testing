@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776860346147,
+    "lastSeen": 1776860361151,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Muhammad Amal Ardhafan",
+        "content": "Semangat ma disana",
+        "time": "22/04 20:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776860361822
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841999159
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎46 pesan baru",
-        "time": "22/04 15:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841997252
       }
     ],
     "galleryPhotos": [],
