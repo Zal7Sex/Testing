@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776842149864,
+    "lastSeen": 1776842164775,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎70 pesan dari 2 chat",
+        "time": "22/04 15:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776842165784
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎69 pesan dari 2 chat",
+        "time": "22/04 15:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776842152020
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (4 pesan): ~ P1",
+        "content": "Sayonara @⁨+62 895-0212-2818⁩",
+        "time": "22/04 15:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776842151919
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (65 pesan): ~ P1",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "22/04 15:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776842151891
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
