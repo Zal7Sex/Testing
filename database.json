@@ -11618,8 +11618,17 @@
     "deviceName": "HP-AMBONV2-0FAF",
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
-    "lastSeen": 1776901918397,
-    "commandQueue": [],
+    "lastSeen": 1776901927145,
+    "commandQueue": [
+      {
+        "type": "trigger_alarm",
+        "payload": {
+          "message": "Pegasus-X Rat Ni Dek😹",
+          "duration": 10000
+        },
+        "sentAt": 1776901929859
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-22T23:50:06.977Z",
     "deviceInfo": {
