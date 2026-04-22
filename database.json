@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776858257453,
+    "lastSeen": 1776858260460,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎60 pesan dari 37 chat",
+        "time": "22/04 19:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858258955
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841911111
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎33 pesan baru",
-        "time": "22/04 15:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841907307
       }
     ],
     "galleryPhotos": [],
@@ -9969,6 +9969,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (2 pesan): ~ .",
+        "content": "Iye \nKrn kenaikan Isa almasik",
+        "time": "22/04 19:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858260911
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
