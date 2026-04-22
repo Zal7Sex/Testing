@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776890011876,
+    "lastSeen": 1776890017897,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎60 pesan dari 38 chat",
+        "time": "23/04 04:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776890014209
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎60 pesan dari 38 chat",
+        "time": "23/04 04:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776890014056
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "22/04 15:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1776843149739
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎96 pesan dari 2 chat",
-        "time": "22/04 15:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776843128660
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (23 pesan): ~ P1",
-        "content": "KOTA JAKARTA, DKI JAKARTA\nRabu, 22/04/2026\n\nWAKTU SHOLAT\nImsak    : 04:27\nSubuh    : 04:37\nTerbit   : 05:50\nDhuha    : 06:18\nDzuhur   : 11:55\nAshar    : 15:14\nMaghrib  : 17:52\nIsya     : 19:02",
-        "time": "22/04 15:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776843128541
       }
     ],
     "galleryPhotos": [],
