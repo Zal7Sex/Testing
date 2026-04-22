@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Pencadangan sedang berlangsung",
+        "content": "Menyiapkan cadangan…",
+        "time": "23/04 04:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776889233906
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Memeriksa pesan baru",
         "time": "23/04 00:42",
