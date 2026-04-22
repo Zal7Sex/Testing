@@ -11618,22 +11618,14 @@
     "deviceName": "HP-AMBONV2-0FAF",
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
-    "lastSeen": 1776901897490,
-    "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "off"
-        },
-        "sentAt": 1776901899227
-      }
-    ],
+    "lastSeen": 1776901918397,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T23:50:06.977Z",
     "deviceInfo": {
       "model": "vivo vivo Y17",
       "androidVersion": "Android 9",
-      "battery": 75,
+      "battery": 74,
       "network": "WiFi: YANG BACA ANJING",
       "sim1": "Smartfren 100% untuk Indonesia — smartfren",
       "sim2": "Smartfren"
