@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776846105628,
+    "lastSeen": 1776846120649,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 838-5012-2452",
+        "content": "oke",
+        "time": "22/04 16:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776846122773
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -6060,7 +6068,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e0d08160e2e7174ce4ecac4f3a5a0002",
-    "lastSeen": 1776846105803,
+    "lastSeen": 1776846121123,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T08:12:20.623Z",
