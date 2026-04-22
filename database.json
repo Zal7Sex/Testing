@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776893888149,
+    "lastSeen": 1776893915279,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 38 chat",
+        "time": "23/04 05:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776893916303
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "Menyebut Anda secara privat di statusnya",
+        "time": "23/04 05:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776893916206
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -4003,22 +4019,6 @@
         "time": "22/04 17:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1776849528147
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Rafly",
-        "content": "Telepon video tak terjawab",
-        "time": "22/04 17:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776848919348
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-1746-5790",
-        "content": "Telepon video berlangsung",
-        "time": "22/04 17:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776848919184
       }
     ],
     "galleryPhotos": [],
