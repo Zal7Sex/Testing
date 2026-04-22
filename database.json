@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776849419294,
+    "lastSeen": 1776849421767,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -8409,6 +8409,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎192 pesan dari 4 chat",
+        "time": "22/04 17:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776849422882
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Podang",
+        "content": "Addeh",
+        "time": "22/04 17:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776849422783
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎191 pesan dari 4 chat",
+        "time": "22/04 17:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776849420304
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Podang",
+        "content": "Ih dia mau pakai saya nasuruh bayar",
+        "time": "22/04 17:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776849420273
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Class 8.10 ‼️ (79 pesan): ~ VianBakri",
