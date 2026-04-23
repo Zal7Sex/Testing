@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776908788585,
+    "lastSeen": 1776908797958,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 09:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908798548
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Play free WhatsApp bot: 📣 Menyebut Anda",
+        "content": "~ hanzywaifu: 👾 selamat datang @⁨‎rama⁩",
+        "time": "23/04 09:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908792245
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 09:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908792073
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 09:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908791996
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 09:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908791939
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3979,46 +4019,6 @@
         "time": "22/04 20:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1776860368473
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Muhammad Amal Ardhafan",
-        "content": "Semangat ma disana",
-        "time": "22/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776860368173
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 37 chat",
-        "time": "22/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776860366766
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "tuker android seng",
-        "time": "22/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776860366446
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎58 pesan dari 36 chat",
-        "time": "22/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776860362168
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Muhammad Amal Ardhafan",
-        "content": "Semangat ma disana",
-        "time": "22/04 20:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776860361822
       }
     ],
     "galleryPhotos": [],
