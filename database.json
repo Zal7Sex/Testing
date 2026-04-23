@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776983508781,
+    "lastSeen": 1776983535843,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Tidak dapat menyelesaikan pencadangan",
+        "content": "Ketuk untuk info selengkapnya",
+        "time": "24/04 06:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776983537399
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎202 pesan dari 5 chat",
         "time": "24/04 01:01",
@@ -13960,14 +13968,6 @@
         "time": "23/04 12:37",
         "pkg": "com.whatsapp",
         "receivedAt": 1776919046778
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (107 pesan): ~ მႮჁმ",
-        "content": "mau ka pergi latihan",
-        "time": "23/04 12:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776919046645
       }
     ],
     "galleryPhotos": [],
