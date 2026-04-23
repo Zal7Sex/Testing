@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776983538806,
+    "lastSeen": 1776983568804,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9975,6 +9975,14 @@
         "content": "Ketuk untuk info selengkapnya",
         "time": "24/04 06:32",
         "pkg": "com.whatsapp",
+        "receivedAt": 1776983541718
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Tidak dapat menyelesaikan pencadangan",
+        "content": "Ketuk untuk info selengkapnya",
+        "time": "24/04 06:32",
+        "pkg": "com.whatsapp",
         "receivedAt": 1776983539627
       },
       {
@@ -13960,14 +13968,6 @@
         "time": "23/04 12:37",
         "pkg": "com.whatsapp",
         "receivedAt": 1776919047524
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎PJOK 8.10 (5 pesan): ~ Jasniah Daud🥰😘",
-        "content": "Assalamu'alaikum wr wb, berhubung  pekan depan remedial. \nTdk lagi menggunakan musik tp dgn cara lisan dan materix tetap senam irama",
-        "time": "23/04 12:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776919046921
       }
     ],
     "galleryPhotos": [],
