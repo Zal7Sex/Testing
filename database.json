@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎192 pesan dari 4 chat",
+        "time": "23/04 15:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776929324858
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Senam Rappocini: ~ Anisuriani",
         "content": "Jadi yg mana ini baju bebas atau seragam biru",
         "time": "23/04 15:28",
@@ -13960,14 +13968,6 @@
         "time": "22/04 21:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1776864141254
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (15 pesan): ~ Suarni",
-        "content": "💟 Stiker",
-        "time": "22/04 20:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776861993364
       }
     ],
     "galleryPhotos": [],
