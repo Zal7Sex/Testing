@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Panggilan sedang berlangsung",
+        "content": "Chat audio - menunggu peserta lain…",
+        "time": "23/04 16:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776931337175
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Senam Rappocini",
         "content": "Memanggil…",
         "time": "23/04 16:02",
@@ -13960,14 +13968,6 @@
         "time": "22/04 22:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1776869071845
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (2 pesan): ~ Elhä",
-        "content": "Hati2 dgn kucing.",
-        "time": "22/04 22:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776869071829
       }
     ],
     "galleryPhotos": [],
