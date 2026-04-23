@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776947340534,
+    "lastSeen": 1776947358211,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎216 pesan dari 5 chat",
+        "time": "23/04 20:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776947341578
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (24 pesan): ~ .",
         "content": "🔗 Kunjungi TikTok untuk menemukan video! | https://vt.tiktok.com/ZS9N5eYqH/",
         "time": "23/04 20:29",
@@ -13960,14 +13968,6 @@
         "time": "23/04 12:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776917534131
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Class 8.10 ‼️ (79 pesan): ~ VianBakri",
-        "content": "Jln mi dulu",
-        "time": "23/04 12:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776917534065
       }
     ],
     "galleryPhotos": [],
