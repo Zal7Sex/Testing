@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776914320890,
+    "lastSeen": 1776914350889,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9969,6 +9969,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎203 pesan dari 4 chat",
+        "time": "23/04 11:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914324716
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (12 pesan): ~ pati muliati",
+        "content": "Inzzallah  bsok kita senam \nAda peraturan baru\nKlw .4 kali \nTdk DTG senam berturuk2\nHarus ada Impo apakh dia sakit atau bgaimna\nKlw memang  sengaja tdk hadir\nTampah alasan yg jelas\nMaka  di kasihkluar  NMAX \nDi buku besar\nKarna  ini senam \nIbu owner yg mengaji\nKasian.🙏🙏👍",
+        "time": "23/04 11:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914324688
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
