@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 22:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954452938
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (11 pesan): Nakan",
+        "content": ". List",
+        "time": "23/04 22:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954452625
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Oi: Bot Gc",
         "content": "📷 Halo @⁨Nakan⁩, selamat datang di Oi, Kamu Member ke 5",
         "time": "23/04 22:27",
@@ -4003,22 +4019,6 @@
         "time": "23/04 20:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776945763787
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎65 pesan dari 42 chat",
-        "time": "23/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945763772
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945761919
       }
     ],
     "galleryPhotos": [],
