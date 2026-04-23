@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776952014739,
+    "lastSeen": 1776952018034,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (13 pesan): BEW STORE",
+        "content": "🚩 Command not found. Did you mean :\n\n1. .totag (60.0%)\n2. .tg (66.7%)\n\n> Reply with the number to execute. (Expires in 3 minutes)\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 21:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952018547
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎74 pesan dari 41 chat",
+        "time": "23/04 21:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952018497
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 19:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942921884
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "oalah oke siap kak",
-        "time": "23/04 19:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942921870
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: Bot Gc",
-        "content": "Memberi reaksi ✅ pada \".hd\"",
-        "time": "23/04 19:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942921853
       }
     ],
     "galleryPhotos": [],
