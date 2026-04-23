@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776907689535,
+    "lastSeen": 1776907692568,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: Bot Gc",
+        "content": "𐔈⃘ ֹ ׅ 🍓 ֹ Grup Notification ֹ ׅ ୫\n╭╼─┈───┈──⏣╼╯\n┆✿᪲ ׄ𖹭₊ Event : Promote Admin\n┆✿᪲ ׄ𖹭₊ Member : @⁨Bot Gc⁩\n┆✿᪲ ׄ𖹭₊ Grup : Oi\n┆✿᪲ ׄ𖹭₊ Waktu : 23/04/2026 08:28\n╰─╼𔕬─┈───┈───┈",
+        "time": "23/04 09:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907694922
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "22/04 18:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776853896474
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-1746-5790",
-        "content": "bantuin keluar dulu sayang",
-        "time": "22/04 18:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853896433
       }
     ],
     "galleryPhotos": [],
