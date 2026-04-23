@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "+62 821-9008-6963",
+        "content": "Memanggil…",
+        "time": "23/04 14:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776925832110
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎193 pesan dari 4 chat",
         "time": "23/04 14:29",
@@ -13960,14 +13968,6 @@
         "time": "22/04 19:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1776858921197
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (8 pesan): ~ Nur Aeda",
-        "content": "Sya ikut aj bgaimna baekx🙏🙏",
-        "time": "22/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858921185
       }
     ],
     "galleryPhotos": [],
