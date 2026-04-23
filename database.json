@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776908679097,
+    "lastSeen": 1776908698789,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 09:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908699147
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 09:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908699083
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 09:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908699045
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "BEW STORE",
+        "content": "bantuin keluar dulu sayang",
+        "time": "23/04 09:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908699013
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3987,38 +4019,6 @@
         "time": "22/04 19:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1776858023620
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Menghapus pesan…",
-        "content": "‎3 dari 249 (1%)",
-        "time": "22/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858023254
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "22/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776858014291
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 38 chat",
-        "time": "22/04 19:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776857536155
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 822-6965-3769",
-        "content": "durasi berapa",
-        "time": "22/04 19:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776857536138
       }
     ],
     "galleryPhotos": [],
