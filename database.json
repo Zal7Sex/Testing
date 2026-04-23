@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776909503570,
+    "lastSeen": 1776909512341,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "23/04 09:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776909514040
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 09:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776909504391
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 09:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776909504381
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 39 chat",
+        "time": "23/04 09:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776909504371
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Khifrandev Solution",
+        "content": "boleh kak di 400rb nanti buat lebih simple dari itu kak",
+        "time": "23/04 09:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776909504361
+      },
       {
         "appName": "WhatsApp",
         "sender": "Nakan",
@@ -3979,46 +4019,6 @@
         "time": "23/04 04:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776889918572
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Rafly",
-        "content": "kalo mau nunggu bang reno ini",
-        "time": "23/04 04:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776889918559
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-3406-5819",
-        "content": "Oke",
-        "time": "23/04 04:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776889918388
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎60 pesan dari 38 chat",
-        "time": "23/04 04:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776889914743
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "boleh kak di 400rb nanti buat lebih simple dari itu kak",
-        "time": "23/04 04:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776889914722
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 822-6965-3769",
-        "content": "11.800 2u1b, 20.800 semi 1b, 17.800 1u1b",
-        "time": "23/04 04:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776889914665
       }
     ],
     "galleryPhotos": [],
