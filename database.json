@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776923036889,
+    "lastSeen": 1776923039893,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -14084,6 +14084,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 857-0906-2175",
+        "time": "23/04 13:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776923040453
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 857-0906-2175",
+        "time": "23/04 13:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776923039954
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 857-0906-2175",
+        "time": "23/04 13:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776923039695
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 857-0906-2175",
+        "time": "23/04 13:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776923039384
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 857-0906-2175",
+        "time": "23/04 13:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776923039043
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
