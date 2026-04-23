@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776917292902,
+    "lastSeen": 1776917295885,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9975,6 +9975,14 @@
         "content": "Telepon suara masuk",
         "time": "23/04 12:08",
         "pkg": "com.whatsapp",
+        "receivedAt": 1776917297014
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 813-7884-5940",
+        "content": "Telepon suara masuk",
+        "time": "23/04 12:08",
+        "pkg": "com.whatsapp",
         "receivedAt": 1776917284366
       },
       {
@@ -12282,7 +12290,7 @@
     "deviceName": "HP-AMBONV2-0FAF",
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
-    "lastSeen": 1776917292673,
+    "lastSeen": 1776917295824,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T23:50:06.977Z",
