@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776952426379,
+    "lastSeen": 1776952450128,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 41 chat",
+        "time": "23/04 21:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952452473
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 21:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952452417
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 42 chat",
+        "time": "23/04 21:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952451932
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 41 chat",
+        "time": "23/04 21:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952427575
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 21:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952427539
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3979,46 +4019,6 @@
         "time": "23/04 19:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1776943390379
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎68 pesan dari 42 chat",
-        "time": "23/04 19:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943388581
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: BEW STORE",
-        "content": ".owner",
-        "time": "23/04 19:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943388462
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Nakan & prily 🤍",
-        "content": "Telepon video grup berlangsung",
-        "time": "23/04 19:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943371191
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎prily 🤍 & Nakan",
-        "content": "Telepon video grup berlangsung",
-        "time": "23/04 19:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943360160
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎prily 🤍 & Nakan",
-        "content": "Telepon video grup berlangsung",
-        "time": "23/04 19:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943352804
       }
     ],
     "galleryPhotos": [],
