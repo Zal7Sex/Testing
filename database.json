@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776946388480,
+    "lastSeen": 1776946397476,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎210 pesan dari 5 chat",
+        "time": "23/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776946388977
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (18 pesan): ~ Dindaa",
         "content": "👍🏻👍🏻👍🏻👍🏻",
         "time": "23/04 20:13",
@@ -13960,14 +13968,6 @@
         "time": "23/04 12:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1776917029136
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎208 pesan dari 4 chat",
-        "time": "23/04 11:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776915371656
       }
     ],
     "galleryPhotos": [],
