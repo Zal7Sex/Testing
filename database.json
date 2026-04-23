@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922142458,
+    "lastSeen": 1776922145439,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎196 pesan dari 4 chat",
+        "time": "23/04 13:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922147936
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (5 pesan): ~ ST.AISYAH.S",
         "content": "Ok bunda cuuu baju biru jilbab pink fanta dan celana putih",
         "time": "23/04 13:29",
@@ -13960,14 +13968,6 @@
         "time": "22/04 17:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1776849336483
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Podang",
-        "content": "Tidak bisa ku buka",
-        "time": "22/04 17:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849336403
       }
     ],
     "galleryPhotos": [],
