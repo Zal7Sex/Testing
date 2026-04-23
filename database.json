@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Senam Rappocini: ~ Ummu Afzal Athallah",
+        "content": "💟 Stiker",
+        "time": "23/04 17:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776937440473
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎192 pesan dari 4 chat",
         "time": "23/04 17:41",
@@ -13960,14 +13968,6 @@
         "time": "23/04 08:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1776904750315
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎194 pesan dari 4 chat",
-        "time": "23/04 08:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776904629255
       }
     ],
     "galleryPhotos": [],
