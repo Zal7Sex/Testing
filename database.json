@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776947748543,
+    "lastSeen": 1776947758219,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Mengunduh 1 video",
+        "content": "dari Senam Rappocini",
+        "time": "23/04 20:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776947759288
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎216 pesan dari 5 chat",
         "time": "23/04 20:29",
@@ -13960,14 +13968,6 @@
         "time": "23/04 12:12",
         "pkg": "com.whatsapp",
         "receivedAt": 1776917534209
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎PJOK 8.10 (5 pesan): ~ Jasniah Daud🥰😘",
-        "content": "Assalamu'alaikum wr wb, berhubung  pekan depan remedial. \nTdk lagi menggunakan musik tp dgn cara lisan dan materix tetap senam irama",
-        "time": "23/04 12:12",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776917534131
       }
     ],
     "galleryPhotos": [],
