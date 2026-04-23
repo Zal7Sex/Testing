@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776954708100,
+    "lastSeen": 1776954711109,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 22:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954711984
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎71 pesan dari 41 chat",
+        "time": "23/04 22:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954711582
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776946920177
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎73 pesan dari 44 chat",
-        "time": "23/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776946864422
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: prily 🤍",
-        "content": ".netflix",
-        "time": "23/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776946864126
       }
     ],
     "galleryPhotos": [],
