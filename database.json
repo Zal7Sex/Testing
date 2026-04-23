@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776956386877,
+    "lastSeen": 1776956407613,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎71 pesan dari 41 chat",
+        "time": "23/04 23:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956408126
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 22:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956389679
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 22:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956389629
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 20:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776947472691
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎74 pesan dari 44 chat",
-        "time": "23/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947471475
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎74 pesan dari 44 chat",
-        "time": "23/04 20:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947446333
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: BEW STORE",
-        "content": "Memberi reaksi 🕒 pada \"🔗 Kunjungi TikTok untuk menemukan video! | .tiktok https://vt.tiktok.com/ZS9N5NXNo/\"",
-        "time": "23/04 20:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947446051
       }
     ],
     "galleryPhotos": [],
