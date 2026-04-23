@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776925243323,
+    "lastSeen": 1776925252333,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (107 pesan): ~ მႮჁმ",
+        "content": "mau ka pergi latihan",
+        "time": "23/04 14:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776925252821
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎PJOK 8.10 (5 pesan): ~ Jasniah Daud🥰😘",
         "content": "Assalamu'alaikum wr wb, berhubung  pekan depan remedial. \nTdk lagi menggunakan musik tp dgn cara lisan dan materix tetap senam irama",
         "time": "23/04 14:08",
@@ -13960,14 +13968,6 @@
         "time": "22/04 19:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1776857190391
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎PJOK 8.10 (4 pesan): ~ Jasniah Daud🥰😘",
-        "content": "Nilai tuntas ulangan harian senam irama\n1. No. Urut 01\n2. No. Urut 14",
-        "time": "22/04 19:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776857190338
       }
     ],
     "galleryPhotos": [],
