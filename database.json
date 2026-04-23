@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776942821916,
+    "lastSeen": 1776942822777,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942824006
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Khifrandev Solution",
+        "content": "oalah oke siap kak",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942823529
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 822-6965-3769",
+        "content": "sipp",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942823094
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942822859
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rafly",
+        "content": "kalo mau nunggu bang reno ini",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942822778
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: Bot Gc",
+        "content": "📷 @⁨BEW STORE⁩ telah keluar dari Oi",
+        "time": "23/04 19:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942822390
+      },
       {
         "appName": "WhatsApp",
         "sender": "Maya",
@@ -3971,54 +4019,6 @@
         "time": "23/04 13:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1776922569158
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎70 pesan dari 41 chat",
-        "time": "23/04 13:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922549477
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎70 pesan dari 41 chat",
-        "time": "23/04 13:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922548997
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Penelepon tidak dikenal dibisukan",
-        "content": "+62 821-4849-9859",
-        "time": "23/04 13:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922530192
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎70 pesan dari 41 chat",
-        "time": "23/04 13:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922530016
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎70 pesan dari 41 chat",
-        "time": "23/04 13:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922526247
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎70 pesan dari 41 chat",
-        "time": "23/04 13:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922510819
       }
     ],
     "galleryPhotos": [],
