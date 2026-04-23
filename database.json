@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922100394,
+    "lastSeen": 1776922121520,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎68 pesan dari 41 chat",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922103472
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 09:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776908703292
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎60 pesan dari 38 chat",
-        "time": "23/04 09:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908702877
       }
     ],
     "galleryPhotos": [],
@@ -9971,6 +9971,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (3 pesan): ~ Tinieq",
+        "content": "💟 Stiker",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922121635
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎194 pesan dari 4 chat",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922121612
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎193 pesan dari 4 chat",
         "time": "23/04 13:28",
@@ -13952,22 +13968,6 @@
         "time": "22/04 17:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1776849264560
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (3 pesan): ~ Tinieq",
-        "content": "💟 Stiker",
-        "time": "22/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849087443
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎PJOK 8.10 (4 pesan): ~ Jasniah Daud🥰😘",
-        "content": "Nilai tuntas ulangan harian senam irama\n1. No. Urut 01\n2. No. Urut 14",
-        "time": "22/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849087386
       }
     ],
     "galleryPhotos": [],
