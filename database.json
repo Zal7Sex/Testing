@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776964830769,
+    "lastSeen": 1776964836648,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 821-4849-9859",
+        "content": "Telescopic bawa kembali ke markas",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964836836
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "sayang call nya mati",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964832296
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 858-3608-9495",
+        "content": "Gada",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964832220
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Zal7Se",
+        "content": "bisa bisa, jual 40k",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964832148
+      },
       {
         "appName": "WhatsApp",
         "sender": "Khifrandev Solution",
@@ -3987,38 +4019,6 @@
         "time": "23/04 22:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1776954612670
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎71 pesan dari 41 chat",
-        "time": "23/04 22:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954612398
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎61 pesan dari 40 chat",
-        "time": "23/04 22:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954594645
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎71 pesan dari 41 chat",
-        "time": "23/04 22:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954594435
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "23/04 22:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954594325
       }
     ],
     "galleryPhotos": [],
