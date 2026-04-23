@@ -13114,7 +13114,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Siap Memulai Chat?",
+        "content": "Jangan lupa menyiapkan akun agar bisa menggunakan WhatsApp.",
+        "time": "23/04 11:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776919500081
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
