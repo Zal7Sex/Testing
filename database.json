@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776906849121,
+    "lastSeen": 1776906870161,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 822-6965-3769",
+        "content": "꒰ Netflix 2u 1month +.\n\n💌 : caseyhd13@gmail.com\n🗝 : Michelle03!\nprof : 3\npin : no pin\n\n🏷 kirim ss login 10j untuk mengaktifkan garansi ya ka!! @profkyy \n\n📌Wajib baca snk\nSYARAT DAN KETENTUAN NETFLIX SHARING\n 1. Dilarang mengganti atau mengubah dalam bentuk apapun baik password, email, pin, tanpa seizin seller. \n      [ jika melanggar: Denda! ]\n2. Maximal login 1device/1perangkat. Kecuali jika membeli (semi private, di perbolehkan 2device. Maximal!) \n       [ jika ketahuan melanggar: void warranty! ]\n3. Sharing=akun bersama, limit screen? no complain kecuali semi private. \n4. LOGOUT netflix &. send bukti sudah logout kepada seller, jika kamu membeli durasi harian/mingguan atau jika durasi kamu seharusnya habis, namun seller tidak menagih. Harap jujur, tetap tepat waktu dalam setoran bukti log out. \n       [ jika melanggar: denda +3k/day ]\n5. Dilarang mengganti bentuk pembayaran, klik cancel membership, atau mengubah plan netflix & dilarang mengganti email! \n       [ jika melanggar: void warranty! ]\n6. …",
+        "time": "23/04 09:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776906870994
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "22/04 18:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1776853145366
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Dedy Hk",
-        "content": "Login",
-        "time": "22/04 18:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853145294
       }
     ],
     "galleryPhotos": [],
