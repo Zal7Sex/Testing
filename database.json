@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776914471062,
+    "lastSeen": 1776914473954,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 39 chat",
+        "time": "23/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914475751
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "BEW STORE",
+        "content": "bantuin keluar dulu sayang",
+        "time": "23/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776914475615
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 05:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1776891886092
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 823-1199-7104",
-        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
-        "time": "23/04 05:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776891885974
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎62 pesan dari 38 chat",
-        "time": "23/04 04:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776891563657
       }
     ],
     "galleryPhotos": [],
