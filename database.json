@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776951753798,
+    "lastSeen": 1776951756803,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (11 pesan): BEW STORE",
+        "content": "乂  W A R N I N G \n\nYou got +1 warning point : [ 2 / 5 ]\n\n> If you get 5 warning points you will be removed from this group.\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 21:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951757946
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Khifrandev Solution",
+        "content": "oalah oke siap kak",
+        "time": "23/04 21:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951755906
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 821-4849-9859",
+        "content": "Telescopic bawa kembali ke markas",
+        "time": "23/04 21:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776951755858
+      },
       {
         "appName": "WhatsApp",
         "sender": "Wabot",
@@ -3995,30 +4019,6 @@
         "time": "23/04 19:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942868470
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Wabot",
-        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
-        "time": "23/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942868456
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 822-6965-3769",
-        "content": "sipp",
-        "time": "23/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942868300
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Zal7Se",
-        "content": "bisa bisa, jual 40k",
-        "time": "23/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942864815
       }
     ],
     "galleryPhotos": [],
