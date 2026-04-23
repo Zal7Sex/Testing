@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776959028816,
+    "lastSeen": 1776959043820,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959044140
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 23:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959030809
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Oi: Membalas Anda",
+        "content": "BEW STORE: ʜɪ @⁨‎rama⁩\nꜱᴇɴᴀɴɢ ʙɪꜱᴀ ᴋᴇᴛᴇᴍᴜ ᴋᴀᴍᴜ! ᴀᴋᴜ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʏᴀɴɢ ꜱɪᴀᴘ ᴍᴇᴍʙᴀɴᴛᴜ ᴋᴀᴘᴀɴ ᴘᴜɴ ᴋᴀᴍᴜ ʙᴜᴛᴜʜ. ᴍᴀᴜ ᴜɴᴅᴜʜ ᴋᴏɴᴛᴇɴ, ᴋᴏɴᴠᴇʀꜱɪ ᴍᴇᴅɪᴀ, ᴀᴛᴀᴜ ᴋᴇʟᴏʟᴀ ɢʀᴜᴘ — ᴛɪɴɢɢᴀʟ ᴋɪʀɪᴍ ᴘᴇꜱᴀɴ, ꜱɪꜱᴀɴʏᴀ ᴜʀᴜꜱᴀɴᴋᴜ.\n\n▦ ꜱᴛᴀᴛɪꜱᴛɪᴄ\n» ᴜꜱᴇʀꜱ    : 43\n» ɢʀᴏᴜᴘꜱ   : 2\n» ᴄʜᴀᴛꜱ    : 0\n» ᴘʀᴇᴍɪᴜᴍ  : 1\n» ʙᴀɴɴᴇᴅ   : 0\n» ʙʟᴏᴄᴋᴇᴅ  : 1\n\n▦ ꜱʏꜱᴛᴇᴍ\n» ᴜᴘᴛɪᴍᴇ   : 04:39:00\n» ꜱᴘᴇᴇᴅ    : 1813ms\n» ᴍᴏᴅᴇ     : Public\n» ᴅᴀᴛᴀʙᴀꜱᴇ : SQLite\n» ᴍᴏᴅᴜʟᴇ   : 6.0.0-rc.43\n\n\n\n> ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʙʏ ᴠɪᴏʟᴇᴛɪᴄꜱ\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 23:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959030506
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 21:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951729264
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "oalah oke siap kak",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951729244
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 821-4849-9859",
-        "content": "Telescopic bawa kembali ke markas",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951729224
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Wabot",
-        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
-        "time": "23/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951728889
       }
     ],
     "galleryPhotos": [],
