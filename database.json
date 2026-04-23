@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776954458906,
+    "lastSeen": 1776954465173,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (14 pesan): BEW STORE",
+        "content": "Thanks @⁨Nakan⁩ for joining into Oi group.\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 22:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954467857
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎74 pesan dari 41 chat",
+        "time": "23/04 22:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954463727
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (13 pesan): BEW STORE",
+        "content": "⚠ Other bot are not allowed in this group.\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
+        "time": "23/04 22:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954463463
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎73 pesan dari 41 chat",
+        "time": "23/04 22:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776954461980
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Oi (12 pesan): BEW STORE",
@@ -3987,38 +4019,6 @@
         "time": "23/04 20:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1776945792368
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 858-3608-9495",
-        "content": "Berapa bulan",
-        "time": "23/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945792081
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎65 pesan dari 42 chat",
-        "time": "23/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945774880
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 822-6965-3769",
-        "content": "sipp",
-        "time": "23/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945774864
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776945774379
       }
     ],
     "galleryPhotos": [],
