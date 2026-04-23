@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776907629502,
+    "lastSeen": 1776907656619,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 40 chat",
+        "time": "23/04 09:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907658102
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 39 chat",
+        "time": "23/04 09:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907632123
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-1746-5790",
+        "content": "bantuin keluar dulu sayang",
+        "time": "23/04 09:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907632074
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 40 chat",
+        "time": "23/04 09:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776907631749
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3987,38 +4019,6 @@
         "time": "22/04 18:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1776853880346
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Dedy Hk",
-        "content": "Login",
-        "time": "22/04 18:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853880132
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎57 pesan dari 35 chat",
-        "time": "22/04 18:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853877654
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Ilham Hk",
-        "content": "Emmm. Pulng dulu baru cari lagi nanty po",
-        "time": "22/04 18:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853877642
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎60 pesan dari 36 chat",
-        "time": "22/04 18:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776853875615
       }
     ],
     "galleryPhotos": [],
