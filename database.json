@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776953795351,
+    "lastSeen": 1776953807360,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎197 pesan dari 5 chat",
+        "time": "23/04 22:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776953796067
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (3 pesan): ~ Ummu Afzal Athallah",
         "content": "Kak fitrah kenapa tidak bisa di buka ini link tiktok ta ??",
         "time": "23/04 22:16",
@@ -13960,14 +13968,6 @@
         "time": "23/04 12:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1776918136344
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎PJOK 8.10 (5 pesan): ~ Jasniah Daud🥰😘",
-        "content": "Assalamu'alaikum wr wb, berhubung  pekan depan remedial. \nTdk lagi menggunakan musik tp dgn cara lisan dan materix tetap senam irama",
-        "time": "23/04 12:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776918136299
       }
     ],
     "galleryPhotos": [],
