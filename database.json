@@ -9972,6 +9972,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "23/04 19:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776942091417
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎197 pesan dari 5 chat",
         "time": "23/04 18:48",
         "pkg": "com.whatsapp",
@@ -13960,14 +13968,6 @@
         "time": "23/04 10:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1776911440932
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "23/04 10:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776911440241
       }
     ],
     "galleryPhotos": [],
