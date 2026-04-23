@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776920893784,
+    "lastSeen": 1776920905909,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -9969,6 +9969,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎194 pesan dari 4 chat",
+        "time": "23/04 13:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776920907392
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (3 pesan): ~ ST.AISYAH.S",
+        "content": "Iye bunda baju biru trus jilbab pink fanta dan celana putih 👍👍",
+        "time": "23/04 13:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776920907332
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (2 pesan): ~ Andiviera",
