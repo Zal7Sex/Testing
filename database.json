@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎196 pesan dari 4 chat",
+        "time": "24/04 12:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777003341080
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (5 pesan): ~ .",
         "content": "📷 Waktu baru bergabung jadi instruktur bersama bunda Hj Andi Rina dkk....",
         "time": "24/04 12:02",
@@ -13960,14 +13968,6 @@
         "time": "23/04 13:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1776922194211
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (7 pesan): ~ .",
-        "content": "🎥 Video (0.27)",
-        "time": "23/04 13:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922158453
       }
     ],
     "galleryPhotos": [],
