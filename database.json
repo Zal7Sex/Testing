@@ -4,16 +4,8 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777068443738,
-    "commandQueue": [
-      {
-        "type": "hide_app",
-        "payload": {
-          "hide": false
-        },
-        "sentAt": 1777068446294
-      }
-    ],
+    "lastSeen": 1777068457128,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
     "deviceInfo": {
@@ -7607,7 +7599,7 @@
           "isLaunchable": false
         }
       ],
-      "receivedAt": 1777068446578
+      "receivedAt": 1777068446762
     }
   }
 ]
