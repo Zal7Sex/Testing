@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777061941838,
+    "lastSeen": 1777061947829,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********287\n💰 Price: Rp 3.800\n🔢 Code: 532889\n━━━━━━━━━━━━━━━\n📨 Message:\n Kode WhatsApp Business: 532-889\nJangan bagikan kode ini dengan orang lain\nrJbA/XP1K+V\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0009935025\n🏷️ System ID: FSCL11363140\n⏰ 25 Apr 2026 • 03:18 WIB\n\n#OTP #WHATSAPP",
+        "time": "25/04 03:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061943426
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: Indonesia\n📞 Number: +62********287\n💰 Price: Rp 3.800\n🔢 Code: 532889\n━━━━━━━━━━━━━━━\n📨 Message:\n Kode WhatsApp Business: 532-889\nJangan bagikan kode ini dengan orang lain\nrJbA/XP1K+V\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0009935025\n🏷️ System ID: FSCL11363140\n⏰ 25 Apr 2026 • 03:18 WIB\n\n#OTP #WHATSAPP",
+        "time": "25/04 03:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061943390
+      },
+      {
+        "appName": "Telegram",
+        "sender": "LumenAssist [Discussions]: LumenAssist",
+        "content": "🦋 Чек на 🪙 1.4 ETH ($3248.37).",
+        "time": "25/04 03:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061943387
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******16\n• Waktu: 25/04/2026, 03.13",
+        "time": "25/04 03:19",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061943359
+      },
       {
         "appName": "Telegram",
         "sender": "OSINT_INSPECTOR",
