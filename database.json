@@ -4,14 +4,14 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777068038296,
+    "lastSeen": 1777068059654,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
     "deviceInfo": {
       "model": "realme RMX2103",
       "androidVersion": "Android 11",
-      "battery": 45,
+      "battery": 24,
       "network": "WiFi: ARNET-HOTSPOT",
       "sim1": "XL Axiata",
       "sim2": "Tidak ada layanan"
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ᴄᴏᴡᴡꜱ ᴘᴀʀᴋᴇʀ 🕷️",
+        "content": "Pesan Suara",
+        "time": "25/04 05:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068039887
+      },
       {
         "appName": "Telegram",
         "sender": "ᴄᴏᴡᴡꜱ ᴘᴀʀᴋᴇʀ 🕷️",
@@ -4011,14 +4019,6 @@
         "time": "25/04 03:17",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1777061869059
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "❄️ ubilll・14916 pesan baru dari 127 obrolan",
-        "time": "25/04 03:17",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777061868715
       }
     ],
     "galleryPhotos": [],
