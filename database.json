@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎Class 8.10 ‼️ (79 pesan): ~ VianBakri",
+        "content": "Jln mi dulu",
+        "time": "24/04 15:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777014520564
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "+62 882-4714-9623",
         "content": "Panggilan telepon berlangsung",
         "time": "24/04 15:05",
@@ -13960,14 +13968,6 @@
         "time": "23/04 15:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1776929930028
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Class 8.10 ‼️ (79 pesan): ~ VianBakri",
-        "content": "Jln mi dulu",
-        "time": "23/04 15:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776929929941
       }
     ],
     "galleryPhotos": [],
@@ -17872,7 +17872,7 @@
     "deviceName": "HP-ZI-BD1C",
     "ownerUsername": "zaa",
     "token": "2a385c7db968ac58da6c9d6aec3b4cdb",
-    "lastSeen": 1777014502521,
+    "lastSeen": 1777014520134,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T07:07:55.126Z",
