@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "24/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777001535880
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (2 pesan): ~ andirina0502",
         "content": "Kodong tidurki😀😀😀",
         "time": "24/04 11:30",
@@ -13960,14 +13968,6 @@
         "time": "23/04 13:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1776922121612
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎193 pesan dari 4 chat",
-        "time": "23/04 13:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776922103359
       }
     ],
     "galleryPhotos": [],
