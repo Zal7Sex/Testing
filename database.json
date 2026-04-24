@@ -9975,6 +9975,14 @@
         "content": "Panggilan telepon berlangsung",
         "time": "24/04 15:05",
         "pkg": "com.whatsapp",
+        "receivedAt": 1777014300253
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 882-4714-9623",
+        "content": "Panggilan telepon berlangsung",
+        "time": "24/04 15:05",
+        "pkg": "com.whatsapp",
         "receivedAt": 1777014300232
       },
       {
@@ -13960,14 +13968,6 @@
         "time": "23/04 15:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1776929929941
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (107 pesan): ~ მႮჁმ",
-        "content": "mau ka pergi latihan",
-        "time": "23/04 15:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776929929862
       }
     ],
     "galleryPhotos": [],
