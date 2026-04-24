@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1777020819778,
+    "lastSeen": 1777020821818,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "24/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777020822894
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "24/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777020822579
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "24/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777020822133
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "24/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777020822000
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3987,38 +4019,6 @@
         "time": "24/04 00:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1776960156423
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎61 pesan dari 40 chat",
-        "time": "24/04 00:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776960091949
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "24/04 00:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776960091923
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎75 pesan dari 41 chat",
-        "time": "24/04 00:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776960091700
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "24/04 00:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776960088977
       }
     ],
     "galleryPhotos": [],
