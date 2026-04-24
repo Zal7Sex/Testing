@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "24/04 08:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776991488011
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (2 pesan): ~ .",
         "content": "📷 Ada yg kenal dgn org ini...? Salamku na sama beliau",
         "time": "24/04 08:44",
@@ -13960,14 +13968,6 @@
         "time": "23/04 13:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1776920969386
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎195 pesan dari 4 chat",
-        "time": "23/04 13:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776920969369
       }
     ],
     "galleryPhotos": [],
