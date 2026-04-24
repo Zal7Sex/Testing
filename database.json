@@ -17866,5 +17866,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "aimlock_34ab3aba",
+    "deviceName": "HP-ZI-BD1C",
+    "ownerUsername": "zaa",
+    "token": "2a385c7db968ac58da6c9d6aec3b4cdb",
+    "lastSeen": 1777014475126,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-24T07:07:55.126Z",
+    "deviceInfo": {
+      "model": "realme RMX2180",
+      "androidVersion": "Android 11",
+      "battery": 86,
+      "network": "Seluler: Smartfren 100% untuk Indonesia",
+      "sim1": "Smartfren",
+      "sim2": "by.U"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
