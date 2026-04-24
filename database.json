@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777067837184,
+    "lastSeen": 1777067858171,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
+        "content": "PROMO MALAM INI!!!\n\n50K > 200 NOMOR 🔥🔥🔥\n\n2 ORANG LAGI TERCEPAT GUYS\n\nDM : @KELAZBG",
+        "time": "25/04 04:57",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067838374
+      },
       {
         "appName": "Telegram",
         "sender": "GB PUBLIC FREE PANEL: BOT KONTOL",
@@ -4011,14 +4019,6 @@
         "time": "25/04 03:15",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1777061707501
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******16\n• Waktu: 25/04/2026, 03.13",
-        "time": "25/04 03:15",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777061707442
       }
     ],
     "galleryPhotos": [],
