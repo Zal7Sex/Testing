@@ -9971,6 +9971,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎196 pesan dari 4 chat",
+        "time": "24/04 08:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776991869431
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (5 pesan): ~ Fitri Dian Lestari",
         "content": "💟 Stiker",
         "time": "24/04 08:51",
@@ -13960,14 +13968,6 @@
         "time": "23/04 13:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776921070341
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (5 pesan): ~ Nursiah",
-        "content": "🎤 Pesan suara (0.53)",
-        "time": "23/04 13:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776921016744
       }
     ],
     "galleryPhotos": [],
