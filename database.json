@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777062878355,
+    "lastSeen": 1777062890363,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・14929 pesan baru dari 127 obrolan",
+        "time": "25/04 03:34",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777062890826
+      },
       {
         "appName": "Telegram",
         "sender": "Fastcal haikk",
