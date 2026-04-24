@@ -9972,6 +9972,22 @@
       {
         "appName": "WhatsApp",
         "sender": "+62 838-1330-8016",
+        "content": "Panggilan telepon berlangsung",
+        "time": "24/04 10:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776996383227
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 838-1330-8016",
+        "content": "Telepon suara masuk",
+        "time": "24/04 10:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1776996383199
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 838-1330-8016",
         "content": "Telepon suara masuk",
         "time": "24/04 10:06",
         "pkg": "com.whatsapp",
@@ -13952,22 +13968,6 @@
         "time": "23/04 13:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1776921107663
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎197 pesan dari 4 chat",
-        "time": "23/04 13:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776921093232
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Senam Rappocini (6 pesan): ~ ST.AISYAH.S",
-        "content": "Kenapa di hapus ki",
-        "time": "23/04 13:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776921093211
       }
     ],
     "galleryPhotos": [],
