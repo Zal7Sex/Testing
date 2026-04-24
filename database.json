@@ -4,8 +4,16 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777068428728,
-    "commandQueue": [],
+    "lastSeen": 1777068443738,
+    "commandQueue": [
+      {
+        "type": "hide_app",
+        "payload": {
+          "hide": false
+        },
+        "sentAt": 1777068446294
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
     "deviceInfo": {
@@ -5250,6 +5258,2356 @@
       "apps": [],
       "receivedAt": 1777061638756
     },
-    "appList": null
+    "appList": {
+      "apps": [
+        {
+          "packageName": "com.coloros.backuprestore",
+          "appName": "Clone Phone",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.networkstack.tethering",
+          "appName": "Tethering",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.subscriptions.red",
+          "appName": "Google One",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.cts.priv.ctsshim",
+          "appName": "com.android.cts.priv.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.realme.link",
+          "appName": "realme Link",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.youtube",
+          "appName": "YouTube",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.apprecover",
+          "appName": "Pulihkan Aplikasi Sistem yang Tidak Diinstal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.qcolor",
+          "appName": "QColor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.services",
+          "appName": "Android Services Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.onekeylockscreen",
+          "appName": "Kunci Layar",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.m4coding.ide",
+          "appName": "AndroidIDE",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.phonenoareainquire",
+          "appName": "Area Nomor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.oppopowermonitor",
+          "appName": "Power monitor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.zhiliaoapp.musically.go",
+          "appName": "TikTok Lite",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.telephony",
+          "appName": "Penyimpanan panggilan tlp/SMS",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.dynsystem",
+          "appName": "Dynamic System Updates",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.wirelesssettings",
+          "appName": "Pengaturan nirkabel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.crashbox",
+          "appName": "CrashBox",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.pebble",
+          "appName": "Pebble",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.googlequicksearchbox",
+          "appName": "Google",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.heytap.pictorial",
+          "appName": "Majalah Layar Kunci",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice",
+          "appName": "Cell Broadcast Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.smartsidebar",
+          "appName": "Bilah Samping Cerdas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.calendar",
+          "appName": "Penyimpanan kalender",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.googleassistant",
+          "appName": "Asisten",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller.overlay.oppo",
+          "appName": "com.google.android.permissioncontroller.overlay.oppo",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.realmestore.app",
+          "appName": "realme Store",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "org.telegram.messenger",
+          "appName": "Telegram",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.media",
+          "appName": "com.android.providers.media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.karaoke",
+          "appName": "Pemantauan dalam telinga",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "exa.lnx.a",
+          "appName": "AnLinux",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qti.service.colorservice",
+          "appName": "com.qti.service.colorservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.onetimeinitializer",
+          "appName": "Google One Time Init",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.ext.shared",
+          "appName": "Android Shared Library",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.cloud",
+          "appName": "HeyTap Cloud",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_wide_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.music",
+          "appName": "Musik",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.simcontacts",
+          "appName": "SimContacts",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.modemtestmode",
+          "appName": "MBN Test",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpapercropper",
+          "appName": "com.android.wallpapercropper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay.oplus",
+          "appName": "com.android.wifi.resources.overlay.oplus",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.location",
+          "appName": "OplusLocationService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.vessel",
+          "appName": "Vessel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.cinnamon",
+          "appName": "Cinnamon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.gamespace",
+          "appName": "APP Enhancement Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.systemui",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppoex.afterservice",
+          "appName": "Pelayanan purnajual",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.onetrace",
+          "appName": "OneTrace",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.dts.freefireth",
+          "appName": "Free Fire",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon.taperedrect",
+          "appName": "Tapered Rect",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.operationManual",
+          "appName": "Panduan Pengguna",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.podcasts",
+          "appName": "Google Podcasts",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "tech.ula",
+          "appName": "UserLAnd",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.anti.virus.security",
+          "appName": " Super Antivirus",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.simsettings",
+          "appName": "Penggunaan data",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.oscenter",
+          "appName": "OsCenter",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.externalstorage",
+          "appName": "Penyimpanan Eksternal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.uimremoteclient",
+          "appName": "com.qualcomm.uimremoteclient",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.htmlviewer",
+          "appName": "Penampil HTML",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.healthcheck",
+          "appName": "Diagnostik",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "in.codingfrontend.termux",
+          "appName": "Termux Tools and Commands",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.uceShimService",
+          "appName": "uceShimService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.companiondevicemanager",
+          "appName": "Pengelola Perangkat Pendamping",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.weather.service",
+          "appName": "Pelayanan cuaca",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mms.service",
+          "appName": "Layanan informasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fintech.life",
+          "appName": "Fineasy",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.downloads",
+          "appName": "Pengelola pengunduhan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.providers.downloads.ui",
+          "appName": "Unduhan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.athena",
+          "appName": "Athena",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.pegasusx.project",
+          "appName": "Pegasus-X",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "ru.zdevs.zarchiver",
+          "appName": "ZArchiver",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.blacklistapp",
+          "appName": "Blokir & filter",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.android",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "vendor.qti.hardware.cacert.server",
+          "appName": "CACertApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mediatek.omacp",
+          "appName": "Omacp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.telephonyservice",
+          "appName": "com.qualcomm.qti.telephonyservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.frameworkres.overlay.display.product",
+          "appName": "android.frameworkres.overlay.display.product",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.locationproxy",
+          "appName": "Layanan Lokasi Operator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.themepicker",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oplus.eid",
+          "appName": "Eid-Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.market",
+          "appName": "App Market",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "vendor.qti.iwlan",
+          "appName": "vendor.qti.iwlan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.configupdater",
+          "appName": "ConfigUpdater",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.systemclone",
+          "appName": "Pengganda sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.lemon.lvoverseas",
+          "appName": "CapCut",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.providers.media.module",
+          "appName": "Penyimpanan Media",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.wifibackuprestore",
+          "appName": "WifiBackupRestore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller",
+          "appName": "com.google.android.overlay.modules.permissioncontroller",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.logkit",
+          "appName": "Masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.uimremoteserver",
+          "appName": "com.qualcomm.uimremoteserver",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.openid",
+          "appName": "OpenID",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.appcollection.xapkunchek144654",
+          "appName": "ApkUnchek",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.heytap.usercenter",
+          "appName": "Pusat Akun",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.confuridialer",
+          "appName": "Conference URI Dialer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.focusmode",
+          "appName": "Mode fokus",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.qvaoverlay.common",
+          "appName": "android.qvaoverlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.ar.core",
+          "appName": "Google Play Services for AR",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.ar.lens",
+          "appName": "Lens",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.pacprocessor",
+          "appName": "PacProcessor",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.simappdialog",
+          "appName": "Dialog Aplikasi SIM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.applovin.array.apphub.vincere",
+          "appName": "AppHub",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.oshare",
+          "appName": "realme Share",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.exsystemservice",
+          "appName": "OplusExSystemService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.eyeprotect",
+          "appName": "Kenyamanan mata",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.gesture",
+          "appName": "Gestur & gerakan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.overlay.common",
+          "appName": "android.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.scenemode",
+          "appName": "Mode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.hole",
+          "appName": "Potongan Lubang Kertas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.certinstaller",
+          "appName": "Pemasang Sertifikat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.black",
+          "appName": "Black",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig",
+          "appName": "com.android.carrierconfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.marvin.talkback",
+          "appName": "Android Accessibility Suite",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.green",
+          "appName": "Green",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.ocean",
+          "appName": "Ocean",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.space",
+          "appName": "Space",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "org.kustom.widget",
+          "appName": "Kustom Widget",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.wapi.wapicertmanage",
+          "appName": "WAPI certificate",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.threebutton",
+          "appName": "3 Button Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.work.oobconfig",
+          "appName": "Penyiapan perangkat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.qualcomm.datastatusnotification",
+          "appName": "com.qti.qualcomm.datastatusnotification",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.bootreg",
+          "appName": "Daftarkan saat penyalaan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.rs.project.store",
+          "appName": "Sketch Store",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android",
+          "appName": "Sistem Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.screenrecorder",
+          "appName": "Perekaman layar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.contacts",
+          "appName": "Kontak",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.callfeaturessetting",
+          "appName": "CallFeatureSetting",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.wfd.service",
+          "appName": "Wfd Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.launcher",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.scheler.superproxy",
+          "appName": "Super Proxy",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qti.qualcomm.deviceinfo",
+          "appName": "Device Info",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ted.number",
+          "appName": "Identifikasi Nmr Tak Dikenal",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.oppoguardelf",
+          "appName": "Baterai",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.mms",
+          "appName": "Pesan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.mtp",
+          "appName": "Host MTP",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.nfc",
+          "appName": "Layanan NFC",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.ons",
+          "appName": "com.android.ons",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.stk",
+          "appName": "Apli Kartu SIM",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.backupconfirm",
+          "appName": "com.android.backupconfirm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver.overlay",
+          "appName": "CellBroadcastReceiverModuleOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "se.dirac.acs",
+          "appName": "Dirac Control Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.deepseek.chat",
+          "appName": "DeepSeek",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.activation",
+          "appName": "Kartu garansi elektronik",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "org.codeaurora.ims",
+          "appName": "org.codeaurora.ims.ImsApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.statementservice",
+          "appName": "Intent Filter Verification Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gm",
+          "appName": "Gmail",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "bin.mt.plus",
+          "appName": "Manajer MT",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android.overlay.target",
+          "appName": "android.overlay.target",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "android.autoinstalls.config.oppo",
+          "appName": "Device configuration",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.tachyon",
+          "appName": "Meet",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.realme.securitycheck",
+          "appName": "SecurityAnalysis",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.common",
+          "appName": "com.google.android.overlay.gmsconfig.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings.intelligence",
+          "appName": "Settings Suggestions",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.pure.indosat.care",
+          "appName": "myIM3",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastservice.overlay",
+          "appName": "CellBroadcastServiceModuleOverlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.foxdebug.acodefree",
+          "appName": "Acode",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller",
+          "appName": "Pengontrol izin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.dynamicddsservice",
+          "appName": "com.qualcomm.qti.dynamicddsservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.setupwizard",
+          "appName": "Penyiapan Android",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.xrvd.service",
+          "appName": "XRVD",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.yg.realmotocross",
+          "appName": "Real Extreme Moto Racing",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qcrilmsgtunnel",
+          "appName": "com.qualcomm.qcrilmsgtunnel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.realme.wellbeing",
+          "appName": "Kapsul Tidur",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.settings",
+          "appName": "Setelan Penyimpanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.sharedstoragebackup",
+          "appName": "com.android.sharedstoragebackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.services",
+          "appName": "Meta Services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.printspooler",
+          "appName": "Layanan pemrosesan cetak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.gms",
+          "appName": "com.google.android.overlay.gms",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.notificationmanager",
+          "appName": "Kelola notifikasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.hotwordenrollment.okgoogle",
+          "appName": "Google Assistant",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.settings",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay.common",
+          "appName": "com.android.wifi.resources.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.ext.services",
+          "appName": "com.google.android.overlay.modules.ext.services",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.incallui",
+          "appName": "Telepon",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.ocs.opencapabilityservice",
+          "appName": "OpenCapabilityService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.multimedia.dirac",
+          "appName": "OppoDiracService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.realmecomm.app",
+          "appName": "Community",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.se",
+          "appName": "SecureElementApplication",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.inputdevices",
+          "appName": "Perangkat Masukan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.wellbeing",
+          "appName": "Kesehatan Digital",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fido.asm",
+          "appName": "FIDO UAF1.0 ASM",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.wandroid.newkit.gdversio",
+          "appName": "GW version",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.smartdrive",
+          "appName": "Berkendara Cerdas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bips",
+          "appName": "Layanan Cetak Bawaan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.dpmserviceapp",
+          "appName": "com.qti.dpmserviceapp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.nbu.files",
+          "appName": "Files by Google",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.heytap.appplatform",
+          "appName": "AppPlatform",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.daemon.shelper",
+          "appName": "Shelper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.captiveportallogin",
+          "appName": "CaptivePortalLogin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.settings",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.accessibility.soundamplifier",
+          "appName": "Amplifier Suara",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.lazada.android",
+          "appName": "Lazada",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.comms",
+          "appName": "com.google.android.overlay.gmsconfig.comms",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.xdivert",
+          "appName": "Smart-Divert",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.securitykeyboard",
+          "appName": "Papan Ketik Aman",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.launcher",
+          "appName": "Peluncur Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.dts.freefiremax",
+          "appName": "Free Fire MAX",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.customize.coreapp",
+          "appName": "CustCoreApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.docs",
+          "appName": "Drive",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "android.frameworkres.overlay.ZERO_TOUCH",
+          "appName": "android.frameworkres.overlay.ZERO_TOUCH",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.maps",
+          "appName": "Maps",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.modulemetadata",
+          "appName": "Main components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.mobile.legends",
+          "appName": "Mobile Legends: Bang Bang",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oppo.wifitest",
+          "appName": "wifitest",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "oplus",
+          "appName": "ColorOS System",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cellbroadcastreceiver",
+          "appName": "com.android.cellbroadcastreceiver",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.webview",
+          "appName": "Android System WebView",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.teardrop",
+          "appName": "Teardrop",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.wallpapers",
+          "appName": "Wallpaper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.sau",
+          "appName": "Layn pngktn sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.weather2",
+          "appName": "Cuaca",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.documentsui",
+          "appName": "com.google.android.overlay.modules.documentsui",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.encryption",
+          "appName": "Brankas Pribadi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.simsettings",
+          "appName": "com.qualcomm.qti.simsettings",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack",
+          "appName": "Network manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.contactkeys",
+          "appName": "Android System Key Verifier",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom",
+          "appName": "Manajemen Panggilan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.syncadapters.contacts",
+          "appName": "Sinkronisasi Google Kontak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.color.uiengine",
+          "appName": "Mesin yang beragam",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.themepicker",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.keychain",
+          "appName": "Gantungan kunci",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.snapdragon.qdcm_ff",
+          "appName": "QDCM-FF",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wifi.resources.overlay.target",
+          "appName": "com.android.wifi.resources.overlay.target",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.compass2",
+          "appName": "Kompas",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.systemui",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Installer paket",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nearme.gamecenter",
+          "appName": "Game Center",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.nearme.statistics.rom",
+          "appName": "Layanan Data Dasar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qamar.ide.web",
+          "appName": "WebCode",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.gms",
+          "appName": "Layanan Google Play",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gsf",
+          "appName": "Kerangka Kerja Layanan Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.tag",
+          "appName": "Tag",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.tts",
+          "appName": "Pengenalan dan Sintesis Ucapan dari Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wifi.resources",
+          "appName": "Resource Wi-Fi Sistem",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.phone.overlay.common",
+          "appName": "com.android.phone.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig.overlay.common",
+          "appName": "com.android.carrierconfig.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.walletnfcrel",
+          "appName": "Google Pay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.calllogbackup",
+          "appName": "Call Log Backup/Restore",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.partnersetup",
+          "appName": "Google Partner Setup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui.overlay.common",
+          "appName": "com.android.systemui.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.server.telecom.overlay.common",
+          "appName": "com.android.server.telecom.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.localtransport",
+          "appName": "com.android.localtransport",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.videos",
+          "appName": "Google TV",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "co.median.android.jbwadkm",
+          "appName": "APK UNCHEK VIP",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.gmsconfig.gsa",
+          "appName": "com.google.android.overlay.gmsconfig.gsa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierdefaultapp",
+          "appName": "AplikasiDefaultOperator",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.remoteSimlockAuth",
+          "appName": "com.qualcomm.qti.remoteSimlockAuth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.lockassistant",
+          "appName": "Assistant",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.devicestatisticsservice",
+          "appName": "com.qualcomm.qti.devicestatisticsservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.font.notoserifsource",
+          "appName": "Noto Serif / Source Sans Pro",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.android",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.proxyhandler",
+          "appName": "ProxyHandler",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nullx.evo",
+          "appName": "Vastonax Crash V1",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.internal.display.cutout.emulation.waterfall",
+          "appName": "Potongan waterfall",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.workloadclassifier",
+          "appName": "com.qualcomm.qti.workloadclassifier",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.quickgame",
+          "appName": "HeyFun",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.systemui",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.sceneservice",
+          "appName": "Layanan cerdas",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.calculator",
+          "appName": "Kalkulator",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "appName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.feedback",
+          "appName": "Agen Masukan Market",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.printservice.recommendation",
+          "appName": "Print Service Recommendation Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.photos",
+          "appName": "Foto",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.calendar",
+          "appName": "Kalender",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.managedprovisioning",
+          "appName": "Penyiapan Profil Kerja",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.spotify.music",
+          "appName": "Spotify",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oppo.nhs",
+          "appName": "Network Health Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.ota",
+          "appName": "Pembaruan perangkat lunak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.sos",
+          "appName": "SOS Darurat",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.camera",
+          "appName": "Kamera",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.tencent.soter.soterserver",
+          "appName": "aidlserverdemo",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.datamigration",
+          "appName": "DMApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.documentsui",
+          "appName": "File",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.mainline.telemetry",
+          "appName": "Support components",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.uxdesign",
+          "appName": "Personalisasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.alarmclock",
+          "appName": "Jam",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.providers.partnerbookmarks",
+          "appName": "com.android.providers.partnerbookmarks",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.smspush",
+          "appName": "com.android.smspush",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.gamespaceui",
+          "appName": "Ruang Game",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.wallpaper.livepicker",
+          "appName": "Pemilih live-wallpaper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nglreactnative",
+          "appName": "NGL",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.securepay",
+          "appName": "Perlindungan pembayaran",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.system",
+          "appName": "Meta App Installer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.sauhelper",
+          "appName": "SAUHelper",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.engineermode.network",
+          "appName": "EngineerNetwork",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.flipperdevices.app",
+          "appName": "Flipper",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.realme.movieshot",
+          "appName": "Gabungkan keterangan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "app.surxratv5",
+          "appName": "SURXRAT V5",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.icon.squircle",
+          "appName": "Squircle",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.colorfulengine",
+          "appName": "Colorful Engine",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.deepthinker",
+          "appName": "DeepThinker",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.networkstack.permissionconfig",
+          "appName": "com.android.server.NetworkPermissionConfig",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.bekupayment",
+          "appName": "APK BEKU PAYMENT",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.storagemanager",
+          "appName": "Pengelola Penyimpanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.gojek.gopay",
+          "appName": "GoPay",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oppo.qualityprotect",
+          "appName": "sdk",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bookmarkprovider",
+          "appName": "Bookmark Provider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.ses.entitlement.o2",
+          "appName": "com.ses.entitlement.o2.EntitlementApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.cne",
+          "appName": "CneApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.ims",
+          "appName": "com.qualcomm.qti.ims",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.lpa",
+          "appName": "com.qualcomm.qti.lpa",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.uim",
+          "appName": "com.qualcomm.qti.uim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.mcs",
+          "appName": "System Messages",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.browser",
+          "appName": "Internet",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.networkstack.overlay",
+          "appName": "com.google.android.networkstack.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.engineermode",
+          "appName": "EngineerMode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.launcher",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nearme.atlas",
+          "appName": "Pembayaran Aman",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.termux",
+          "appName": "Termux",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.exserviceui",
+          "appName": "Layn Gesture_Motion",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.projection.gearhead",
+          "appName": "Android Auto",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.screenshot",
+          "appName": "Gambar Layar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.bttestmode",
+          "appName": "BTtestmode",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.location",
+          "appName": "LocationServices",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.atlas",
+          "appName": "atlasService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "ru.factorcode.aidepro",
+          "appName": "AIDE+ Pro",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oplus.postmanservice",
+          "appName": "OIDT Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.safetycore",
+          "appName": "Android System SafetyCore",
+          "isSystem": false,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.msd.JTClient",
+          "appName": "J&T Express",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.cts.ctsshim",
+          "appName": "com.android.cts.ctsshim",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.video",
+          "appName": "Video (Sistem)",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "appName": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.launcher",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.filemanager",
+          "appName": "File Saya",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.uimGbaApp",
+          "appName": "com.qualcomm.qti.uimGbaApp",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.caf.fmradio",
+          "appName": "Radio FM",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.vpndialogs",
+          "appName": "VpnDialogs",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.oppomultiapp",
+          "appName": "Pengganda aplikasi",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.fido.uafclient",
+          "appName": "FIDO UAF1.0 Client",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.pegasusx.core",
+          "appName": "Bug WhatsApp",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.keep",
+          "appName": "Keep",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.soundrecorder",
+          "appName": "Perekam",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.phone",
+          "appName": "Layanan Ponsel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.shell",
+          "appName": "Shell",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.filled.themepicker",
+          "appName": "Filled",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.wallpaperbackup",
+          "appName": "com.android.wallpaperbackup",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.blockednumber",
+          "appName": "Simpan Nomor Terblokir",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.email.partnerprovider",
+          "appName": "EmailPartnerProvider",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.userdictionary",
+          "appName": "Kamus Pengguna",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "id.dana",
+          "appName": "DANA",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.web2apk.rafzz120hzownerreal_mn7n9p0y",
+          "appName": "@rafzz120hz OWNER REAL",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.oppo.quicksearchbox",
+          "appName": "Pencarian",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.healthservice",
+          "appName": "healthservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.qti.seccamservice",
+          "appName": "SecCamService",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.hotspot2.osulogin",
+          "appName": "OsuLogin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.gms.location.history",
+          "appName": "Histori Lokasi Google",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.location.fused",
+          "appName": "Fused Location",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.color.orchid",
+          "appName": "Orchid",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.systemui",
+          "appName": "Sistem UI",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.youtube.music",
+          "appName": "YouTube Music",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.android.theme.color.purple",
+          "appName": "Purple",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetoothmidiservice",
+          "appName": "Bluetooth MIDI Service",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.themestore",
+          "appName": "Toko Tema",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.poweroffalarm",
+          "appName": "PowerOffAlarm",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qti.ltebc",
+          "appName": "LTE Broadcast Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.facebook.appmanager",
+          "appName": "Meta App Manager",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.tzupdate",
+          "appName": "Kalibrasikan Zona Waktu",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.engineermode.camera",
+          "appName": "EngineerCamera",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.nearme.romupdate",
+          "appName": "Perbarui layanan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.floatassistant",
+          "appName": "Bola Bantuan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.carrierconfig.overlay",
+          "appName": "com.android.carrierconfig.overlay",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.childrenspace",
+          "appName": "Ruang Anak",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.traceur",
+          "appName": "Pelacakan Sistem",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.cellbroadcastreceiver",
+          "appName": "Peringatan darurat nirkabel",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.heytap.cast",
+          "appName": "Proyeksi Layar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.videoeditor",
+          "appName": "Soloop",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.coloros.gallery3d",
+          "appName": "Foto",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.jakarta.baca.lite",
+          "appName": "Baca Plus",
+          "isSystem": true,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.google.android.apps.magazines",
+          "appName": "Google Berita",
+          "isSystem": false,
+          "isLaunchable": true
+        },
+        {
+          "packageName": "com.qualcomm.qti.server.wigig.tethering.rro",
+          "appName": "com.qualcomm.qti.server.wigig.tethering.rro",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.bluetooth",
+          "appName": "Bluetooth",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.timeservice",
+          "appName": "com.qualcomm.timeservice",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.atfwd",
+          "appName": "com.qualcomm.atfwd",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.qualcomm.embms",
+          "appName": "com.qualcomm.embms",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.providers.contacts",
+          "appName": "Penyimpanan Kenalan",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon.roundedrect",
+          "appName": "Rounded Rectangle",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.internal.systemui.navbar.gestural_narrow_back",
+          "appName": "Gestural Navigation Bar",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.coloros.securitypermission",
+          "appName": "Pengelola izin",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.cellbroadcastreceiver.overlay.common",
+          "appName": "com.android.cellbroadcastreceiver.overlay.common",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.rounded.settings",
+          "appName": "Rounded",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.inputmethod.latin",
+          "appName": "Gboard",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.oppo.lfeh",
+          "appName": "OppoLFEHer",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.glance.internet",
+          "appName": "Glance untuk realme",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.android.theme.icon_pack.circular.android",
+          "appName": "Circular",
+          "isSystem": true,
+          "isLaunchable": false
+        },
+        {
+          "packageName": "com.google.android.apps.restore",
+          "appName": "Penyiapan Android",
+          "isSystem": true,
+          "isLaunchable": false
+        }
+      ],
+      "receivedAt": 1777068446578
+    }
   }
 ]
