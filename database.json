@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777068398723,
+    "lastSeen": 1777068401699,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal haikk",
+        "content": "🔔 NEW OTP RECEIVED!\n━━━━━━━━━━━━━━━\n📱 Service: WHATSAPP\n🌍 Country: United Kingdom\n📞 Number: +44*******905\n💰 Price: Rp 8.000\n🔢 Code: 154138\n━━━━━━━━━━━━━━━\n📨 Message:\n Kode WhatsApp: 154-138\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6\n━━━━━━━━━━━━━━━\n🏷️ Provider ID: RO0009940334\n🏷️ System ID: FSCL44701739\n⏰ 25 Apr 2026 • 05:03 WIB\n\n#OTP #WHATSAPP",
+        "time": "25/04 05:06",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068404038
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "BOT TELAH AKTIF KEMBALI\n\nBOT: @TelekosBot",
+        "time": "25/04 05:06",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068403993
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PANEL PRIVATE WANZ: WantidCpanel_bot",
+        "content": "🖥️ Server List Option\nChoose the Server:",
+        "time": "25/04 05:06",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068403950
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・14970 pesan baru dari 124 obrolan",
+        "time": "25/04 05:06",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777068403602
+      },
       {
         "appName": "Telegram",
         "sender": "GB PUBLIC FREE PANEL: BOT KONTOL",
@@ -3987,38 +4019,6 @@
         "time": "25/04 03:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777062127362
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Mengunduh 1 video",
-        "content": "dari SisuryaOfficial - Channel",
-        "time": "25/04 03:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777062127324
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Mengunduh 1 dokumen",
-        "time": "25/04 03:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777062127195
-      },
-      {
-        "appName": "Telegram",
-        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
-        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******16\n• Waktu: 25/04/2026, 03.13",
-        "time": "25/04 03:20",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777062023195
-      },
-      {
-        "appName": "Telegram",
-        "sender": "OSINT_INSPECTOR",
-        "content": "MAAF TADI UPDATE MAKANYA BOT OFF",
-        "time": "25/04 03:20",
-        "pkg": "org.telegram.messenger",
-        "receivedAt": 1777062023108
       }
     ],
     "galleryPhotos": [
