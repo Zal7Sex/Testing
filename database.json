@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777062503171,
+    "lastSeen": 1777062506299,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "OSINT_INSPECTOR",
+        "content": "📢 Broadcast\n\nBOT UPDATE BNTR JADI OFF BENTAR",
+        "time": "25/04 03:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777062508380
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: BOT KONTOL",
+        "content": "✅ Berhasil kirim panel ke ID 7229505131",
+        "time": "25/04 03:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777062508308
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・14927 pesan baru dari 127 obrolan",
+        "time": "25/04 03:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777062508119
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******16\n• Waktu: 25/04/2026, 03.13",
+        "time": "25/04 03:28",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777062505595
+      },
       {
         "appName": "Telegram",
         "sender": "BLAST WA FREE😋🤑: Cakrawala",
