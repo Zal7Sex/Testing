@@ -4,7 +4,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "00613901ddb20be7b9614da5e8ef8e90",
-    "lastSeen": 1777021362468,
+    "lastSeen": 1777021371200,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-22T07:08:58.851Z",
@@ -20,6 +20,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Meii",
+        "content": "ok",
+        "time": "24/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777021373273
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 40 chat",
+        "time": "24/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777021364581
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 858-3608-9495",
+        "content": "Gada",
+        "time": "24/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777021364563
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Zal7Se",
+        "content": "bisa bisa, jual 40k",
+        "time": "24/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777021364545
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Khifrandev Solution",
+        "content": "oalah oke siap kak",
+        "time": "24/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777021364432
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 821-4849-9859",
+        "content": "Telescopic bawa kembali ke markas",
+        "time": "24/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777021364354
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Wabot",
+        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
+        "time": "24/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777021364273
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Maya",
+        "content": "aku tadi pas dibilang jangan chat ga aku chat",
+        "time": "24/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777021364258
+      },
       {
         "appName": "WhatsApp",
         "sender": "Meii",
@@ -3955,70 +4019,6 @@
         "time": "24/04 06:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1776983798832
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Zal7Se",
-        "content": "bisa bisa, jual 40k",
-        "time": "24/04 06:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776983796580
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "JASA SUNTIK SOSMED & APLIKASI PREMIUM: BEW STORE",
-        "content": "📷 ‎2 foto",
-        "time": "24/04 06:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776983796527
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Khifrandev Solution",
-        "content": "oalah oke siap kak",
-        "time": "24/04 06:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776983796463
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Wabot",
-        "content": "📷 Thank you, Rama Yandi. The Wabot account for at6327638@gmail.com has been activated.\n\nLog in here:\nhttps://app.wabot.my/login or click button login to link your number 👇\n\nUser guide:\nhttps://docs.fatomate.com . Please check your email to get special coupon 20% off. \n\nIf you experience any issues, please let us know.",
-        "time": "24/04 06:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776983796440
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 821-4849-9859",
-        "content": "Telescopic bawa kembali ke markas",
-        "time": "24/04 06:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776983796420
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Maya",
-        "content": "aku tadi pas dibilang jangan chat ga aku chat",
-        "time": "24/04 06:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776983796371
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎61 pesan dari 40 chat",
-        "time": "24/04 06:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776983794343
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Meii",
-        "content": "ok",
-        "time": "24/04 06:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1776983794187
       }
     ],
     "galleryPhotos": [],
@@ -17872,7 +17872,7 @@
     "deviceName": "HP-ZI-BD1C",
     "ownerUsername": "zaa",
     "token": "2a385c7db968ac58da6c9d6aec3b4cdb",
-    "lastSeen": 1777021363905,
+    "lastSeen": 1777021370648,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T07:07:55.126Z",
@@ -17945,7 +17945,7 @@
     "deviceName": "HP-AGUSGANTENG123-A19D",
     "ownerUsername": "zaa",
     "token": "27a6ee1465ae1cc380950de113af6ece",
-    "lastSeen": 1777021363376,
+    "lastSeen": 1777021372357,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T07:12:32.651Z",
@@ -17959,11 +17959,11 @@
     },
     "lastPhoto": null,
     "lastScreenFrame": {
-      "frameBase64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACAWGBwYFCAcGhwkIiAmMFA0MCwsMGJGSjpQdGZ6eHJmcG6AkLicgIiuim5woNqirr7EztDOfJri8uDI8LjKzsb/2wBDASIkJDAqMF40NF7GhHCExsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsb/wAARCAGnANgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECAwQFBv/EADYQAAICAQIDBQYFBAIDAAAAAAABAhEDEiEEMVETQWGR0QUUFSIycSNSU4GiQmKSoXLBM7Hh/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAeEQEBAQEBAQADAQEAAAAAAAAAARESAlEDMUETIf/aAAwDAQACEQMRAD8A+fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAe78O4X9L+T9R8O4X9L+T9TroUejJ8ebq/XJ8P4X9L+T9SPh/C/pfyfqddCi8z4nV+uN8Dwqv8F0ub1P1J+H8N+l/J+pvkSW5Op6FLlZMi7frm+H8N+n/JkP2fw/dj/kzqW97p06td5NDIdX64vh+Dvg/2bKPgeGXdI9CiK8BzPibfrzXwnDJf12I8LwuuKqbt8melpXRDSui8hzPhbfrz+N4LDhcNEefiykuDwqLemd107z02k+aTGmPReRL439L592TK4eC4HBmhOU4XT23ZnLheF1S+tbvZcj0kkuSr7DSui8jl/jerbXX/AHmSSPOXCcK/zlvc+FVKp7nfpXRGOeUYL/4Pf48m6nn8u39OOfB4tTWOLarvZlLh8aX0/wCzp7eS0dmlTb5Fckk5XyMXJGttrlePEnWj/bIljx1sly6m2OEcuScZbfTUu9bkT4W87jFqN7pNeF0GnPDHGUt1sbx4fC8U221K/l8SuSPZNwvfqTw8sK4hPiFKWLe658i0Vlhxrk9+jKxxRaa02+tnq4cHsvPOMYLNctt2c3tPBw/DZ44sKldXJN+RFYQ4fFJL6ba/MCig7pyiv9gsjNr6HSRRq0UbXVHo1wxWiKLWuqGw1MY5LSVLbvJjbir5mtLqRS6oopRSTuagpKN97NduqK5MWpqS3feiWrIyXaQfzp1dOzWg1kyOOtVGPLqXUbEv0s+KCjZY0yeyJ1F5rnoUauG/JohKjU9S/pi+bP2pRKi3yRetjHip6OGdabvlLkyX1k1Z4msM3EqEpQS3W1nJkzudp24vuuiuadxjTT23ovwssGfRw+eFN7RyQ5349Tz31bXfz5kZOUlNR000qrqGp6FJp6ZOk3ys342M8OdYck+2cF+HKLSa+5hHG5JK2leyb2+5MU4fE8+v8F5Gq3Ukq8zafBT0NY8E1J97yR9Tk4hOGdqStrwoRlGT0yUUvBFVvLgeK/T+3zL1Ke4cUtuy/mvUtKPyuMIRl/elzRjKM4f0L70MRrDgeKjOMuzqnf1L1O7jcefjckcjwrG0qdSTbPN0KMIzeh9Y95fBgnmnGOOKlJ+AV0Q4DMnbxecl6gns5YJOMoRUlzUog0y9qUdm07o5pXf1Qu+84cMp4ppu68GaPI2225f4k3+rPOR1VHVUnj1d3PkZcROUMsVjnFUt1H/s5nkcpKsu3RwRac2km5apf8aJ1Vnld8RPU5ZKXgoplXxWTU9EYOPijLNizRhHJ9WNq9UeS8CmOV7PmOq1kro94yNU8cP22L4eI0Xqxvfo0YEjqpxG+XjMlrssarv1EL2hljz4dP7NmIHVOY6/fovnBr9zSHHYu+0cP7lXuOqcx6MuLwPdzr7ohZ8EuWWHmea0mqktuq7jOWNxfPbuZZ7ZviV7UZRlykn9mUzYI5o1K6TvY8bS+pdZcujTq+XoXv6l8fHcvZ+HS5Rbb7m3ZhmfZyw5qXbJWtKVfdoz4aXETnKGPJoXNmU9ccjjOm47GbZ/Is82f10tLM55mtMruST3bOa5SdStp8xKVxilFprm75kW9WpqvBGbtXlz5lWWt39wtnfN+JrLHryqTlSbXcdK4WLW2VeRVxnjneNuROpF+we61/6I7B/mXkXo5cs4zlK3vudnAZXwilOeJtvlJPu6FHjSe8/2oLHq27XzRNMbe0+MhxGCGmD1Xu306AwnweqvxV5AmmN7fRIfeiqg3dSdInsqVtk1o0pyTVDLcWn4F4RpDIk40yjaXEqXDPDD5G4qUJSpJ9V4HDCL7V6rTXOzTQuxcXJ3fKiYRq7tt97BiaJrwLKJEtkFRQoLFOStR2ZMXTphEaRpNLRFoKyUH3k0qp7o0sgDnyY3DdO49TM6rrZq0+4o8MecRqMYtp3GTT8Ak7bbbb5tnVPHF6UsemubrmV7JdLGjBEPkbaUnyCSd13DoYK1kjfU3yPTlVK1RV4/6u6zOWXekNHRqInJKO12c8czvc1l80TInh4OWWLcNcE909ka8Zw2Ph8iUcl6t9LXcYYMrw5FOk+7f/rxNuPyrNlhOMm4aajZP+6Kwdx+wKRVRVqmCjrwYteV1jjNQhai+9kZsfZ55w0qMXFSpckw4prf9tyFGhq4LZFJs0KuCe7Lqs9tN3818iYlowTZhltTST8i6jf9ymRqvqRjp6jSgrphxsYQUdN14mCyqU3Knu7orpXQV4BMa9r0iFOUuWm+hnXiSBLlPk3RVuXe2X1Oqb2IAom13supyXOmKFIgv2981f7lllh32jGjTDjU8iUuT7xitFKEu9MtGEYu1Z2Q9mxe8ZfLWzfeYcRw8OGx8/xeie1ERzZoRUG0mYcPot48sdUJbX3x8UXc5NU3f3MbnjlcUvAsK24nhI4Evm1at4y7micWOWhNKjJNzku0bo6o5MaW0kKSM5Yd91d98SFipvTBv7mnat/SrLwyatnzMjPTkq+/owboAxFImuhakipGlafQlrqWa6tsrSvkUV09xzT/API2ddUntyOSm5N+JYBKV7XTbST6WTSI7mupUWnwzh2lZXcE27WzMlur6kvtGqllm10sUWpIAmiCKkkry7ys03TXJNbFGlFri/qjXjEiOTFPXUGu5K+TJm4trQmlW9uwJ7Nv6Gpf+xi+Se+33KJmiyvlNKa8SD3MGaOlQk0pJeficXtGayQ1xey2Xic2PLD+iovxM8rmrbhXit0Exz0wW5kaVKcYyloi+boKgrP6TSeGON3DNCcXyrmVaTRR0ezckVn+bHDb+qt13V+5TjoLh+MccT+XZpdDBKcVUZtK7q63CjvbdsJjaOeXekwZ0CYq/wAW4T9PL5L1J+L8IuWPL5L1PEBeInde0/a3C/p5fJepHxbhf08nkvU8YDiJ3Xsv2rwrVdnk8l6mPxDh+7HPyXqeYBzDqvTftDA/6J+S9Svv2D8s/Jep5wLh1Xo+/YPy5PJeo9+w/ln5L1POAw6r0l7QxLksnkvUmPtKEfpU/wDFM8wDDqvU+Kr+7/CI+Kr+7/CJ5YGHVep8VjzqV/8ACJPxZf3f4RPKAw6r1J+04TVSU6/4op79h/LPyXqecBh1XoPjsP5Z+S9R7/jSr8Sum3qeeBh1Xoe/Yvyz8kQ+NwtfTPyXqcAGHVd64zCt9M7+yJ9+xfln5I88DE6rv99xfln5Ij33H+WfkjhAw6rv99xfln5IHABhtAAVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/9k=",
+      "frameBase64": "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",
       "width": 216,
       "height": 423,
-      "frameId": 52065,
-      "capturedAt": 1777021363464
+      "frameId": 52135,
+      "capturedAt": 1777021373252
     },
     "smsSpyActive": true,
     "smsMessages": [
