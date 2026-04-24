@@ -4,7 +4,7 @@
     "deviceName": "HP-KONTOL-4095",
     "ownerUsername": "Ubill_raa",
     "token": "5fab7b001467c4f88275cc7fd6cb0312",
-    "lastSeen": 1777067681237,
+    "lastSeen": 1777067702102,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-24T20:08:51.057Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・14967 pesan baru dari 127 obrolan",
+        "time": "25/04 04:55",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067704214
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: tambahkan teks....",
+        "content": "kok kagak dikirim?",
+        "time": "25/04 04:54",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067684095
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝐒𝐌𝐒𝐏𝐚𝐧𝐞𝐥",
+        "content": "PROMO MALAM INI!!!\n\n50K > 200 NOMOR 🔥🔥🔥\n\n2 ORANG LAGI TERCEPAT GUYS\n\nDM : @KELAZBG",
+        "time": "25/04 04:54",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777067684079
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
