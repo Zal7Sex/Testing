@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178057893,
+    "lastSeen": 1777178061391,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (14 pesan): ~ X7-STORE REGION JABAR [CIREBON]",
+        "content": ".brat intannn suka rokok😈",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178063270
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178060835
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173181959
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (179 pesan): ~ kkeu",
-        "content": "siapa cakepbbgt",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173181628
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (101 pesan): ~ pia?",
-        "content": "msi pusing bnget aku nep😭",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173181266
       }
     ],
     "galleryPhotos": [],
