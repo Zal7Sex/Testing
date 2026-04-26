@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777175393683,
+    "lastSeen": 1777175396598,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎127 pesan dari 3 chat",
+        "time": "26/04 12:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777175397539
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (54 pesan): ~ P1",
+        "content": "Sayonara @⁨~runcing627⁩",
+        "time": "26/04 12:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777175397314
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎126 pesan dari 3 chat",
+        "time": "26/04 12:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777175395686
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎7Sex Message (53 pesan): ~ wanglin",
@@ -3995,30 +4019,6 @@
         "time": "26/04 11:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173092024
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1116 pesan dari 19 chat",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173090808
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (40 pesan): ~ ͏͏𝐚𝐮𝐥𝐥 ||𝐕𝐗𝐀/𝐄𝐏𝐗/𝟐𝟐𝟓†",
-        "content": "💟 Stiker",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173090037
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1115 pesan dari 19 chat",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173081266
       }
     ],
     "galleryPhotos": [],
