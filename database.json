@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777179943328,
+    "lastSeen": 1777179949636,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (47 pesan): ~ bil",
+        "content": "yang konbrut sv saia",
+        "time": "26/04 13:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179951958
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎46 pesan baru",
+        "time": "26/04 13:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179949332
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (46 pesan): ~ ?",
+        "content": "💟 Stiker",
+        "time": "26/04 13:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179949227
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎45 pesan baru",
+        "time": "26/04 13:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179948923
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (45 pesan): ~ hanma back era",
@@ -3987,38 +4019,6 @@
         "time": "26/04 11:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173410280
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (173 pesan): ~ .",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "26/04 11:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173410272
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1214 pesan dari 19 chat",
-        "time": "26/04 11:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173410265
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "jas",
-        "content": "dapet salam dari mantan",
-        "time": "26/04 11:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173409867
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1213 pesan dari 19 chat",
-        "time": "26/04 11:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173402050
       }
     ],
     "galleryPhotos": [],
