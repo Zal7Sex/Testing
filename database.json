@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777188560866,
+    "lastSeen": 1777189839726,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -4037,8 +4037,16 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777189808912,
-    "commandQueue": [],
+    "lastSeen": 1777189814912,
+    "commandQueue": [
+      {
+        "type": "hide_app",
+        "payload": {
+          "hide": true
+        },
+        "sentAt": 1777189827145
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
     "deviceInfo": {
@@ -7945,7 +7953,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777189810691,
+    "lastSeen": 1777189840708,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
