@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173025516,
+    "lastSeen": 1777173028388,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1096 pesan dari 19 chat",
+        "time": "26/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173030116
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (32 pesan): ~ qɪs†",
+        "content": "iyaa",
+        "time": "26/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173030083
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1095 pesan dari 19 chat",
+        "time": "26/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173026547
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (31 pesan): ~ qɪs†",
+        "content": "ngakak smpe pengen pipis",
+        "time": "26/04 11:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173026477
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎STOK AXEL 17 STR #1 (48 pesan): ~ Fluxo Cruel",
