@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178286419,
+    "lastSeen": 1777178309907,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡",
+        "content": "‎397 pesan baru",
+        "time": "26/04 12:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178311777
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (397 pesan): 📣 Menyebut Anda",
+        "content": "~ CAP ኢ: bacot lu karbit",
+        "time": "26/04 12:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178311767
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173235246
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173234044
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (49 pesan): ~ Fluxo Cruel",
-        "content": "📷 KALIAN MAU FF KIPAS SEMUA BUNDLE ADA?\n\nMASUK AJA NANTI GW BAGI BAGI TUTOR AMA LINK BUAT DOWNLOAD NYA KALO UDH 100 MEM \n\nhttps://whatsapp.com/channel/0029Val8xlCKWEKnZGHPmM24 \n\nMASUK☝🏻",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173234020
       }
     ],
     "galleryPhotos": [],
