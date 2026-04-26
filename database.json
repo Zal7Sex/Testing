@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178226412,
+    "lastSeen": 1777178256428,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎210 pesan dari 2 chat",
+        "time": "26/04 12:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178227790
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (152 pesan): 📣 Menyebut Anda",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173234020
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (179 pesan): ~ kkeu",
-        "content": "siapa cakepbbgt",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173233939
       }
     ],
     "galleryPhotos": [],
