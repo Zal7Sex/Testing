@@ -9321,7 +9321,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777210512074,
+    "lastSeen": 1777210521071,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9337,6 +9337,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "26/04 21:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777210522034
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
