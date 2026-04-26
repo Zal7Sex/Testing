@@ -7976,7 +7976,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777195360428,
+    "lastSeen": 1777195363540,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -7992,6 +7992,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (2 pesan): ~ Dindaa",
+        "content": "Iy beli maki 5000 ji d Apotek",
+        "time": "26/04 17:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777195364673
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
