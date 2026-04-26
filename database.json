@@ -4055,6 +4055,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "26/04 18:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777199855995
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Asyra✨",
         "content": "Iya tapi siapa aja",
         "time": "26/04 18:31",
@@ -8073,7 +8081,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777199831270,
+    "lastSeen": 1777199855287,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
