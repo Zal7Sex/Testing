@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777177451086,
+    "lastSeen": 1777177478612,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎134 pesan dari 3 chat",
+        "time": "26/04 12:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177452263
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (24 pesan): ~ orva",
+        "content": "jadi awalnya itu nomer sodara gua trs ga lama waktu jam sore langsung di bajak minta lah duit ke semua nomer",
+        "time": "26/04 12:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177452185
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎134 pesan dari 3 chat",
+        "time": "26/04 12:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177452101
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (24 pesan): ~ orva",
+        "content": "Bg bantu bug in no ini bg",
+        "time": "26/04 12:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177452091
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎133 pesan dari 3 chat",
+        "time": "26/04 12:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177452031
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (24 pesan): ~ orva",
@@ -3979,46 +4019,6 @@
         "time": "26/04 11:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173105712
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (41 pesan): ~ adalah pokoknya 😛",
-        "content": "Hay sayank😘",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173105695
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173105690
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (172 pesan): ~ 黒羽_",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173105425
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (175 pesan): nànayw",
-        "content": "lalapan kamboja ta iki",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173105155
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (130 pesan): ~ 🦨",
-        "content": "Y",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173102895
       }
     ],
     "galleryPhotos": [],
