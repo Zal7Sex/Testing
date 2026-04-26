@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178072717,
+    "lastSeen": 1777178076325,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (21 pesan): ~ wanglin",
+        "content": "🔗 DISCLAIMER | https://whatsapp.com/channel/0029VaF8y0ZDJ6H9O1Gwv93T\n\nDISCLAIMER (BACA DENGAN SEKSAMA)\n\n- Jangan membeli membership / menyewa bot lewat nomor ini. Beli hanya melalui command !Admin.\n- Arisu Soft bukan pemilik nomor ini, segala hal yang berkaitan dengan nomor ini bukan tanggung jawab admin.\n- Pemilik nomor ini mungkin akan melihat chat kamu, jaga kerahasiaan informasi pribadimu.\n\n> Dengan menggunakan bot ini, Anda menyetujui bahwa seluruh interaksi dan konsekuensinya menjadi tanggung jawab Anda sendiri.",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178077457
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (20 pesan): ~ hanma back era",
+        "content": "💟 Stiker",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178075584
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎78 pesan dari 2 chat",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178075571
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎77 pesan dari 2 chat",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178075220
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (19 pesan): ~ hanma back era",
@@ -3987,38 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173199896
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (54 pesan): ~ byan/𝐌𝐕`909/XOX/002/CLN",
-        "content": "oh ga nanya",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173194886
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (53 pesan): ~ byan/𝐌𝐕`909/XOX/002/CLN",
-        "content": "lau sape mpruy😑",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173192819
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (101 pesan): ~ pia?",
-        "content": "msi pusing bnget aku nep😭",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173192743
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173192738
       }
     ],
     "galleryPhotos": [],
