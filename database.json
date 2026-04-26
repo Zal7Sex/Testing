@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777206019553,
+    "lastSeen": 1777206034519,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -4053,6 +4053,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "Telepon video tak terjawab dari ~ rizzzzx",
+        "time": "26/04 20:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777206019876
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "Telepon video grup dari ~ rizzzzx…",
+        "time": "26/04 20:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777206019759
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "Telepon video grup dari ~ rizzzzx…",
+        "time": "26/04 20:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777206019714
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "Telepon video grup dari ~ rizzzzx…",
+        "time": "26/04 20:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777206019664
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Asyra✨",
+        "content": "Iya tapi siapa aja",
+        "time": "26/04 20:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777206019616
+      },
       {
         "appName": "WhatsApp",
         "sender": "Cwe cantik[(/ only 7 members",
@@ -8137,7 +8177,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777206016910,
+    "lastSeen": 1777206040944,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
