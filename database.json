@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777179697318,
+    "lastSeen": 1777179717512,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎16 pesan baru",
+        "time": "26/04 13:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179717716
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (16 pesan): ~ hanma back era",
+        "content": "fc kapan kebuka",
+        "time": "26/04 13:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179717665
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎15 pesan baru",
+        "time": "26/04 13:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179717477
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (15 pesan): ~ hanma back era",
+        "content": "contact delay pasti",
+        "time": "26/04 13:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179717439
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3987,38 +4019,6 @@
         "time": "26/04 11:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173331465
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (94 pesan): ~ adalah pokoknya 😛",
-        "content": "Sm",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173331257
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (93 pesan): ~ qɪs†",
-        "content": "🥳🥳",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173331050
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (93 pesan): ~ jiermeii😳",
-        "content": "my istri vano mksdnya 🥺",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173330834
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (93 pesan): ~ adalah pokoknya 😛",
-        "content": "Masa kakek kakek?",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173330541
       }
     ],
     "galleryPhotos": [],
