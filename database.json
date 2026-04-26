@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178472341,
+    "lastSeen": 1777178496436,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎411 pesan dari 2 chat",
+        "time": "26/04 12:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178472982
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (4 pesan): ~ P1",
+        "content": "📷 Gunakan !SBrat agar langsung jadi sticker.",
+        "time": "26/04 12:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178472896
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (407 pesan): 📣 Menyebut Anda",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173252550
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (101 pesan): ~ pia?",
-        "content": "msi pusing bnget aku nep😭",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173252459
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173252269
       }
     ],
     "galleryPhotos": [],
