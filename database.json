@@ -4055,6 +4055,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members: ~ rizzzzx",
+        "content": "Oh",
+        "time": "26/04 21:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777210654748
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Cwe cantik[(/ only 7 members",
         "content": "~ rizzzzx: Awak tulis  aja",
         "time": "26/04 21:30",
@@ -9321,7 +9329,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777210632176,
+    "lastSeen": 1777210653204,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
