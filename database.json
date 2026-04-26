@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777181660828,
+    "lastSeen": 1777181676891,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -4037,14 +4037,8 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777181660638,
-    "commandQueue": [
-      {
-        "type": "get_app_list",
-        "payload": {},
-        "sentAt": 1777179301530
-      }
-    ],
+    "lastSeen": 1777181678501,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
     "deviceInfo": {
@@ -7864,7 +7858,7 @@
           "isLaunchable": false
         }
       ],
-      "receivedAt": 1777181661897
+      "receivedAt": 1777181664556
     },
     "cameraFrameId": 147,
     "lastCameraFrame": {
