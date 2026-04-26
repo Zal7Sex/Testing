@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173730597,
+    "lastSeen": 1777173733556,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (114 pesan): ~ ken y.",
+        "content": "private chat",
+        "time": "26/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173734041
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (114 pesan): ~ adalah pokoknya",
+        "content": "kalo gaada jam gaada waktu",
+        "time": "26/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173733746
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (24 pesan): ~ Hasim",
+        "content": "🔗 Penghitaman grup internasional | Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/DpmcLsdVHX2CF3Olv7Hmph?mode=gi_t",
+        "time": "26/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173733736
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (104 pesan): ~ unknown",
+        "content": "💟 Stiker",
+        "time": "26/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173733474
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (114 pesan): ~ n mpruy😂",
+        "content": "yupss",
+        "time": "26/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173733221
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (112 pesan): ~ n mpruy😂",
@@ -3979,46 +4019,6 @@
         "time": "26/04 11:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173023639
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (89 pesan): ~ adalah pokoknya",
-        "content": "aia",
-        "time": "26/04 11:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173022136
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1094 pesan dari 19 chat",
-        "time": "26/04 11:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173022110
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1093 pesan dari 19 chat",
-        "time": "26/04 11:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173022109
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (88 pesan): ~ n mpruy😂",
-        "content": "malang",
-        "time": "26/04 11:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173022064
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1092 pesan dari 19 chat",
-        "time": "26/04 11:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173019829
       }
     ],
     "galleryPhotos": [],
