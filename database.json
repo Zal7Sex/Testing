@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777189839726,
+    "lastSeen": 1777189869756,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -4045,6 +4045,29 @@
           "hide": true
         },
         "sentAt": 1777189827145
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1777189845983
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1777189846359
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1777189848583
+      },
+      {
+        "type": "vibrate",
+        "payload": {
+          "pattern": "single",
+          "duration": 2000
+        },
+        "sentAt": 1777189854756
       }
     ],
     "online": true,
@@ -7953,7 +7976,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777189840708,
+    "lastSeen": 1777189870687,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
