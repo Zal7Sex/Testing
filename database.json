@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178066905,
+    "lastSeen": 1777178072717,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (19 pesan): ~ hanma back era",
+        "content": "p",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178075070
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (18 pesan): ~ P1",
+        "content": "Hei karbit, teruslah menjadi karbit. Temukan gambar istri barumu di saluran kami:\nhttps://whatsapp.com/channel/0029Vay0gom9cDDSRxFMgh2b\n\n- Ingin menghilangkan iklan seperti ini? upgrade grup kamu ke VIP/VVIP dengan command !VIP",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178069888
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎76 pesan dari 2 chat",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178069875
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎75 pesan dari 2 chat",
+        "time": "26/04 12:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178069620
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (17 pesan): ~ wanglin",
@@ -3987,38 +4019,6 @@
         "time": "26/04 11:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173192738
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (134 pesan): ~ sasa sikma",
-        "content": "📷 ngentot yuk",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173192704
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (179 pesan): ~ kkeu",
-        "content": "siapa cakepbbgt",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173192700
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (172 pesan): ~ 黒羽_",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173192696
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1152 pesan dari 19 chat",
-        "time": "26/04 11:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173191530
       }
     ],
     "galleryPhotos": [],
