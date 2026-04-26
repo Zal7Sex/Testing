@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎6 pesan baru",
+        "time": "26/04 12:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178699938
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (6 pesan): ~ P1",
         "content": "💟 Stiker",
         "time": "26/04 12:55",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173253015
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (139 pesan): ~ petani ngawi",
-        "content": "📷 ‎1 foto",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173252991
       }
     ],
     "galleryPhotos": [],
