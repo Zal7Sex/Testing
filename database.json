@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777174898580,
+    "lastSeen": 1777174903246,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "26/04 11:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777174903495
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173072285
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (172 pesan): ~ 黒羽_",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173072155
       }
     ],
     "galleryPhotos": [],
