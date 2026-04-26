@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777179796230,
+    "lastSeen": 1777179799220,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎20 pesan baru",
+        "time": "26/04 13:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179801444
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (20 pesan): ~ hanma back era",
+        "content": "mau yang permanen mah lu datangin pusat WhatsApp nya aja lu blockir",
+        "time": "26/04 13:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179801381
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (19 pesan): ~ ?",
+        "content": "masi kurang gacor",
+        "time": "26/04 13:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179797636
+      },
       {
         "appName": "WhatsApp",
         "sender": "Pegasus-X Room",
@@ -3995,30 +4019,6 @@
         "time": "26/04 11:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173333274
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎[𝐃𝐖𝐁] 𝐃𝐀𝐄𝐑𝐀𝐇 𝐖𝐎𝐍𝐆 𝐁𝐀𝐂𝐎𝐓 || 𝐍𝐄𝐖 𝐄𝐑𝐀 (107 pesan): ~ amalia💤",
-        "content": "Ken😭",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173333185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (95 pesan): ~ someone",
-        "content": "🗿",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173333021
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (140 pesan): ~ petani ngawi",
-        "content": "📷 ‎‎2 foto, ‎1 video",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173332883
       }
     ],
     "galleryPhotos": [],
