@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173397216,
+    "lastSeen": 1777173400266,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "📡 Undangan admin saluran",
+        "time": "26/04 11:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173401821
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1212 pesan dari 19 chat",
+        "time": "26/04 11:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173399650
+      },
       {
         "appName": "WhatsApp",
         "sender": "jas",
