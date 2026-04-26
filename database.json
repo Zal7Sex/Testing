@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777179880304,
+    "lastSeen": 1777179891839,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (33 pesan): ~ ?",
+        "content": "gausa dh, kurang gacor bug ny",
+        "time": "26/04 13:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179892259
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎31 pesan baru",
+        "time": "26/04 13:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179886675
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎32 pesan baru",
+        "time": "26/04 13:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179886584
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (32 pesan): ~ orva",
+        "content": "Dana",
+        "time": "26/04 13:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179886539
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (31 pesan): ~ hanma back era",
@@ -3987,38 +4019,6 @@
         "time": "26/04 11:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173337779
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (96 pesan): ~ someone",
-        "content": "pengen balikan sm topan🥺",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173337603
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (50 pesan): ~ ARM STORE [7855]",
-        "content": "📷 FORMAT JUAL/CARI BY ARM STORE\n[BUKAN ADMIN YG NEED/JUAL]\nJual / Cari:jual\nHarga:120inc\nLog: bind \nSpek:liat\nMc : ARM STORE [JANGAN DI GANTI]\nNomer:085781370489\n\nWajib Menggunakan Mc ARM STORE Biar Terhindar Dari Penipuan",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173337411
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173337405
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (181 pesan): ~ rafi ahmad",
-        "content": "tolol anjg",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173337109
       }
     ],
     "galleryPhotos": [],
