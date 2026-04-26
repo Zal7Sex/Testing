@@ -21,6 +21,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Messages",
+        "sender": "IM3 PROMO",
+        "content": "Bisa banget dapat extra kuota dengan Isi pulsa min.10rb loh!Promo ini BISA digabung dgn promo lainnya, Yuk! Isi pulsa skrng dmn aja.",
+        "time": "26/04 16:15",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777190661507
+      },
+      {
         "appName": "WhatsApp",
         "sender": "𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹",
         "content": "👋 ~ claraa ingin mengobrol sekarang. Ayo gabung ke percakapan!",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:29",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173518067
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1232 pesan dari 19 chat",
-        "time": "26/04 11:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173516788
       }
     ],
     "galleryPhotos": [],
@@ -7976,7 +7976,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777190650811,
+    "lastSeen": 1777190661220,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
