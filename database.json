@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173678883,
+    "lastSeen": 1777173683688,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1247 pesan dari 19 chat",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173684558
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "dapet salam dari mantan",
+        "time": "26/04 11:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173684547
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1777172944750
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (48 pesan): ~ Fluxo Cruel",
-        "content": "Log mt",
-        "time": "26/04 11:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172944444
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1071 pesan dari 19 chat",
-        "time": "26/04 11:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777172942826
       }
     ],
     "galleryPhotos": [],
