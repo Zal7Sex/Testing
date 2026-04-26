@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777179157372,
+    "lastSeen": 1777179162708,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -4053,6 +4053,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "~ 𝓪𝓭𝓲𝓫𝓪 𝓬𝓪𝓷𝓽𝓲𝓴 😜🤪: 📷 Foto",
+        "time": "26/04 12:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179163143
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members: ~ 𝓪𝓭𝓲𝓫𝓪 𝓬𝓪𝓷𝓽𝓲𝓴 😜🤪",
+        "content": "📷 Foto",
+        "time": "26/04 12:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179163122
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "~ rizzzzx: 📷 Foto",
+        "time": "26/04 12:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179163111
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Cwe cantik[(/ only 7 members",
+        "content": "~ 𝓪𝓭𝓲𝓫𝓪 𝓬𝓪𝓷𝓽𝓲𝓴 😜🤪: 📷 Foto",
+        "time": "26/04 12:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777179163101
+      },
       {
         "appName": "WhatsApp",
         "sender": "Cwe cantik[(/ only 7 members",
