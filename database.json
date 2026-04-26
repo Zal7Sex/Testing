@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777173146216,
+    "lastSeen": 1777173149651,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (45 pesan): ~ adalah pokoknya 😛",
+        "content": "Lgi?",
+        "time": "26/04 11:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777173151117
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
