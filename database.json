@@ -362,7 +362,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777332939370,
+    "lastSeen": 1777332942449,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -378,6 +378,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Pencadangan sedang berlangsung",
+        "content": "Mengunggah: 98 MB dari 119 MB (82%)",
+        "time": "28/04 06:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777332944184
+      },
       {
         "appName": "WhatsApp",
         "sender": "Pencadangan sedang berlangsung",
