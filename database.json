@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777249460195,
+    "lastSeen": 1777249541888,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777249526138,
+    "lastSeen": 1777249541146,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎6 pesan dari 3 chat",
+        "time": "27/04 08:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249527463
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎BUNDA REMPONG (2 pesan): ~ Nasi Goreng Bang Husaein",
