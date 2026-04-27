@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777332851173,
+    "lastSeen": 1777332854071,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -378,6 +378,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Pencadangan sedang berlangsung",
+        "content": "Mengunggah: 33 MB dari 119 MB (28%)",
+        "time": "28/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777332854905
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pencadangan sedang berlangsung",
+        "content": "Mengunggah: 32 MB dari 119 MB (27%)",
+        "time": "28/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777332854463
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pencadangan sedang berlangsung",
+        "content": "Mengunggah: 31 MB dari 119 MB (26%)",
+        "time": "28/04 06:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777332853675
+      },
       {
         "appName": "WhatsApp",
         "sender": "Pencadangan sedang berlangsung",
