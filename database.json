@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777329844731,
+    "lastSeen": 1777329853711,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -92,6 +92,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Menghapus pesan…",
+        "content": "‎51 dari 51 (100%)",
+        "time": "28/04 05:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777329853844
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎13 pesan dari 2 chat",
         "time": "27/04 15:22",
@@ -146,7 +154,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777329846117,
+    "lastSeen": 1777329852123,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
