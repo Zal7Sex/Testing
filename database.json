@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777249931493,
+    "lastSeen": 1777249934499,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎BUNDA REMPONG (24 pesan): ~ Nasi Goreng Bang Husaein",
+        "content": "Kalau senin rabu seminggu 2 x ibu ibu majelis dilirong dr iqro sdh samoe Alqur an skrg, jrna dah jln 3 thn",
+        "time": "27/04 08:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249936360
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎29 pesan dari 4 chat",
+        "time": "27/04 08:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249936303
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "27/04 08:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249935599
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
