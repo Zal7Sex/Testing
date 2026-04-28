@@ -450,7 +450,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777349110480,
+    "lastSeen": 1777349113483,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -4483,7 +4483,7 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777349109430,
+    "lastSeen": 1777349112519,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
@@ -4499,6 +4499,110 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Davii・10820 pesan baru dari 54 obrolan",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349113558
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112456
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112441
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112416
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112409
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112399
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112344
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112312
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・19771 pesan baru dari 154 obrolan",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112236
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112171
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349112022
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349111991
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349111924
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram: Pengguna",
