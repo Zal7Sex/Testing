@@ -23,6 +23,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎1411 pesan dari 17 chat",
+        "time": "28/04 19:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777374327640
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎1413 pesan dari 18 chat",
         "time": "28/04 19:15",
         "pkg": "com.whatsapp",
@@ -4011,14 +4019,6 @@
         "time": "28/04 19:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1777373707218
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (94 pesan): ~ dilz",
-        "content": "📄 🤖 Bot Bukan Admin! Jadikan bot sebagai Admin grup dulu biar bisa kerja.",
-        "time": "28/04 19:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777373707209
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777374308227,
+    "lastSeen": 1777374326321,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
