@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1332 pesan dari 17 chat",
+        "time": "28/04 19:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376894451
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (267 pesan): ~ kangenhanum",
+        "content": "🤤🤤",
+        "time": "28/04 19:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376891024
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀: ~ komar mania",
+        "content": "💟 Stiker",
+        "time": "28/04 19:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376890556
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1331 pesan dari 16 chat",
+        "time": "28/04 19:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376890544
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (44 pesan): ~ ￶",
         "content": "lu belum tau prime gw yg bilang itu duluan pas 2021",
         "time": "28/04 19:59",
@@ -3987,38 +4019,6 @@
         "time": "28/04 19:50",
         "pkg": "com.whatsapp",
         "receivedAt": 1777376387973
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (19 pesan): ~ qedekid heker wangsaft",
-        "content": "💟 Stiker",
-        "time": "28/04 19:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376387856
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (21 pesan): ~ James Alexander",
-        "content": "🔗 𝗖𝗘𝗘𝗦 𝗡𝗚𝗔𝗪𝗜 🇩🇪🙌✨ | https://chat.whatsapp.com/B8tXGrIRaZt92N1ZgZvtGB?mode=gi_t\nWOI JOIN SINI MULAI BERGAUL DAN BERSOSIALISASI NGENTOD🤓",
-        "time": "28/04 19:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376387814
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (9 pesan): ~ wanglin",
-        "content": "Ingin punya bot sendiri GRATIS?\nGunakan command !Jadibot\n\n⚠️ PERHATIAN:\n- Nomor ini bukan milik admin resmi.\n- Info dan update bot: https://whatsapp.com/channel/0029VaF8y0ZDJ6H9O1Gwv93T\n- Cek FAQ: !Faq\n- Aturan Penggunaan: !Rules",
-        "time": "28/04 19:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376387762
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1622 pesan dari 16 chat",
-        "time": "28/04 19:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376383962
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777376887535,
+    "lastSeen": 1777376893618,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
