@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Downloading 43 videos",
+        "content": "from 𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48 and 42 more files",
+        "time": "29/04 06:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777415650552
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (601 pesan): ~ 𝔷𝔞𝔦𝔟𝔲𝔷𝔞𝔦",
         "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
         "time": "29/04 06:45",
@@ -4011,14 +4019,6 @@
         "time": "29/04 06:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1777415541087
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (53 pesan): ~ irsyad Green flag",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "29/04 06:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777415540673
       }
     ],
     "galleryPhotos": [],
