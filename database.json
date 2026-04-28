@@ -23,6 +23,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎1385 pesan dari 17 chat",
+        "time": "28/04 19:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777374061798
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎1384 pesan dari 17 chat",
         "time": "28/04 19:11",
         "pkg": "com.whatsapp",
@@ -5308,7 +5316,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777374057581,
+    "lastSeen": 1777374060546,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
