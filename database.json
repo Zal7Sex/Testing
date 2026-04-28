@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎505 pesan dari 15 chat",
+        "time": "29/04 07:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777420086957
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎504 pesan dari 15 chat",
+        "time": "29/04 07:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777420083063
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (44 pesan): ~ ⸸𝐑𝐄𝐍//𝐕𝐓𝐂//𝐕𝐄𝐑𝐎𝐒//𝟐𝟐𝟓/𝟏𝟎𝟑",
         "content": "#renasukaiqis",
         "time": "29/04 07:58",
@@ -4003,22 +4019,6 @@
         "time": "29/04 07:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1777418991943
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Sending video to memet",
-        "time": "29/04 07:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777418991686
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Sending video to memet",
-        "time": "29/04 07:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777418991433
       }
     ],
     "galleryPhotos": [],
