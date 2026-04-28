@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1399 pesan dari 16 chat",
+        "time": "28/04 20:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377203464
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (264 pesan): ~ _",
+        "content": "📷 50k yang minat bisa langsung peem aja mas",
+        "time": "28/04 20:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377203450
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (11 pesan): ~ ‎",
+        "content": "jm 12 jgn off, kdt jm sgt",
+        "time": "28/04 20:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377200690
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (483 pesan): ~ ~~B",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "28/04 20:04",
@@ -3995,30 +4019,6 @@
         "time": "28/04 19:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1777376654753
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (245 pesan): ~ dozx store",
-        "content": "📷 READY STOK DOZX STORE\nGACOR PARAH\nHARGA : 120\nLOG GOOGLE SEPAKET BIND\nALLREFF SEUMUR HIDUP\nMINAT CHAT SILAHKAN MINTA NOPE/QR\n\n WA BELI AKUN 1 : 085783496854\nWA BELI AKUN 2 : 085764064105\nWA BELI AKUN 3 : 085830063199\n\nSIAP TAMPUNG BANYAK AKUN FF ML YANG KALIAN PUNYA HARGA COCOK GAS\nTAWARIN KE WA : 085764064105",
-        "time": "28/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376654704
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1292 pesan dari 15 chat",
-        "time": "28/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376654687
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1291 pesan dari 15 chat",
-        "time": "28/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376653942
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777377196806,
+    "lastSeen": 1777377203044,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
