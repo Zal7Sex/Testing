@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1280 pesan dari 15 chat",
+        "time": "28/04 19:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376645196
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (7 pesan): ~ .",
+        "content": "💟 Stiker",
+        "time": "28/04 19:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376645179
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1279 pesan dari 15 chat",
+        "time": "28/04 19:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376642432
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (34 pesan): ~ qedekid heker wangsaft",
         "content": "📷 Foto",
         "time": "28/04 19:54",
@@ -3995,30 +4019,6 @@
         "time": "28/04 19:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1777376071642
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (52 pesan): ~ aan.",
-        "content": "💟 Stiker",
-        "time": "28/04 19:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376071041
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1718 pesan dari 17 chat",
-        "time": "28/04 19:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376071029
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (25 pesan): ~ INFINITY SATURN-X",
-        "content": "Reseller",
-        "time": "28/04 19:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376069540
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777376641274,
+    "lastSeen": 1777376644292,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
