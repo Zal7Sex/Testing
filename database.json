@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (4 pesan): ~ Valz Str [01]",
+        "content": "🔗 valz stuk kalu mud. | 𝗥𝗔𝗠𝗘 𝗜𝗡 𝗠𝗔𝗦𝗨𝗞 𝗔𝗝𝗔 \nSALURAN UTAMA\nhttps://whatsapp.com/channel/0029Vb7aNR37j6gAgImQiu1K\nSALURAN KEDUA\nhttps://whatsapp.com/channel/0029VbBpFqU0lwgrYihZRZ2o\n𝙅𝘽 1 || 𝙆𝙄𝙉𝙂 𝙑𝘼𝙇𝙕 \nhttps://chat.whatsapp.com/C2zPkQKKChzLGhrZf37vCH?mode=gi_𝙩\n𝙅𝘽 2 || 𝙆𝙄𝙉𝙂 𝙑𝘼𝙇𝙕\nhttps://chat.whatsapp.com/LyEdszUPXjDCKx1kidvdjG?mode=gi_t",
+        "time": "28/04 19:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376707200
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1303 pesan dari 15 chat",
         "time": "28/04 19:56",
@@ -4011,14 +4019,6 @@
         "time": "28/04 19:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1777376238047
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1747 pesan dari 17 chat",
-        "time": "28/04 19:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376238032
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777376701337,
+    "lastSeen": 1777376704332,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
