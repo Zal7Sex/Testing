@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎541 pesan dari 16 chat",
+        "time": "29/04 07:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777417874897
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (70 pesan): ~ albiii197",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 07:22",
@@ -4011,14 +4019,6 @@
         "time": "29/04 07:09",
         "pkg": "com.whatsapp",
         "receivedAt": 1777417123305
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (22 pesan): ~ Yahya",
-        "content": "📷 Dadah @⁨~.⁩\nSelamat Tinggal Dari Group 7Sex Message\n!\nPatuhi Rules Yang Ada\n\n.\nundefined\n",
-        "time": "29/04 07:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777417123122
       }
     ],
     "galleryPhotos": [],
