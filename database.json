@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777380309667,
+    "lastSeen": 1777380312677,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "katanya mau kasi ke buyer lain kan banyk  yg mau",
+        "time": "28/04 19:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380315082
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 852-3694-0729",
@@ -9411,14 +9419,6 @@
         "time": "28/04 06:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1777331007164
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "jb|| All GAME JAWAA",
-        "content": "👋 ~ gaddw ingin mengobrol sekarang. Ayo gabung ke percakapan!",
-        "time": "28/04 01:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777314702099
       }
     ],
     "galleryPhotos": [],
