@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎366 pesan dari 14 chat",
+        "time": "28/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378852029
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (7 pesan): ~ someone",
         "content": "anjer tiba' bgt",
         "time": "28/04 20:31",
@@ -4011,14 +4019,6 @@
         "time": "28/04 20:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777378298005
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡",
-        "content": "👋 ~ anggun. ingin mengobrol sekarang. Ayo gabung ke percakapan!",
-        "time": "28/04 20:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378295172
       }
     ],
     "galleryPhotos": [],
