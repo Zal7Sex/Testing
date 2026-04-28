@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡",
+        "content": "👋 ~ anggun. ingin mengobrol sekarang. Ayo gabung ke percakapan!",
+        "time": "28/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378295155
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎317 pesan dari 14 chat",
+        "time": "28/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378291755
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (7 pesan): ~ kholo kur kur",
         "content": "itu yg ppnya nampak biji apus dlu jir 😅😅😅😥",
         "time": "28/04 20:22",
@@ -4003,22 +4019,6 @@
         "time": "28/04 20:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1777377772481
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1095 pesan dari 17 chat",
-        "time": "28/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377772469
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (7 pesan): ~ 3",
-        "content": "🔗 FILE TERMURAH | https://chat.whatsapp.com/DXGtapzdMyeGSHqbZc4SCx\nTOLONG JOIN NANTI 30 MEBER ADA FILE GACORR",
-        "time": "28/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377772459
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777378290512,
+    "lastSeen": 1777378293513,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
