@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "+62 887-0544-8747",
+        "content": "Minta apk bug",
+        "time": "29/04 07:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777419887691
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "STOKK || NIAGA STORE🛒: ~ raditzx cruel",
+        "content": "OPEN PP GRUB 50K 80 MEM -1 SLOT",
+        "time": "29/04 07:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777419887680
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎464 pesan dari 17 chat",
         "time": "29/04 07:55",
@@ -4003,22 +4019,6 @@
         "time": "29/04 07:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1777418514185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐: ~ ༒︎ra♱#𝙻𝚂𝚃𝙲/𝕬𝕭𝖄𝕾𝕾/𝟐𝟐𝟓 𝐀𝐑𝐄𝐀",
-        "content": "① Foto",
-        "time": "29/04 07:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777418514168
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "STOKK || NIAGA STORE🛒: ~ raditzx cruel",
-        "content": "OPEN PP GRUB 50K 80 MEM -1 SLOT",
-        "time": "29/04 07:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777418514150
       }
     ],
     "galleryPhotos": [],
