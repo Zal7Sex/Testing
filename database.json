@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1402 pesan dari 18 chat",
+        "time": "28/04 19:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777374214121
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (2 pesan): ~ wanglin",
+        "content": "🔗 DISCLAIMER | https://whatsapp.com/channel/0029VaF8y0ZDJ6H9O1Gwv93T\n\nDISCLAIMER (BACA DENGAN SEKSAMA)\n\n- Jangan membeli membership / menyewa bot lewat nomor ini. Beli hanya melalui command !Admin.\n- Arisu Soft bukan pemilik nomor ini, segala hal yang berkaitan dengan nomor ini bukan tanggung jawab admin.\n- Pemilik nomor ini mungkin akan melihat chat kamu, jaga kerahasiaan informasi pribadimu.\n\n> Dengan menggunakan bot ini, Anda menyetujui bahwa seluruh interaksi dan konsekuensinya menjadi tanggung jawab Anda sendiri.",
+        "time": "28/04 19:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777374214101
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Pegasus-X Room: ~ albannn:>",
         "content": ".s",
         "time": "28/04 19:14",
@@ -4003,22 +4019,6 @@
         "time": "28/04 19:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1777373686835
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1288 pesan dari 15 chat",
-        "time": "28/04 19:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777373686732
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (93 pesan): ~ zwyrm2",
-        "content": "📷 nokos indo 4k\naplikasi am prem murah 1 tahun\nprice💰: 2k\nemail dari buyer\nprice💰: 500p\nemail dari seller\napk bioskop\nprice💰: 1k\napk suntik sosmed\nprice💰: 1k\n-bisa lu suntik sepuasnya\n-bisa di jual lagi\n-apknya bisa suntik ch lu\nharus isi sldo dulu biar bisa suntik\nragu? mc, direct testi ada\nhttps://wa.me/+6289676449603\nhttps://wa.me/+628979567372\n`cek keamanan gw`\nhttps://whatsapp.com/channel/0029VbCVPZNCBtxIkNC2cm3M",
-        "time": "28/04 19:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777373686148
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777374200129,
+    "lastSeen": 1777374212140,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777374201785,
+    "lastSeen": 1777374213726,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
