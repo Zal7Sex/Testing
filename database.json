@@ -450,7 +450,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777346538989,
+    "lastSeen": 1777346540734,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -466,6 +466,102 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "📷 ‎7 foto",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346542453
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "‎2 pesan baru",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346542262
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "‎2 pesan baru",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346542254
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "📷 ‎6 foto",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346542247
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "‎2 pesan baru",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346541981
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "📷 ‎5 foto",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346541973
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "📷 ‎4 foto",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346541639
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "‎2 pesan baru",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346541632
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "📷 ‎3 foto",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346541259
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "‎2 pesan baru",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346541122
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "📷 ‎2 foto",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346540885
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8072-3814",
+        "content": "‎2 pesan baru",
+        "time": "28/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777346540665
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 831-8072-3814",
