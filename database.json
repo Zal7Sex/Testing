@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎514 pesan dari 14 chat",
+        "time": "29/04 08:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777420397119
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (126 pesan): ~ fhariz orang sigma",
         "content": "💟 Stiker",
         "time": "29/04 08:03",
@@ -4011,14 +4019,6 @@
         "time": "29/04 07:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1777419977782
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 887-0544-8747",
-        "content": "Minta apk bug",
-        "time": "29/04 07:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777419977659
       }
     ],
     "galleryPhotos": [],
