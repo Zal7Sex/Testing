@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (52 pesan): ~ kangenhanum",
+        "content": ".s",
+        "time": "28/04 20:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377720742
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1136 pesan dari 17 chat",
+        "time": "28/04 20:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377720728
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1135 pesan dari 17 chat",
         "time": "28/04 20:12",
@@ -4003,22 +4019,6 @@
         "time": "28/04 20:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1777377268395
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (61 pesan): ~ qedekid heker wangsaft",
-        "content": "@⁨~shinigami ryuk⁩ .getpp",
-        "time": "28/04 20:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377268348
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1410 pesan dari 16 chat",
-        "time": "28/04 20:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377255492
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777377716662,
+    "lastSeen": 1777377719647,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
