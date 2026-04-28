@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (472 pesan): ~ Rohman yaa",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "28/04 19:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777375815395
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1654 pesan dari 17 chat",
+        "time": "28/04 19:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777375811530
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (320 pesan): ~ waganao shadow",
         "content": "📷 Foto",
         "time": "28/04 19:41",
@@ -4003,22 +4019,6 @@
         "time": "28/04 19:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1777375316216
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (4 pesan): ~ Hahah",
-        "content": "Gak perlu gua beli kalo free",
-        "time": "28/04 19:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375316200
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (157 pesan): ~ ‎",
-        "content": "Sampo",
-        "time": "28/04 19:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375316098
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777375810540,
+    "lastSeen": 1777375812685,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
