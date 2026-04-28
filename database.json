@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777367885401,
+    "lastSeen": 1777367894405,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -1403,7 +1403,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777367886908,
+    "lastSeen": 1777367895840,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5423,8 +5423,24 @@
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
-    "lastGps": null,
-    "gpsList": [],
+    "lastGps": {
+      "latitude": -6.905106033333334,
+      "longitude": 109.15800114999999,
+      "accuracy": 1.8676039,
+      "altitude": 61.81,
+      "provider": "gps",
+      "timestamp": 1777367895292
+    },
+    "gpsList": [
+      {
+        "latitude": -6.905106033333334,
+        "longitude": 109.15800114999999,
+        "accuracy": 1.8676039,
+        "altitude": 61.81,
+        "provider": "gps",
+        "timestamp": 1777367895292
+      }
+    ],
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
