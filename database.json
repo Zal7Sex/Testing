@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1596 pesan dari 17 chat",
+        "time": "28/04 19:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777375657671
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (11 pesan): ~ ALI",
         "content": "Wah gw uda gugur wak",
         "time": "28/04 19:38",
@@ -4011,14 +4019,6 @@
         "time": "28/04 19:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1777375153734
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1556 pesan dari 17 chat",
-        "time": "28/04 19:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375153676
       }
     ],
     "galleryPhotos": [],
