@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎457 pesan dari 16 chat",
+        "time": "29/04 07:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777419803542
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (13 pesan): ~ Xin Chào",
         "content": "💟 Stiker",
         "time": "29/04 07:54",
@@ -4011,14 +4019,6 @@
         "time": "29/04 07:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1777418466207
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (22 pesan): ~ Yahya",
-        "content": "📷 Dadah @⁨~.⁩\nSelamat Tinggal Dari Group 7Sex Message\n!\nPatuhi Rules Yang Ada\n\n.\nundefined\n",
-        "time": "29/04 07:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777418466181
       }
     ],
     "galleryPhotos": [],
