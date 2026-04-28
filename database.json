@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777382027285,
+    "lastSeen": 1777382030050,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Anda",
+        "content": "Gmn mas",
+        "time": "28/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777382032664
+      },
       {
         "appName": "WhatsApp",
         "sender": "GB ALL GAME V¹ | REGZ STORE: ~ BURRSHOP",
@@ -9411,14 +9419,6 @@
         "time": "28/04 06:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332845836
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 16 MB dari 119 MB (13%)",
-        "time": "28/04 06:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332845476
       }
     ],
     "galleryPhotos": [],
@@ -13486,7 +13486,7 @@
     "deviceName": "HP-SIPAGANESA-9F2F",
     "ownerUsername": "ikiygasima",
     "token": "7f17444d03b5a9a44ba6ab92faf2b179",
-    "lastSeen": 1777382024902,
+    "lastSeen": 1777382030962,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T13:01:23.543Z",
