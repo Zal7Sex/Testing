@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀: ~ komar mania",
+        "content": "wop",
+        "time": "28/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376397934
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (234 pesan): ~ — 𝐉𝐚𝐯𝐚𝐬 ‘ 𝐙𝐨𝐥𝐝𝐲𝐜𝐤",
+        "content": "Jalan becek",
+        "time": "28/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376397717
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1302 pesan dari 15 chat",
+        "time": "28/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376397699
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1301 pesan dari 15 chat",
         "time": "28/04 19:50",
@@ -3995,30 +4019,6 @@
         "time": "28/04 19:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1777375766224
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (12 pesan): ~ wanglin",
-        "content": "Sayonara @⁨+62 881-8259-178⁩",
-        "time": "28/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375766197
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (201 pesan): ~ nior",
-        "content": "𝒀𝑨𝑵𝑮 𝑴𝑨𝑼 𝑩𝑬𝑳𝑰 𝑨𝑷𝑲 𝑩𝑼𝑮 𝑮𝑨𝑪𝑶𝑹 𝑩𝑰𝑲𝑰𝑵 𝑾𝑨 𝑪𝑬𝑵𝑻𝑨𝑵𝑮 𝟏 𝑷𝑴 𝑨𝑱𝑨 𝑬𝒀𝒀 𝑴𝑼𝑹𝑨𝑯",
-        "time": "28/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375766186
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1638 pesan dari 17 chat",
-        "time": "28/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375766025
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777376389100,
+    "lastSeen": 1777376395534,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
