@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎533 pesan dari 15 chat",
+        "time": "29/04 08:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777420794564
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (6 pesan): ~ only u 🐱",
         "content": "p",
         "time": "29/04 08:10",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420144941
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "STOKK || NIAGA STORE🛒: ~ raditzx cruel",
-        "content": "OPEN PP GRUB 50K 80 MEM -1 SLOT",
-        "time": "29/04 08:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420144616
       }
     ],
     "galleryPhotos": [],
