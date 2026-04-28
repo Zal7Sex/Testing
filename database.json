@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (36 pesan): eric eric",
+        "content": "kontol",
+        "time": "28/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777379121662
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎191 pesan dari 13 chat",
+        "time": "28/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777379121648
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (6 pesan): ~ Terang bulan",
+        "content": "🎮 TEBAK KATA\n\nMakhluk Hidup, Matador, Tanduk\n\n⏳ Reply pesan ini untuk menjawab\nKetik nyerah untuk menyerah",
+        "time": "28/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777379115894
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎190 pesan dari 13 chat",
+        "time": "28/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777379115878
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (5 pesan): ~ kangenhanum",
         "content": ".tebakkata",
         "time": "28/04 20:36",
@@ -3987,38 +4019,6 @@
         "time": "28/04 20:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777378614351
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "kheyyy",
-        "content": "Menyukai status Anda",
-        "time": "28/04 20:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378614284
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (10 pesan): ~ wanglin",
-        "content": "💟 Stiker",
-        "time": "28/04 20:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378612509
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎370 pesan dari 15 chat",
-        "time": "28/04 20:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378612496
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (9 pesan): ~ orva",
-        "content": "!SBrat bro pikir diri nya paling wah",
-        "time": "28/04 20:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378611790
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777379113760,
+    "lastSeen": 1777379119487,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
