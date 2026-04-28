@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777349111556,
+    "lastSeen": 1777349114356,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -4483,7 +4483,7 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777349112519,
+    "lastSeen": 1777349115516,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
@@ -4499,6 +4499,94 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349115633
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349115582
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349115565
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・19773 pesan baru dari 155 obrolan",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349115452
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349114015
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349113819
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349113782
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349113737
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349113725
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349113652
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:05",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777349113645
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
