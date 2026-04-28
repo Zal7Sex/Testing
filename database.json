@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1293 pesan dari 15 chat",
+        "time": "28/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376444982
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (3 pesan): ~ ‎",
+        "content": "sy ajh tg",
+        "time": "28/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376443572
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (20 pesan): ~ VerXz • 𝕹𝕰𝖃𝕾𝖀𝕾 ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
         "content": "💟 Stiker",
         "time": "28/04 19:51",
@@ -4003,22 +4019,6 @@
         "time": "28/04 19:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1777375815655
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (4 pesan): ~ 𝟒𝐈𝐒𝐈𝐒 | 𝐕𝐀𝐋𝐋 ️ş̵̛̳̍̃̏͆̏̂̎͌͘͝͝͝͝",
-        "content": "mengeluarkan anda",
-        "time": "28/04 19:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375815575
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (6 pesan): ~ yapikkkk",
-        "content": "napa",
-        "time": "28/04 19:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375815407
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777376440524,
+    "lastSeen": 1777376443232,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
