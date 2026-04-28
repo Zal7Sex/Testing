@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777353720998,
+    "lastSeen": 1777353727004,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -466,7 +466,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777353720997,
+    "lastSeen": 1777353726978,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -482,6 +482,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ibu Syantik",
+        "content": "Telepon suara tak terjawab",
+        "time": "28/04 12:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777353728113
+      },
       {
         "appName": "WhatsApp",
         "sender": "Ibu Syantik",
@@ -4473,14 +4481,6 @@
         "time": "27/04 19:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1777294474123
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4 pesan dari 2 chat",
-        "time": "27/04 19:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777294472321
       }
     ],
     "galleryPhotos": [],
