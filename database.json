@@ -26,6 +26,14 @@
         "content": "‎‎1288 pesan dari 15 chat",
         "time": "28/04 19:05",
         "pkg": "com.whatsapp",
+        "receivedAt": 1777373683843
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1288 pesan dari 15 chat",
+        "time": "28/04 19:05",
+        "pkg": "com.whatsapp",
         "receivedAt": 1777373682044
       },
       {
@@ -397,7 +405,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777373680777,
+    "lastSeen": 1777373683581,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -1732,7 +1740,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777373679156,
+    "lastSeen": 1777373682165,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
