@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎361 pesan dari 14 chat",
+        "time": "28/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378832852
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (3 pesan): ~ ~~B",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "28/04 20:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378829039
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd: ~ gsz",
         "content": "📷 Polosan lumut op pm",
         "time": "28/04 20:31",
@@ -4003,22 +4019,6 @@
         "time": "28/04 20:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1777378241454
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (5 pesan): ~ 𝟒𝐈𝐒𝐈𝐒 | 𝐂𝐄𝐌𝐎𝐋𝐋",
-        "content": "Wkwkwk 😹🥺",
-        "time": "28/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378241443
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎337 pesan dari 15 chat",
-        "time": "28/04 20:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378239888
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777378826020,
+    "lastSeen": 1777378831155,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
