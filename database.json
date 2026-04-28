@@ -450,7 +450,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777348888265,
+    "lastSeen": 1777348891279,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -4498,7 +4498,64 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "🇮🇩Information cyphxsec ID🇮🇩",
+        "content": "📷 ✅DONE NOKOS\n[ NusanokosID ]\n---\n-> [🌎] Number negara : indonesia🇮🇩\n-> [💰] Harga / Price : 5k\n-> [🚨] keterangan : ready stok\n-> [📦] Mulai harga nokos : 4k\n-> [💸] Total harga : 10k\n-> [💳] Tipe nokos : fresh\n-> [📞] Kode Negara : +62\n\n🛍 JUMLAH PEMBELIAN NOKOS \n👉 : 2\n\n🌟list harga nokos :\nhttps://t.me/NUSANOKOSID\n✅testimoni : https://t.me/cyphxsectestimoni\nJoin all grup : https://t.me/addlist/DEKAMM18tLhmOTU1\n\nOrder? t.me/cyphxsec",
+        "time": "28/04 11:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777348891707
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "🇮🇩Information cyphxsec ID🇮🇩",
+        "content": "‎6 pesan baru",
+        "time": "28/04 11:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777348891702
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:01",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777348890423
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "28/04 11:01",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777348890409
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram: Pengguna",
+        "content": "Pesan baru",
+        "time": "28/04 11:01",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777348890284
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:01",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777348890236
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "Pesan baru",
+        "time": "28/04 11:01",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777348890208
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
