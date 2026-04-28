@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777381087403,
+    "lastSeen": 1777381117451,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB 8 ALLGAME FISBU🤑 [ REKBER WAJIB KE 085775321445 & 085775320523 SELAIN INI CLONE ) (780 pesan): Membalas Anda",
+        "content": "~ ,: brp",
+        "time": "28/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777381118748
+      },
       {
         "appName": "WhatsApp",
         "sender": "JB 17 ALLGAME FISBU🤑[ REKBER WAJIB KE 085775321445 &  085775320523  SELAIN INI CLONE )",
@@ -9411,14 +9419,6 @@
         "time": "28/04 06:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332838942
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 1,4 MB dari 119 MB (1%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332838133
       }
     ],
     "galleryPhotos": [],
