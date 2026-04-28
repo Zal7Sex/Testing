@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777350553038,
+    "lastSeen": 1777350555885,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -474,6 +474,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350557330
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending…",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350557253
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 852-3694-0729",
@@ -4457,22 +4473,6 @@
         "time": "27/04 18:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1777290404169
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎149 pesan dari 3 chat",
-        "time": "27/04 18:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290367113
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GC STOK RECEH👻 (5 pesan): ~ Ayu~stecuu🌚",
-        "content": "Toxic",
-        "time": "27/04 18:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290367109
       }
     ],
     "galleryPhotos": [],
@@ -4491,7 +4491,7 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777350554998,
+    "lastSeen": 1777350556454,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
@@ -4507,6 +4507,70 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******21\n• Waktu: 28/04/2026, 11.24",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350557262
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ROOM PUBLIC KAYZ: Group Help",
+        "content": "@Mz_Minzyy2 [1499862959] telah mengirim 🔗 Tautan yang tidak diperbolehkan. \nAksi: Saya memperingati dia (1/3) ❕ hingga 28 Apr 2026, 06.54.",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350557185
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ORDER OTP & SMM PANEL",
+        "content": "⪼━━━〔 💰 𝐃𝐄𝐏𝐎𝐒𝐈𝐓 𝐒𝐔𝐊𝐒𝐄𝐒 〕━━━⪻\n│\n│ ⟡ Nama       : Iynx\n│ ⟡ ID         : 1029138566\n│ ⟡ ID Deposit : RO20260428122347266926\n│ ⟡ Nominal    : Rp5.000\n│ ⟡ Total Saldo: Rp5.000\n│ ⟡ Metode     : QRIS\n│ ⟡ Status     : ✅ SUKSES\n│\n╰──────────────────────────\n🕐 28/4/2026, 11.24.52\n\n#DepositSukses",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350557177
+      },
+      {
+        "appName": "Telegram",
+        "sender": "BLAST WA FREE😋🤑: AABMMWEX",
+        "content": "YANG MAU NONTON IKLAN AJA DIBAYAR DISINI https://t.me/Pay_Plus_Bot/app?startapp=5900417149              BUKAN BLAST WA!!",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350557039
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗕𝗮𝘀𝗲 𝗡𝘂𝗺𝗯𝗲𝗿𝗼 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: 크귀여운 I 𝐊𝐒𝐓⁷࿐",
+        "content": "𝐌𝐮𝐫𝐭𝐚𝐠 𝐬𝐜𝐚𝐦 𝐟𝐚𝐤𝐞 𝐩𝐛",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350556965
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・19303 pesan baru dari 154 obrolan",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350556811
+      },
+      {
+        "appName": "Telegram",
+        "sender": "ORDER OTP & SMM PANEL",
+        "content": "⪼━━━〔 🔥 𝐆𝐀𝐒 𝐎𝐑𝐃𝐄𝐑! 〕━━━⪻\n\n🛒 GAS ORDER NOKOS DI BOT INI JURAGAN!\n\n◇ Auto order OTP cepat & murah\n◇ Deposit mudah via QRIS\n◇ Owner : @OyieQwrty\n\nYuk order sekarang! 😎",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350555965
+      },
+      {
+        "appName": "Telegram",
+        "sender": "CPANEL BY JMBT: ⏤͟͟𝐀𝐅 || Jmbt PanjangV2",
+        "content": "235P GAS G.A VPS",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350555777
+      },
       {
         "appName": "Telegram",
         "sender": "𝐈'𝐌 #𝐁͢𝐀𝐆⃕𝐀᷼𝐒𝐙 𝐋𝐘𝐎𝐑𝐀𝐀",
