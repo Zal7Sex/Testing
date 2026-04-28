@@ -21,6 +21,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WhatsApp",
+        "sender": "Tinjauan akun selesai",
+        "content": "Lihat informasi baru tentang akun WhatsApp Anda.",
+        "time": "29/04 02:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777405373170
+      },
+      {
         "appName": "Messages",
         "sender": "IM3 PROMO",
         "content": "Masi bisa dapat extra kuota min 1GB untuk kamu yg melakukan isi pulsa min.10rb loh!  Yuk langsung isi ulang sekarang",
@@ -4011,14 +4019,6 @@
         "time": "28/04 20:37",
         "pkg": "com.whatsapp",
         "receivedAt": 1777379183606
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (61 pesan): ~ 𝘿𝙚𝙢𝙤𝙭𝙮",
-        "content": "adek hibur lah abang",
-        "time": "28/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777379180956
       }
     ],
     "galleryPhotos": [],
