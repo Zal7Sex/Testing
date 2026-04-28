@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777381897803,
+    "lastSeen": 1777381924731,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE",
+        "content": "~ BURRSHOP: Tawarin akun tiktok gc mas\nTawarin akun tiktok gc mas\nTawarin akun tiktok gc mas",
+        "time": "28/04 20:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777381924938
+      },
       {
         "appName": "WhatsApp",
         "sender": "jb|| All GAME JAWAA",
@@ -9411,14 +9419,6 @@
         "time": "28/04 06:34",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332844858
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 13 MB dari 119 MB (11%)",
-        "time": "28/04 06:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332843989
       }
     ],
     "galleryPhotos": [],
@@ -13486,7 +13486,7 @@
     "deviceName": "HP-SIPAGANESA-9F2F",
     "ownerUsername": "ikiygasima",
     "token": "7f17444d03b5a9a44ba6ab92faf2b179",
-    "lastSeen": 1777381898852,
+    "lastSeen": 1777381923108,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T13:01:23.543Z",
