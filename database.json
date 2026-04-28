@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777380140670,
+    "lastSeen": 1777380147598,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "wet lagi makan",
+        "time": "28/04 19:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380150360
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-7933-3065",
+        "content": "Mauga masuk JB gw",
+        "time": "28/04 19:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380141247
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-7933-3065",
+        "content": "‎2 pesan baru",
+        "time": "28/04 19:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380141228
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-7933-3065",
+        "content": "P",
+        "time": "28/04 19:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380141139
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 831-7933-3065",
@@ -9387,38 +9419,6 @@
         "time": "28/04 01:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1777314691675
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "jb|| All GAME JAWAA",
-        "content": "👋 ~ gaddw ingin mengobrol sekarang. Ayo gabung ke percakapan!",
-        "time": "28/04 01:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777314682732
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "jb|| All GAME JAWAA",
-        "content": "👋 ~ gaddw ingin mengobrol sekarang. Ayo gabung ke percakapan!",
-        "time": "28/04 01:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777314682726
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "jb|| All GAME JAWAA",
-        "content": "👋 ~ puu ingin mengobrol sekarang. Ayo gabung ke percakapan!",
-        "time": "28/04 01:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777314537175
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "jb|| All GAME JAWAA",
-        "content": "👋 ~ puu ingin mengobrol sekarang. Ayo gabung ke percakapan!",
-        "time": "28/04 01:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777314526277
       }
     ],
     "galleryPhotos": [],
