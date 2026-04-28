@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (21 pesan): ~ qedekid heker wangsaft",
+        "content": "💟 Stiker",
+        "time": "28/04 19:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376464937
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1298 pesan dari 15 chat",
+        "time": "28/04 19:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376459273
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (223 pesan): ~ nior",
         "content": "𝒀𝑨𝑵𝑮 𝑴𝑨𝑼 𝑩𝑬𝑳𝑰 𝑨𝑷𝑲 𝑩𝑼𝑮 𝑮𝑨𝑪𝑶𝑹 𝑩𝑰𝑲𝑰𝑵 𝑾𝑨 𝑪𝑬𝑵𝑻𝑨𝑵𝑮 𝟏 𝑷𝑴 𝑨𝑱𝑨 𝑬𝒀𝒀 𝑴𝑼𝑹𝑨𝑯",
         "time": "28/04 19:51",
@@ -4003,22 +4019,6 @@
         "time": "28/04 19:41",
         "pkg": "com.whatsapp",
         "receivedAt": 1777375822610
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (40 pesan): ~ sasa wangsaf",
-        "content": "mau mati di tempat gak",
-        "time": "28/04 19:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375820335
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (202 pesan): ~ JB RULS STORE",
-        "content": "𝗮𝗱𝗺𝗶𝗻 𝘀𝗶𝗻𝗶 𝗯𝗶𝘀𝗮 𝗯𝗮𝗻𝘁𝘂 𝗺𝗰 𝗸𝗮𝗵",
-        "time": "28/04 19:41",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375820264
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777376458216,
+    "lastSeen": 1777376464133,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
