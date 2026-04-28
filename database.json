@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1650 pesan dari 17 chat",
+        "time": "28/04 19:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777375796169
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1649 pesan dari 17 chat",
+        "time": "28/04 19:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777375794001
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (40 pesan): ~ sasa wangsaf",
+        "content": "mau mati di tempat gak",
+        "time": "28/04 19:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777375793988
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1648 pesan dari 17 chat",
+        "time": "28/04 19:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777375793297
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (39 pesan): ~ Raffa Faris",
         "content": "Tunggu masuk dlu",
         "time": "28/04 19:40",
@@ -3987,38 +4019,6 @@
         "time": "28/04 19:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1777375308179
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (155 pesan): ~ kangenhanum",
-        "content": ". siapakahaku",
-        "time": "28/04 19:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375308086
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1583 pesan dari 16 chat",
-        "time": "28/04 19:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375305828
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (79 pesan): ~ i",
-        "content": "Jangan hitamin dulu",
-        "time": "28/04 19:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375305630
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (113 pesan): ~ ‎",
-        "content": "12 ajh gs, bocil biasanya jm sgt tidur",
-        "time": "28/04 19:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375300245
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777375791663,
+    "lastSeen": 1777375795453,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
