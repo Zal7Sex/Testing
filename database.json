@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎541 pesan dari 17 chat",
+        "time": "29/04 07:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777417612344
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (34 pesan): ~ ༒︎ra♱#𝙻𝚂𝚃𝙲/𝕬𝕭𝖄𝕾𝕾/𝟐𝟐𝟓 𝐀𝐑𝐄𝐀",
         "content": "kalian when😘",
         "time": "29/04 07:17",
@@ -4011,14 +4019,6 @@
         "time": "29/04 07:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1777417010043
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (73 pesan): Menyebut semua",
-        "content": "~ -Wirr str: @⁨semua⁩ sebarin 500 mem daget",
-        "time": "29/04 07:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777417010029
       }
     ],
     "galleryPhotos": [],
