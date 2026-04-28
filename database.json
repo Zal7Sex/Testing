@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (3 pesan): ~ gibran gii",
+        "content": "👾 GIF",
+        "time": "28/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378484742
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎363 pesan dari 16 chat",
+        "time": "28/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378481625
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (9 pesan): ~ someone",
+        "content": "mantaF",
+        "time": "28/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378481436
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎362 pesan dari 16 chat",
+        "time": "28/04 20:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378481354
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (21 pesan): ~ qedekid heker wangsaft",
         "content": "💟 Stiker",
         "time": "28/04 20:25",
@@ -3987,38 +4019,6 @@
         "time": "28/04 20:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1777377923458
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (14 pesan): ~ kholo kur kur",
-        "content": "jiji",
-        "time": "28/04 20:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377923441
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (493 pesan): ~ ell",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "28/04 20:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377923341
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (26 pesan): ~ 𝐜𝐲𝐚𝐚 𝐑𝐎𝐑 ||𝟏𝟏𝟔||𝟐𝟐𝟐||𝐂𝐓𝐌",
-        "content": "🔗 𝐁𝐎𝐊𝐄𝐏 𝟏𝟖+ 💦 | https://chat.whatsapp.com/EfiK6eZWrV48MTa5opyvOD",
-        "time": "28/04 20:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377923325
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (10 pesan): ~ wanglin",
-        "content": "Halo @⁨~bill⁩ Selamat Datang di Grup 7Sex Message",
-        "time": "28/04 20:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377923239
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777378480978,
+    "lastSeen": 1777378482863,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
