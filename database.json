@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777380456791,
+    "lastSeen": 1777380477727,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "𝙹𝙱¹ 𝙰𝙻𝙻 𝙶𝙰𝙼𝙴 || 𝗚𝗨𝗡𝗔𝗪𝗔𝗡🕊️✅",
+        "content": "‎262 pesan baru",
+        "time": "28/04 19:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380479942
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙹𝙱¹ 𝙰𝙻𝙻 𝙶𝙰𝙼𝙴 || 𝗚𝗨𝗡𝗔𝗪𝗔𝗡🕊️✅",
@@ -9411,14 +9419,6 @@
         "time": "28/04 06:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332819725
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Menyiapkan cadangan (33%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332819311
       }
     ],
     "galleryPhotos": [],
