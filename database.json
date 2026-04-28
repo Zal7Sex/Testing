@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (6 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
+        "content": "ica ofv",
+        "time": "29/04 07:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777419826363
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎463 pesan dari 17 chat",
         "time": "29/04 07:54",
@@ -4011,14 +4019,6 @@
         "time": "29/04 07:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1777418481784
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 887-0544-8747",
-        "content": "Minta apk bug",
-        "time": "29/04 07:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777418481630
       }
     ],
     "galleryPhotos": [],
