@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎516 pesan dari 15 chat",
+        "time": "29/04 08:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777420230967
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (11 pesan): ~ .",
         "content": "bgus",
         "time": "29/04 08:01",
@@ -4011,14 +4019,6 @@
         "time": "29/04 07:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1777419889621
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (18 pesan): ~ yoshua",
-        "content": "💟 Stiker",
-        "time": "29/04 07:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777419888843
       }
     ],
     "galleryPhotos": [],
