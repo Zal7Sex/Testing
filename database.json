@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (23 pesan): ~ Rapli",
+        "content": "💟 Stiker",
+        "time": "28/04 20:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377207224
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (483 pesan): ~ ~~B",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "28/04 20:04",
@@ -4011,14 +4019,6 @@
         "time": "28/04 19:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1777376656793
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1292 pesan dari 15 chat",
-        "time": "28/04 19:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376656518
       }
     ],
     "galleryPhotos": [],
