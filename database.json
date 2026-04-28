@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎516 pesan dari 14 chat",
+        "time": "29/04 08:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777420410097
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (30 pesan): ~ ciaa",
         "content": "pagi kak irvan",
         "time": "29/04 08:04",
@@ -4011,14 +4019,6 @@
         "time": "29/04 07:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1777419978719
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 887-0544-8747",
-        "content": "Minta apk bug",
-        "time": "29/04 07:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777419978595
       }
     ],
     "galleryPhotos": [],
