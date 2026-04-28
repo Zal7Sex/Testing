@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (26 pesan): ~ 𝐭𝐡𝐲𝐚𝐚 𝐩𝐚𝐫𝐭 𝟐",
+        "content": "xixi, when when ka",
+        "time": "28/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378982943
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎393 pesan dari 14 chat",
+        "time": "28/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378982928
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (44 pesan): ~ Evaa",
+        "content": "Open VcsBerbayar",
+        "time": "28/04 20:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378975206
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎392 pesan dari 14 chat",
         "time": "28/04 20:33",
@@ -3995,30 +4019,6 @@
         "time": "28/04 20:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777378433003
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (6 pesan): ~ axel",
-        "content": "🗿",
-        "time": "28/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378432990
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎346 pesan dari 15 chat",
-        "time": "28/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378430006
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (5 pesan): ~ orva",
-        "content": "!SBrat kebanyakan cek cek",
-        "time": "28/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378429189
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777378972310,
+    "lastSeen": 1777378981319,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
