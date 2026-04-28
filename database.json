@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (479 pesan): ~ ‎n",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "28/04 20:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376999647
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (285 pesan): ~ invl",
         "content": "💟 Stiker",
         "time": "28/04 20:00",
@@ -4011,14 +4019,6 @@
         "time": "28/04 19:52",
         "pkg": "com.whatsapp",
         "receivedAt": 1777376483557
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (58 pesan): ~ Raffa Faris",
-        "content": "Gc",
-        "time": "28/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777376483524
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777376995749,
+    "lastSeen": 1777376998672,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
