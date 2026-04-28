@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1155 pesan dari 17 chat",
+        "time": "28/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377608359
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (17 pesan): ~ Liee",
+        "content": "nyamuk",
+        "time": "28/04 20:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377608346
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1154 pesan dari 17 chat",
+        "time": "28/04 20:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377602874
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (16 pesan): ~ Terang bulan",
         "content": "🎮 TEBAK KATA\n\nDarah, Malam, Gatal, Makhluk Hidup\n\n⏳ Reply pesan ini untuk menjawab\nKetik nyerah untuk menyerah",
         "time": "28/04 20:10",
@@ -3995,30 +4019,6 @@
         "time": "28/04 20:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1777377108071
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (12 pesan): ~ Better Call Dio",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "28/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377107924
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (49 pesan): ~ qedekid heker wangsaft",
-        "content": "itu prme lu",
-        "time": "28/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377107905
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (286 pesan): ~ maaf anda tidak saya kenal",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "28/04 20:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377107815
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777377602179,
+    "lastSeen": 1777377608180,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
