@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (24 pesan): ~ Hasim",
+        "content": "🔗 Penghitaman grup internasional | Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/DpmcLsdVHX2CF3Olv7Hmph?mode=gi_t",
+        "time": "28/04 20:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777377943237
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (8 pesan): ~ .",
         "content": "💟 Stiker",
         "time": "28/04 20:16",
@@ -4011,14 +4019,6 @@
         "time": "28/04 20:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1777377575942
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (143 pesan): ~ Axel 17 Str",
-        "content": "📷 OP? 130+/PAS LOG GGL BIND KOS",
-        "time": "28/04 20:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377575847
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777377939133,
+    "lastSeen": 1777377942211,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
