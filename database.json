@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎322 pesan dari 14 chat",
+        "time": "28/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378318642
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (9 pesan): ~ αdell",
+        "content": "okai dehh",
+        "time": "28/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378318630
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (9 pesan): ~ master DVD",
         "content": "Hiytamin wok",
         "time": "28/04 20:22",
@@ -4003,22 +4019,6 @@
         "time": "28/04 20:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1777377786954
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (10 pesan): ~ wanglin",
-        "content": "Halo @⁨~bill⁩ Selamat Datang di Grup 7Sex Message",
-        "time": "28/04 20:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377786885
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1102 pesan dari 16 chat",
-        "time": "28/04 20:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377785008
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777378308530,
+    "lastSeen": 1777378317622,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
