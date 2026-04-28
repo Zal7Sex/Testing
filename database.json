@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (8 pesan): ~ .",
+        "content": "💟 Stiker",
+        "time": "28/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378303588
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Pegasus-X Room: ~ wanglin",
+        "content": "Halo @⁨~bill⁩ Selamat Datang di Grup Pegasus-X Room",
+        "time": "28/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378303567
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (13 pesan): ~ lanaMBPboys",
+        "content": "okee",
+        "time": "28/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777378303555
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (8 pesan): ~ qedekid heker wangsaft",
         "content": "📷 Foto",
         "time": "28/04 20:22",
@@ -3995,30 +4019,6 @@
         "time": "28/04 20:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1777377778545
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (285 pesan): ~ Leᴀʏ²",
-        "content": "🎨 Membuat stiker BRAT dari teks: \"gw mau tungpal\"",
-        "time": "28/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377778088
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1097 pesan dari 16 chat",
-        "time": "28/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377778077
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1096 pesan dari 16 chat",
-        "time": "28/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777377773772
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777378299525,
+    "lastSeen": 1777378302605,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
