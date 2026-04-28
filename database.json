@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (128 pesan): ~ 085769395889",
+        "content": "💟 Stiker",
+        "time": "29/04 07:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777417007893
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎507 pesan dari 14 chat",
         "time": "29/04 06:58",
@@ -4011,14 +4019,6 @@
         "time": "29/04 06:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1777416136352
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (22 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "29/04 06:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777416136130
       }
     ],
     "galleryPhotos": [],
