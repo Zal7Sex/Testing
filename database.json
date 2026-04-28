@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (21 pesan): ~ James Alexander",
+        "content": "🔗 𝗖𝗘𝗘𝗦 𝗡𝗚𝗔𝗪𝗜 🇩🇪🙌✨ | https://chat.whatsapp.com/B8tXGrIRaZt92N1ZgZvtGB?mode=gi_t\nWOI JOIN SINI MULAI BERGAUL DAN BERSOSIALISASI NGENTOD🤓",
+        "time": "28/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376387814
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (9 pesan): ~ wanglin",
+        "content": "Ingin punya bot sendiri GRATIS?\nGunakan command !Jadibot\n\n⚠️ PERHATIAN:\n- Nomor ini bukan milik admin resmi.\n- Info dan update bot: https://whatsapp.com/channel/0029VaF8y0ZDJ6H9O1Gwv93T\n- Cek FAQ: !Faq\n- Aturan Penggunaan: !Rules",
+        "time": "28/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376387762
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1622 pesan dari 16 chat",
+        "time": "28/04 19:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777376383962
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (233 pesan): ~ Terang bulan",
         "content": "📷 🖼️ TEBAK GAMBAR\n\n⏳ Reply gambar ini untuk menjawab\nKetik nyerah untuk menyerah",
         "time": "28/04 19:50",
@@ -3995,30 +4019,6 @@
         "time": "28/04 19:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1777375760921
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (318 pesan): Menyebut semua",
-        "content": "~ Valz Str [01]: daget ke gb 2 bos @⁨semua⁩",
-        "time": "28/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375760910
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (472 pesan): ~ Rohman yaa",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "28/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375760899
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (6 pesan): ~ yapikkkk",
-        "content": "napa",
-        "time": "28/04 19:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777375760786
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777376383197,
+    "lastSeen": 1777376386101,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
