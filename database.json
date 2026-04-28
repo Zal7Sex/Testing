@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎478 pesan dari 17 chat",
+        "time": "29/04 07:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777419464699
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "STOKK || NIAGA STORE🛒: ~ raditzx cruel",
         "content": "OPEN PP GRUB 50K 80 MEM -1 SLOT",
         "time": "29/04 07:48",
@@ -4011,14 +4019,6 @@
         "time": "29/04 07:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1777418392907
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (70 pesan): ~ albiii197",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 07:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777418392871
       }
     ],
     "galleryPhotos": [],
