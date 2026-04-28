@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777381117451,
+    "lastSeen": 1777381129345,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "JB 11 ALLGAME FISBU 🤑 [ REKBER WAJIB KE 085775321445 &  085775320523  SELAIN INI CLONE )",
+        "content": "‎6 pesan baru",
+        "time": "28/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777381129551
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB 11 ALLGAME FISBU 🤑 [ REKBER WAJIB KE 085775321445 &  085775320523  SELAIN INI CLONE ) (6 pesan): Membalas Anda",
+        "content": "~ naell: Kgm?",
+        "time": "28/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777381129525
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "JB 8 ALLGAME FISBU🤑 [ REKBER WAJIB KE 085775321445 & 085775320523 SELAIN INI CLONE )",
+        "content": "‎780 pesan baru",
+        "time": "28/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777381119224
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB 8 ALLGAME FISBU🤑 [ REKBER WAJIB KE 085775321445 & 085775320523 SELAIN INI CLONE ) (780 pesan): Membalas Anda",
@@ -9395,30 +9419,6 @@
         "time": "28/04 06:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332840444
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 4,9 MB dari 119 MB (4%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332839692
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 4,3 MB dari 119 MB (3%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332839671
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 2,7 MB dari 119 MB (2%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332838942
       }
     ],
     "galleryPhotos": [],
