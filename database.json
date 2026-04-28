@@ -5404,7 +5404,7 @@
     "deviceName": "HP-PEGASUS-B240",
     "ownerUsername": "Kanzun",
     "token": "5d33b8ecb200f311ed19db054f831b4d",
-    "lastSeen": 1777380876984,
+    "lastSeen": 1777380891960,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T11:02:22.793Z",
@@ -5420,6 +5420,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "JB 17 ALLGAME FISBU🤑[ REKBER WAJIB KE 085775321445 &  085775320523  SELAIN INI CLONE )",
+        "content": "‎35 pesan baru",
+        "time": "28/04 19:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380893791
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB 17 ALLGAME FISBU🤑[ REKBER WAJIB KE 085775321445 &  085775320523  SELAIN INI CLONE ) (35 pesan): Membalas Anda",
+        "content": "~ dhows store: 280 nepis",
+        "time": "28/04 19:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777380893715
+      },
       {
         "appName": "WhatsApp",
         "sender": "𝙹𝙱¹ 𝙰𝙻𝙻 𝙶𝙰𝙼𝙴 || 𝗚𝗨𝗡𝗔𝗪𝗔𝗡🕊️✅",
@@ -9403,22 +9419,6 @@
         "time": "28/04 06:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777332838133
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Mengunggah: 0 kB dari 119 MB (0%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332836625
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Pencadangan sedang berlangsung",
-        "content": "Menyiapkan cadangan (46%)",
-        "time": "28/04 06:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777332830324
       }
     ],
     "galleryPhotos": [],
