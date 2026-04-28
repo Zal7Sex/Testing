@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎224 pesan dari 14 chat",
+        "time": "28/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777379107870
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (4 pesan): ~ Terang bulan",
+        "content": "🎉 Benar!\n+12 EXP\n+5 Limit",
+        "time": "28/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777379107853
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎223 pesan dari 14 chat",
+        "time": "28/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777379106737
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (3 pesan): ~ kangenhanum",
         "content": "terbang",
         "time": "28/04 20:36",
@@ -3995,30 +4019,6 @@
         "time": "28/04 20:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777378611695
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (21 pesan): ~ flowers",
-        "content": "BIASA✅\n15 UNCHEK = 5K\n30 UNCHEK = 10K\n50 UNCHEK = 20K\n80 UNCHEK = 30K\n95 UNCHEK = 40K\n\n🅿️REMIUM\n10 UNCHEK = 25K\n20 UNCHEK = 35K\n30 UNCHEK = 60K\n50 UNCHEK = 92K\n\nVVIP💄\n10 UNCHEK = 25K\n20 UNCHEK = 35K\n30 UNCHEK = 60K\n50 UNCHEK = 92K\n\nNO ZONK \n10 UNCHEK 35\n20 UNCHEK 55\n30 UNCHEK 70\n50 UNCHEK 112\n\nBUY? PM SUNG SAJA !!",
-        "time": "28/04 20:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378611616
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (15 pesan): ~ Orstedd",
-        "content": "💟 Stiker",
-        "time": "28/04 20:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378611572
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (2 pesan): ~ PRINCESSSS",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "28/04 20:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777378611501
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777379104507,
+    "lastSeen": 1777379107466,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
