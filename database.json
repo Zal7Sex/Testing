@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2169 pesan dari 20 chat",
+        "time": "29/04 22:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470840787
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (188 pesan): ~ Terang bulan",
+        "content": "⏳ Membuat...\n`-3 Limit berkurang`",
+        "time": "29/04 22:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470840768
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2168 pesan dari 20 chat",
+        "time": "29/04 22:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470839181
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (187 pesan): ~ Rulz🇺🇸",
         "content": ".S",
         "time": "29/04 22:04",
@@ -3995,30 +4019,6 @@
         "time": "29/04 21:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470489525
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1990 pesan dari 20 chat",
-        "time": "29/04 21:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470486236
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (293 pesan): ~ rambararam",
-        "content": "emg ganteng",
-        "time": "29/04 21:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470486180
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (180 pesan): ~ Terang bulan",
-        "content": "bagi bagi nomor tobrut @⁨~.⁩",
-        "time": "29/04 21:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470486092
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777470836807,
+    "lastSeen": 1777470840403,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
