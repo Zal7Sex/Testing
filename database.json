@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎350 pesan dari 17 chat",
+        "time": "29/04 18:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777458735471
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (25 pesan): ~ Terang bulan",
+        "content": "🎉 Benar!\n+12 EXP\n+6 Limit",
+        "time": "29/04 18:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777458735318
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (24 pesan): ~ maechan",
         "content": "meriam",
         "time": "29/04 18:43",
@@ -4003,22 +4019,6 @@
         "time": "29/04 18:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777457863535
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (19 pesan): ~ saskia",
-        "content": "Gas",
-        "time": "29/04 18:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777457863273
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑: ~ Terang bulan",
-        "content": "🗿 Grup telah dibuka.\nSekarang semua member bisa mengirim pesan.",
-        "time": "29/04 18:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777457863081
       }
     ],
     "galleryPhotos": [],
