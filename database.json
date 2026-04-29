@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (661 pesan): ~ Rii",
+        "content": "ayo kirimkan stc jomok mu",
+        "time": "29/04 20:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466416292
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1778 pesan dari 19 chat",
+        "time": "29/04 20:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466416275
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (101 pesan): ~ Jus' Know ✌️🥀",
         "content": "💟 Stiker",
         "time": "29/04 20:51",
@@ -4003,22 +4019,6 @@
         "time": "29/04 20:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466085015
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (33 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "temen gwa kek anjg😎💜",
-        "time": "29/04 20:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466084838
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1628 pesan dari 19 chat",
-        "time": "29/04 20:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466084819
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777466409234,
+    "lastSeen": 1777466415551,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
