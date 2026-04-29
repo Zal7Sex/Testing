@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "29/04 08:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777422644435
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (81 pesan): ~ irsyad the script",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 08:39",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420436132
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (20 pesan): ~ yoshua",
-        "content": "💟 Stiker",
-        "time": "29/04 08:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420435932
       }
     ],
     "galleryPhotos": [],
