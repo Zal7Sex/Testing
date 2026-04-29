@@ -22,6 +22,54 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (301 pesan): ~ Dit",
+        "content": "💟 Stiker",
+        "time": "29/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471218106
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (67 pesan): ~ apaa❓",
+        "content": "Kocakk",
+        "time": "29/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471217306
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2339 pesan dari 20 chat",
+        "time": "29/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471217278
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2338 pesan dari 20 chat",
+        "time": "29/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471216332
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (454 pesan): ~ rambararam",
+        "content": "😹",
+        "time": "29/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471216308
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (453 pesan): ~ rambararam",
+        "content": "woi gw kenapa dilarang masuk f1",
+        "time": "29/04 22:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471215480
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2337 pesan dari 20 chat",
         "time": "29/04 22:11",
@@ -3971,54 +4019,6 @@
         "time": "29/04 22:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470859866
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (387 pesan): ~ Bennyqty",
-        "content": "💟 Stiker",
-        "time": "29/04 22:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470859848
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (386 pesan): ~ Bennyqty",
-        "content": "💟 Stiker",
-        "time": "29/04 22:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470858871
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2179 pesan dari 20 chat",
-        "time": "29/04 22:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470858821
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (291 pesan): ~ v",
-        "content": "Nyamar dulu ygy",
-        "time": "29/04 22:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470856099
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2178 pesan dari 20 chat",
-        "time": "29/04 22:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470856043
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (385 pesan): ~ rambararam",
-        "content": "mantan alex tau gak",
-        "time": "29/04 22:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470856027
       }
     ],
     "galleryPhotos": [],
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777471214241,
+    "lastSeen": 1777471217300,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
