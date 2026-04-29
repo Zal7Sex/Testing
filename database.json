@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2084 pesan dari 19 chat",
+        "time": "29/04 16:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451583461
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (39 pesan): ~ tn||𝟖𝟎𝟖",
         "content": "udh stop membuatku iri",
         "time": "29/04 16:43",
@@ -4011,14 +4019,6 @@
         "time": "29/04 16:37",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451224339
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (37 pesan): ~ Ninja`989",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 16:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451224310
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451576732,
+    "lastSeen": 1777451582419,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
