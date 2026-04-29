@@ -26,6 +26,14 @@
         "content": "Menyukai status Anda",
         "time": "29/04 16:46",
         "pkg": "com.whatsapp",
+        "receivedAt": 1777451743488
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "kheyyy",
+        "content": "Menyukai status Anda",
+        "time": "29/04 16:46",
+        "pkg": "com.whatsapp",
         "receivedAt": 1777451743452
       },
       {
@@ -4011,14 +4019,6 @@
         "time": "29/04 16:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451344875
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (112 pesan): ~ valee",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 16:40",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451344643
       }
     ],
     "galleryPhotos": [],
@@ -17725,7 +17725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "50145ff0c900219faa50cd1dd385f1d9",
-    "lastSeen": 1777451741947,
+    "lastSeen": 1777451744939,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:34:20.514Z",
