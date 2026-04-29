@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (2 pesan): Membalas Anda",
+        "content": "~ aril.: sejak kapan gw percaya",
+        "time": "29/04 22:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777472497497
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1247 pesan dari 19 chat",
+        "time": "29/04 22:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777472496060
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (12 pesan): ~ iya ini misel",
         "content": "📷 RENTAL READY YA\ntanya-tanya chat aja",
         "time": "29/04 22:32",
@@ -4003,22 +4019,6 @@
         "time": "29/04 22:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777471991139
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐: ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "yah renangek",
-        "time": "29/04 22:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471990414
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (11 pesan): ~ -Wirr str",
-        "content": "V4/5",
-        "time": "29/04 22:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471990196
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777472494352,
+    "lastSeen": 1777472497330,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
