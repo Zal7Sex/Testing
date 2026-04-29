@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎543 pesan dari 17 chat",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456327167
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (142 pesan): ~ 𝐩𝐥𝐞𝐧𝐠𝐞𝐫𝐫",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456327114
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎542 pesan dari 17 chat",
+        "time": "29/04 18:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456320324
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (35 pesan): ~ leveno cakep",
         "content": "haha",
         "time": "29/04 18:02",
@@ -3995,30 +4019,6 @@
         "time": "29/04 17:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1777455915607
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (2 pesan): ~ sarol 412",
-        "content": "ga",
-        "time": "29/04 17:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455915580
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎458 pesan dari 13 chat",
-        "time": "29/04 17:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455914340
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎459 pesan dari 14 chat",
-        "time": "29/04 17:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455911487
       }
     ],
     "galleryPhotos": [],
@@ -17917,7 +17917,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e820b562099723593389ff93d779b756",
-    "lastSeen": 1777456319937,
+    "lastSeen": 1777456325941,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:51:11.605Z",
