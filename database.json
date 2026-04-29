@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (158 pesan): ~ Paduka Renn",
+        "content": "📷 Foto",
+        "time": "29/04 21:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777467372756
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (17 pesan): ~ bmt112",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 21:07",
@@ -4011,14 +4019,6 @@
         "time": "29/04 20:58",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466827811
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (334 pesan): ~ ~",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 20:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466827794
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777467367482,
+    "lastSeen": 1777467370501,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
