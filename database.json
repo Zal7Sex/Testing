@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (7 pesan): ~ okeii🧟‍♀️🧟‍♀️🧟‍♀️",
+        "content": "44 2k allkayu fpt Andro only",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456372526
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎555 pesan dari 17 chat",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456368679
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (42 pesan): ~ sska vs maklu",
         "content": "💟 Stiker",
         "time": "29/04 18:03",
@@ -4003,22 +4019,6 @@
         "time": "29/04 17:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1777455972274
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎TWOSTROKE JATIM V1 (20 pesan): ~ SENZZ bocil",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 17:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455972245
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀: ~ naya💋🖤",
-        "content": "① Pesan suara",
-        "time": "29/04 17:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455972221
       }
     ],
     "galleryPhotos": [],
@@ -17917,7 +17917,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e820b562099723593389ff93d779b756",
-    "lastSeen": 1777456368170,
+    "lastSeen": 1777456370959,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:51:11.605Z",
