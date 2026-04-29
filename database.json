@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3327 pesan dari 19 chat",
+        "time": "29/04 16:16",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449930318
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (469 pesan): ~ Ikiyy",
         "content": "Jb a nj gk amana woi",
         "time": "29/04 16:16",
@@ -4011,14 +4019,6 @@
         "time": "29/04 16:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1777449368395
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (453 pesan): ~ DD||KING ANDIKUSMAWAN",
-        "content": "📷 V300+ fs? Pm op 170++ \nOpen nego",
-        "time": "29/04 16:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777449368369
       }
     ],
     "galleryPhotos": [],
