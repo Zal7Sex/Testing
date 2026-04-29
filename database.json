@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1691 pesan dari 19 chat",
+        "time": "29/04 20:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466258745
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (71 pesan): ~ Rangga",
         "content": "member yg lama pensi semua jir",
         "time": "29/04 20:48",
@@ -4011,14 +4019,6 @@
         "time": "29/04 20:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1777465873254
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (575 pesan): ~ ❔❔",
-        "content": "sejak kapan lu bisa gitu anjir",
-        "time": "29/04 20:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465871247
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777466256061,
+    "lastSeen": 1777466265513,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
