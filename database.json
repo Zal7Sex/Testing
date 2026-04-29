@@ -22,6 +22,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (9 pesan): ~ Terang bulan",
+        "content": "🎉 Benar!\n+12 EXP\n+8 Limit",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468198250
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (347 pesan): ~ ~",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468197798
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (364 pesan): ~ Dil",
+        "content": "3 SMA",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468197489
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (7 pesan): ~ ±",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468197380
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "target1",
+        "content": "+62 895-2357-6442",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468197293
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (181 pesan): ~ halo saya menggunakan wa",
         "content": "💟 Stiker",
         "time": "29/04 21:20",
@@ -3979,46 +4019,6 @@
         "time": "29/04 21:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1777467412682
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1173 pesan dari 18 chat",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467412656
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1172 pesan dari 18 chat",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467410993
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1171 pesan dari 18 chat",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467407348
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (159 pesan): ~ ⠀᠌ ︎⠀",
-        "content": "💟 Stiker",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467407327
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1170 pesan dari 18 chat",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467406507
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468193575,
+    "lastSeen": 1777468196577,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
