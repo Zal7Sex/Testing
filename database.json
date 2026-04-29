@@ -22,6 +22,54 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1666 pesan dari 18 chat",
+        "time": "29/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463257501
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (138 pesan): ~ idk",
+        "content": "em gatau",
+        "time": "29/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463256912
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (139 pesan): ~ komar mania",
+        "content": "ngudet pea",
+        "time": "29/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463256573
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1666 pesan dari 18 chat",
+        "time": "29/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463256478
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1665 pesan dari 18 chat",
+        "time": "29/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463256145
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1663 pesan dari 18 chat",
+        "time": "29/04 19:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463255159
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (281 pesan): ~ pip_aj",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 19:58",
@@ -3971,54 +4019,6 @@
         "time": "29/04 19:52",
         "pkg": "com.whatsapp",
         "receivedAt": 1777462888154
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (123 pesan): ~ sska vs maklu",
-        "content": "@⁨~qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲⁩  bca cht saiank",
-        "time": "29/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777462888092
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (100 pesan): ~ ⠀᠌ ︎⠀",
-        "content": "💟 Stiker",
-        "time": "29/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777462888021
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (277 pesan): ~ kaZu",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777462883147
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1534 pesan dari 18 chat",
-        "time": "29/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777462883127
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1534 pesan dari 18 chat",
-        "time": "29/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777462883097
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (291 pesan): ~ 𝐚𝐫𝐜𝐡𝐲†",
-        "content": "💟 Stiker",
-        "time": "29/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777462883074
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777463252464,
+    "lastSeen": 1777463255469,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
