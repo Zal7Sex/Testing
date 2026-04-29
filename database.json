@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎551 pesan dari 17 chat",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456351190
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (41 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
+        "content": "di jj in",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456351160
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (40 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
         "content": "inie fto klian udah di edit tinggal di ituin aja",
         "time": "29/04 18:03",
@@ -4003,22 +4019,6 @@
         "time": "29/04 17:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1777455967739
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎429 pesan dari 11 chat",
-        "time": "29/04 17:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455967715
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎456 pesan dari 12 chat",
-        "time": "29/04 17:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455954592
       }
     ],
     "galleryPhotos": [],
@@ -17917,7 +17917,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e820b562099723593389ff93d779b756",
-    "lastSeen": 1777456346962,
+    "lastSeen": 1777456349963,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:51:11.605Z",
