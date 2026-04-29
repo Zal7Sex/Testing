@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1593 pesan dari 19 chat",
+        "time": "29/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469437189
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (169 pesan): ~ Lemon skibidy",
+        "content": "Elan udah kayak nama kelamin",
+        "time": "29/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469436429
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1592 pesan dari 19 chat",
+        "time": "29/04 21:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469435265
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (168 pesan): ~ wongirengjembuten",
         "content": "Gede ya",
         "time": "29/04 21:41",
@@ -3995,30 +4019,6 @@
         "time": "29/04 21:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1777468867078
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (112 pesan): ~ Terang bulan",
-        "content": "🧠 ASAH OTAK\n\nJenis logam paling berlimpah di Bumi, merupakan konduktor listrik yang paling baik?\n\nReply pesan ini untuk menjawab!\nKetik nyerah untuk menyerah.",
-        "time": "29/04 21:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468861758
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (81 pesan): ~ who?",
-        "content": "sewajar aja cil",
-        "time": "29/04 21:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468861724
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (54 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "💟 Stiker",
-        "time": "29/04 21:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468861691
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777469434188,
+    "lastSeen": 1777469437189,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
