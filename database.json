@@ -22,6 +22,54 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1270 pesan dari 19 chat",
+        "time": "29/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468206292
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (182 pesan): ~ halo saya menggunakan wa",
+        "content": "Awas gore",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468202668
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "target1",
+        "content": "+62 895-2357-6442",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468202244
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (7 pesan): ~ ±",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468201232
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (364 pesan): ~ Dil",
+        "content": "3 SMA",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468201160
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1269 pesan dari 19 chat",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468200966
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (182 pesan): ~ halo saya menggunakan wa",
         "content": "Awas gore",
         "time": "29/04 21:20",
@@ -3971,54 +4019,6 @@
         "time": "29/04 21:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1777467422919
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (14 pesan): ~ RELZZYY STORE",
-        "content": "📷 [FORMAT NEED BY RELZZY STORE🔥]\n[BUKAN AKUN ADMIN]\n🧾-AKUN    : ff\n💵-HARGA : 100+\n📑-SPEK     : polosan apa ga tau Evo kayanya\n✏️-LOG       :  ggl \n-BUYER   : 303\n-MC          : RELZZY STORE [WAJIB]\nNOTE: WAJIB MENGGUNAKAN JASA MC/RB RELZZY STORE AGAR TERHINDAR DARI RIP/PENIPUAN✅",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467422893
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1174 pesan dari 18 chat",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467422866
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (59 pesan): ~ N1f.",
-        "content": "Kok di kick",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467422783
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (159 pesan): ~ ⠀᠌ ︎⠀",
-        "content": "💟 Stiker",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467422695
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (3 pesan): Menyebut semua",
-        "content": "~ -Wirr str: @⁨semua⁩ vote",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467422658
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (342 pesan): ~ .",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467422630
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468200167,
+    "lastSeen": 1777468205619,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
