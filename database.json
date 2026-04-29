@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹",
+        "content": "👋 ~ wongirengjembuten ingin mengobrol sekarang. Ayo gabung ke percakapan!",
+        "time": "30/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500586056
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹",
+        "content": "👋 ~ Putra ingin mengobrol sekarang. Ayo gabung ke percakapan!",
+        "time": "30/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500584368
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡",
         "content": "👋 ~ slurr ingin mengobrol sekarang. Ayo gabung ke percakapan!",
         "time": "30/04 06:20",
@@ -4003,22 +4019,6 @@
         "time": "29/04 22:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777472061520
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐: ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "yah renangek",
-        "time": "29/04 22:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777472061417
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀: Menyebut semua",
-        "content": "~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲: ① Foto",
-        "time": "29/04 22:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777472061396
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777500580884,
+    "lastSeen": 1777500585622,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
