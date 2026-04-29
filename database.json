@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎354 pesan dari 17 chat",
+        "time": "29/04 18:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777458755941
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (2 pesan): ~ 𝘅𝗶𝘁𝗼𝗲𝘀𝗱𝗲𝘃𝘃𝘃",
+        "content": "💟 Stiker",
+        "time": "29/04 18:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777458755914
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (6 pesan): ~ yanii",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 18:43",
@@ -4003,22 +4019,6 @@
         "time": "29/04 18:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777457876997
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (20 pesan): ~ Wann : Aku lagi sebar DANA Kaget nih! Yuk, sikat segera sebelum melayang",
-        "content": "info vs",
-        "time": "29/04 18:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777457875761
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎349 pesan dari 15 chat",
-        "time": "29/04 18:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777457875745
       }
     ],
     "galleryPhotos": [],
