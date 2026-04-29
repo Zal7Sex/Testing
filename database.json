@@ -22,6 +22,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3077 pesan dari 19 chat",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448149923
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (93 pesan): ~ 🕸🕷🕷",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448144893
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (29 pesan): ~ b*k*|⁰",
+        "content": "💟 Stiker",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448144853
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (55 pesan): ~ komar mania",
+        "content": "dasar",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448144700
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (388 pesan): ~ jc",
+        "content": "📷 SEWAA AKUN JB 4NNSTOREE\n1JAM:3K\n2JAM:6K\nSEHARIAN:15\n2 GAME CS:10\nNO ADMIN:082298386665",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448144622
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1352 pesan): ~ aan.",
         "content": "birahi",
         "time": "29/04 15:46",
@@ -3979,46 +4019,6 @@
         "time": "29/04 14:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443229241
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (424 pesan): ~ Jus' Know ✌️🥀",
-        "content": "💟 Stiker",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443229225
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (222 pesan): ~ ~",
-        "content": "@semua",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443224600
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (423 pesan): ~ Jus' Know ✌️🥀",
-        "content": "bego",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443224446
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1021 pesan): ~ ❔❔",
-        "content": "💟 Stiker",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443223901
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (30 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "@⁨eric eric⁩ SAYANGG",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443223830
       }
     ],
     "galleryPhotos": [],
@@ -17526,7 +17526,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "47026291789bab18fbcb5d300d789adf",
-    "lastSeen": 1777448142782,
+    "lastSeen": 1777448148781,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:32:36.802Z",
