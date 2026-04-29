@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3278 pesan dari 19 chat",
+        "time": "29/04 16:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449742341
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (465 pesan): ~ san",
         "content": "📷 LIST PP BY SANZ\n\n* 3K : 15 MEM\n* 5K : 25 MEM\n* 7K : 33 MEM    (LEBIH? BONUS)\n* 10 : 40 MEM \n* 15 : 55 MEM \n* 20 : 65 MEM \n* 25 : 75 MEM \n* 30 : 85 MEM\n* 35 : 100 MEM\n\nMINAT PM AJA",
         "time": "29/04 16:13",
@@ -4011,14 +4019,6 @@
         "time": "29/04 15:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1777448144622
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1352 pesan): ~ aan.",
-        "content": "birahi",
-        "time": "29/04 15:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777448144491
       }
     ],
     "galleryPhotos": [],
@@ -17558,7 +17558,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "300fd4cdf8c477789624b33da25326f3",
-    "lastSeen": 1777449734547,
+    "lastSeen": 1777449740635,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:45:34.574Z",
