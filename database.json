@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2531 pesan dari 17 chat",
+        "time": "29/04 17:09",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777453120882
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (360 pesan): ~ Terang bulan",
         "content": "Salah dongo, coba lagi😹",
         "time": "29/04 17:09",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452877665
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (298 pesan): ~ val",
-        "content": ".profil",
-        "time": "29/04 17:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452877635
       }
     ],
     "galleryPhotos": [],
