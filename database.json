@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1637 pesan dari 19 chat",
+        "time": "29/04 21:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469558279
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (257 pesan): ~ shadow fight 3",
         "content": "Gas aja lagi Mabar Roblox wak",
         "time": "29/04 21:43",
@@ -4011,14 +4019,6 @@
         "time": "29/04 21:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1777469104496
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1508 pesan dari 19 chat",
-        "time": "29/04 21:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469104087
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777469554333,
+    "lastSeen": 1777469557338,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
