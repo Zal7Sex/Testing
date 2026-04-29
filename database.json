@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2185 pesan dari 19 chat",
+        "time": "29/04 16:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451976018
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2184 pesan dari 19 chat",
+        "time": "29/04 16:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451972617
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (177 pesan): ~ jirr yupii",
         "content": "💟 Stiker",
         "time": "29/04 16:50",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451498585
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (88 pesan): ~ baby blue suka cwe short hair",
-        "content": "💟 Stiker",
-        "time": "29/04 16:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451498301
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2063 pesan dari 19 chat",
-        "time": "29/04 16:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451498279
       }
     ],
     "galleryPhotos": [],
@@ -17725,7 +17725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "50145ff0c900219faa50cd1dd385f1d9",
-    "lastSeen": 1777451971864,
+    "lastSeen": 1777451974863,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:34:20.514Z",
