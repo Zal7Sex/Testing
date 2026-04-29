@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎529 pesan dari 19 chat",
+        "time": "29/04 19:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460628860
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (69 pesan): ~ 𝟒𝐈𝐒𝐈𝐒 | 𝐕𝐀𝐋𝐋 â̸̙͐͑̌̿͛̽",
         "content": "🔗 𝐒𝐭𝐚𝐫 | 𝐦𝐨𝐨𝐦 | https://chat.whatsapp.com/CNeIbfU0GASJhITNHxphbh?mode=gi_t",
         "time": "29/04 19:14",
@@ -4011,14 +4019,6 @@
         "time": "29/04 19:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1777460076016
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (36 pesan): ~ adell",
-        "content": "💟 Stiker",
-        "time": "29/04 19:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777460071341
       }
     ],
     "galleryPhotos": [],
