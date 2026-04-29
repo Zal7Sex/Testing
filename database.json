@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "+62 887-0544-8747",
+        "content": "Minta apk bug",
+        "time": "29/04 09:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777427161182
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎206 pesan dari 11 chat",
         "time": "29/04 09:56",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:36",
         "pkg": "com.whatsapp",
         "receivedAt": 1777425958245
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (9 pesan): ~ tmaa",
-        "content": "📷 Tokenin",
-        "time": "29/04 09:36",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777425958231
       }
     ],
     "galleryPhotos": [],
