@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (296 pesan): ~ valee",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777464143179
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (19 pesan): ~ b",
+        "content": "-1 pt SQ bebas bwa dna 2.5k",
+        "time": "29/04 20:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777464143136
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (408 pesan): nánayw",
         "content": "💟 Stiker",
         "time": "29/04 20:13",
@@ -4003,22 +4019,6 @@
         "time": "29/04 20:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1777463585054
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (374 pesan): ~ Zakki",
-        "content": "Knp anak yatim-piatu gabisa main kartu karena mereka tidak tahu apa itu kartu keluarga",
-        "time": "29/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777463576369
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1750 pesan dari 18 chat",
-        "time": "29/04 20:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777463575325
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777464138425,
+    "lastSeen": 1777464141394,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
