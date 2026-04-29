@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1315 pesan dari 19 chat",
+        "time": "29/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468381410
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1314 pesan dari 19 chat",
+        "time": "29/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468377210
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (197 pesan): ~ ⠀᠌ ︎⠀",
         "content": "Perasaan tdi ada 7 orng dh minta msuk napa hilang ini anj",
         "time": "29/04 21:23",
@@ -4003,22 +4019,6 @@
         "time": "29/04 21:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1777467639534
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (28 pesan): ~ —𝐃𝐞𝐡𝐨𝐨𝐧",
-        "content": "Buka yayasan",
-        "time": "29/04 21:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467639508
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (79 pesan): ~ George",
-        "content": "biar apa deck 🤪",
-        "time": "29/04 21:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467639428
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468376831,
+    "lastSeen": 1777468380186,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
