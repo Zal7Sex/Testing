@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (160 pesan): ~ paees nak tido",
+        "content": "🔗 NGAWI CLUB | Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/FtXYc0B6Z9a8BaEFnCtpt4?mode=gi_t",
+        "time": "30/04 06:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502208483
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (426 pesan): ~ siska",
         "content": "① Video",
         "time": "30/04 06:38",
@@ -4011,14 +4019,6 @@
         "time": "30/04 06:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777501024589
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1206 pesan): ~ 𝖃i",
-        "content": "🔗 ℭ𝔞𝔯𝔱𝔢𝔩 𝔩𝔞𝔫𝔡☠︎ | https://chat.whatsapp.com/C1p12wOh0R4BtacohSWIRS GABUNG REK , 150 MEMBER , ADMIN BAGI BAGI 40VD GORE DAN 30STKR GORE🤤😋",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501024357
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502188871,
+    "lastSeen": 1777502206883,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
