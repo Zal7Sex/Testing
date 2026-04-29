@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (37 pesan): ~ Ninja`989",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 16:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451025558
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (22 pesan): ~ who?",
+        "content": "💟 Stiker",
+        "time": "29/04 16:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451025538
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1937 pesan dari 18 chat",
         "time": "29/04 16:33",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450312492
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (483 pesan): ~ nior",
-        "content": "𝒀𝑨𝑵𝑮 𝑴𝑨𝑼 𝑩𝑬𝑳𝑰 𝑨𝑷𝑲 𝑩𝑼𝑮 𝑮𝑨𝑪𝑶𝑹 𝑩𝑰𝑲𝑰𝑵 𝑾𝑨 𝑪𝑬𝑵𝑻𝑨𝑵𝑮 𝟏 𝑷𝑴 𝑨𝑱𝑨 𝑬𝒀𝒀 𝑴𝑼𝑹𝑨𝑯",
-        "time": "29/04 16:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450300385
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3390 pesan dari 19 chat",
-        "time": "29/04 16:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450300356
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451002529,
+    "lastSeen": 1777451023387,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
