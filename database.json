@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (4 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
+        "content": "yawlo bloon yah🥳",
+        "time": "29/04 09:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777425298227
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎219 pesan dari 12 chat",
+        "time": "29/04 09:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777425298206
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎218 pesan dari 12 chat",
         "time": "29/04 09:24",
@@ -4003,22 +4019,6 @@
         "time": "29/04 09:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1777424022477
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "GB || ISIAN  LYEZ STORE X ALL OWN: ~ yrn",
-        "content": "22 3 nvmtps no makro no rog no mobi no pc",
-        "time": "29/04 09:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777424022461
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (6 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "yah",
-        "time": "29/04 09:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777424022445
       }
     ],
     "galleryPhotos": [],
@@ -4091,6 +4091,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "GB || ALL STOK ||  BY DITZ STORE 116: ~ ditz store 116",
+        "content": "TAWARIN AKUN KALIAN POLOSAN SG LOBY KALO ADA PM",
+        "time": "29/04 08:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777425287155
+      },
       {
         "appName": "WhatsApp",
         "sender": "GB || ALL STOK ||  BY DITZ STORE 116",
