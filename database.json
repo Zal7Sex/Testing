@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (41 pesan): ~ HANX",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 16:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449242439
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (451 pesan): ~ 𝙆𝙐𝙇𝙄𝙀 𝙎𝙏𝙊𝙍𝙀",
         "content": "𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈, 𝙎𝘼𝙇𝙐𝙍𝘼𝙉 𝙒𝘼 𝘿𝙄𝙎𝙆𝙊𝙉 𝘽𝙄𝙎𝘼 𝙆𝙐𝙍𝘼𝙉𝙂 𝘿𝘼𝙍𝙄 𝙃𝘼𝙍𝙂𝘼 𝙇𝙄𝙎𝙏",
         "time": "29/04 16:04",
@@ -4011,14 +4019,6 @@
         "time": "29/04 14:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443264225
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2111 pesan dari 19 chat",
-        "time": "29/04 14:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443263281
       }
     ],
     "galleryPhotos": [],
@@ -17558,7 +17558,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "300fd4cdf8c477789624b33da25326f3",
-    "lastSeen": 1777449224390,
+    "lastSeen": 1777449242412,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:45:34.574Z",
