@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎231 pesan dari 12 chat",
+        "time": "29/04 09:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777425801166
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (12 pesan): ~ yoshua",
+        "content": "💟 Stiker",
+        "time": "29/04 09:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777425801152
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (11 pesan): ~ AMBA DE TUKAM",
         "content": "💟 Stiker",
         "time": "29/04 09:34",
@@ -4003,22 +4019,6 @@
         "time": "29/04 09:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1777424583295
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (83 pesan): ~ 𝔥𝔞𝔞𝔞 𝔰𝔱𝔢𝔳𝔲𝔲𝔲",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 09:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777424583274
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (16 pesan): ~ cila kebab😹",
-        "content": "😰wahhh",
-        "time": "29/04 09:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777424583247
       }
     ],
     "galleryPhotos": [],
@@ -4091,6 +4091,14 @@
     },
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "29/04 08:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777425795437
+      },
       {
         "appName": "WhatsApp",
         "sender": "GB || ALL STOK ||  BY DITZ STORE 116: ~ ditz store 116",
