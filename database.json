@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎224 pesan dari 11 chat",
+        "time": "29/04 09:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777427010920
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (13 pesan): ~ Shesh ¹",
         "content": "OPEN MURID JPM 5K\nOPEN MURID NOKOS 7K\nSELL NOKOS INDO 5K\n\nTesti? Ada\nPm aja",
         "time": "29/04 09:54",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777425738148
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (6 pesan): ~ Lemon skibidy",
-        "content": "Gak tau adell may grill",
-        "time": "29/04 09:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777425724416
       }
     ],
     "galleryPhotos": [],
