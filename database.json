@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (221 pesan): ~ val",
+        "content": "slot 20",
+        "time": "29/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452125311
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2240 pesan dari 19 chat",
+        "time": "29/04 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452125294
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (220 pesan): ~ val",
+        "content": "😎",
+        "time": "29/04 16:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452121170
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2239 pesan dari 19 chat",
         "time": "29/04 16:52",
@@ -3995,30 +4019,6 @@
         "time": "29/04 16:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451686809
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2120 pesan dari 19 chat",
-        "time": "29/04 16:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451686786
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (129 pesan): ~ 𝐋𝐢𝐦𝐞𝐫𝐞𝐧𝐜𝐞_w2C",
-        "content": "📷 Foto",
-        "time": "29/04 16:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451678737
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (113 pesan): ~ 𝗞𝗸 𝗠𝗮𝗿𝘃𝗲𝗹🤙",
-        "content": "Sv Nmorku Yah nambah² kontak",
-        "time": "29/04 16:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451678656
       }
     ],
     "galleryPhotos": [],
@@ -17725,7 +17725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "50145ff0c900219faa50cd1dd385f1d9",
-    "lastSeen": 1777452118945,
+    "lastSeen": 1777452124954,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:34:20.514Z",
