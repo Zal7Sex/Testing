@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2502 pesan dari 16 chat",
+        "time": "29/04 17:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777453253934
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (581 pesan): ~ Exsos",
         "content": "Hallo",
         "time": "29/04 17:11",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452988195
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (69 pesan): ~ y",
-        "content": "33 1k nvt n macro mobi andro only",
-        "time": "29/04 17:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452987953
       }
     ],
     "galleryPhotos": [],
