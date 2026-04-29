@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1494 pesan dari 19 chat",
+        "time": "29/04 20:40",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465785171
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (550 pesan): ~ aan.",
         "content": "tuwir",
         "time": "29/04 20:40",
@@ -4011,14 +4019,6 @@
         "time": "29/04 20:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777465365735
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1376 pesan dari 17 chat",
-        "time": "29/04 20:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465365708
       }
     ],
     "galleryPhotos": [],
