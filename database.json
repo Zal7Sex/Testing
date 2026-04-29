@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎522 pesan dari 16 chat",
+        "time": "29/04 08:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777422006379
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (145 pesan): ~ sᴇᴡᴀ ʙᴏᴛ 20ᴋ ᴘᴇʀᴍᴀɴᴇɴ",
         "content": "✅ Grup berhasil dibuka",
         "time": "29/04 08:30",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420199092
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "STOKK || NIAGA STORE🛒: ~ raditzx cruel",
-        "content": "OPEN PP GRUB 50K 80 MEM -1 SLOT",
-        "time": "29/04 08:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420198936
       }
     ],
     "galleryPhotos": [],
