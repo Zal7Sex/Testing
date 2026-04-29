@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (45 pesan): ~ someone",
+        "content": "ok'",
+        "time": "29/04 22:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470908023
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (229 pesan): ~ komar mania",
         "content": "pake sg dua",
         "time": "29/04 22:06",
@@ -4011,14 +4019,6 @@
         "time": "29/04 22:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470594882
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (23 pesan): ~ someone",
-        "content": "biarin aja salah mereka sendirilah di suruh nimb malah tag sw anjeng gajelas",
-        "time": "29/04 22:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470594614
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777470902945,
+    "lastSeen": 1777470905862,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
