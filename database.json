@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎363 pesan dari 13 chat",
+        "time": "29/04 18:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777457066160
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "GB || ISIAN  LYEZ STORE X ALL OWN: ~ okeii🧟‍♀️🧟‍♀️🧟‍♀️",
         "content": "Yang mau gc",
         "time": "29/04 18:15",
@@ -4011,14 +4019,6 @@
         "time": "29/04 18:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1777456248725
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (23 pesan): ~ leveno cakep",
-        "content": "kangen",
-        "time": "29/04 18:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777456248694
       }
     ],
     "galleryPhotos": [],
