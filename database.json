@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2375 pesan dari 19 chat",
+        "time": "29/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452614996
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (331 pesan): ~ saskia",
+        "content": "Ayok ngentod sampe mati",
+        "time": "29/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452614937
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (330 pesan): ~ melan",
         "content": "yok saskia",
         "time": "29/04 17:00",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452170776
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (116 pesan): ~ Waminz~🫶🤍",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 16:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452170650
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (652 pesan): ~ mayoo >ᴗ<",
-        "content": "📷 kakak main yuk 😅😳",
-        "time": "29/04 16:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452170629
       }
     ],
     "galleryPhotos": [],
@@ -17789,7 +17789,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ee30d9385b086551fa67a994a9b2f412",
-    "lastSeen": 1777452601613,
+    "lastSeen": 1777452613690,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:49:40.739Z",
