@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎606 pesan dari 19 chat",
+        "time": "29/04 19:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460921480
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (100 pesan): ~ Terang bulan",
         "content": "💟 Stiker",
         "time": "29/04 19:19",
@@ -4011,14 +4019,6 @@
         "time": "29/04 19:13",
         "pkg": "com.whatsapp",
         "receivedAt": 1777460525927
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (52 pesan): ~ paees nak tido",
-        "content": "🔗 NGAWI CLUB | Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/FtXYc0B6Z9a8BaEFnCtpt4?mode=gi_t",
-        "time": "29/04 19:13",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777460525906
       }
     ],
     "galleryPhotos": [],
