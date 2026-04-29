@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (42 pesan): ~ unknown",
+        "content": "💟 Stiker",
+        "time": "29/04 17:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454120623
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2663 pesan dari 17 chat",
+        "time": "29/04 17:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454114948
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (41 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
         "content": "emoh ah",
         "time": "29/04 17:26",
@@ -4003,22 +4019,6 @@
         "time": "29/04 17:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1777453578138
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (411 pesan): ~ Xin Chào",
-        "content": "🎥 Video (0.34)",
-        "time": "29/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453577496
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (410 pesan): ~ Vann",
-        "content": "alah tolol",
-        "time": "29/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453576785
       }
     ],
     "galleryPhotos": [],
