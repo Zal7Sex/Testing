@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2132 pesan dari 19 chat",
+        "time": "29/04 14:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777443377523
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (67 pesan): ~ ~💐💐💐💐",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 14:27",
@@ -4011,14 +4019,6 @@
         "time": "29/04 13:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1777438435121
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (220 pesan): ~ ian shawty",
-        "content": "💟 Stiker",
-        "time": "29/04 13:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777438435082
       }
     ],
     "galleryPhotos": [],
