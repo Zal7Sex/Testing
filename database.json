@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2280 pesan dari 19 chat",
+        "time": "29/04 16:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452272114
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (248 pesan): ~ val",
+        "content": "tante minta limit🥺",
+        "time": "29/04 16:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452272089
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (247 pesan): ~ val",
         "content": "ulang",
         "time": "29/04 16:55",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451857662
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2161 pesan dari 19 chat",
-        "time": "29/04 16:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451857639
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (652 pesan): ~ mayoo",
-        "content": "📷 kakak main yuk 😅😳",
-        "time": "29/04 16:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451857423
       }
     ],
     "galleryPhotos": [],
@@ -17725,7 +17725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "50145ff0c900219faa50cd1dd385f1d9",
-    "lastSeen": 1777452266005,
+    "lastSeen": 1777452272004,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:34:20.514Z",
