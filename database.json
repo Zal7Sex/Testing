@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎521 pesan dari 16 chat",
+        "time": "29/04 08:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777421977586
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (144 pesan): ~ Piteness store",
         "content": ".gc open",
         "time": "29/04 08:30",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420198427
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (4 pesan): ~ sska vs maklu",
-        "content": "💟 Stiker",
-        "time": "29/04 08:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420198202
       }
     ],
     "galleryPhotos": [],
