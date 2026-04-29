@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎548 pesan dari 16 chat",
+        "time": "29/04 08:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777422928961
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (48 pesan): ~ •~all🤍🫰🏻",
         "content": "Hai gyas",
         "time": "29/04 08:45",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420672688
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (126 pesan): ~ fhariz orang sigma",
-        "content": "💟 Stiker",
-        "time": "29/04 08:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420672664
       }
     ],
     "galleryPhotos": [],
