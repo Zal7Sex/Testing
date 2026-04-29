@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (40 pesan): Menyebut semua",
+        "content": "~ unknown: @⁨semua⁩",
+        "time": "29/04 17:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454101745
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2660 pesan dari 17 chat",
+        "time": "29/04 17:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454101721
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (39 pesan): ~ unknown",
         "content": "https://call.whatsapp.com/voice/1422uL98o7riu23qaViwQ3",
         "time": "29/04 17:25",
@@ -4003,22 +4019,6 @@
         "time": "29/04 17:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1777453575544
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2545 pesan dari 17 chat",
-        "time": "29/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453574744
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (126 pesan): ~ lux",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 17:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453574563
       }
     ],
     "galleryPhotos": [],
