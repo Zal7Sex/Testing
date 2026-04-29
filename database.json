@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡",
+        "content": "👋 ~ slurr ingin mengobrol sekarang. Ayo gabung ke percakapan!",
+        "time": "30/04 06:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500582677
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Tinjauan akun selesai",
         "content": "Lihat informasi baru tentang akun WhatsApp Anda.",
         "time": "30/04 04:34",
@@ -4011,14 +4019,6 @@
         "time": "29/04 22:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777472061396
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (528 pesan): ~ shinigami ryuk",
-        "content": "① Foto",
-        "time": "29/04 22:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777472060363
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777500568141,
+    "lastSeen": 1777500580884,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
