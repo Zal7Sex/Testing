@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎234 pesan dari 13 chat",
+        "time": "29/04 09:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777425738148
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (6 pesan): ~ Lemon skibidy",
         "content": "Gak tau adell may grill",
         "time": "29/04 09:33",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1777424582535
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡: ~ saa far awayy",
-        "content": "ga enak",
-        "time": "29/04 09:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777424582516
       }
     ],
     "galleryPhotos": [],
