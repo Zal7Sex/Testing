@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎315 pesan dari 14 chat",
+        "time": "29/04 18:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777457385700
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑: ~ Terang bulan",
         "content": "bagi bagi nomor tobrut @⁨~jojoel⁩",
         "time": "29/04 18:20",
@@ -4011,14 +4019,6 @@
         "time": "29/04 18:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1777456501397
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐: ~ xxzrey",
-        "content": "cht luan",
-        "time": "29/04 18:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777456501363
       }
     ],
     "galleryPhotos": [],
