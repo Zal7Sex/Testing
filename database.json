@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (132 pesan): ~ berry saputra",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 17:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454559235
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2219 pesan dari 17 chat",
         "time": "29/04 17:33",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777453906338
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (42 pesan): ~ who?",
-        "content": "kalau mau jualan di michat aja kak",
-        "time": "29/04 17:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453906289
       }
     ],
     "galleryPhotos": [],
@@ -17821,7 +17821,7 @@
     "deviceName": "HP-ZAL7SEX-9B61",
     "ownerUsername": "Zal7Sex",
     "token": "9b36694f0949493e18d8b3fb4ca882d3",
-    "lastSeen": 1777454550002,
+    "lastSeen": 1777454556050,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:21:44.603Z",
