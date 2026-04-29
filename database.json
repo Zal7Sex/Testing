@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1479 pesan dari 19 chat",
+        "time": "29/04 21:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468926215
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (132 pesan): ~ Terang bulan",
+        "content": "🎉 Benar!\n+12 EXP\n+8 Limit",
+        "time": "29/04 21:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468924452
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1478 pesan dari 19 chat",
+        "time": "29/04 21:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468924428
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1477 pesan dari 19 chat",
+        "time": "29/04 21:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468923158
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (131 pesan): ~ liee",
         "content": "karbon",
         "time": "29/04 21:32",
@@ -3987,38 +4019,6 @@
         "time": "29/04 21:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777468424411
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (11 pesan): ~ ?",
-        "content": "bagi bagi nomor tobrut @⁨~—ý nónchlnt.⁩",
-        "time": "29/04 21:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468424386
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (200 pesan): ~ 𝙏𝙞𝙧𝙯͛𝙠𝙪𝙮𝙮",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 21:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468423630
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1320 pesan dari 19 chat",
-        "time": "29/04 21:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468423610
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (15 pesan): ~ BRA4YOU REAL",
-        "content": "📷 250+ log bind sepaket max 1 -163 token max 2 sg trompet gaga",
-        "time": "29/04 21:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468423481
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468920754,
+    "lastSeen": 1777468923519,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
