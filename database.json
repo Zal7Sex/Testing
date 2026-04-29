@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2046 pesan dari 19 chat",
+        "time": "29/04 16:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451436997
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (74 pesan): ~ aan.",
         "content": "bagi bokep roblox",
         "time": "29/04 16:41",
@@ -4011,14 +4019,6 @@
         "time": "29/04 16:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450979933
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (5 pesan): ~ jirr yupii",
-        "content": "gajelas jir sumpah",
-        "time": "29/04 16:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450979315
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451435370,
+    "lastSeen": 1777451444373,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
