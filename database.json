@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎556 pesan dari 21 chat",
+        "time": "29/04 19:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460377140
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (53 pesan): ~ Boyy",
+        "content": "sayang call",
+        "time": "29/04 19:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460377118
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (6 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 19:10",
@@ -4003,22 +4019,6 @@
         "time": "29/04 19:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1777459851277
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (17 pesan): ~ lip",
-        "content": ".susunkata",
-        "time": "29/04 19:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777459850255
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (22 pesan): ~ cayala",
-        "content": "① Foto",
-        "time": "29/04 19:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777459849972
       }
     ],
     "galleryPhotos": [],
