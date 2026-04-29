@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎355 pesan dari 13 chat",
+        "time": "29/04 09:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777424108504
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹: ~ ￶",
         "content": "alik motion",
         "time": "29/04 09:06",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1777423494711
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "GB || ISIAN  LYEZ STORE X ALL OWN: ~ yrn",
-        "content": "22 3 nvmtps no makro no rog no mobi no pc",
-        "time": "29/04 08:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777423494697
       }
     ],
     "galleryPhotos": [],
