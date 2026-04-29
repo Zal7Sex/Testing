@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (28 pesan): ~ b*k*|⁰",
+        "content": "Tw",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448124827
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (27 pesan): ~ qiw store",
+        "content": "gb",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448119927
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3072 pesan dari 19 chat",
         "time": "29/04 15:46",
@@ -4003,22 +4019,6 @@
         "time": "29/04 14:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443221758
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (221 pesan): ~ ~",
-        "content": "📷 Adidas on\nBobac udh 1k per bulan\nSab banyak \nAva cakep cakep\nCocok dah buat kalian",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443220748
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2103 pesan dari 19 chat",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443219707
       }
     ],
     "galleryPhotos": [],
@@ -17526,7 +17526,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "47026291789bab18fbcb5d300d789adf",
-    "lastSeen": 1777448118916,
+    "lastSeen": 1777448124770,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:32:36.802Z",
