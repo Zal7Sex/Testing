@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (42 pesan): ~ Terang bulan",
+        "content": "⏰ Waktu habis!\nJawaban: PENAMBANG KUAT",
+        "time": "29/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468017843
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1273 pesan dari 19 chat",
+        "time": "29/04 21:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468017813
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1272 pesan dari 19 chat",
         "time": "29/04 21:17",
@@ -4003,22 +4019,6 @@
         "time": "29/04 21:05",
         "pkg": "com.whatsapp",
         "receivedAt": 1777467278643
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1135 pesan dari 18 chat",
-        "time": "29/04 21:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467278619
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1134 pesan dari 18 chat",
-        "time": "29/04 21:05",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467277089
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468004815,
+    "lastSeen": 1777468016347,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
