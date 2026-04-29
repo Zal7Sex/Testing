@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎375 pesan dari 13 chat",
+        "time": "29/04 18:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777457245749
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎374 pesan dari 13 chat",
+        "time": "29/04 18:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777457242492
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (12 pesan): ~ .~~",
         "content": "😂😂",
         "time": "29/04 18:18",
@@ -4003,22 +4019,6 @@
         "time": "29/04 18:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1777456404707
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (143 pesan): ~ | 𝙬𝙖𝙣𝙙𝙯𝙯_𝙨𝙩𝙘𝙪𝙪⚡",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 18:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777456404661
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (2 pesan): ~ sska vs maklu",
-        "content": "𝙨𝙣𝙞 𝙖𝙢𝙖 𝙥𝙧𝙞𝙣𝙘𝙚𝙨.",
-        "time": "29/04 18:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777456404574
       }
     ],
     "galleryPhotos": [],
