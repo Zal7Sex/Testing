@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (20 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
+        "content": "ga ngotak bgst",
+        "time": "29/04 19:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777461118341
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎652 pesan dari 19 chat",
         "time": "29/04 19:22",
@@ -4011,14 +4019,6 @@
         "time": "29/04 19:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1777460704851
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (176 pesan): ~ mzf☆",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 19:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777460704711
       }
     ],
     "galleryPhotos": [],
