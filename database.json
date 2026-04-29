@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (275 pesan): ~ Dit",
+        "content": "💟 Stiker",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448153988
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (38 pesan): ~ orva",
+        "content": "Tolong bantu bug in bg",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448153961
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (389 pesan): ~ abi ksma nope 2",
+        "content": "📷 yakin mas ga coba beli yg ff ml disini? List harga langsung tanyain ke pm gas dah😋",
+        "time": "29/04 15:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448149942
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3077 pesan dari 19 chat",
         "time": "29/04 15:46",
@@ -3995,30 +4019,6 @@
         "time": "29/04 14:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443233746
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2107 pesan dari 19 chat",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443229350
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (425 pesan): ~ jeri",
-        "content": "💟 Stiker",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443229310
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2106 pesan dari 19 chat",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443229241
       }
     ],
     "galleryPhotos": [],
@@ -17526,7 +17526,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "47026291789bab18fbcb5d300d789adf",
-    "lastSeen": 1777448148781,
+    "lastSeen": 1777448151940,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:32:36.802Z",
