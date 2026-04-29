@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (42 pesan): ~ ༒︎sy♱#𝙻𝚂𝚃𝙲/𝕬𝕭𝖄𝕾𝕾/𝟐𝟐𝟓 𝐀𝐑𝐄𝐀",
+        "content": "tapi kalo dy di gamonin mantannya si njg,msi ska tuh mantannya",
+        "time": "29/04 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454929828
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1582 pesan dari 15 chat",
         "time": "29/04 17:39",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454264515
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2222 pesan dari 17 chat",
-        "time": "29/04 17:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454264486
       }
     ],
     "galleryPhotos": [],
