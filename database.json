@@ -23,6 +23,30 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎528 pesan dari 17 chat",
+        "time": "29/04 18:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456287017
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎527 pesan dari 17 chat",
+        "time": "29/04 18:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456282828
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (28 pesan): ~ leveno cakep",
+        "content": "kange wa",
+        "time": "29/04 18:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456282802
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎526 pesan dari 17 chat",
         "time": "29/04 18:02",
         "pkg": "com.whatsapp",
@@ -3995,30 +4019,6 @@
         "time": "29/04 17:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1777455869983
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (139 pesan): ~ ᴠɪʟᴢʏx - sʜᴀᴅᴏᴡ",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 17:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455869957
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (53 pesan): ~ BiiTamvan",
-        "content": "📷 LOG GGL BIND GM PRIB KODE KEAMANAN EPEP INGET V599 1LGI 600 MAX 2 EVO 3 SG REPER SPEK OLD OP?",
-        "time": "29/04 17:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455869929
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (42 pesan): ~ who?",
-        "content": "kalau mau jualan di michat aja kak",
-        "time": "29/04 17:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455856975
       }
     ],
     "galleryPhotos": [],
@@ -17887,7 +17887,7 @@
     "token": "d78aff42ead33e10640c5a49e789cd45",
     "lastSeen": 1777454878917,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-29T09:27:10.877Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
@@ -17917,7 +17917,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e820b562099723593389ff93d779b756",
-    "lastSeen": 1777456280296,
+    "lastSeen": 1777456286517,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:51:11.605Z",
