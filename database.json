@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (142 pesan): ~ komar mania",
+        "content": "lah",
+        "time": "29/04 19:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463290153
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (141 pesan): ~ idk",
         "content": "dy gatau kudet",
         "time": "29/04 19:58",
@@ -4011,14 +4019,6 @@
         "time": "29/04 19:52",
         "pkg": "com.whatsapp",
         "receivedAt": 1777462890979
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (443 pesan): ~ liee",
-        "content": "💟 Stiker",
-        "time": "29/04 19:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777462890557
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777463282487,
+    "lastSeen": 1777463288490,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
