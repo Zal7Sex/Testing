@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎TWOSTROKE JATIM V1 (17 pesan): ~ GENTA",
+        "content": "🎥 Video (0.28)",
+        "time": "29/04 16:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451174846
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (37 pesan): ~ Ninja`989",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 16:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451174813
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1961 pesan dari 18 chat",
+        "time": "29/04 16:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451170649
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (23 pesan): ~ .",
+        "content": "💟 Stiker",
+        "time": "29/04 16:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451170621
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (521 pesan): ~ 😴",
         "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
         "time": "29/04 16:37",
@@ -3987,38 +4019,6 @@
         "time": "29/04 16:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450470559
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (107 pesan): ~ .",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 16:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450470114
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (42 pesan): ~ Axel 17 Str",
-        "content": "📷 OP? 130+/PAS LOG GGL BIND KOS",
-        "time": "29/04 16:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450470094
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (649 pesan): ~ mayoo",
-        "content": "woi esempeh 😳",
-        "time": "29/04 16:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450470067
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (63 pesan): ~ ---'",
-        "content": "Eneke",
-        "time": "29/04 16:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450470039
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451170447,
+    "lastSeen": 1777451173450,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
