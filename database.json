@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2201 pesan dari 19 chat",
+        "time": "29/04 16:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452013403
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (189 pesan): ~ val",
+        "content": "💟 Stiker",
+        "time": "29/04 16:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452013372
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2200 pesan dari 19 chat",
+        "time": "29/04 16:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452013184
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (188 pesan): ~ jirr yupii",
         "content": "💟 Stiker",
         "time": "29/04 16:51",
@@ -3995,30 +4019,6 @@
         "time": "29/04 16:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451549875
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2071 pesan dari 19 chat",
-        "time": "29/04 16:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451549110
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (542 pesan): ~ donz store",
-        "content": "YANG NYARI AKUN BER SG MULAI DARI\nHARGA MULAI DARI\n50K\n100K\n150K\n200K\n250K\n300K\n350K\n400K\n500K++\n\nYG MAU JUAL AKUN PM AJA COCOK GW ANGKUT\n\n100% AMAN DAN AMANAH TERPERCAYA🔥\n•TESTIMONI SAMPE DONE✅",
-        "time": "29/04 16:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451549091
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2070 pesan dari 19 chat",
-        "time": "29/04 16:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451547322
       }
     ],
     "galleryPhotos": [],
@@ -17725,7 +17725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "50145ff0c900219faa50cd1dd385f1d9",
-    "lastSeen": 1777452010876,
+    "lastSeen": 1777452013876,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:34:20.514Z",
