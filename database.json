@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎620 pesan dari 19 chat",
+        "time": "29/04 19:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460972560
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎620 pesan dari 19 chat",
+        "time": "29/04 19:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460970211
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (110 pesan): ~ ian shawty",
         "content": "💟 Stiker",
         "time": "29/04 19:20",
@@ -4003,22 +4019,6 @@
         "time": "29/04 19:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1777460588109
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (67 pesan): ~ ￶",
-        "content": "📷 True jordan",
-        "time": "29/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777460588034
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎518 pesan dari 19 chat",
-        "time": "29/04 19:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777460584307
       }
     ],
     "galleryPhotos": [],
