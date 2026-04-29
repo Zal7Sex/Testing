@@ -23,6 +23,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎541 pesan dari 17 chat",
+        "time": "29/04 18:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456310929
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎540 pesan dari 17 chat",
         "time": "29/04 18:02",
         "pkg": "com.whatsapp",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1777455905771
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (2 pesan): ~ duncya",
-        "content": "① Foto",
-        "time": "29/04 17:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455905748
       }
     ],
     "galleryPhotos": [],
@@ -17917,7 +17917,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e820b562099723593389ff93d779b756",
-    "lastSeen": 1777456304929,
+    "lastSeen": 1777456308151,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:51:11.605Z",
