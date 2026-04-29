@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (40 pesan): ~ eja si pisang",
+        "content": "kenapa",
+        "time": "29/04 16:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449773259
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3287 pesan dari 19 chat",
         "time": "29/04 16:13",
@@ -4011,14 +4019,6 @@
         "time": "29/04 15:47",
         "pkg": "com.whatsapp",
         "receivedAt": 1777448170611
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (32 pesan): ~ b*k*|⁰",
-        "content": "Ok",
-        "time": "29/04 15:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777448170577
       }
     ],
     "galleryPhotos": [],
