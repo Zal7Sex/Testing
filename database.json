@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎212 pesan dari 11 chat",
+        "time": "29/04 09:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777427303337
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (5 pesan): Menyebut semua",
         "content": "~ .: @⁨semua⁩ welcome member new",
         "time": "29/04 09:59",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:40",
         "pkg": "com.whatsapp",
         "receivedAt": 1777426285195
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (11 pesan): ~ Lemon skibidy",
-        "content": "💟 Stiker",
-        "time": "29/04 09:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777426285120
       }
     ],
     "galleryPhotos": [],
