@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎163 pesan dari 12 chat",
+        "time": "29/04 10:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777429072460
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (25 pesan): ~ Terang bulan",
         "content": "Kamu sudah terdaftar.",
         "time": "29/04 10:24",
@@ -4011,14 +4019,6 @@
         "time": "29/04 10:17",
         "pkg": "com.whatsapp",
         "receivedAt": 1777428421832
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOKK || NIAGA STORE🛒 (4 pesan): ~ tanz",
-        "content": "🔗 JB TANZ X REVAN STORE 1# | https://chat.whatsapp.com/IBjBHuyGAuA1l1WG0aQicy?mode=gi_t\n\nREKOMENDASI GB JB AMANAH ANTI TF NGARET ANTI TAHAN UANG YAITU JB TANZ STORE ADMIN RAMAH+ AMANAH SUK AJA 350 MEMBER DAGET",
-        "time": "29/04 10:17",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777428421811
       }
     ],
     "galleryPhotos": [],
