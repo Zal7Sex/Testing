@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3285 pesan dari 19 chat",
+        "time": "29/04 16:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449761492
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (16 pesan): ~ tn||𝟖𝟎𝟖",
+        "content": "apa anjir yayuk",
+        "time": "29/04 16:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449761472
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3284 pesan dari 19 chat",
+        "time": "29/04 16:13",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449759229
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (15 pesan): ~ april maybe🤷🏿‍♀️",
         "content": "yayuk mania",
         "time": "29/04 16:13",
@@ -3995,30 +4019,6 @@
         "time": "29/04 15:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1777448160057
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (54 pesan): ~ komar mania",
-        "content": "dasar",
-        "time": "29/04 15:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777448159975
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1352 pesan): ~ aan.",
-        "content": "birahi",
-        "time": "29/04 15:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777448159954
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (275 pesan): ~ Dit",
-        "content": "💟 Stiker",
-        "time": "29/04 15:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777448159868
       }
     ],
     "galleryPhotos": [],
@@ -17574,6 +17574,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "Menghapus obrolan terpilih…",
+        "content": "100%",
+        "time": "29/04 15:02",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777449759418
+      },
       {
         "appName": "Messages",
         "sender": "",
