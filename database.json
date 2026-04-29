@@ -24,6 +24,14 @@
         "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2657 pesan dari 17 chat",
+        "time": "30/04 06:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502359091
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2657 pesan dari 17 chat",
         "time": "30/04 06:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1777502333335
@@ -4011,14 +4019,6 @@
         "time": "30/04 06:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777501052268
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (13 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501052156
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502344997,
+    "lastSeen": 1777502357008,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
