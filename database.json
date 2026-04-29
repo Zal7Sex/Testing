@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎361 pesan dari 17 chat",
+        "time": "29/04 18:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777457977147
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (21 pesan): ~ sᴇᴡᴀ ʙᴏᴛ 20ᴋ ᴘᴇʀᴍᴀɴᴇɴ",
+        "content": "✅ Berhasil mengeluarkan peserta dari grup.",
+        "time": "29/04 18:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777457977126
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (20 pesan): ~ kamu",
         "content": ".kick",
         "time": "29/04 18:30",
@@ -4003,22 +4019,6 @@
         "time": "29/04 18:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1777457417594
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (6 pesan): ~ Akbar",
-        "content": "📷 Foto",
-        "time": "29/04 18:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777457417487
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (150 pesan): ~ ~ En",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 18:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777457417423
       }
     ],
     "galleryPhotos": [],
