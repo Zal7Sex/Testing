@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2229 pesan dari 19 chat",
+        "time": "29/04 16:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452078375
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (213 pesan): ~ Terang bulan",
+        "content": "Ngetik apasih cil😹",
+        "time": "29/04 16:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452078116
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2228 pesan dari 19 chat",
+        "time": "29/04 16:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452077148
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (212 pesan): ~ val",
+        "content": ".slot.5",
+        "time": "29/04 16:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452077129
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (211 pesan): ~ aan.",
         "content": "pilat",
         "time": "29/04 16:52",
@@ -3987,38 +4019,6 @@
         "time": "29/04 16:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451609459
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (109 pesan): ~ .",
-        "content": "cewek?",
-        "time": "29/04 16:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451603796
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2088 pesan dari 19 chat",
-        "time": "29/04 16:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451603774
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (42 pesan): ~ ༒︎sy♱#𝙻𝚂𝚃𝙲/𝕬𝕭𝖄𝕾𝕾/𝟐𝟐𝟓 𝐀𝐑𝐄𝐀",
-        "content": "yakan hms tpi ada lg yg lebih dri ini",
-        "time": "29/04 16:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451602566
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2087 pesan dari 19 chat",
-        "time": "29/04 16:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451602534
       }
     ],
     "galleryPhotos": [],
@@ -17725,7 +17725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "50145ff0c900219faa50cd1dd385f1d9",
-    "lastSeen": 1777452073919,
+    "lastSeen": 1777452076928,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:34:20.514Z",
