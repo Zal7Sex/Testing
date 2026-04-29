@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48 (9 pesan): ~ tut",
+        "content": "Cik",
+        "time": "29/04 16:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451276021
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎STOK AXEL 17 STR #1 (46 pesan): ~ RAMZ STR REGION SUKABUMI",
         "content": "Lawak",
         "time": "29/04 16:38",
@@ -4011,14 +4019,6 @@
         "time": "29/04 16:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450623881
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (108 pesan): ~ kieluvee.",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 16:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450623822
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451269485,
+    "lastSeen": 1777451275489,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
