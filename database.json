@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (458 pesan): ~ Arep",
+        "content": "Mau ya ama aku",
+        "time": "29/04 19:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463111825
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (129 pesan): ~ idk",
         "content": "males deng",
         "time": "29/04 19:56",
@@ -4011,14 +4019,6 @@
         "time": "29/04 19:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1777462728873
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟒 ||  𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (31 pesan): ~ mocha anti pakis",
-        "content": "📷 OP? 185+ MAX 1 SG TEROMPET\n\n( masih )",
-        "time": "29/04 19:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777462728729
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777463108370,
+    "lastSeen": 1777463111708,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
