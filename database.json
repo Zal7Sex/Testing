@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1582 pesan dari 16 chat",
+        "time": "29/04 17:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454859879
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1581 pesan dari 16 chat",
+        "time": "29/04 17:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454849009
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (7 pesan): ~ ~ n",
         "content": "💟 Stiker",
         "time": "29/04 17:38",
@@ -4003,22 +4019,6 @@
         "time": "29/04 17:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454221286
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (96 pesan): ~ 𝙑𝙖𝙡𝙯 𝘾𝙖𝙙𝙖𝙣𝙜𝙖𝙣",
-        "content": "sabar nnti open",
-        "time": "29/04 17:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454221186
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (130 pesan): ~ heri",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 17:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454221107
       }
     ],
     "galleryPhotos": [],
@@ -17885,7 +17885,7 @@
     "deviceName": "HP-ZAL7SEX-4812",
     "ownerUsername": "Zal7Sex",
     "token": "d78aff42ead33e10640c5a49e789cd45",
-    "lastSeen": 1777454848626,
+    "lastSeen": 1777454857635,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:27:10.877Z",
