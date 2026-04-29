@@ -15619,19 +15619,8 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "726e0a20c54caff74fc7d6692fc4c68c",
-    "lastSeen": 1777446680453,
-    "commandQueue": [
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1777446681521
-      },
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1777446681873
-      }
-    ],
+    "lastSeen": 1777446704447,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:10:38.806Z",
     "deviceInfo": {
