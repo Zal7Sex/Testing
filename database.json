@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1475 pesan dari 18 chat",
+        "time": "29/04 22:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471779459
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (24 pesan): ~ Fm",
+        "content": "Aku GK mau' nikah, karena bisa beli cewek michet bisa ngawe tanpa nikah dan GK kasih nafkah tiap hari",
+        "time": "29/04 22:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471779150
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1473 pesan dari 18 chat",
+        "time": "29/04 22:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471777859
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (521 pesan): ~ Lan♿",
         "content": "malu ngentod ngemis pirtual",
         "time": "29/04 22:20",
@@ -3995,30 +4019,6 @@
         "time": "29/04 22:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1777471473703
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (475 pesan): ~ Bazz",
-        "content": "APK JPM CUMA 2K PM",
-        "time": "29/04 22:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471473097
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1961 pesan dari 19 chat",
-        "time": "29/04 22:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471473078
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1960 pesan dari 19 chat",
-        "time": "29/04 22:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471472673
       }
     ],
     "galleryPhotos": [],
@@ -17982,7 +17982,7 @@
     "deviceName": "HP-ZAL7SEX-7F68",
     "ownerUsername": "Zal7Sex",
     "token": "f7357c8a0e9985ebb76b84dceb9e57ca",
-    "lastSeen": 1777471775011,
+    "lastSeen": 1777471778012,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T14:09:02.258Z",
