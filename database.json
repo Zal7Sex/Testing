@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎523 pesan dari 16 chat",
+        "time": "29/04 08:31",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777422022379
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (146 pesan): ~ Piteness store",
         "content": "vote",
         "time": "29/04 08:31",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420210504
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (18 pesan): ~ yoshua",
-        "content": "💟 Stiker",
-        "time": "29/04 08:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420210343
       }
     ],
     "galleryPhotos": [],
