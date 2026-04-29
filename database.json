@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎374 pesan dari 13 chat",
+        "time": "29/04 18:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777457257145
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (12 pesan): ~ .~~",
         "content": "😂😂",
         "time": "29/04 18:18",
@@ -4011,14 +4019,6 @@
         "time": "29/04 18:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1777456429884
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (44 pesan): ~ sska vs maklu",
-        "content": "💟 Stiker",
-        "time": "29/04 18:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777456418299
       }
     ],
     "galleryPhotos": [],
