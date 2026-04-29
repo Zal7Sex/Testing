@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1813 pesan dari 19 chat",
+        "time": "29/04 20:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466510017
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (666 pesan): ~ ridal gosling",
         "content": "💟 Stiker",
         "time": "29/04 20:52",
@@ -4011,14 +4019,6 @@
         "time": "29/04 20:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466136118
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1652 pesan dari 19 chat",
-        "time": "29/04 20:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466133807
       }
     ],
     "galleryPhotos": [],
