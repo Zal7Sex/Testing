@@ -22,6 +22,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Pegasus-X Room: ~ sipa",
+        "content": "ada yg bisa riset hp kah??",
+        "time": "29/04 20:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465733959
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1471 pesan dari 17 chat",
+        "time": "29/04 20:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465728571
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (540 pesan): ~ Terang bulan",
+        "content": "User belum terdaftar.",
+        "time": "29/04 20:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465728542
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1470 pesan dari 17 chat",
+        "time": "29/04 20:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465727455
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (539 pesan): ~ Rii",
+        "content": ".setlimit 1",
+        "time": "29/04 20:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465727420
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1469 pesan dari 17 chat",
         "time": "29/04 20:39",
@@ -3979,46 +4019,6 @@
         "time": "29/04 20:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1777465257968
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1384 pesan dari 17 chat",
-        "time": "29/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465256155
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (311 pesan): ~ SYAA",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465255990
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (489 pesan): ~ ayah pakcik🥰",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465250436
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1383 pesan dari 17 chat",
-        "time": "29/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465250199
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1383 pesan dari 17 chat",
-        "time": "29/04 20:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465248441
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777465724487,
+    "lastSeen": 1777465733401,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
