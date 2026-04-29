@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Downloading 1 videos",
+        "content": "from 𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48",
+        "time": "29/04 09:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777423782080
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (24 pesan): ~ mayoo",
         "content": "😅😔",
         "time": "29/04 09:00",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:48",
         "pkg": "com.whatsapp",
         "receivedAt": 1777423060482
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (162 pesan): ~ redfruxciterz",
-        "content": "📷 Foto",
-        "time": "29/04 08:48",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777423060469
       }
     ],
     "galleryPhotos": [],
