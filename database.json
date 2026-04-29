@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎397 pesan dari 14 chat",
+        "time": "29/04 10:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777429683423
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (215 pesan): ~ Terang bulan",
         "content": "🎮 TEBAK KATA\n\nUdara, Kaca, Rumah\n\n⏳ Reply pesan ini untuk menjawab\nKetik nyerah untuk menyerah",
         "time": "29/04 10:38",
@@ -4011,14 +4019,6 @@
         "time": "29/04 10:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777429430661
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (114 pesan): ~ Terang bulan",
-        "content": "Salah dongo, coba lagi😹",
-        "time": "29/04 10:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777429430645
       }
     ],
     "galleryPhotos": [],
