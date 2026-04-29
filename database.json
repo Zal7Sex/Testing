@@ -4071,7 +4071,7 @@
     "token": "20fdcadc903f75b92eda3edefa92e509",
     "lastSeen": 1777475605230,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-27T07:37:12.639Z",
     "deviceInfo": {
       "model": "OPPO CPH1923",
@@ -17656,13 +17656,7 @@
     "ownerUsername": "Zal7Sex",
     "token": "9255932f1d613bc4588dd8c7cc2957d2",
     "lastSeen": 1777450940770,
-    "commandQueue": [
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1777450990526
-      }
-    ],
+    "commandQueue": [],
     "online": false,
     "connectedAt": "2026-04-29T08:20:05.335Z",
     "deviceInfo": {
@@ -18083,7 +18077,7 @@
     "token": "608fbfddc88890726fe5e673bc12e0dd",
     "lastSeen": 1777474348825,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-04-29T14:49:35.020Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
