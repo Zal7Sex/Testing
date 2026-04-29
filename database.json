@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1172 pesan dari 16 chat",
+        "time": "29/04 17:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777455113412
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1167 pesan dari 16 chat",
+        "time": "29/04 17:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777455111334
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (48 pesan): ~ ༒︎sy♱#𝙻𝚂𝚃𝙲/𝕬𝕭𝖄𝕾𝕾/𝟐𝟐𝟓 𝐀𝐑𝐄𝐀",
         "content": "yeu rata rata cwo kalo uda lama psti bosen,tkt dy gtu..",
         "time": "29/04 17:42",
@@ -4003,22 +4019,6 @@
         "time": "29/04 17:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454528705
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (132 pesan): ~ berry saputra",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 17:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454527732
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (53 pesan): ~ BiiTamvan",
-        "content": "📷 LOG GGL BIND GM PRIB KODE KEAMANAN EPEP INGET V599 1LGI 600 MAX 2 EVO 3 SG REPER SPEK OLD OP?",
-        "time": "29/04 17:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454527538
       }
     ],
     "galleryPhotos": [],
