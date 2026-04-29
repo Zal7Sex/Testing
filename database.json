@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (381 pesan): ~ vgy",
+        "content": "https://www.roblox.com/share?code=d86e55752e7f424f92b03bc33a15d109&type=Server",
+        "time": "29/04 15:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448005922
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3048 pesan dari 19 chat",
+        "time": "29/04 15:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777447998861
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (14 pesan): ~ Fine",
         "content": "22 pepeng 9,5 no macro hp only",
         "time": "29/04 15:44",
@@ -4003,22 +4019,6 @@
         "time": "29/04 14:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443172590
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (410 pesan): ~ 🫶🏻🫸🏿👱🏻‍♀️",
-        "content": "owi bukan orang pribumi",
-        "time": "29/04 14:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443172537
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2085 pesan dari 19 chat",
-        "time": "29/04 14:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443171637
       }
     ],
     "galleryPhotos": [],
@@ -17526,17 +17526,8 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "47026291789bab18fbcb5d300d789adf",
-    "lastSeen": 1777447995721,
-    "commandQueue": [
-      {
-        "type": "lock",
-        "payload": {
-          "text": "WWWW",
-          "pin": "1111"
-        },
-        "sentAt": 1777447996289
-      }
-    ],
+    "lastSeen": 1777448004714,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:32:36.802Z",
     "deviceInfo": {
