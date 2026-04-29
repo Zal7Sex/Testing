@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd: ~ titi",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "29/04 09:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777424849260
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎301 pesan dari 13 chat",
+        "time": "29/04 09:18",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777424849241
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎300 pesan dari 12 chat",
         "time": "29/04 09:17",
@@ -4003,22 +4019,6 @@
         "time": "29/04 08:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1777423733813
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Downloading 2 videos",
-        "content": "from 𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48 and 1 more files",
-        "time": "29/04 08:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777423731852
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Downloading 2 videos",
-        "content": "from 𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48 and 1 more files",
-        "time": "29/04 08:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777423730815
       }
     ],
     "galleryPhotos": [],
