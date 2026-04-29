@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎223 pesan dari 13 chat",
+        "time": "29/04 09:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777425145911
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (3 pesan): ~ Terang bulan",
         "content": "bagi bagi nomor tobrut @⁨~aeronn😹⁩",
         "time": "29/04 09:22",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1777423983102
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Downloading 1 videos",
-        "content": "from 𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48",
-        "time": "29/04 09:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777423980934
       }
     ],
     "galleryPhotos": [],
