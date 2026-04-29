@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOK AXEL 17 STR #1 (53 pesan): ~ BiiTamvan",
+        "content": "📷 LOG GGL BIND GM PRIB KODE KEAMANAN EPEP INGET V599 1LGI 600 MAX 2 EVO 3 SG REPER SPEK OLD OP?",
+        "time": "29/04 17:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454599235
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡: ~ aan.",
+        "content": "💟 Stiker",
+        "time": "29/04 17:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454597685
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (621 pesan): ~ kalz",
         "content": "OPEN JOB CREATE GMAIL FRESH\n\n💸 RATE : 2.500 / Gmails !!\nPAYMENT: CEK GMAIL DULU AND ADA BUKTI SS AKUN UDAH LOGOUT DI DEVICE KALIAN\n\nWANT TESTI?PM WA\nWA: 085185417267",
         "time": "29/04 17:34",
@@ -4003,22 +4019,6 @@
         "time": "29/04 17:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1777453932852
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (447 pesan): ~ Xin Chào",
-        "content": "💟 Stiker",
-        "time": "29/04 17:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453932835
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (128 pesan): ~ ‎ ‎ ‎‎",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 17:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453932814
       }
     ],
     "galleryPhotos": [],
@@ -17821,7 +17821,7 @@
     "deviceName": "HP-ZAL7SEX-9B61",
     "ownerUsername": "Zal7Sex",
     "token": "9b36694f0949493e18d8b3fb4ca882d3",
-    "lastSeen": 1777454595297,
+    "lastSeen": 1777454598387,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:21:44.603Z",
