@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎475 pesan dari 14 chat",
+        "time": "29/04 09:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777424778747
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (3 pesan): ~ Lemon skibidy",
+        "content": "💟 Stiker",
+        "time": "29/04 09:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777424778693
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (2 pesan): ~ Lemon skibidy",
         "content": "Sama\" idiot g usah debat",
         "time": "29/04 09:17",
@@ -4003,22 +4019,6 @@
         "time": "29/04 08:59",
         "pkg": "com.whatsapp",
         "receivedAt": 1777423726066
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Downloading 2 videos",
-        "content": "from 𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48 and 1 more files",
-        "time": "29/04 08:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777423724412
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "Downloading 2 videos",
-        "content": "from 𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48 and 1 more files",
-        "time": "29/04 08:59",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777423723974
       }
     ],
     "galleryPhotos": [],
