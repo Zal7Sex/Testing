@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1409 pesan dari 19 chat",
+        "time": "29/04 21:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468753346
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1410 pesan dari 19 chat",
+        "time": "29/04 21:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468753285
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (79 pesan): ~ Terang bulan",
+        "content": "🧠 ASAH OTAK\n\nBencana alam berupa gelombang ombak besar dari laut?\n\nReply pesan ini untuk menjawab!\nKetik nyerah untuk menyerah.",
+        "time": "29/04 21:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468753261
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (78 pesan): ~ liee",
         "content": ".asahotak",
         "time": "29/04 21:30",
@@ -3995,30 +4019,6 @@
         "time": "29/04 21:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1777468244961
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (78 pesan): ~ ￶",
-        "content": "Ngapain cil",
-        "time": "29/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468244894
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (10 pesan): ~ Terang bulan",
-        "content": "bagi bagi nomor tobrut @⁨~sen from kebab⁩",
-        "time": "29/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468244446
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (7 pesan): ~ ±",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 21:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468244381
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468752298,
+    "lastSeen": 1777468755375,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
