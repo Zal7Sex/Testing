@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1455 pesan dari 17 chat",
+        "time": "29/04 22:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471737704
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐉𝐁 𝟒 ||  𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (81 pesan): ~ Valz Str [01]",
+        "content": "🔗 Bagikan di WhatsApp | tawarin ff mu ber sg bebas opm riper atopun apa penting ber sg cocok ku angkut sung cair pm je\nhttps://wa.me/6288272212793 ( valz cadangan)",
+        "time": "29/04 22:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471737680
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (518 pesan): ~ Rhz",
         "content": "Di garuk",
         "time": "29/04 22:19",
@@ -4003,22 +4019,6 @@
         "time": "29/04 22:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1777471411450
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (72 pesan): ~ apaa❓",
-        "content": "💟 Stiker",
-        "time": "29/04 22:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471411430
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (11 pesan): ~ -Wirr str",
-        "content": "V4/5",
-        "time": "29/04 22:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777471409751
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777471728542,
+    "lastSeen": 1777471737547,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
