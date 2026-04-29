@@ -22,6 +22,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (420 pesan): ~ .",
+        "content": "💟 Stiker",
+        "time": "30/04 06:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500761533
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎Pegasus-X Room (7 pesan): ~ wanglin",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "30/04 06:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500761462
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (411 pesan): ~ ......",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "30/04 06:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500761110
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (159 pesan): ~ 𝖃i",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "30/04 06:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500760992
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (193 pesan): ~ bmt112",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "30/04 06:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500760883
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎Pegasus-X Room (7 pesan): ~ wanglin",
         "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
         "time": "30/04 06:23",
@@ -3979,46 +4019,6 @@
         "time": "30/04 06:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1777500652979
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOKK || NIAGA STORE🛒 (12 pesan): ~ danil",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500652685
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (13 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500652519
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1207 pesan): ~ 𝖃i",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500652254
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎TWOSTROKE JATIM V1 (33 pesan): ~ poesat",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500652060
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOKK || NIAGA STORE🛒 (12 pesan): ~ danil",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500651780
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777500759771,
+    "lastSeen": 1777500760878,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
