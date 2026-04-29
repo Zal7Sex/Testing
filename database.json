@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2224 pesan dari 19 chat",
+        "time": "29/04 16:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452067495
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2223 pesan dari 19 chat",
+        "time": "29/04 16:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452060634
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎STOKK || NIAGA STORE🛒 (23 pesan): ~ pindo",
         "content": "340+ tw sepaket",
         "time": "29/04 16:51",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451597814
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (108 pesan): ~ baby blue suka cwe short hair",
-        "content": "💟 Stiker",
-        "time": "29/04 16:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451597730
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2086 pesan dari 19 chat",
-        "time": "29/04 16:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451597454
       }
     ],
     "galleryPhotos": [],
@@ -17725,7 +17725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "50145ff0c900219faa50cd1dd385f1d9",
-    "lastSeen": 1777452058906,
+    "lastSeen": 1777452064916,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:34:20.514Z",
