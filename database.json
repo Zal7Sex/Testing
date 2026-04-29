@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (18 pesan): ~ sarol 412",
+        "content": "wkwk",
+        "time": "29/04 15:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448045448
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3058 pesan dari 19 chat",
+        "time": "29/04 15:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448042406
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (54 pesan): ~ aril.",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 15:44",
@@ -4003,22 +4019,6 @@
         "time": "29/04 14:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443203137
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (30 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "@⁨eric eric⁩ SAYANGG",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443202556
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (219 pesan): ~ gsz",
-        "content": "📷 Polosan lumut op pm",
-        "time": "29/04 14:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443202515
       }
     ],
     "galleryPhotos": [],
@@ -17526,7 +17526,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "47026291789bab18fbcb5d300d789adf",
-    "lastSeen": 1777448040743,
+    "lastSeen": 1777448043800,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:32:36.802Z",
