@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎244 pesan dari 12 chat",
+        "time": "29/04 10:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777427509572
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (4 pesan): ~ donz store",
         "content": "pm",
         "time": "29/04 10:02",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:47",
         "pkg": "com.whatsapp",
         "receivedAt": 1777426577539
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd: ~ tmaa",
-        "content": "📷 Tokenin",
-        "time": "29/04 09:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777426577002
       }
     ],
     "galleryPhotos": [],
