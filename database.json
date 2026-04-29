@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "target1",
+        "content": "+62 895-2357-6442",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468192257
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1266 pesan dari 19 chat",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468188091
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (98 pesan): ~ George",
+        "content": "💟 Stiker",
+        "time": "29/04 21:20",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468188064
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1265 pesan dari 19 chat",
         "time": "29/04 21:20",
@@ -3995,30 +4019,6 @@
         "time": "29/04 21:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1777467395861
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (57 pesan): ~ .",
-        "content": "tag aja",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467395753
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (56 pesan): ~ George",
-        "content": "masih ada",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467394839
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (3 pesan): Menyebut semua",
-        "content": "~ -Wirr str: @⁨semua⁩ vote",
-        "time": "29/04 21:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467394530
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468185212,
+    "lastSeen": 1777468190563,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
