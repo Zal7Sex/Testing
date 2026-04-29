@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777473107009,
+    "lastSeen": 1777473137019,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -18048,7 +18048,7 @@
     "deviceName": "HP-ZAL7SEX-38E2",
     "ownerUsername": "Zal7Sex",
     "token": "faa49d266caaef3310bd8adc888e0de1",
-    "lastSeen": 1777473106695,
+    "lastSeen": 1777473136715,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T14:29:55.980Z",
@@ -18074,10 +18074,6 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null,
-    "pendingVideo": {
-      "assetPath": "assets/video/hack.mp4",
-      "mimeType": "video/mp4",
-      "startedAt": 1777473004475
-    }
+    "pendingVideo": null
   }
 ]
