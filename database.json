@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1561 pesan dari 19 chat",
+        "time": "29/04 20:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465953470
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (590 pesan): ~ ridal gosling",
+        "content": "💟 Stiker",
+        "time": "29/04 20:43",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465953447
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (589 pesan): ~ ridal gosling",
         "content": "EMANG BOLEH 😂",
         "time": "29/04 20:43",
@@ -4003,22 +4019,6 @@
         "time": "29/04 20:37",
         "pkg": "com.whatsapp",
         "receivedAt": 1777465597725
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1421 pesan dari 17 chat",
-        "time": "29/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465597329
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (503 pesan): ~ Rii",
-        "content": "detik detik admin mengeluarkan anda",
-        "time": "29/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465597112
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777465946660,
+    "lastSeen": 1777465952671,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
