@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (24 pesan): ~ who?",
+        "content": "cewe umur 15, udh bisa kerja sambil nyolmek lah gua?",
+        "time": "29/04 16:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451098913
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1947 pesan dari 18 chat",
+        "time": "29/04 16:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451097040
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (14 pesan): ~ baby blue suka cwe short hair",
         "content": "💟 Stiker",
         "time": "29/04 16:35",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:23",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450375845
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (42 pesan): ~ Axel 17 Str",
-        "content": "📷 OP? 130+/PAS LOG GGL BIND KOS",
-        "time": "29/04 16:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450375817
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (646 pesan): ~ Rahma",
-        "content": "ga kerasa ya udh mau SMA ajh",
-        "time": "29/04 16:23",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450375781
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451095430,
+    "lastSeen": 1777451098428,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
