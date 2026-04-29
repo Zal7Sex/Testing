@@ -22,6 +22,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2320 pesan dari 19 chat",
+        "time": "29/04 16:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452423800
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2319 pesan dari 19 chat",
+        "time": "29/04 16:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452420298
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (298 pesan): ~ melan",
+        "content": "yuk kk",
+        "time": "29/04 16:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452420221
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (268 pesan): ~ jirr yupii",
+        "content": "apasi gw masi kecil ya",
+        "time": "29/04 16:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452419963
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2318 pesan dari 19 chat",
+        "time": "29/04 16:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452419830
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (52 pesan): ~ tn||𝟖𝟎𝟖",
         "content": "💟 Stiker",
         "time": "29/04 16:57",
@@ -3979,46 +4019,6 @@
         "time": "29/04 16:51",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452030476
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2208 pesan dari 19 chat",
-        "time": "29/04 16:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452030375
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (196 pesan): ~ jirr yupii",
-        "content": "elu alay",
-        "time": "29/04 16:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452030345
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (194 pesan): ~ baby blue suka cwe short hair",
-        "content": "gw ga lesbi",
-        "time": "29/04 16:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452029171
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2207 pesan dari 19 chat",
-        "time": "29/04 16:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452029147
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (193 pesan): ~ aan.",
-        "content": "alay",
-        "time": "29/04 16:51",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452024949
       }
     ],
     "galleryPhotos": [],
@@ -17757,7 +17757,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "1d6a24e8d4583090f0407af07a50ff0c",
-    "lastSeen": 1777452419612,
+    "lastSeen": 1777452422613,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:46:32.201Z",
