@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (42 pesan): ~ okeii🧟‍♀️🧟‍♀️🧟‍♀️",
+        "content": "11 yang jago",
+        "time": "29/04 16:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449571507
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3259 pesan dari 19 chat",
         "time": "29/04 16:10",
@@ -4011,14 +4019,6 @@
         "time": "29/04 15:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1777447995113
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3047 pesan dari 19 chat",
-        "time": "29/04 15:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777447995093
       }
     ],
     "galleryPhotos": [],
@@ -17574,6 +17574,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "",
+        "content": "Messages is doing work in the background",
+        "time": "29/04 14:59",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777449570258
+      },
       {
         "appName": "Messages",
         "sender": "",
