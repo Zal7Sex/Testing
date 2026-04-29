@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (395 pesan): ~ 𝘿𝙚𝙢𝙤𝙭𝙮",
+        "content": "🔗 𝗖𝗔𝗥𝗜 𝗧𝗘𝗠𝗔𝗡 𝗛𝗬𝗣𝗘𝗥😉💦 | https://chat.whatsapp.com/LdLhk8PxAwTASn1OwTCsbg",
+        "time": "29/04 20:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463861675
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1811 pesan dari 18 chat",
         "time": "29/04 20:08",
@@ -4011,14 +4019,6 @@
         "time": "29/04 20:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1777463357821
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (282 pesan): ~ someone",
-        "content": "cocok i",
-        "time": "29/04 20:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777463357759
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777463859032,
+    "lastSeen": 1777463865347,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
