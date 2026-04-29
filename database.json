@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (334 pesan): ~ Xin Chào",
+        "content": "💟 Stiker",
+        "time": "29/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452633002
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎STOKK || NIAGA STORE🛒 (24 pesan): ~ pindo",
+        "content": "minat +62 822-9714-4534",
+        "time": "29/04 17:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452629632
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2384 pesan dari 19 chat",
         "time": "29/04 17:01",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452187723
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (653 pesan): ~ mayoo >ᴗ<",
-        "content": "💟 Stiker",
-        "time": "29/04 16:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452187669
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (239 pesan): ~ val",
-        "content": "ajg",
-        "time": "29/04 16:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452187549
       }
     ],
     "galleryPhotos": [],
@@ -17789,7 +17789,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ee30d9385b086551fa67a994a9b2f412",
-    "lastSeen": 1777452628700,
+    "lastSeen": 1777452631713,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:49:40.739Z",
