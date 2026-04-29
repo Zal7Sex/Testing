@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (676 pesan): ~ shinigami ryuk",
+        "content": "📷 Vcs sama boi",
+        "time": "29/04 17:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454516257
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎STOKK || NIAGA STORE🛒 (27 pesan): ~ RIFKI JEBEH",
         "content": "𝗧𝗔𝗪𝗔𝗥𝗜𝗡 𝗔𝗞𝗨𝗡 𝗘𝗣𝗘𝗣 𝗞𝗔𝗟𝗜𝗔𝗡 𝗠𝗨𝗟𝗔𝗜 𝟱𝟬-𝟯𝟬𝟬+ 𝗚𝗔𝗡𝗝𝗔/𝗞𝗔𝗡𝗚 𝗛𝗕 𝗚𝗔𝗞 𝗨𝗦𝗔𝗛 𝗧𝗔𝗪𝗔𝗥𝗜𝗡 𝗟𝗢𝗚 𝗚𝗚𝗟/𝗙𝗕 𝗕𝗜𝗡𝗗 𝗢𝗡 𝗔𝗧𝗔𝗨 𝗞𝗢𝗦 𝗟𝗔𝗡𝗚𝗦𝗨𝗡𝗚 𝗞𝗘 𝗣𝗠 𝗕𝗜𝗡𝗗 𝗠𝗔𝗧𝗜 𝗝𝗔𝗨𝗛 𝗝𝗔𝗨𝗛",
         "time": "29/04 17:32",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777453869740
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (444 pesan): ~ Xin Chào",
-        "content": "💟 Stiker",
-        "time": "29/04 17:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453869640
       }
     ],
     "galleryPhotos": [],
@@ -17821,7 +17821,7 @@
     "deviceName": "HP-ZAL7SEX-9B61",
     "ownerUsername": "Zal7Sex",
     "token": "9b36694f0949493e18d8b3fb4ca882d3",
-    "lastSeen": 1777454510479,
+    "lastSeen": 1777454513487,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:21:44.603Z",
