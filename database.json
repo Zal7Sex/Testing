@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (95 pesan): ~ BEAUTIFUL DAY",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 15:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448203352
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3087 pesan dari 19 chat",
+        "time": "29/04 15:47",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777448203323
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3086 pesan dari 19 chat",
         "time": "29/04 15:47",
@@ -4003,22 +4019,6 @@
         "time": "29/04 14:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443244917
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (32 pesan): ~ trikstore",
-        "content": "📷 Info yang ada akun gag op sini bt an ama akun fish it op ku siap mc",
-        "time": "29/04 14:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443244772
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (66 pesan): ~ vell",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 14:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443244588
       }
     ],
     "galleryPhotos": [],
@@ -17526,7 +17526,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "47026291789bab18fbcb5d300d789adf",
-    "lastSeen": 1777448196891,
+    "lastSeen": 1777448202803,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:32:36.802Z",
