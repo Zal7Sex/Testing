@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (6 pesan): ~ saskia",
+        "content": "📷 Sewa lc dapet ga",
+        "time": "29/04 17:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454844039
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2252 pesan dari 17 chat",
         "time": "29/04 17:38",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454219481
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (47 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "yah",
-        "time": "29/04 17:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454219073
       }
     ],
     "galleryPhotos": [],
@@ -17885,7 +17885,7 @@
     "deviceName": "HP-ZAL7SEX-4812",
     "ownerUsername": "Zal7Sex",
     "token": "d78aff42ead33e10640c5a49e789cd45",
-    "lastSeen": 1777454833629,
+    "lastSeen": 1777454842626,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:27:10.877Z",
