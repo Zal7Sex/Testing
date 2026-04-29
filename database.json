@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2661 pesan dari 17 chat",
+        "time": "30/04 06:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502463527
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2660 pesan dari 17 chat",
+        "time": "30/04 06:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502448900
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (413 pesan): ~ ~",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "30/04 06:51",
@@ -4003,22 +4019,6 @@
         "time": "30/04 06:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777501054100
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (13 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501053798
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (159 pesan): ~ 𝖃i",
-        "content": "🔗 ℭ𝔞𝔯𝔱𝔢𝔩 𝔩𝔞𝔫𝔡☠︎ | https://chat.whatsapp.com/C1p12wOh0R4BtacohSWIRS GABUNG REK , 150 MEMBER , ADMIN BAGI BAGI 40VD GORE DAN 30STKR GORE🤤😋",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501053488
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502447070,
+    "lastSeen": 1777502462064,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
