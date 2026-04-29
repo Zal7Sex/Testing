@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "GB || ISIAN  LYEZ STORE X ALL OWN: ~ yrn",
+        "content": "22 3 nvmtps no makro no rog no mobi no pc",
+        "time": "29/04 10:00",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777427397595
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎229 pesan dari 12 chat",
         "time": "29/04 10:00",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1777426415933
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 887-0544-8747",
-        "content": "Minta apk bug",
-        "time": "29/04 09:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777426414790
       }
     ],
     "galleryPhotos": [],
