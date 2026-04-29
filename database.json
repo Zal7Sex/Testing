@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (361 pesan): ~ aku mah enak..",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470250516
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (248 pesan): ~ rambararam",
+        "content": "wong kau itu",
+        "time": "29/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470250352
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (272 pesan): ~ i",
         "content": "💟 Stiker",
         "time": "29/04 21:55",
@@ -4003,22 +4019,6 @@
         "time": "29/04 21:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1777469907262
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (17 pesan): ~ ARM STORE [7855]",
-        "content": "📷 FORMAT JUAL/CARI BY ARM STORE\n[BUKAN ADMIN YG NEED/JUAL]\nJual / Cari: jual\nHarga: 65+\nLog: ggl bind sepaket\nSpek: sg lumut\nMc : ARM STORE [JANGAN DI GANTI]\nNomer: 083128328011\n\nWajib Menggunakan Mc ARM STORE Biar Terhindar Dari Penipuan",
-        "time": "29/04 21:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469907231
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (198 pesan): ~ wizyy",
-        "content": "💟 Stiker",
-        "time": "29/04 21:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469907075
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777470248243,
+    "lastSeen": 1777470255323,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777470247800,
+    "lastSeen": 1777470256772,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
