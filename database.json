@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502038761,
+    "lastSeen": 1777502044766,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
@@ -18157,6 +18157,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 858-1567-7915",
+        "content": "Soalnya pas mau coba install pishing tuh trs login \"gagal terhubung ke server\"",
+        "time": "30/04 05:34",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777502045232
+      },
       {
         "appName": "WA Business",
         "sender": "WA Business",
