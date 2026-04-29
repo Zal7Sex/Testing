@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎508 pesan dari 15 chat",
+        "time": "29/04 08:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777421798362
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎507 pesan dari 14 chat",
+        "time": "29/04 08:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777421775463
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (126 pesan): ~ fhariz orang sigma",
         "content": "💟 Stiker",
         "time": "29/04 08:27",
@@ -4003,22 +4019,6 @@
         "time": "29/04 08:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420178279
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (18 pesan): ~ yoshua",
-        "content": "💟 Stiker",
-        "time": "29/04 08:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420178268
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (24 pesan): ~ JUN★𝔰𝔩",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 08:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420178257
       }
     ],
     "galleryPhotos": [],
