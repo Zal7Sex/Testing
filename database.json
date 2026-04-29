@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (11 pesan): ~ -Wirr str",
+        "content": "V4/5",
+        "time": "29/04 22:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470626543
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (291 pesan): ~ v",
+        "content": "Nyamar dulu ygy",
+        "time": "29/04 22:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470626526
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2055 pesan dari 20 chat",
+        "time": "29/04 22:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470625937
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (200 pesan): ~ byan/XOX/002/CLN/SKY⁸⁹",
+        "content": "💟 Stiker",
+        "time": "29/04 22:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470625915
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2054 pesan dari 20 chat",
         "time": "29/04 22:01",
@@ -3987,38 +4019,6 @@
         "time": "29/04 21:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470230801
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (153 pesan): ~ jaa/𝟐𝟐𝟓 𝐀𝐑𝐄𝐀",
-        "content": "mau cllb lagi bil??",
-        "time": "29/04 21:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470226499
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1868 pesan dari 21 chat",
-        "time": "29/04 21:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470226481
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1867 pesan dari 21 chat",
-        "time": "29/04 21:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470226271
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (271 pesan): ~ sasa wangsaf",
-        "content": "permisi",
-        "time": "29/04 21:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470226253
       }
     ],
     "galleryPhotos": [],
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777470622936,
+    "lastSeen": 1777470626127,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
