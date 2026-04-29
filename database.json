@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (373 pesan): ~ Lemon skibidy",
+        "content": "Besanda",
+        "time": "29/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463562749
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1747 pesan dari 18 chat",
+        "time": "29/04 20:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777463562727
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (476 pesan): ~ liee",
         "content": "bagi bagi mulu",
         "time": "29/04 20:03",
@@ -4003,22 +4019,6 @@
         "time": "29/04 19:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1777463144835
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (129 pesan): ~ idk",
-        "content": "males deng",
-        "time": "29/04 19:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777463144376
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟒 ||  𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (34 pesan): ~ Tyoo",
-        "content": "📷 ‎2 foto",
-        "time": "29/04 19:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777463144295
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777463558708,
+    "lastSeen": 1777463561708,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
