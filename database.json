@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2256 pesan dari 20 chat",
+        "time": "29/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471052255
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2255 pesan dari 20 chat",
+        "time": "29/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471039170
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (54 pesan): ~ someone",
+        "content": "kontol",
+        "time": "29/04 22:08",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777471039152
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (453 pesan): ~ Shesh ¹",
         "content": "\nOPEN MURID JPM 5K\nOPEN MURID NOKOS 7K\nSELL NOKOS INDO 5K\n\nTesti? Ada\nPm aja",
         "time": "29/04 22:08",
@@ -3995,30 +4019,6 @@
         "time": "29/04 22:02",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470697443
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2090 pesan dari 20 chat",
-        "time": "29/04 22:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470697423
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (341 pesan): ~ rambararam",
-        "content": "baru aja mau ngetik",
-        "time": "29/04 22:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470697342
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (11 pesan): ~ -Wirr str",
-        "content": "V4/5",
-        "time": "29/04 22:02",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470697290
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777471035464,
+    "lastSeen": 1777471050477,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777471034134,
+    "lastSeen": 1777471052131,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
