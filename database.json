@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (2 pesan): ~ sarol 412",
+        "content": "ga",
+        "time": "29/04 17:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777455642362
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (5 pesan): ~ saskia",
         "content": "Spil lah",
         "time": "29/04 17:51",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:45",
         "pkg": "com.whatsapp",
         "receivedAt": 1777455270029
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1199 pesan dari 16 chat",
-        "time": "29/04 17:45",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455266070
       }
     ],
     "galleryPhotos": [],
