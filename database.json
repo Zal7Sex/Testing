@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎547 pesan dari 16 chat",
+        "time": "29/04 08:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777422855650
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (161 pesan): ~ Kazroei",
         "content": "📷 25k",
         "time": "29/04 08:45",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:07",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420672350
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (3 pesan): ~ 𝐋𝐢𝐦𝐞𝐫𝐞𝐧𝐜𝐞_w2C",
-        "content": "💟 Stiker",
-        "time": "29/04 08:07",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420672338
       }
     ],
     "galleryPhotos": [],
