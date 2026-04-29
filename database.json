@@ -23,6 +23,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎2088 pesan dari 20 chat",
+        "time": "29/04 22:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470692692
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎2087 pesan dari 20 chat",
         "time": "29/04 22:02",
         "pkg": "com.whatsapp",
@@ -4011,14 +4019,6 @@
         "time": "29/04 21:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1777470308169
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1899 pesan dari 21 chat",
-        "time": "29/04 21:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777470307865
       }
     ],
     "galleryPhotos": [],
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777470688963,
+    "lastSeen": 1777470691959,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
