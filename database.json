@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (7 pesan): ~ ±",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 21:23",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468331322
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1311 pesan dari 19 chat",
         "time": "29/04 21:23",
@@ -4011,14 +4019,6 @@
         "time": "29/04 21:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1777467587385
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (343 pesan): ~ yaaa💫",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 21:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777467587308
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468322791,
+    "lastSeen": 1777468328767,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
