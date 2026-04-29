@@ -22,6 +22,54 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1089 pesan dari 17 chat",
+        "time": "29/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466907062
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (19 pesan): ~ Lemon skibidy",
+        "content": "💟 Stiker",
+        "time": "29/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466904400
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1088 pesan dari 17 chat",
+        "time": "29/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466904374
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (50 pesan): ~ {•~all🤍🫰🏻225 AERA}",
+        "content": "Apaandah  stik lo tu",
+        "time": "29/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466904315
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (334 pesan): ~ ~",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466904231
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (321 pesan): ~ DD||KING ANDIKUSMAWAN",
+        "content": "📷 V300+ fs? Pm op 170++ \nOpen nego",
+        "time": "29/04 20:59",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466903216
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐉𝐁 𝟒 ||  𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (76 pesan): ~ P",
         "content": "📷 Tawar bosss, MC? Bwolehhh",
         "time": "29/04 20:59",
@@ -3971,54 +4019,6 @@
         "time": "29/04 20:50",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466396039
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1770 pesan dari 19 chat",
-        "time": "29/04 20:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466395979
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (96 pesan): ~ Jus' Know ✌️🥀",
-        "content": "💟 Stiker",
-        "time": "29/04 20:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466395171
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1768 pesan dari 19 chat",
-        "time": "29/04 20:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466395149
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (308 pesan): ~ Rey Market",
-        "content": "Amanah ga ini",
-        "time": "29/04 20:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466394717
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (123 pesan): ~ ⸸𝟕𝟎𝟓 || 𝘇̵𝝴ׂ𝘆𝘆𐐼ׅ𐐼ׅ",
-        "content": "📊 MARGA TERGACOR DAN TERKOMPAK",
-        "time": "29/04 20:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466394566
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1769 pesan dari 19 chat",
-        "time": "29/04 20:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466394431
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777466901856,
+    "lastSeen": 1777466904875,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
