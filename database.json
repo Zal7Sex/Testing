@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2551 pesan dari 17 chat",
+        "time": "29/04 17:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777453171532
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (374 pesan): ~ val",
         "content": "💟 Stiker",
         "time": "29/04 17:10",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452908626
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (118 pesan): ~ someone",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 17:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452908515
       }
     ],
     "galleryPhotos": [],
