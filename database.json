@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1690 pesan dari 19 chat",
+        "time": "29/04 20:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466251208
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (292 pesan): ~ DD||KING ANDIKUSMAWAN",
+        "content": "📷 V300+ fs? Pm op 170++ \nOpen nego",
+        "time": "29/04 20:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466249010
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (292 pesan): ~ BIZZ HOSTING",
         "content": "📷 OPEN PT JASTEB GACORRR 🔥\n\nGA BOSEN BEBANIN ORANG TUA SINIH JOIN BIAR DAPET PENGHASILAN BOSS\n\nHARGA 5K\n\nKEUNTUNGAN JOIN \n- BEBAS PASANG EMAIL BRP PUN\n- DAPAT PANEL 5\n- RES MURNI NO AUTO RES!!\n- BISA JUALAN UNCHEK\n- BISA OPEN JASTEB\n- BISA CEK2 SENDIRI\n- BISA JUAL SGMAIL\n- STOK AKUN\n- RES PASTI BERISI\n- BISA NGESTOK AKUNN GG GG\n- DLL\n\n DI JAMIN BALMOD JUTAAN POKOKNYA ASAL NIAT OPEN\nMINAT? PM",
         "time": "29/04 20:48",
@@ -4003,22 +4019,6 @@
         "time": "29/04 20:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1777465871219
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1532 pesan dari 19 chat",
-        "time": "29/04 20:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465870677
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (574 pesan): ~ Rii",
-        "content": "kau ku hukum",
-        "time": "29/04 20:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465870645
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777466247036,
+    "lastSeen": 1777466249420,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
