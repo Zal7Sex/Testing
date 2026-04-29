@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2214 pesan dari 16 chat",
+        "time": "29/04 17:32",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454516567
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (676 pesan): ~ shinigami ryuk",
         "content": "📷 Vcs sama boi",
         "time": "29/04 17:32",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:22",
         "pkg": "com.whatsapp",
         "receivedAt": 1777453869759
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (18 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "sori setia",
-        "time": "29/04 17:22",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777453869740
       }
     ],
     "galleryPhotos": [],
@@ -17821,7 +17821,7 @@
     "deviceName": "HP-ZAL7SEX-9B61",
     "ownerUsername": "Zal7Sex",
     "token": "9b36694f0949493e18d8b3fb4ca882d3",
-    "lastSeen": 1777454513487,
+    "lastSeen": 1777454522970,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:21:44.603Z",
