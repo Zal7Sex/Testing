@@ -23,6 +23,14 @@
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
+        "content": "‎‎3261 pesan dari 19 chat",
+        "time": "29/04 16:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449589578
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
         "content": "‎‎3260 pesan dari 19 chat",
         "time": "29/04 16:10",
         "pkg": "com.whatsapp",
@@ -4011,14 +4019,6 @@
         "time": "29/04 15:44",
         "pkg": "com.whatsapp",
         "receivedAt": 1777447998861
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (14 pesan): ~ Fine",
-        "content": "22 pepeng 9,5 no macro hp only",
-        "time": "29/04 15:44",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777447997920
       }
     ],
     "galleryPhotos": [],
@@ -17558,7 +17558,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "300fd4cdf8c477789624b33da25326f3",
-    "lastSeen": 1777449584498,
+    "lastSeen": 1777449587498,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:45:34.574Z",
