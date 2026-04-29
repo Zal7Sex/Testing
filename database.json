@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2234 pesan dari 17 chat",
+        "time": "29/04 17:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454708264
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2233 pesan dari 17 chat",
+        "time": "29/04 17:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454699808
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (5 pesan): ~ 🤓",
         "content": "🎤 Pesan suara (0.07)",
         "time": "29/04 17:35",
@@ -4003,22 +4019,6 @@
         "time": "29/04 17:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454030232
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (36 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "nnti tunggu dia udah g sibuk",
-        "time": "29/04 17:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454029783
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2646 pesan dari 17 chat",
-        "time": "29/04 17:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454029750
       }
     ],
     "galleryPhotos": [],
@@ -17853,7 +17853,7 @@
     "deviceName": "HP-ZAL7SEX-2239",
     "ownerUsername": "Zal7Sex",
     "token": "3eb0a5bf535ba5e2b68ed701de49e414",
-    "lastSeen": 1777454699316,
+    "lastSeen": 1777454705322,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:24:37.837Z",
