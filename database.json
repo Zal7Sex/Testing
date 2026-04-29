@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎STOKK || NIAGA STORE🛒 (12 pesan): ~ KEENAN STORE",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "30/04 06:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500716014
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (17 pesan): ~ b",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "30/04 06:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500715853
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2627 pesan dari 17 chat",
+        "time": "30/04 06:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500715590
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (193 pesan): +62 881-4187-908",
+        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
+        "time": "30/04 06:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777500715262
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (17 pesan): ~ b",
         "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
         "time": "30/04 06:22",
@@ -3987,38 +4019,6 @@
         "time": "29/04 22:32",
         "pkg": "com.whatsapp",
         "receivedAt": 1777472498869
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1248 pesan dari 19 chat",
-        "time": "29/04 22:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777472498848
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (2 pesan): Membalas Anda",
-        "content": "~ aril.: sejak kapan gw percaya",
-        "time": "29/04 22:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777472497497
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1247 pesan dari 19 chat",
-        "time": "29/04 22:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777472496060
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (12 pesan): ~ iya ini misel",
-        "content": "📷 RENTAL READY YA\ntanya-tanya chat aja",
-        "time": "29/04 22:32",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777472495776
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777500714745,
+    "lastSeen": 1777500715904,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
