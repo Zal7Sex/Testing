@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1211 pesan dari 17 chat",
+        "time": "29/04 17:46",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777455351641
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (632 pesan): ~ tmaa",
         "content": "Need huge mimic 5k yang ada tawarin ke pm",
         "time": "29/04 17:46",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454833361
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (4 pesan): ~ ~ n",
-        "content": "💟 Stiker",
-        "time": "29/04 17:38",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454833340
       }
     ],
     "galleryPhotos": [],
