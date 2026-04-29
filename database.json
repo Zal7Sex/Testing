@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2015 pesan dari 18 chat",
+        "time": "29/04 16:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451334019
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (58 pesan): ~ aan.",
+        "content": "bokep",
+        "time": "29/04 16:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451328641
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐉𝐁 𝟏  || 𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (81 pesan): ~ Galvin",
+        "content": "yang nyari aimlock atau grafik mc glowalmini/gepeng pm yaa full testi di saluran",
+        "time": "29/04 16:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451328565
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (292 pesan): ~ Vann",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 16:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451328472
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48 (9 pesan): ~ tut",
         "content": "Cik",
         "time": "29/04 16:39",
@@ -3987,38 +4019,6 @@
         "time": "29/04 16:31",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450820364
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3350 pesan dari 18 chat",
-        "time": "29/04 16:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450817426
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1430 pesan): ~ jirr yupii",
-        "content": "akuu ga terlalu aktif di ig",
-        "time": "29/04 16:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450817394
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1429 pesan): ~ .",
-        "content": "itu siapa jir",
-        "time": "29/04 16:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450817106
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3349 pesan dari 18 chat",
-        "time": "29/04 16:31",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450817068
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451327328,
+    "lastSeen": 1777451333320,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
