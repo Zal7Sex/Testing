@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (82 pesan): ~ ~",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 08:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777422698667
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎540 pesan dari 16 chat",
+        "time": "29/04 08:42",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777422698586
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Memeriksa pesan baru",
         "time": "29/04 08:41",
@@ -4003,22 +4019,6 @@
         "time": "29/04 08:04",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420436244
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (126 pesan): ~ fhariz orang sigma",
-        "content": "💟 Stiker",
-        "time": "29/04 08:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420436145
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (18 pesan): ~ wa prib me",
-        "content": "📷 LOG GGL BIND 0 OP?150+\nALLREF",
-        "time": "29/04 08:04",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420436132
       }
     ],
     "galleryPhotos": [],
