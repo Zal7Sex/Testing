@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (146 pesan): ~ ⠀᠌ ︎⠀",
+        "content": "💟 Stiker",
+        "time": "29/04 20:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466640912
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (144 pesan): ~ ⠀᠌ ︎⠀",
+        "content": "💟 Stiker",
+        "time": "29/04 20:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466635909
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (670 pesan): ~ Rii",
         "content": "💟 Stiker",
         "time": "29/04 20:54",
@@ -4003,22 +4019,6 @@
         "time": "29/04 20:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466304023
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1705 pesan dari 19 chat",
-        "time": "29/04 20:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466303990
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1700 pesan dari 19 chat",
-        "time": "29/04 20:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466303067
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777466634489,
+    "lastSeen": 1777466640818,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
