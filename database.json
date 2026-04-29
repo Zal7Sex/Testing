@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (494 pesan): ~ ❔❔",
+        "content": "dihapus anjir",
+        "time": "29/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465505879
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1402 pesan dari 16 chat",
+        "time": "29/04 20:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465505811
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (2 pesan): ~ BENTO",
         "content": "🔗 PASUKAN KUDA HITAM JMK48 | Info penghitamsn ada disini https://chat.whatsapp.com/E0FDJZ2avRHBfvlHY3UlaL?mode=gi_t\nGc ramein suki liar\n\nYok gc ntar admin kasih gula gula 😹\nInfo penghitamsn ada disini \nIzin admin 🤪",
         "time": "29/04 20:36",
@@ -4003,22 +4019,6 @@
         "time": "29/04 20:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777464797053
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (304 pesan): ~ yaaa💫",
-        "content": "Haha ga pekaa",
-        "time": "29/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777464796966
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (246 pesan): ~ idk",
-        "content": "gabisa aku pake wink🥳🥳",
-        "time": "29/04 20:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777464795271
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777465505087,
+    "lastSeen": 1777465514625,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
