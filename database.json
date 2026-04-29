@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (413 pesan): ~ ~",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "30/04 06:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502448885
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (452 pesan): ~ ~restu🤡",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "30/04 06:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502439691
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2659 pesan dari 17 chat",
+        "time": "30/04 06:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502439670
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2658 pesan dari 17 chat",
         "time": "30/04 06:51",
@@ -3995,30 +4019,6 @@
         "time": "30/04 06:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777501053488
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (13 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501053448
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (420 pesan): ~ .",
-        "content": "💟 Stiker",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501053141
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1206 pesan): ~ 𝖃i",
-        "content": "🔗 ℭ𝔞𝔯𝔱𝔢𝔩 𝔩𝔞𝔫𝔡☠︎ | https://chat.whatsapp.com/C1p12wOh0R4BtacohSWIRS GABUNG REK , 150 MEMBER , ADMIN BAGI BAGI 40VD GORE DAN 30STKR GORE🤤😋",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501053068
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502435063,
+    "lastSeen": 1777502447070,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
