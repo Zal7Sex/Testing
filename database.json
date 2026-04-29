@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (643 pesan): ~ Agnes",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 16:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449330399
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎7Sex Message (62 pesan): ~ wanglin",
+        "content": "💟 Stiker",
+        "time": "29/04 16:06",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449330311
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3233 pesan dari 19 chat",
         "time": "29/04 16:06",
@@ -4003,22 +4019,6 @@
         "time": "29/04 14:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443292668
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2115 pesan dari 19 chat",
-        "time": "29/04 14:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443291803
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (1021 pesan): ~ ❔❔",
-        "content": "💟 Stiker",
-        "time": "29/04 14:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443291784
       }
     ],
     "galleryPhotos": [],
@@ -17558,7 +17558,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "300fd4cdf8c477789624b33da25326f3",
-    "lastSeen": 1777449326438,
+    "lastSeen": 1777449329441,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:45:34.574Z",
