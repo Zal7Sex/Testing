@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (160 pesan): ~ paees nak tido",
+        "content": "🔗 NGAWI CLUB | Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/FtXYc0B6Z9a8BaEFnCtpt4?mode=gi_t",
+        "time": "30/04 06:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502589704
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2669 pesan dari 17 chat",
         "time": "30/04 06:53",
@@ -4011,14 +4019,6 @@
         "time": "30/04 06:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777501059287
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (13 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501059107
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502585131,
+    "lastSeen": 1777502588131,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
