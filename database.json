@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2397 pesan dari 19 chat",
+        "time": "29/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452685640
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2396 pesan dari 19 chat",
+        "time": "29/04 17:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452679434
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (337 pesan): ~ melan",
         "content": "via dana",
         "time": "29/04 17:02",
@@ -4003,22 +4019,6 @@
         "time": "29/04 16:55",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452245805
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (116 pesan): ~ Waminz~🫶🤍",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 16:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452245716
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOKK || NIAGA STORE🛒 (23 pesan): ~ pindo",
-        "content": "340+ tw sepaket",
-        "time": "29/04 16:55",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452245641
       }
     ],
     "galleryPhotos": [],
