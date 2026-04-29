@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2418 pesan dari 19 chat",
+        "time": "29/04 17:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452793444
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (341 pesan): ~ 🤓",
         "content": "ahhh ah ah",
         "time": "29/04 17:04",
@@ -4011,14 +4019,6 @@
         "time": "29/04 16:56",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452324033
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (35 pesan): ~ siapa sih",
-        "content": "💟 Stiker",
-        "time": "29/04 16:56",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452323269
       }
     ],
     "galleryPhotos": [],
