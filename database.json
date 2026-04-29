@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎518 pesan dari 16 chat",
+        "time": "29/04 08:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777421956923
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (29 pesan): ~ wahet yasroni",
         "content": "🔗 𝙈𝙖𝙠𝙚 𝙟𝙤𝙢𝙤𝙠 𝙜𝙧𝙚𝙖𝙩 𝙖𝙜𝙖𝙞𝙣 | https://chat.whatsapp.com/HxfgxSOB2oGK3gTPv00Caw?mode=gi_t",
         "time": "29/04 08:30",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420194154
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "STOKK || NIAGA STORE🛒: ~ raditzx cruel",
-        "content": "OPEN PP GRUB 50K 80 MEM -1 SLOT",
-        "time": "29/04 08:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420193976
       }
     ],
     "galleryPhotos": [],
