@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1880 pesan dari 21 chat",
+        "time": "29/04 21:55",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777470275815
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (420 pesan): ~ All Deku",
         "content": "📷 Wts akun ml allkoss nominus take sgmail polos fresh\nOp 380k negoin kalo kemahalan Bu bet gw\nTanya spek ke pm",
         "time": "29/04 21:55",
@@ -4011,14 +4019,6 @@
         "time": "29/04 21:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1777469911716
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (92 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "① Foto",
-        "time": "29/04 21:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777469911696
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777470272656,
+    "lastSeen": 1777470275290,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
@@ -17949,7 +17949,7 @@
     "deviceName": "HP-ZAL7SEX-5D7C",
     "ownerUsername": "Zal7Sex",
     "token": "b806a84b0d2764047b5cb1e5906b7b55",
-    "lastSeen": 1777470271791,
+    "lastSeen": 1777470274792,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T13:43:11.417Z",
