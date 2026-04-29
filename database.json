@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (641 pesan): ~ mayoo",
+        "content": "💟 Stiker",
+        "time": "29/04 16:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449112359
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3217 pesan dari 19 chat",
+        "time": "29/04 16:02",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777449112336
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (96 pesan): ~ malzz",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 15:47",
@@ -4003,22 +4019,6 @@
         "time": "29/04 14:25",
         "pkg": "com.whatsapp",
         "receivedAt": 1777443245889
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (427 pesan): ~ Jus' Know ✌️🥀",
-        "content": "💟 Stiker",
-        "time": "29/04 14:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443245624
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (27 pesan): ~ ARM STORE [7855]",
-        "content": "📷 FORMAT JUAL/CARI BY ARM STORE\n[BUKAN ADMIN YG NEED/JUAL]\nJual / Cari:jual\nHarga:70k nego\nLog: gogle bin kos\nSpek:polosan SG lumot fesjoker v2 enjel putih ungu on\nMc : ARM STORE [JANGAN DI GANTI]\nNomer:\n\nWajib Menggunakan Mc ARM STORE Biar Terhindar Dari Penipuan",
-        "time": "29/04 14:25",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777443245400
       }
     ],
     "galleryPhotos": [],
@@ -17558,7 +17558,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "300fd4cdf8c477789624b33da25326f3",
-    "lastSeen": 1777449104351,
+    "lastSeen": 1777449110432,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T07:45:34.574Z",
