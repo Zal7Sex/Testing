@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (42 pesan): ~ sska vs maklu",
+        "content": "💟 Stiker",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456368610
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎553 pesan dari 17 chat",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456366906
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (5 pesan): ~ aan.",
+        "content": "💟 Stiker",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456366542
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎554 pesan dari 17 chat",
+        "time": "29/04 18:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777456366482
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (2 pesan): ~ sska vs maklu",
         "content": "𝙨𝙣𝙞 𝙖𝙢𝙖 𝙥𝙧𝙞𝙣𝙘𝙚𝙨.",
         "time": "29/04 18:03",
@@ -3987,38 +4019,6 @@
         "time": "29/04 17:57",
         "pkg": "com.whatsapp",
         "receivedAt": 1777455972221
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (43 pesan): ~ .",
-        "content": "🔗 ᴡᴀɪғᴜ sᴛᴜғғ ❤ | https://chat.whatsapp.com/FThJPVJk2uP8UfEswrpyuo\n\nhttps://chat.whatsapp.com/JtuM8oFEMOBLUZLP4vGfhb\n\nhttps://chat.whatsapp.com/FZOeBGrcqPRFBDBEBAutBl\n\nᴄʜᴀɴɴᴇʟ= https://whatsapp.com/channel/0029Vb81kfG8PgsNY9jjYc0c",
-        "time": "29/04 17:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455972196
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎430 pesan dari 12 chat",
-        "time": "29/04 17:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455972138
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (53 pesan): ~ BiiTamvan",
-        "content": "📷 LOG GGL BIND GM PRIB KODE KEAMANAN EPEP INGET V599 1LGI 600 MAX 2 EVO 3 SG REPER SPEK OLD OP?",
-        "time": "29/04 17:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455972031
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (2 pesan): ~ sarol 412",
-        "content": "ga",
-        "time": "29/04 17:57",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777455972005
       }
     ],
     "galleryPhotos": [],
@@ -17917,7 +17917,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "e820b562099723593389ff93d779b756",
-    "lastSeen": 1777456364958,
+    "lastSeen": 1777456368170,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:51:11.605Z",
