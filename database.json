@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎550 pesan dari 19 chat",
+        "time": "29/04 19:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460700144
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (74 pesan): ~ qedekid qesii",
         "content": "sayang call",
         "time": "29/04 19:15",
@@ -4011,14 +4019,6 @@
         "time": "29/04 19:06",
         "pkg": "com.whatsapp",
         "receivedAt": 1777460124383
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (6 pesan): ~ qɪs†/𝐂𝟗/𝐑𝐎𝐑/𝟐𝟐𝟓/𝟔𝟒𝟏/@𝙻𝚂𝚃𝙲",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 19:06",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777460124226
       }
     ],
     "galleryPhotos": [],
