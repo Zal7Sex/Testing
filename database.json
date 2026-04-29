@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (125 pesan): ~ ⸸𝟕𝟎𝟓 || 𝘇̵𝝴ׂ𝘆𝘆𐐼ׅ𐐼ׅ",
+        "content": "vote los cosa",
+        "time": "29/04 20:52",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466483399
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (327 pesan): ~ yaaa💫",
         "content": "Gpp",
         "time": "29/04 20:52",
@@ -4011,14 +4019,6 @@
         "time": "29/04 20:46",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466112205
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (614 pesan): ~ ❔❔",
-        "content": "malam nanti bakal saling rodok nih pasti",
-        "time": "29/04 20:46",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466112173
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777466478319,
+    "lastSeen": 1777466481294,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
