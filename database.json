@@ -22,6 +22,46 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2194 pesan dari 19 chat",
+        "time": "29/04 16:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452001994
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (29 pesan): ~ kella shirozZzɞ",
+        "content": "💟 Stiker",
+        "time": "29/04 16:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452001963
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (185 pesan): ~ val",
+        "content": "@⁨~rra⁩ woy",
+        "time": "29/04 16:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452001207
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2193 pesan dari 19 chat",
+        "time": "29/04 16:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452001157
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2192 pesan dari 19 chat",
+        "time": "29/04 16:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451999537
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (184 pesan): ~ baby blue suka cwe short hair",
         "content": "gw nmrl jing",
         "time": "29/04 16:50",
@@ -3979,46 +4019,6 @@
         "time": "29/04 16:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1777451524338
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "+62 896-7413-1859",
-        "content": "Walaikumsalam",
-        "time": "29/04 16:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451522185
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (92 pesan): ~ .",
-        "content": "Kata mama gak boleh",
-        "time": "29/04 16:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451521792
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2063 pesan dari 19 chat",
-        "time": "29/04 16:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451521631
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (92 pesan): ~ .",
-        "content": "💟 Stiker",
-        "time": "29/04 16:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451521589
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (67 pesan): ~ sarol 412",
-        "content": "njs",
-        "time": "29/04 16:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777451521489
       }
     ],
     "galleryPhotos": [],
@@ -17725,7 +17725,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "50145ff0c900219faa50cd1dd385f1d9",
-    "lastSeen": 1777451998872,
+    "lastSeen": 1777452001882,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:34:20.514Z",
