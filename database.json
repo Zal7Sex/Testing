@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (4 pesan): ~ Ninja`989",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 16:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777451124144
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎1952 pesan dari 18 chat",
         "time": "29/04 16:36",
@@ -4011,14 +4019,6 @@
         "time": "29/04 16:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777450411017
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (648 pesan): ~ YoruHikaru.",
-        "content": "Kevin mana",
-        "time": "29/04 16:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777450410984
       }
     ],
     "galleryPhotos": [],
@@ -17693,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777451119429,
+    "lastSeen": 1777451122510,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
