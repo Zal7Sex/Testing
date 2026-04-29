@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎324 pesan dari 13 chat",
+        "time": "29/04 18:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777457646763
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (2 pesan): Membalas Anda",
         "content": "~ Putra: 💟 Stiker",
         "time": "29/04 18:25",
@@ -4011,14 +4019,6 @@
         "time": "29/04 18:11",
         "pkg": "com.whatsapp",
         "receivedAt": 1777456821989
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (7 pesan): ~ Hasim",
-        "content": "🔗 Penghitaman grup internasional | Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/DpmcLsdVHX2CF3Olv7Hmph?mode=gi_t",
-        "time": "29/04 18:11",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777456821874
       }
     ],
     "galleryPhotos": [],
