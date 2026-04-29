@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (48 pesan): ~ •~all🤍🫰🏻",
+        "content": "Hai gyas",
+        "time": "29/04 08:19",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777421291403
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎538 pesan dari 15 chat",
         "time": "29/04 08:19",
@@ -4011,14 +4019,6 @@
         "time": "29/04 08:00",
         "pkg": "com.whatsapp",
         "receivedAt": 1777420166210
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (4 pesan): ~ sska vs maklu",
-        "content": "💟 Stiker",
-        "time": "29/04 08:00",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777420165973
       }
     ],
     "galleryPhotos": [],
