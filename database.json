@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎769 pesan dari 18 chat",
+        "time": "29/04 19:29",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777461493574
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (81 pesan): ~ k1",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 19:29",
@@ -4011,14 +4019,6 @@
         "time": "29/04 19:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1777460985928
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (112 pesan): ~ qedekid qesii",
-        "content": "mungkin anak lu bakal durhaka sama lu",
-        "time": "29/04 19:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777460984349
       }
     ],
     "galleryPhotos": [],
