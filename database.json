@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (5 pesan): ~ 🤓",
+        "content": "🎤 Pesan suara (0.07)",
+        "time": "29/04 17:35",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454699791
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (30 pesan): ~ ༒︎sy♱#𝙻𝚂𝚃𝙲/𝕬𝕭𝖄𝕾𝕾/𝟐𝟐𝟓 𝐀𝐑𝐄𝐀",
         "content": "WHENNNN.",
         "time": "29/04 17:35",
@@ -4011,14 +4019,6 @@
         "time": "29/04 17:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454029750
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (451 pesan): ~ ANGGA",
-        "content": "💟 Stiker",
-        "time": "29/04 17:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454026191
       }
     ],
     "galleryPhotos": [],
@@ -17853,7 +17853,7 @@
     "deviceName": "HP-ZAL7SEX-2239",
     "ownerUsername": "Zal7Sex",
     "token": "3eb0a5bf535ba5e2b68ed701de49e414",
-    "lastSeen": 1777454693277,
+    "lastSeen": 1777454699316,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:24:37.837Z",
