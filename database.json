@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "𝙍𝙐𝙎𝘿𝙄 𝘽𝘼𝙍𝘽𝙀𝙍48: papah",
+        "content": "💟 Stiker",
+        "time": "29/04 09:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777427029970
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎224 pesan dari 11 chat",
         "time": "29/04 09:54",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:33",
         "pkg": "com.whatsapp",
         "receivedAt": 1777425755437
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎234 pesan dari 13 chat",
-        "time": "29/04 09:33",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777425738148
       }
     ],
     "galleryPhotos": [],
