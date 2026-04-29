@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎554 pesan dari 21 chat",
+        "time": "29/04 19:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460362974
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎553 pesan dari 21 chat",
+        "time": "29/04 19:10",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777460357167
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (52 pesan): ~ adell",
         "content": "pm aja pls, wa ku abis keriset",
         "time": "29/04 19:10",
@@ -4003,22 +4019,6 @@
         "time": "29/04 19:01",
         "pkg": "com.whatsapp",
         "receivedAt": 1777459843596
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (15 pesan): ~ Terang bulan",
-        "content": "Ngetik apasih cil😹",
-        "time": "29/04 19:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777459843516
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (22 pesan): ~ cayala",
-        "content": "① Foto",
-        "time": "29/04 19:01",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777459843345
       }
     ],
     "galleryPhotos": [],
