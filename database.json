@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2620 pesan dari 16 chat",
+        "time": "30/04 06:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777501075489
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (193 pesan): ~ bmt112",
         "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
         "time": "30/04 06:28",
@@ -4011,14 +4019,6 @@
         "time": "30/04 06:27",
         "pkg": "com.whatsapp",
         "receivedAt": 1777500966863
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎Pegasus-X Room (7 pesan): ~ wanglin",
-        "content": "Menunggu pesan ini. Ini mungkin membutuhkan waktu beberapa saat.",
-        "time": "30/04 06:27",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777500966841
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777501075007,
+    "lastSeen": 1777501078486,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
