@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (151 pesan): ~ aan.",
+        "content": "memek",
+        "time": "29/04 21:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469259890
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1559 pesan dari 19 chat",
+        "time": "29/04 21:38",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777469255103
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (150 pesan): ~ aan.",
         "content": "memek",
         "time": "29/04 21:38",
@@ -4003,22 +4019,6 @@
         "time": "29/04 21:30",
         "pkg": "com.whatsapp",
         "receivedAt": 1777468744430
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1400 pesan dari 19 chat",
-        "time": "29/04 21:30",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468744409
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (200 pesan): ~ 𝙏𝙞𝙧𝙯͛𝙠𝙪𝙮𝙮",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 21:29",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777468735798
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777469253944,
+    "lastSeen": 1777469257247,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
