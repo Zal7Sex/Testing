@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎266 pesan dari 13 chat",
+        "time": "29/04 10:22",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777428672484
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (114 pesan): ~ Terang bulan",
         "content": "Contoh:\n.daftar Yoga | Cirebon | 19",
         "time": "29/04 10:22",
@@ -4011,14 +4019,6 @@
         "time": "29/04 10:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1777428303737
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (7 pesan): ~ flowers💐🕊️",
-        "content": "💟 Stiker",
-        "time": "29/04 10:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777428302368
       }
     ],
     "galleryPhotos": [],
