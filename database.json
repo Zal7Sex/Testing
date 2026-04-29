@@ -17656,8 +17656,14 @@
     "ownerUsername": "Zal7Sex",
     "token": "9255932f1d613bc4588dd8c7cc2957d2",
     "lastSeen": 1777450940770,
-    "commandQueue": [],
-    "online": true,
+    "commandQueue": [
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1777450990526
+      }
+    ],
+    "online": false,
     "connectedAt": "2026-04-29T08:20:05.335Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
@@ -17687,7 +17693,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "ec086158f264712088f909b50de18009",
-    "lastSeen": 1777450986915,
+    "lastSeen": 1777450995795,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:23:06.915Z",
