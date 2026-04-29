@@ -22,6 +22,38 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1573 pesan dari 19 chat",
+        "time": "29/04 20:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465991638
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (32 pesan): ~ Rangga",
+        "content": "alamak gc ini lagi",
+        "time": "29/04 20:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465991576
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1572 pesan dari 19 chat",
+        "time": "29/04 20:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465991385
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (32 pesan): ~ Rangga",
+        "content": "loh",
+        "time": "29/04 20:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777465991357
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (15 pesan): eric eric",
         "content": "jorok ajg",
         "time": "29/04 20:44",
@@ -3987,38 +4019,6 @@
         "time": "29/04 20:38",
         "pkg": "com.whatsapp",
         "receivedAt": 1777465624924
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (273 pesan): ~ abi ksma nope 2",
-        "content": "📷 yakin mas ga coba beli yg ff ml disini? List harga langsung tanyain ke pm gas dah😋",
-        "time": "29/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465623563
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1435 pesan dari 17 chat",
-        "time": "29/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465623523
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (273 pesan): ~ DD||KING ANDIKUSMAWAN",
-        "content": "📷 full spek pm v300+ op 135++ nepis boleh open cicil",
-        "time": "29/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465623165
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (4 pesan): ~ Jus' Know ✌️🥀",
-        "content": "💟 Stiker",
-        "time": "29/04 20:37",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777465623130
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777465988715,
+    "lastSeen": 1777465995576,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
