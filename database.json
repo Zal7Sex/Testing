@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎209 pesan dari 11 chat",
+        "time": "29/04 09:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777427282838
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑: ~ .",
         "content": ". kick",
         "time": "29/04 09:58",
@@ -4011,14 +4019,6 @@
         "time": "29/04 09:39",
         "pkg": "com.whatsapp",
         "receivedAt": 1777426285001
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎7Sex Message (24 pesan): ~ wanglin",
-        "content": "Sayonara @⁨+62 831-1163-4149⁩",
-        "time": "29/04 09:39",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777426284960
       }
     ],
     "galleryPhotos": [],
