@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (31 pesan): ~ s",
+        "content": "SMOGA IYAA , LANGGENG ¹ YPS ..",
+        "time": "29/04 17:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454712393
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2235 pesan dari 17 chat",
+        "time": "29/04 17:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454712291
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (6 pesan): ~ Paduka Renn",
+        "content": "Menyebut grup Anda secara privat di status",
+        "time": "29/04 17:36",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777454708289
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2234 pesan dari 17 chat",
         "time": "29/04 17:36",
@@ -3995,30 +4019,6 @@
         "time": "29/04 17:24",
         "pkg": "com.whatsapp",
         "receivedAt": 1777454030846
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (453 pesan): ~ 🤓",
-        "content": "suara orang anjing",
-        "time": "29/04 17:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454030759
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2649 pesan dari 17 chat",
-        "time": "29/04 17:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454030296
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (130 pesan): ~ heri",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 17:24",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777454030232
       }
     ],
     "galleryPhotos": [],
@@ -17853,7 +17853,7 @@
     "deviceName": "HP-ZAL7SEX-2239",
     "ownerUsername": "Zal7Sex",
     "token": "3eb0a5bf535ba5e2b68ed701de49e414",
-    "lastSeen": 1777454705322,
+    "lastSeen": 1777454711321,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T09:24:37.837Z",
