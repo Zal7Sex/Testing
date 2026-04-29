@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1134 pesan dari 18 chat",
+        "time": "29/04 21:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777467024593
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1132 pesan dari 18 chat",
+        "time": "29/04 21:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777467021999
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1133 pesan dari 18 chat",
+        "time": "29/04 21:01",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777467021975
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (17 pesan): ~ Terang bulan",
         "content": "📷         \n│───〔 ✂️ CANVAS 〕\n\n│ 𖤓 ⋮ ࿐ stiker \n│ 𖤓 ⋮ ࿐ smeme\n│ 𖤓 ⋮ ࿐ fakestory\n│ 𖤓 ⋮ ࿐ fakethreads\n│ 𖤓 ⋮ ࿐ fakeff\n│ 𖤓 ⋮ ࿐ fakeml\n│ 𖤓 ⋮ ࿐ qc\n│ 𖤓 ⋮ ࿐ toimg\n│ 𖤓 ⋮ ࿐ iqc\n│ 𖤓 ⋮ ࿐ brat\n│ 𖤓 ⋮ ࿐ brathd\n│ 𖤓 ⋮ ࿐ bratvid\n│ 𖤓 ⋮ ࿐ tourl\n\n╰────── ────── ──────",
         "time": "29/04 21:01",
@@ -3995,30 +4019,6 @@
         "time": "29/04 20:53",
         "pkg": "com.whatsapp",
         "receivedAt": 1777466530068
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎1824 pesan dari 19 chat",
-        "time": "29/04 20:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466529908
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (137 pesan): ~ ⸸𝟕𝟎𝟓 || 𝘇̵𝝴ׂ𝘆𝘆𐐼ׅ𐐼ׅ",
-        "content": "💟 Stiker",
-        "time": "29/04 20:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466529882
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (137 pesan): ~ ⸸𝟕𝟎𝟓 || 𝘇̵𝝴ׂ𝘆𝘆𐐼ׅ𐐼ׅ",
-        "content": "nnti di ksi adit nks",
-        "time": "29/04 20:53",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777466529777
       }
     ],
     "galleryPhotos": [],
@@ -4069,7 +4069,7 @@
     "deviceName": "HP-AGUSGANTENG123-3E9A",
     "ownerUsername": "zaa",
     "token": "20fdcadc903f75b92eda3edefa92e509",
-    "lastSeen": 1777467019010,
+    "lastSeen": 1777467022040,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-27T07:37:12.639Z",
