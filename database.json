@@ -22,6 +22,30 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (36 pesan): ~ fbyy",
+        "content": "🎤 Pesan suara (0.05)",
+        "time": "29/04 16:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452471129
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (654 pesan): ~ Boyy",
+        "content": "baru aja download roblox udh keband aja🗿",
+        "time": "29/04 16:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452471061
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (307 pesan): ~ melan",
+        "content": "① Foto",
+        "time": "29/04 16:58",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777452466970
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎2333 pesan dari 19 chat",
         "time": "29/04 16:58",
@@ -3995,30 +4019,6 @@
         "time": "29/04 16:52",
         "pkg": "com.whatsapp",
         "receivedAt": 1777452088786
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (558 pesan): ~ hidup sawitt😹😹",
-        "content": "📊 GIVEAWAY BY RIX 50 VOTE GAS GIVEAWAY",
-        "time": "29/04 16:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452088614
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝗣𝗔𝗦𝗨𝗞𝗔𝗡 𝗣𝗘𝗡𝗚𝗛𝗬𝗧𝗔𝗠𝗔𝗡 (29 pesan): ~ kella shirozZzɞ",
-        "content": "💟 Stiker",
-        "time": "29/04 16:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452088513
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (115 pesan): ~ พงษ์สะภัก ’",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "29/04 16:52",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777452088412
       }
     ],
     "galleryPhotos": [],
@@ -17757,7 +17757,7 @@
     "deviceName": "TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "1d6a24e8d4583090f0407af07a50ff0c",
-    "lastSeen": 1777452464618,
+    "lastSeen": 1777452470625,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T08:46:32.201Z",
