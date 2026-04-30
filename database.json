@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3590 pesan dari 20 chat",
+        "time": "30/04 12:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777522446377
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (580 pesan): ~ 𝘿𝙚𝙢𝙤𝙭𝙮",
         "content": "💟 Stiker",
         "time": "30/04 12:25",
@@ -4011,14 +4019,6 @@
         "time": "30/04 12:18",
         "pkg": "com.whatsapp",
         "receivedAt": 1777522069138
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3402 pesan dari 20 chat",
-        "time": "30/04 12:18",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777522068747
       }
     ],
     "galleryPhotos": [],
