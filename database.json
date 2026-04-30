@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "30/04 13:25",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777526105363
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (732 pesan): ~ 𝐜𝐲𝐚𝐚 𝐑𝐎𝐑 ||𝟏𝟏𝟔||𝟐𝟐𝟐||𝐂𝐓𝐌",
         "content": "🔗 𝐇𝐄𝐍𝐓𝐀𝐈 𝟏𝟖+ 💦 | https://chat.whatsapp.com/EfiK6eZWrV48MTa5opyvOD\n\nhttps://chat.whatsapp.com/Cos8amlZlZo03qlFLpgIzP\n\nhttps://whatsapp.com/channel/0029VbByuVA1CYoWwo5JqE3d wajib folow saluran lho rek klo mw join 😹🧢",
         "time": "30/04 13:25",
@@ -4011,14 +4019,6 @@
         "time": "30/04 13:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1777525438322
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1345 pesan): ~ andre",
-        "content": "💟 Stiker",
-        "time": "30/04 13:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777525438269
       }
     ],
     "galleryPhotos": [],
