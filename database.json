@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3586 pesan dari 19 chat",
+        "time": "30/04 13:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777527755961
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (580 pesan): ~ 🥺",
         "content": "bkn jir",
         "time": "30/04 13:53",
@@ -4011,14 +4019,6 @@
         "time": "30/04 13:43",
         "pkg": "com.whatsapp",
         "receivedAt": 1777527131678
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (738 pesan): ~ Paduka Renn",
-        "content": ".del",
-        "time": "30/04 13:43",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777527131607
       }
     ],
     "galleryPhotos": [],
