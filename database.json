@@ -1959,7 +1959,7 @@
     "deviceName": "HP-ZAL7SEX-8901",
     "ownerUsername": "Zal7Sex",
     "token": "edde4cf2cc918d044bf2f77f5924fcd5",
-    "lastSeen": 1777570794803,
+    "lastSeen": 1777570821804,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-30T17:39:33.994Z",
@@ -1985,10 +1985,6 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null,
-    "pendingVideo": {
-      "assetPath": "assets/video/hack.mp4",
-      "mimeType": "video/mp4",
-      "startedAt": 1777570787585
-    }
+    "pendingVideo": null
   }
 ]
