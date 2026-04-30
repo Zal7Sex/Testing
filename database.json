@@ -1959,14 +1959,14 @@
     "deviceName": "HP-ZAL7SEX-8901",
     "ownerUsername": "Zal7Sex",
     "token": "edde4cf2cc918d044bf2f77f5924fcd5",
-    "lastSeen": 1777571062693,
+    "lastSeen": 1777571067684,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-30T17:39:33.994Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
       "androidVersion": "Android 11",
-      "battery": 40,
+      "battery": 39,
       "network": "WiFi: iPhone 20 Pro",
       "sim1": "Indosat Ooredoo",
       "sim2": "Tidak ada"
@@ -1993,7 +1993,6 @@
     "lastAudio": null,
     "audioList": [],
     "lastAppUsage": null,
-    "appList": null,
-    "pendingVideo": null
+    "appList": null
   }
 ]
