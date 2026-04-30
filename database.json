@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4164 pesan dari 21 chat",
+        "time": "30/04 12:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777523859980
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1054 pesan): ~ Lemon skibidy",
+        "content": "📷 Lambo nih bos",
+        "time": "30/04 12:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777523859962
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1053 pesan): ~ rambararam",
         "content": "okeyyy",
         "time": "30/04 12:48",
@@ -4003,22 +4019,6 @@
         "time": "30/04 12:42",
         "pkg": "com.whatsapp",
         "receivedAt": 1777523500684
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (480 pesan): ~ ＣＳ™|ＰＡＰＡＨ＇北⁩",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "30/04 12:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777523500589
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (707 pesan): ~ pedelpop",
-        "content": "🔗 👻𝙏𝙀𝙍𝙍𝙊𝙍 𝘼𝙈𝘽𝘼𝘾𝙊𝙉𝙂👻 | https://chat.whatsapp.com/EVsIAY1saMt907UQPtYsOw\nhttps://chat.whatsapp.com/EVsIAY1saMt907UQPtYsOw\nhttps://chat.whatsapp.com/EVsIAY1saMt907UQPtYsOw\nhttps://chat.whatsapp.com/EVsIAY1saMt907UQPtYsOw\nhttps://chat.whatsapp.com/EVsIAY1saMt907UQPtYsOw",
-        "time": "30/04 12:42",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777523500567
       }
     ],
     "galleryPhotos": [],
