@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3478 pesan dari 20 chat",
+        "time": "30/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777526265747
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (46 pesan): ~ trulala",
+        "content": "bukan",
+        "time": "30/04 13:28",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777526265730
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (45 pesan): ~ ceveynibos",
         "content": "ini aima?",
         "time": "30/04 13:28",
@@ -4003,22 +4019,6 @@
         "time": "30/04 13:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1777525553429
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐓𝐚𝐠 𝐬𝐰 𝟑 (489 pesan): ~ hxs",
-        "content": "Menyebut grup Anda secara privat di status",
-        "time": "30/04 13:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777525553207
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎STOK AXEL 17 STR #1 (38 pesan): ~ wa prib me",
-        "content": "📷 LOG BIND OP?100",
-        "time": "30/04 13:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777525552804
       }
     ],
     "galleryPhotos": [],
