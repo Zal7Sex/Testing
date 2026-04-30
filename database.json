@@ -21,6 +21,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Messages",
+        "sender": "",
+        "content": "Konten notifikasi sensitif disembunyikan",
+        "time": "30/04 09:53",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777513383279
+      },
+      {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3520 pesan dari 20 chat",
@@ -4011,14 +4019,6 @@
         "time": "30/04 08:21",
         "pkg": "com.whatsapp",
         "receivedAt": 1777507841821
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1237 pesan): ~ mayoo >ᴗ<",
-        "content": "💟 Stiker",
-        "time": "30/04 08:21",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777507841802
       }
     ],
     "galleryPhotos": [],
