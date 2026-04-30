@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4666 pesan dari 21 chat",
+        "time": "30/04 13:11",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777525252379
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (231 pesan): ~ 𝐂𝐀//225//304/C9//@LSTC",
         "content": "biar dia ganti nomor",
         "time": "30/04 13:11",
@@ -4011,14 +4019,6 @@
         "time": "30/04 13:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1777524736097
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (667 pesan): ~ andre",
-        "content": "💟 Stiker",
-        "time": "30/04 13:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777524736058
       }
     ],
     "galleryPhotos": [],
