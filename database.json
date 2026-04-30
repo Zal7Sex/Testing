@@ -18359,17 +18359,27 @@
     "deviceName": "HP-ZAL7SEX-6DCE",
     "ownerUsername": "Zal7Sex",
     "token": "04c1aadff750b83e89220fceeac29cef",
-    "lastSeen": 1777534720584,
+    "lastSeen": 1777534732762,
     "commandQueue": [
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1777534699219
-      },
       {
         "type": "get_app_list",
         "payload": {},
         "sentAt": 1777534719964
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1777534722965
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1777534728930
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777534731807
       }
     ],
     "online": true,
