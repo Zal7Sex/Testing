@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1663 pesan dari 17 chat",
+        "time": "30/04 14:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777529100408
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (41 pesan): ~ 🥺",
+        "content": "luaj",
+        "time": "30/04 14:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777529100376
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (40 pesan): ~ 𝐊𝐄𝐘 𝟕𝟕𝟕/𝟐𝟐𝟓",
         "content": "💟 Stiker",
         "time": "30/04 14:15",
@@ -4003,22 +4019,6 @@
         "time": "30/04 14:03",
         "pkg": "com.whatsapp",
         "receivedAt": 1777528356758
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (100 pesan): ~ αdell",
-        "content": "💟 Stiker",
-        "time": "30/04 14:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777528356742
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (586 pesan): ~ .",
-        "content": "iyaa",
-        "time": "30/04 14:03",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777528356683
       }
     ],
     "galleryPhotos": [],
