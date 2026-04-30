@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (362 pesan): ~ kacunk lu",
+        "content": "yah",
+        "time": "30/04 12:17",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777521993987
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎3379 pesan dari 20 chat",
         "time": "30/04 12:17",
@@ -4011,14 +4019,6 @@
         "time": "30/04 12:14",
         "pkg": "com.whatsapp",
         "receivedAt": 1777521811718
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎3163 pesan dari 20 chat",
-        "time": "30/04 12:14",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777521811038
       }
     ],
     "galleryPhotos": [],
