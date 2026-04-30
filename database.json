@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (519 pesan): ~ ‎",
+        "content": "🎤 Pesan suara (0.19)",
+        "time": "30/04 13:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777525477147
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4736 pesan dari 21 chat",
+        "time": "30/04 13:15",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777525477130
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "‎‎4734 pesan dari 21 chat",
         "time": "30/04 13:15",
@@ -4003,22 +4019,6 @@
         "time": "30/04 13:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1777525058011
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (680 pesan): ~ Terang bulan",
-        "content": "😅 Kurang pas jawabannya.",
-        "time": "30/04 13:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777525057910
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4598 pesan dari 21 chat",
-        "time": "30/04 13:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777525057234
       }
     ],
     "galleryPhotos": [],
