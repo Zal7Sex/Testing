@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "30/04 13:07",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777524989206
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (223 pesan): ~ .",
         "content": "💟 Stiker",
         "time": "30/04 13:06",
@@ -4011,14 +4019,6 @@
         "time": "30/04 12:58",
         "pkg": "com.whatsapp",
         "receivedAt": 1777524481243
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎4437 pesan dari 21 chat",
-        "time": "30/04 12:58",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777524481185
       }
     ],
     "galleryPhotos": [],
