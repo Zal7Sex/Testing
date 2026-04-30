@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3488 pesan dari 20 chat",
+        "time": "30/04 13:30",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777526358308
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (49 pesan): ~ andre",
         "content": "💟 Stiker",
         "time": "30/04 13:29",
@@ -4011,14 +4019,6 @@
         "time": "30/04 13:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1777525564474
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (294 pesan): ~ ETERNAL",
-        "content": "📷 Warlit masih fresh, sisa 200line take all 70k, 50k 100line, 25K 50line\n\n> ETERNALSTORE",
-        "time": "30/04 13:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777525563141
       }
     ],
     "galleryPhotos": [],
