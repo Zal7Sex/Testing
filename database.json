@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (122 pesan): ~ 🥺",
+        "content": "me kngen vno",
+        "time": "30/04 14:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777529797098
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (121 pesan): ~ 𝐊𝐄𝐘 𝟕𝟕𝟕/𝟐𝟐𝟓",
         "content": "g ask",
         "time": "30/04 14:27",
@@ -4011,14 +4019,6 @@
         "time": "30/04 14:16",
         "pkg": "com.whatsapp",
         "receivedAt": 1777529144815
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (50 pesan): ~ 𝐊𝐄𝐘 𝟕𝟕𝟕/𝟐𝟐𝟓",
-        "content": "eiya virtual",
-        "time": "30/04 14:16",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777529144658
       }
     ],
     "galleryPhotos": [],
