@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3424 pesan dari 19 chat",
+        "time": "30/04 15:48",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777534651087
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝙹𝚋¹ 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎 || 𝚙𝚒𝚝𝚎𝚗𝚎𝚜𝚜 x fyd (659 pesan): ~ tmaa",
         "content": "📷 Foto",
         "time": "30/04 15:48",
@@ -4011,14 +4019,6 @@
         "time": "30/04 14:50",
         "pkg": "com.whatsapp",
         "receivedAt": 1777531187152
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2175 pesan dari 17 chat",
-        "time": "30/04 14:50",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777531185749
       }
     ],
     "galleryPhotos": [],
@@ -18376,6 +18376,11 @@
         "type": "unlock",
         "payload": {},
         "sentAt": 1777534640194
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777534657188
       }
     ],
     "online": true,
