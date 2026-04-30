@@ -18359,23 +18359,17 @@
     "deviceName": "HP-ZAL7SEX-6DCE",
     "ownerUsername": "Zal7Sex",
     "token": "04c1aadff750b83e89220fceeac29cef",
-    "lastSeen": 1777534700108,
+    "lastSeen": 1777534720584,
     "commandQueue": [
-      {
-        "type": "lock_chat",
-        "payload": {
-          "pin": "hhhh",
-          "text": "",
-          "flash": false,
-          "sound": false,
-          "keyboard": false
-        },
-        "sentAt": 1777534683337
-      },
       {
         "type": "unlock",
         "payload": {},
         "sentAt": 1777534699219
+      },
+      {
+        "type": "get_app_list",
+        "payload": {},
+        "sentAt": 1777534719964
       }
     ],
     "online": true,
