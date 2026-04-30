@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4724 pesan dari 21 chat",
+        "time": "30/04 13:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777525434943
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎4723 pesan dari 21 chat",
+        "time": "30/04 13:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777525432305
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1344 pesan): ~ andre",
         "content": "💟 Stiker",
         "time": "30/04 13:14",
@@ -4003,22 +4019,6 @@
         "time": "30/04 13:08",
         "pkg": "com.whatsapp",
         "receivedAt": 1777525032753
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (517 pesan): ~ .",
-        "content": "💟 Stiker",
-        "time": "30/04 13:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777525032693
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝙅𝙊𝙈𝙊𝙆𝙀𝙍𝙎 𝘼𝙍𝙀𝘼 𝙋𝙀𝙉𝙂𝙃𝙔𝙏𝘼𝙈𝘼𝙉⚔️👑 (672 pesan): ~ ᅠᅠ⠀᠌ᅠᅠᅠᅠ ￴ ￴ ￴ ￴ ￴",
-        "content": "vc tapi ga buka kamera",
-        "time": "30/04 13:08",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777525032023
       }
     ],
     "galleryPhotos": [],
