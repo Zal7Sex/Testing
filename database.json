@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3185 pesan dari 20 chat",
+        "time": "30/04 12:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777521838704
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (426 pesan): ~ Lemon skibidy",
+        "content": "💟 Stiker",
+        "time": "30/04 12:14",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777521838689
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (425 pesan): ~ rambararam",
         "content": "foto lonjong pake efek anjing+shinny🤡",
         "time": "30/04 12:14",
@@ -4003,22 +4019,6 @@
         "time": "30/04 12:10",
         "pkg": "com.whatsapp",
         "receivedAt": 1777521551398
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (310 pesan): ~ George",
-        "content": "💟 Stiker",
-        "time": "30/04 12:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777521551381
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (693 pesan): ~ hytammmm",
-        "content": "Woy",
-        "time": "30/04 12:10",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777521551243
       }
     ],
     "galleryPhotos": [],
