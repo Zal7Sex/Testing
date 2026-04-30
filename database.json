@@ -22,6 +22,22 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (554 pesan): ~ faello",
+        "content": "wkwkw gw spam",
+        "time": "30/04 08:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777508031629
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎GB || ISIAN  LYEZ STORE X ALL OWN (19 pesan): ~ yrn",
+        "content": "-2 tim dubuc fee 4k pp 13k\n> -1 ptco fee 2k pp 6,5",
+        "time": "30/04 08:24",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777508029424
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 (146 pesan): ~ kacunk lu",
         "content": "sini minta mau edit",
         "time": "30/04 08:24",
@@ -4003,22 +4019,6 @@
         "time": "30/04 08:15",
         "pkg": "com.whatsapp",
         "receivedAt": 1777507609909
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (1235 pesan): nánayw",
-        "content": "💟 Stiker",
-        "time": "30/04 08:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777507609822
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "WhatsApp",
-        "content": "‎‎2958 pesan dari 18 chat",
-        "time": "30/04 08:15",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777507609802
       }
     ],
     "galleryPhotos": [],
@@ -18141,7 +18141,7 @@
     "deviceName": "HP-ZAL7SEX-67C3",
     "ownerUsername": "Zal7Sex",
     "token": "228585cf435485e2101335e5900a661b",
-    "lastSeen": 1777508028070,
+    "lastSeen": 1777508031071,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-04-29T16:01:38.130Z",
