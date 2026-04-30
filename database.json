@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎2761 pesan dari 19 chat",
+        "time": "30/04 11:54",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777520590573
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝟐𝟐𝟓 𝐀𝐑𝐄𝐀 𝐕𝟐 (95 pesan): ~ .",
         "content": "lah",
         "time": "30/04 11:53",
@@ -4011,14 +4019,6 @@
         "time": "30/04 11:47",
         "pkg": "com.whatsapp",
         "receivedAt": 1777520209345
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (682 pesan): ~ ⸸𝟕𝟎𝟓 || 𝘇̵𝝴ׂ𝘆𝘆𐐼ׅ𐐼ׅ",
-        "content": "💟 Stiker",
-        "time": "30/04 11:47",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777520209329
       }
     ],
     "galleryPhotos": [],
