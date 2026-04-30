@@ -18359,12 +18359,23 @@
     "deviceName": "HP-ZAL7SEX-6DCE",
     "ownerUsername": "Zal7Sex",
     "token": "04c1aadff750b83e89220fceeac29cef",
-    "lastSeen": 1777534594932,
+    "lastSeen": 1777534627699,
     "commandQueue": [
       {
         "type": "unlock",
         "payload": {},
-        "sentAt": 1777534594760
+        "sentAt": 1777534615715
+      },
+      {
+        "type": "lock_chat",
+        "payload": {
+          "pin": "hhjh",
+          "text": "hhhh",
+          "flash": true,
+          "sound": false,
+          "keyboard": false
+        },
+        "sentAt": 1777534632422
       }
     ],
     "online": true,
@@ -18372,7 +18383,7 @@
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
       "androidVersion": "Android 11",
-      "battery": 60,
+      "battery": 59,
       "network": "WiFi: Zal7Sex 5G",
       "sim1": "Indosat Ooredoo",
       "sim2": "Tidak ada"
