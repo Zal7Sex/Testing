@@ -22,6 +22,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎3641 pesan dari 21 chat",
+        "time": "30/04 12:27",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777522624020
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "‎𝘼𝙈𝘽𝘼𝙇𝙄𝙂𝙃𝙏𝙉𝙄𝙉𝙂⚡ (705 pesan): ~ lau sape mpruy?",
         "content": "Format  tidak didukung! Hanya jpeg/jpg/png",
         "time": "30/04 12:27",
@@ -4011,14 +4019,6 @@
         "time": "30/04 12:20",
         "pkg": "com.whatsapp",
         "receivedAt": 1777522149746
-      },
-      {
-        "appName": "WhatsApp",
-        "sender": "‎𝐒𝐓𝐌 𝐒𝐔𝐒𝐔 𝐃𝐀𝐍𝐂𝐀𝐖𝟕𝟕𝟕 ᵛ¹ (535 pesan): ~ rambararam",
-        "content": "sini🤡",
-        "time": "30/04 12:20",
-        "pkg": "com.whatsapp",
-        "receivedAt": 1777522149725
       }
     ],
     "galleryPhotos": [],
