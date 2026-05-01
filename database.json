@@ -4,7 +4,7 @@
     "deviceName": "HP-ZAL7SEX-898A",
     "ownerUsername": "Zal7Sex",
     "token": "ed3233e8201b66a69a4544d32415cb50",
-    "lastSeen": 1777615164147,
+    "lastSeen": 1777615188105,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-01T05:52:57.844Z",
@@ -19,7 +19,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Memeriksa pesan baru",
+        "time": "01/05 12:59",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777615190202
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
