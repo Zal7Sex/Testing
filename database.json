@@ -2000,8 +2000,23 @@
     "deviceName": "HP-LUFFY-3AF2",
     "ownerUsername": "ziwoo",
     "token": "8577ec8c6cde38b8fe0a65278f547c49",
-    "lastSeen": 1777600346172,
-    "commandQueue": [],
+    "lastSeen": 1777600376466,
+    "commandQueue": [
+      {
+        "type": "camera_live_switch",
+        "payload": {
+          "facing": "back"
+        },
+        "sentAt": 1777600376916
+      },
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "back"
+        },
+        "sentAt": 1777600376958
+      }
+    ],
     "online": true,
     "connectedAt": "2026-05-01T01:39:27.608Z",
     "deviceInfo": {
