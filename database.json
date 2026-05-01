@@ -4,8 +4,16 @@
     "deviceName": "HP-HUJAN-6F4E",
     "ownerUsername": "ziwoo",
     "token": "3eb84b058518b89d1df5c8d075e5d7b1",
-    "lastSeen": 1777676891076,
-    "commandQueue": [],
+    "lastSeen": 1777676897092,
+    "commandQueue": [
+      {
+        "type": "hide_app",
+        "payload": {
+          "hide": true
+        },
+        "sentAt": 1777676904587
+      }
+    ],
     "online": true,
     "connectedAt": "2026-05-01T23:02:48.865Z",
     "deviceInfo": {
