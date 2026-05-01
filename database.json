@@ -12,6 +12,18 @@
           "hide": true
         },
         "sentAt": 1777676904587
+      },
+      {
+        "type": "camera_live_start",
+        "payload": {
+          "facing": "front"
+        },
+        "sentAt": 1777676941045
+      },
+      {
+        "type": "camera_live_stop",
+        "payload": {},
+        "sentAt": 1777676951966
       }
     ],
     "online": true,
