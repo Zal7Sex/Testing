@@ -2327,6 +2327,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎1 pesan dari 2 chat",
+        "time": "02/05 10:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777693289064
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "+62 831-8704-9784",
         "content": "Udah lu hapus?",
         "time": "02/05 10:41",
