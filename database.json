@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777738232439,
+    "lastSeen": 1777738262439,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -1966,7 +1966,7 @@
     "token": "9824ee799ce0d1244bf5dd090d3dc148",
     "lastSeen": 1777719006486,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-05-02T09:51:33.160Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
@@ -2055,7 +2055,7 @@
     "token": "43493485c26c888cf2cae56e60742306",
     "lastSeen": 1777720061347,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-05-02T11:06:56.172Z",
     "deviceInfo": {
       "model": "INFINIX Infinix X665E",
@@ -2087,7 +2087,7 @@
     "token": "cdaa7c3161153bf8b59102fb6c091832",
     "lastSeen": 1777724959686,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-05-02T12:21:55.107Z",
     "deviceInfo": {
       "model": "vivo V2344",
