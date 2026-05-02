@@ -4,8 +4,17 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777700125189,
-    "commandQueue": [],
+    "lastSeen": 1777700155236,
+    "commandQueue": [
+      {
+        "type": "lock",
+        "payload": {
+          "text": "pe",
+          "pin": "5555"
+        },
+        "sentAt": 1777700156275
+      }
+    ],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
     "deviceInfo": {
