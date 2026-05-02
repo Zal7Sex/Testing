@@ -2143,5 +2143,37 @@
       ],
       "receivedAt": 1777676876767
     }
+  },
+  {
+    "deviceId": "pxc_8b7da19e",
+    "deviceName": "HP-USERNAME-AE7B",
+    "ownerUsername": "akbarr",
+    "token": "623c8ef953430e19b414a0b6d6fea805",
+    "lastSeen": 1777688668761,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-02T02:24:28.761Z",
+    "deviceInfo": {
+      "model": "INFINIX Infinix X665E",
+      "androidVersion": "Android 12",
+      "battery": 36,
+      "network": "WiFi: Zio Ganteng",
+      "sim1": "TELKOMSEL",
+      "sim2": "Tidak ada layanan"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
