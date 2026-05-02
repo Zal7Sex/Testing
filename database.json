@@ -5,7 +5,13 @@
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
     "lastSeen": 1777700932108,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "get_gallery",
+        "payload": {},
+        "sentAt": 1777700958297
+      }
+    ],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
     "deviceInfo": {
