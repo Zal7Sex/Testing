@@ -2133,7 +2133,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777755423558,
+    "lastSeen": 1777755426563,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -2157,7 +2157,191 @@
     "lastClipboard": null,
     "lastAudio": null,
     "audioList": [],
-    "lastAppUsage": null,
+    "lastAppUsage": {
+      "apps": [
+        {
+          "packageName": "com.dts.freefiremax",
+          "appName": "Free Fire MAX",
+          "timeMin": 256,
+          "lastUsed": 1777713036631
+        },
+        {
+          "packageName": "com.dts.freefiremax",
+          "appName": "Free Fire MAX",
+          "timeMin": 198,
+          "lastUsed": 1777747817404
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 159,
+          "lastUsed": 1777712438029
+        },
+        {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 122,
+          "lastUsed": 1777754147000
+        },
+        {
+          "packageName": "com.outfit7.herodash",
+          "appName": "Talking Tom Hero Dash",
+          "timeMin": 47,
+          "lastUsed": 1777700801000
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "timeMin": 20,
+          "lastUsed": 1777700668112
+        },
+        {
+          "packageName": "com.whatsapp",
+          "appName": "WhatsApp",
+          "timeMin": 13,
+          "lastUsed": 1777754166682
+        },
+        {
+          "packageName": "com.android.launcher",
+          "appName": "Peluncur Sistem",
+          "timeMin": 8,
+          "lastUsed": 1777712439634
+        },
+        {
+          "packageName": "com.lemon.lvoverseas",
+          "appName": "CapCut",
+          "timeMin": 5,
+          "lastUsed": 1777742824189
+        },
+        {
+          "packageName": "com.android.launcher",
+          "appName": "Peluncur Sistem",
+          "timeMin": 5,
+          "lastUsed": 1777755382718
+        },
+        {
+          "packageName": "com.android.chrome",
+          "appName": "Chrome",
+          "timeMin": 4,
+          "lastUsed": 1777755032699
+        },
+        {
+          "packageName": "com.android.settings",
+          "appName": "Pengaturan",
+          "timeMin": 4,
+          "lastUsed": 1777755411165
+        },
+        {
+          "packageName": "com.oplus.wirelesssettings",
+          "appName": "Pengaturan nirkabel",
+          "timeMin": 1,
+          "lastUsed": 1777740864195
+        },
+        {
+          "packageName": "com.block.juggle",
+          "appName": "Block Blast!",
+          "timeMin": 1,
+          "lastUsed": 1777643542689
+        },
+        {
+          "packageName": "com.google.android.packageinstaller",
+          "appName": "Installer paket",
+          "timeMin": 1,
+          "lastUsed": 1777754959236
+        },
+        {
+          "packageName": "com.google.android.captiveportallogin",
+          "appName": "Login Captive Portal",
+          "timeMin": 1,
+          "lastUsed": 1777711505324
+        },
+        {
+          "packageName": "rikka.appops",
+          "appName": "App Ops",
+          "timeMin": 1,
+          "lastUsed": 1777755132020
+        },
+        {
+          "packageName": "com.oplus.wirelesssettings",
+          "appName": "Pengaturan nirkabel",
+          "timeMin": 1,
+          "lastUsed": 1777711537894
+        },
+        {
+          "packageName": "com.google.android.permissioncontroller",
+          "appName": "Pengontrol izin",
+          "timeMin": 1,
+          "lastUsed": 1777755407118
+        },
+        {
+          "packageName": "com.coloros.alarmclock",
+          "appName": "Jam",
+          "timeMin": 0,
+          "lastUsed": 1777669253753
+        },
+        {
+          "packageName": "com.shopee.id",
+          "appName": "Shopee",
+          "timeMin": 0,
+          "lastUsed": 1777639555271
+        },
+        {
+          "packageName": "com.oplus.safecenter",
+          "appName": "Pusat Keamanan",
+          "timeMin": 0,
+          "lastUsed": 1777755411311
+        },
+        {
+          "packageName": "moe.shizuku.privileged.api",
+          "appName": "Shizuku",
+          "timeMin": 0,
+          "lastUsed": 1777755055902
+        },
+        {
+          "packageName": "com.android.vending",
+          "appName": "Google Play Store",
+          "timeMin": 0,
+          "lastUsed": 1777754805360
+        },
+        {
+          "packageName": "com.google.android.captiveportallogin",
+          "appName": "Login Captive Portal",
+          "timeMin": 0,
+          "lastUsed": 1777731004762
+        },
+        {
+          "packageName": "com.heytap.market",
+          "appName": "App Market",
+          "timeMin": 0,
+          "lastUsed": 1777696940961
+        },
+        {
+          "packageName": "com.heytap.market",
+          "appName": "App Market",
+          "timeMin": 0,
+          "lastUsed": 1777754943884
+        },
+        {
+          "packageName": "com.oplus.stdsp",
+          "appName": "StdSP Core",
+          "timeMin": 0,
+          "lastUsed": 1777754948946
+        },
+        {
+          "packageName": "com.coloros.gallery3d",
+          "appName": "Foto",
+          "timeMin": 0,
+          "lastUsed": 1777653272218
+        },
+        {
+          "packageName": "com.pegasusx.core",
+          "appName": "Bug WhatsApp",
+          "timeMin": 0,
+          "lastUsed": 1777755379012
+        }
+      ],
+      "receivedAt": 1777755427479
+    },
     "appList": null
   }
 ]
