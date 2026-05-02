@@ -2133,28 +2133,8 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777755674086,
+    "lastSeen": 1777755687596,
     "commandQueue": [
-      {
-        "type": "screen_live_stop",
-        "payload": {},
-        "sentAt": 1777755559584
-      },
-      {
-        "type": "screen_live",
-        "payload": {},
-        "sentAt": 1777755562072
-      },
-      {
-        "type": "screen_live_stop",
-        "payload": {},
-        "sentAt": 1777755567970
-      },
-      {
-        "type": "get_clipboard",
-        "payload": {},
-        "sentAt": 1777755570562
-      },
       {
         "type": "get_gps",
         "payload": {},
