@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777717078128,
+    "lastSeen": 1777717087132,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -1964,7 +1964,7 @@
     "deviceName": "TECNO MOBILE LIMITED TECNO LE7",
     "ownerUsername": "Zal7Sex",
     "token": "9824ee799ce0d1244bf5dd090d3dc148",
-    "lastSeen": 1777717079252,
+    "lastSeen": 1777717088261,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T09:51:33.160Z",
@@ -1980,6 +1980,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "",
+        "content": "Messages is doing work in the background",
+        "time": "02/05 17:18",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777717088746
+      },
       {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
