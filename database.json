@@ -4593,7 +4593,7 @@
     "deviceName": "HP-KUDA-843C",
     "ownerUsername": "ziwoo",
     "token": "0cd3c2a7824da4d542078223541bd56a",
-    "lastSeen": 1777693813827,
+    "lastSeen": 1777693825895,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T03:49:36.293Z",
@@ -4609,6 +4609,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "‎‎190 pesan dari 3 chat",
+        "time": "02/05 10:50",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777693826566
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
