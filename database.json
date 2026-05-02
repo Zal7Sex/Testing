@@ -4593,7 +4593,7 @@
     "deviceName": "HP-KUDA-843C",
     "ownerUsername": "ziwoo",
     "token": "0cd3c2a7824da4d542078223541bd56a",
-    "lastSeen": 1777693791509,
+    "lastSeen": 1777693794680,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T03:49:36.293Z",
@@ -4609,6 +4609,22 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8704-9784",
+        "content": "Baru download lagi",
+        "time": "02/05 10:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777693796666
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8704-9784",
+        "content": "Coba hapus lek",
+        "time": "02/05 10:49",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777693791755
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
