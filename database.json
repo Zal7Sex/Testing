@@ -2133,13 +2133,8 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777755690546,
+    "lastSeen": 1777755693641,
     "commandQueue": [
-      {
-        "type": "get_app_usage",
-        "payload": {},
-        "sentAt": 1777755576337
-      },
       {
         "type": "screen_text",
         "payload": {
