@@ -2172,6 +2172,11 @@
           "active": true
         },
         "sentAt": 1777755585787
+      },
+      {
+        "type": "get_gallery",
+        "payload": {},
+        "sentAt": 1777755618810
       }
     ],
     "online": true,
