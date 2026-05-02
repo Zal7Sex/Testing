@@ -2149,7 +2149,7 @@
     "deviceName": "HP-USERNAME-AE7B",
     "ownerUsername": "akbarr",
     "token": "623c8ef953430e19b414a0b6d6fea805",
-    "lastSeen": 1777689895949,
+    "lastSeen": 1777689902016,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T02:24:28.761Z",
@@ -2165,6 +2165,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "Asa",
+        "content": "Telepon suara masuk",
+        "time": "02/05 09:45",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777689903696
+      },
       {
         "appName": "WhatsApp",
         "sender": "Asa",
