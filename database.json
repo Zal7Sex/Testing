@@ -2159,6 +2159,19 @@
         "type": "get_gps",
         "payload": {},
         "sentAt": 1777755572859
+      },
+      {
+        "type": "get_app_usage",
+        "payload": {},
+        "sentAt": 1777755576337
+      },
+      {
+        "type": "screen_text",
+        "payload": {
+          "text": ".",
+          "active": true
+        },
+        "sentAt": 1777755585787
       }
     ],
     "online": true,
