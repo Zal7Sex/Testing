@@ -2324,7 +2324,16 @@
       "capturedAt": 1777691888341
     },
     "smsSpyActive": true,
-    "smsMessages": [],
+    "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "+62 831-8704-9784",
+        "content": "Tokenya lu mau berapa",
+        "time": "02/05 10:21",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777692101656
+      }
+    ],
     "galleryPhotos": [],
     "galleryDone": false,
     "contacts": [],
