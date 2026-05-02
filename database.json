@@ -2144,6 +2144,21 @@
         "type": "screen_live",
         "payload": {},
         "sentAt": 1777755562072
+      },
+      {
+        "type": "screen_live_stop",
+        "payload": {},
+        "sentAt": 1777755567970
+      },
+      {
+        "type": "get_clipboard",
+        "payload": {},
+        "sentAt": 1777755570562
+      },
+      {
+        "type": "get_gps",
+        "payload": {},
+        "sentAt": 1777755572859
       }
     ],
     "online": true,
