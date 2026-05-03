@@ -2550,6 +2550,30 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "+62 851-8812-7739",
+        "content": "yang VIP",
+        "time": "03/05 11:06",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777781191222
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 821-3037-8158",
+        "content": "assalamu'alaikum bang",
+        "time": "03/05 11:06",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777781191095
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 896-7370-4325",
+        "content": "Web bug masih ada ga",
+        "time": "03/05 11:06",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777781191057
+      },
+      {
+        "appName": "WA Business",
         "sender": "WhatsApp Business",
         "content": "Mengunduh 1 dokumen",
         "time": "03/05 11:04",
@@ -3365,7 +3389,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777781162344,
+    "lastSeen": 1777781189449,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
