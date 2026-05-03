@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777781044924,
+    "lastSeen": 1777781074753,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2550,6 +2550,30 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "WhatsApp Business",
+        "content": "Mengunduh 1 dokumen",
+        "time": "03/05 11:04",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777781049863
+      },
+      {
+        "appName": "WA Business",
+        "sender": "Mengunduh 1 video",
+        "content": "dari Call Me Zal7Sex",
+        "time": "03/05 11:04",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777781049631
+      },
+      {
+        "appName": "WA Business",
+        "sender": "Mengunduh 1 video",
+        "content": "dari Call Me Zal7Sex",
+        "time": "03/05 11:04",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777781048718
+      },
+      {
+        "appName": "WA Business",
         "sender": "Mengunduh 1 video",
         "content": "dari Call Me Zal7Sex",
         "time": "03/05 11:04",
@@ -3341,7 +3365,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777781045182,
+    "lastSeen": 1777781072210,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
