@@ -2551,6 +2551,14 @@
       {
         "appName": "Telegram",
         "sender": "Damxzk stecu",
+        "content": "Oke",
+        "time": "03/05 11:15",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777781755040
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Damxzk stecu",
         "content": "Ouh",
         "time": "03/05 11:15",
         "pkg": "org.telegram.messenger",
@@ -3613,7 +3621,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777781751024,
+    "lastSeen": 1777781763017,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
