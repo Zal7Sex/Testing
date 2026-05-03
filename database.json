@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777781446883,
+    "lastSeen": 1777781458449,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2550,6 +2550,14 @@
     "smsMessages": [
       {
         "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎8 pesan dari 4 chat",
+        "time": "03/05 11:10",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777781448337
+      },
+      {
+        "appName": "WA Business",
         "sender": "+62 889-9189-1934",
         "content": "🙏🏻",
         "time": "03/05 11:10",
@@ -3549,7 +3557,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777781447653,
+    "lastSeen": 1777781462671,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
