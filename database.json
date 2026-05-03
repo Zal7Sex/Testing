@@ -54,6 +54,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "Restu",
+        "content": "💟 Stiker",
+        "time": "03/05 08:57",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777773476062
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Tegar Adi",
         "content": "Jancok ngko su",
         "time": "03/05 08:49",
@@ -2341,7 +2349,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777773452379,
+    "lastSeen": 1777773473388,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
