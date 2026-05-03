@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777787373445,
+    "lastSeen": 1777787398489,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -4053,7 +4053,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777787373488,
+    "lastSeen": 1777787403522,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -4757,7 +4757,7 @@
           "packageName": "com.whatsapp",
           "appName": "WhatsApp",
           "timeMin": 13,
-          "lastUsed": 1777755724741
+          "lastUsed": 1777787396964
         },
         {
           "packageName": "com.android.launcher",
@@ -4898,7 +4898,7 @@
           "lastUsed": 1777653272218
         }
       ],
-      "receivedAt": 1777787281913
+      "receivedAt": 1777787404048
     },
     "appList": {
       "apps": [
