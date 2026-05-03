@@ -54,6 +54,14 @@
     "smsMessages": [
       {
         "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
+        "time": "03/05 09:04",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777773852616
+      },
+      {
+        "appName": "WhatsApp",
         "sender": "Restu",
         "content": "💟 Stiker",
         "time": "03/05 09:03",
@@ -2453,7 +2461,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777773842876,
+    "lastSeen": 1777773851479,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
