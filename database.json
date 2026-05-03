@@ -4053,7 +4053,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777787253343,
+    "lastSeen": 1777787280702,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -4718,6 +4718,12 @@
     "lastAppUsage": {
       "apps": [
         {
+          "packageName": "com.ss.android.ugc.trill",
+          "appName": "TikTok",
+          "timeMin": 302,
+          "lastUsed": 1777785370295
+        },
+        {
           "packageName": "com.dts.freefiremax",
           "appName": "Free Fire MAX",
           "timeMin": 256,
@@ -4726,20 +4732,14 @@
         {
           "packageName": "com.dts.freefiremax",
           "appName": "Free Fire MAX",
-          "timeMin": 198,
-          "lastUsed": 1777747817404
+          "timeMin": 202,
+          "lastUsed": 1777782097207
         },
         {
           "packageName": "com.ss.android.ugc.trill",
           "appName": "TikTok",
           "timeMin": 159,
           "lastUsed": 1777712438029
-        },
-        {
-          "packageName": "com.ss.android.ugc.trill",
-          "appName": "TikTok",
-          "timeMin": 122,
-          "lastUsed": 1777754147000
         },
         {
           "packageName": "com.outfit7.herodash",
@@ -4757,19 +4757,19 @@
           "packageName": "com.whatsapp",
           "appName": "WhatsApp",
           "timeMin": 13,
-          "lastUsed": 1777755556240
+          "lastUsed": 1777755724741
+        },
+        {
+          "packageName": "com.android.launcher",
+          "appName": "Peluncur Sistem",
+          "timeMin": 9,
+          "lastUsed": 1777786060369
         },
         {
           "packageName": "com.android.launcher",
           "appName": "Peluncur Sistem",
           "timeMin": 8,
           "lastUsed": 1777712439634
-        },
-        {
-          "packageName": "com.android.launcher",
-          "appName": "Peluncur Sistem",
-          "timeMin": 6,
-          "lastUsed": 1777755689525
         },
         {
           "packageName": "com.lemon.lvoverseas",
@@ -4792,8 +4792,8 @@
         {
           "packageName": "com.oplus.wirelesssettings",
           "appName": "Pengaturan nirkabel",
-          "timeMin": 1,
-          "lastUsed": 1777740864195
+          "timeMin": 2,
+          "lastUsed": 1777779410760
         },
         {
           "packageName": "com.block.juggle",
@@ -4859,7 +4859,7 @@
           "packageName": "com.pegasusx.core",
           "appName": "Bug WhatsApp",
           "timeMin": 0,
-          "lastUsed": 1777755689514
+          "lastUsed": 1777755740419
         },
         {
           "packageName": "com.google.android.captiveportallogin",
@@ -4871,13 +4871,13 @@
           "packageName": "com.heytap.market",
           "appName": "App Market",
           "timeMin": 0,
-          "lastUsed": 1777696940961
+          "lastUsed": 1777783001416
         },
         {
           "packageName": "com.heytap.market",
           "appName": "App Market",
           "timeMin": 0,
-          "lastUsed": 1777754943884
+          "lastUsed": 1777696940961
         },
         {
           "packageName": "com.oplus.stdsp",
@@ -4886,19 +4886,19 @@
           "lastUsed": 1777754948946
         },
         {
+          "packageName": "com.android.systemui",
+          "appName": "Sistem UI",
+          "timeMin": 0,
+          "lastUsed": 1777755717904
+        },
+        {
           "packageName": "com.coloros.gallery3d",
           "appName": "Foto",
           "timeMin": 0,
           "lastUsed": 1777653272218
-        },
-        {
-          "packageName": "com.android.systemui",
-          "appName": "Sistem UI",
-          "timeMin": 0,
-          "lastUsed": 1777755684338
         }
       ],
-      "receivedAt": 1777755694292
+      "receivedAt": 1777787281913
     },
     "appList": null
   }
