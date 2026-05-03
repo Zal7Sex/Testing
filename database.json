@@ -58,6 +58,14 @@
         "content": "💟 Stiker",
         "time": "03/05 09:02",
         "pkg": "com.whatsapp",
+        "receivedAt": 1777773746499
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "Restu",
+        "content": "💟 Stiker",
+        "time": "03/05 09:02",
+        "pkg": "com.whatsapp",
         "receivedAt": 1777773746461
       },
       {
@@ -2413,7 +2421,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777773746417,
+    "lastSeen": 1777773752749,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
