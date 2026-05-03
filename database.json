@@ -56,6 +56,14 @@
         "appName": "WhatsApp",
         "sender": "WhatsApp",
         "content": "Memeriksa pesan baru",
+        "time": "03/05 16:53",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777801990993
+      },
+      {
+        "appName": "WhatsApp",
+        "sender": "WhatsApp",
+        "content": "Memeriksa pesan baru",
         "time": "03/05 16:47",
         "pkg": "com.whatsapp",
         "receivedAt": 1777801638838
@@ -4373,7 +4381,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777801985161,
+    "lastSeen": 1777801990179,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
