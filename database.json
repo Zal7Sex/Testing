@@ -4,7 +4,7 @@
     "deviceName": "HP-ABLO-F55F",
     "ownerUsername": "Zarr",
     "token": "7055f57f74cb7eef5034e3301d747b14",
-    "lastSeen": 1777782963730,
+    "lastSeen": 1777782990822,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T05:33:28.300Z",
@@ -2559,6 +2559,14 @@
       {
         "appName": "Telegram",
         "sender": "Damxzk stecu",
+        "content": "😒 Stiker",
+        "time": "03/05 11:36",
+        "pkg": "org.telegram.messenger",
+        "receivedAt": 1777782991501
+      },
+      {
+        "appName": "Telegram",
+        "sender": "Damxzk stecu",
         "content": "Zip apa",
         "time": "03/05 11:32",
         "pkg": "org.telegram.messenger",
@@ -3933,7 +3941,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777782964527,
+    "lastSeen": 1777782991438,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
