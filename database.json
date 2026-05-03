@@ -2551,6 +2551,14 @@
       {
         "appName": "WA Business",
         "sender": "WA Business",
+        "content": "‎‎5 pesan dari 3 chat",
+        "time": "03/05 11:06",
+        "pkg": "com.whatsapp.w4b",
+        "receivedAt": 1777781198704
+      },
+      {
+        "appName": "WA Business",
+        "sender": "WA Business",
         "content": "‎‎6 pesan dari 4 chat",
         "time": "03/05 11:06",
         "pkg": "com.whatsapp.w4b",
@@ -3405,7 +3413,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777781192386,
+    "lastSeen": 1777781198469,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
